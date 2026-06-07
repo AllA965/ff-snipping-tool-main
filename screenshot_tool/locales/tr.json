@@ -1,0 +1,5586 @@
+{
+  "core_cloud_storage": {
+    "l0174": {
+      "02": {
+        "授权成功": "Yetkilendirme başarılı"
+      }
+    },
+    "l0179": {
+      "04": {
+        "授权失败_str_e": "Yetkilendirme başarısız: {str(e)}"
+      }
+    },
+    "l0215": {
+      "05": {
+        "未授权": "Yetkisiz"
+      }
+    },
+    "l0244": {
+      "07": {
+        "上传失败_str_e": "Yükleme başarısız: {str(e)}"
+      }
+    },
+    "l0262": {
+      "08": {
+        "创建上传会话失败": "Yükleme oturumu oluşturulamadı"
+      }
+    },
+    "l0290": {
+      "10": {
+        "上传成功": "Yükleme başarılı"
+      }
+    },
+    "l0383": {
+      "11": {
+        "授权成功": "Yetkilendirme başarılı"
+      }
+    },
+    "l0385": {
+      "12": {
+        "授权失败": "Yetkilendirme başarısız"
+      }
+    },
+    "l0390": {
+      "14": {
+        "授权失败_str_e": "Yetkilendirme başarısız: {str(e)}"
+      }
+    },
+    "l0400": {
+      "15": {
+        "未授权": "Yetkisiz"
+      }
+    },
+    "l0428": {
+      "16": {
+        "预上传失败_result": "Ön yükleme başarısız: {result}"
+      }
+    },
+    "l0466": {
+      "17": {
+        "上传成功_remote_path_fil": "Yükleme başarılı: {remote_path}/{filename}"
+      }
+    },
+    "l0468": {
+      "18": {
+        "创建文件失败_result": "Dosya oluşturulamadı: {result}"
+      }
+    },
+    "l0471": {
+      "19": {
+        "上传失败_str_e": "Yükleme başarısız: {str(e)}"
+      }
+    }
+  },
+  "core_ftp_manager": {
+    "l0067": {
+      "01": {
+        "正在连接服务器": "Sunucuya bağlanılıyor..."
+      }
+    },
+    "l0071": {
+      "02": {
+        "上传已取消": "Yükleme iptal edildi"
+      }
+    },
+    "l0074": {
+      "03": {
+        "正在上传文件": "Dosya yükleniyor..."
+      }
+    },
+    "l0078": {
+      "04": {
+        "上传成功": "Yükleme başarılı"
+      }
+    },
+    "l0081": {
+      "05": {
+        "权限错误_e": "İzin hatası: {e}"
+      }
+    },
+    "l0083": {
+      "06": {
+        "临时错误_e": "Geçici hata: {e}"
+      }
+    },
+    "l0085": {
+      "07": {
+        "连接被拒绝_请检查服务器地址和端口": "Bağlantı reddedildi, lütfen sunucu adresini ve bağlantı noktasını kontrol edin"
+      }
+    },
+    "l0087": {
+      "08": {
+        "连接超时": "Bağlantı zaman aşımına uğradı"
+      }
+    },
+    "l0089": {
+      "09": {
+        "上传失败_str_e": "Yükleme başarısız: {str(e)}"
+      }
+    },
+    "l0154": {
+      "10": {
+        "断点续传_从_rest_position_字": "Yükleme devam ettiriliyor, {rest_position} bayttan başlanıyor..."
+      }
+    },
+    "l0160": {
+      "11": {
+        "上传已取消": "Yükleme iptal edildi"
+      }
+    },
+    "l0214": {
+      "12": {
+        "连接成功": "Bağlantı başarılı"
+      }
+    },
+    "l0216": {
+      "13": {
+        "认证失败_e": "Kimlik doğrulama başarısız: {e}"
+      }
+    },
+    "l0218": {
+      "14": {
+        "连接被拒绝": "Bağlantı reddedildi"
+      }
+    },
+    "l0220": {
+      "15": {
+        "连接超时": "Bağlantı zaman aşımına uğradı"
+      }
+    },
+    "l0222": {
+      "16": {
+        "连接失败_str_e": "Bağlantı başarısız: {str(e)}"
+      }
+    }
+  },
+  "core_hotkey_manager": {
+    "l0111": {
+      "03": {
+        "无效的快捷键": "Geçersiz kısayol tuşu"
+      }
+    },
+    "l0123": {
+      "05": {
+        "注册成功": "Başarıyla kaydedildi"
+      }
+    },
+    "l0126": {
+      "06": {
+        "快捷键可能被其他程序占用": "Kısayol tuşu başka bir program tarafından kullanılıyor olabilir"
+      },
+      "07": {
+        "错误代码_error_code": "Hata kodu: {error_code}"
+      }
+    },
+    "l0176": {
+      "11": {
+        "全屏截图": "Tam ekran görüntüsü"
+      }
+    },
+    "l0177": {
+      "12": {
+        "矩形截图": "Dikdörtgen ekran görüntüsü"
+      }
+    },
+    "l0178": {
+      "13": {
+        "窗口控件截图": "Pencere/denetim ekran görüntüsü"
+      }
+    },
+    "l0179": {
+      "14": {
+        "取色器": "Renk seçici"
+      }
+    },
+    "l0180": {
+      "15": {
+        "重复截取": "Yinelenen yakalama"
+      }
+    },
+    "l0181": {
+      "16": {
+        "白板": "Beyaz tahta"
+      }
+    },
+    "l0182": {
+      "17": {
+        "智能粘贴": "Akıllı yapıştır"
+      }
+    },
+    "l0183": {
+      "18": {
+        "屏幕录制": "Ekran kaydı"
+      }
+    },
+    "l0288": {
+      "19": {
+        "准备注册快捷键_name_hotke": "Kısayol tuşu kaydına hazırlanılıyor: {name} = {hotkeys_config[name]}"
+      }
+    },
+    "l0300": {
+      "20": {
+        "快捷键监听线程已启动": "Kısayol dinleyici iş parçacığı başlatıldı"
+      }
+    },
+    "l0308": {
+      "21": {
+        "快捷键_display_name_注册成": "Kısayol tuşu [{display_name}] başarıyla kaydedildi"
+      }
+    },
+    "l0310": {
+      "22": {
+        "快捷键_display_name_注册失": "Kısayol tuşu [{display_name}] kaydı başarısız: {message}"
+      }
+    },
+    "l0322": {
+      "23": {
+        "快捷键与_conflict_冲突": "Kısayol tuşu [{conflict}] ile çakışıyor"
+      }
+    },
+    "l0332": {
+      "24": {
+        "已禁用": "Devre dışı"
+      }
+    },
+    "l0335": {
+      "25": {
+        "无效的快捷键格式": "Geçersiz kısayol tuşu biçimi"
+      }
+    },
+    "l0345": {
+      "26": {
+        "未知的快捷键名称": "Bilinmeyen kısayol tuşu adı"
+      }
+    },
+    "l0354": {
+      "27": {
+        "快捷键_name_已更新为_hotke": "Kısayol tuşu [{name}] {hotkey_str} olarak güncellendi"
+      }
+    },
+    "l0355": {
+      "28": {
+        "更新成功": "Başarıyla güncellendi"
+      }
+    },
+    "l0357": {
+      "29": {
+        "快捷键服务未运行": "Kısayol tuşu hizmeti çalışmıyor"
+      }
+    },
+    "l0370": {
+      "30": {
+        "快捷键_name_已移除": "Kısayol tuşu [{name}] kaldırıldı"
+      }
+    },
+    "l0375": {
+      "31": {
+        "快捷键触发_name": "Kısayol tuşu tetiklendi: {name}"
+      }
+    },
+    "l0397": {
+      "32": {
+        "正在注销所有快捷键": "Tüm kısayol tuşlarının kaydı kaldırılıyor..."
+      }
+    },
+    "l0401": {
+      "33": {
+        "所有快捷键已注销": "Tüm kısayol tuşlarının kaydı kaldırıldı"
+      }
+    },
+    "l0405": {
+      "34": {
+        "重新加载快捷键配置": "Kısayol tuşu yapılandırması yeniden yükleniyor..."
+      }
+    }
+  },
+  "core_kunqiong_login": {
+    "l0177": {
+      "04": {
+        "无法连接到登录服务器": "Giriş sunucusuna bağlanılamıyor"
+      }
+    },
+    "l0189": {
+      "05": {
+        "无法打开系统浏览器": "Sistem tarayıcısı açılamıyor"
+      }
+    },
+    "l0192": {
+      "06": {
+        "启动浏览器失败_e": "Tarayıcı başlatılamadı: {e}"
+      }
+    },
+    "l0199": {
+      "07": {
+        "登录超时": "Giriş zaman aşımına uğradı"
+      }
+    },
+    "l0224": {
+      "08": {
+        "获取用户信息失败": "Kullanıcı bilgileri alınamadı"
+      }
+    }
+  },
+  "core_ocr_engine": {
+    "l0035": {
+      "01": {
+        "rapidocr_onnxruntime_未安装": "rapidocr_onnxruntime yüklü değil, yerel OCR özellikleri kullanılamıyor"
+      }
+    }
+  },
+  "core_office_export": {
+    "l0106": {
+      "01": {
+        "截图内容": "Ekran görüntüsü içeriği"
+      }
+    },
+    "l0134": {
+      "02": {
+        "需要安装_python_docx_库_pip": "python-docx kütüphanesi gerekli: pip install python-docx"
+      }
+    },
+    "l0136": {
+      "03": {
+        "导出失败_str_e": "Dışa aktarma başarısız: {str(e)}"
+      }
+    },
+    "l0149": {
+      "04": {
+        "截图": "Ekran görüntüsü"
+      }
+    },
+    "l0179": {
+      "05": {
+        "需要安装_openpyxl_库_pip_ins": "openpyxl kütüphanesi gerekli: pip install openpyxl"
+      }
+    },
+    "l0181": {
+      "06": {
+        "导出失败_str_e": "Dışa aktarma başarısız: {str(e)}"
+      }
+    },
+    "l0238": {
+      "07": {
+        "需要安装_python_pptx_库_pip": "python-pptx kütüphanesi gerekli: pip install python-pptx"
+      }
+    },
+    "l0240": {
+      "08": {
+        "导出失败_str_e": "Dışa aktarma başarısız: {str(e)}"
+      }
+    },
+    "l0256": {
+      "09": {
+        "发送失败_str_e": "Gönderme başarısız: {str(e)}"
+      }
+    },
+    "l0298": {
+      "10": {
+        "发送失败_str_e": "Gönderme başarısız: {str(e)}"
+      }
+    },
+    "l0327": {
+      "11": {
+        "未找到GIMP程序": "GIMP uygulaması bulunamadı"
+      }
+    },
+    "l0330": {
+      "12": {
+        "发送失败_str_e": "Gönderme başarısız: {str(e)}"
+      }
+    }
+  },
+  "core_share_manager": {
+    "l0147": {
+      "01": {
+        "准备中": "Hazırlanıyor..."
+      }
+    },
+    "l0180": {
+      "02": {
+        "分享任务_task_share_type_va": "Paylaşım görevi {task.share_type.value}"
+      }
+    },
+    "l0192": {
+      "03": {
+        "正在导出到Word": "Word'e dışa aktarılıyor..."
+      }
+    },
+    "l0198": {
+      "04": {
+        "已导出到Word": "Word'e dışa aktarıldı"
+      }
+    },
+    "l0209": {
+      "05": {
+        "正在导出到Excel": "Excel'e dışa aktarılıyor..."
+      }
+    },
+    "l0215": {
+      "06": {
+        "已导出到Excel": "Excel'e dışa aktarıldı"
+      }
+    },
+    "l0226": {
+      "07": {
+        "正在导出到PowerPoint": "PowerPoint'e dışa aktarılıyor..."
+      }
+    },
+    "l0232": {
+      "08": {
+        "已导出到PowerPoint": "PowerPoint'e dışa aktarıldı"
+      }
+    },
+    "l0247": {
+      "09": {
+        "已发送到画图": "Paint'e gönderildi"
+      }
+    },
+    "l0262": {
+      "10": {
+        "已发送到Photoshop": "Photoshop'a gönderildi"
+      }
+    },
+    "l0277": {
+      "11": {
+        "已发送到GIMP": "GIMP'e gönderildi"
+      }
+    },
+    "l0295": {
+      "12": {
+        "未找到服务器配置_server_name": "Sunucu yapılandırması bulunamadı: {server_name}"
+      }
+    },
+    "l0321": {
+      "13": {
+        "正在上传": "Yükleniyor..."
+      }
+    },
+    "l0331": {
+      "14": {
+        "上传中_uploaded_total": "Yükleniyor... {uploaded}/{total} bayt"
+      }
+    },
+    "l0339": {
+      "15": {
+        "上传成功": "Yükleme başarılı"
+      }
+    },
+    "l0434": {
+      "16": {
+        "请先授权OneDrive账号": "Lütfen önce OneDrive hesabınızı yetkilendirin"
+      }
+    },
+    "l0454": {
+      "17": {
+        "正在上传": "Yükleniyor..."
+      }
+    },
+    "l0469": {
+      "18": {
+        "请先授权百度网盘账号": "Lütfen önce Baidu Netdisk hesabınızı yetkilendirin"
+      }
+    },
+    "l0484": {
+      "19": {
+        "正在上传": "Yükleniyor..."
+      }
+    }
+  },
+  "core_social_share": {
+    "l0099": {
+      "01": {
+        "Applications_企业微信_app": "/Applications/WeCom.app"
+      }
+    },
+    "l0116": {
+      "02": {
+        "分享内容_date_str": "Paylaşılan içerik-{date_str}"
+      }
+    },
+    "l0125": {
+      "03": {
+        "请查看附件中的截图内容": "Lütfen ekteki ekran görüntüsü içeriğini kontrol edin."
+      }
+    },
+    "l0128": {
+      "04": {
+        "已打开邮件客户端": "E-posta istemcisi açıldı"
+      }
+    },
+    "l0134": {
+      "05": {
+        "已打开邮件客户端_请手动添加附件_temp": "E-posta istemcisi açıldı, lütfen eki manuel olarak ekleyin: {temp_file}"
+      }
+    },
+    "l0138": {
+      "06": {
+        "tell_application_Mail": "tell application \"Mail\"\n                    set newMessage to make new outgoing message with properties {subject:\"{subject}\", content:\"Lütfen ekteki ekran görüntüsü içeriğini kontrol edin.\"}\n                    tell newMessage\n                        make new attachment with properties {file name:POSIX file \"{temp_file}\"}\n                    end tell\n                    activate\n                end tell"
+      }
+    },
+    "l0148": {
+      "07": {
+        "已打开邮件客户端": "E-posta istemcisi açıldı"
+      }
+    },
+    "l0153": {
+      "08": {
+        "已打开邮件客户端": "E-posta istemcisi açıldı"
+      }
+    },
+    "l0156": {
+      "09": {
+        "打开邮件客户端失败_str_e": "E-posta istemcisi açılamadı: {str(e)}"
+      }
+    },
+    "l0177": {
+      "10": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Panoya kopyalandı ve WeChat açıldı, lütfen sohbet penceresine yapıştırın (Ctrl+V)"
+      }
+    },
+    "l0181": {
+      "11": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Panoya kopyalandı ve WeChat açıldı, lütfen sohbet penceresine yapıştırın (Cmd+V)"
+      }
+    },
+    "l0183": {
+      "12": {
+        "已复制到剪贴板_请手动打开微信并粘贴": "Panoya kopyalandı, lütfen WeChat'i manuel olarak açıp yapıştırın"
+      }
+    },
+    "l0186": {
+      "13": {
+        "分享失败_str_e": "Paylaşım başarısız: {str(e)}"
+      }
+    },
+    "l0206": {
+      "14": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Panoya kopyalandı ve QQ açıldı, lütfen sohbet penceresine yapıştırın (Ctrl+V)"
+      }
+    },
+    "l0210": {
+      "15": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Panoya kopyalandı ve QQ açıldı, lütfen sohbet penceresine yapıştırın (Cmd+V)"
+      }
+    },
+    "l0212": {
+      "16": {
+        "已复制到剪贴板_请手动打开QQ并粘贴": "Panoya kopyalandı, lütfen QQ'yu manuel olarak açıp yapıştırın"
+      }
+    },
+    "l0215": {
+      "17": {
+        "分享失败_str_e": "Paylaşım başarısız: {str(e)}"
+      }
+    },
+    "l0233": {
+      "18": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Panoya kopyalandı ve DingTalk açıldı, lütfen sohbet penceresine yapıştırın"
+      }
+    },
+    "l0237": {
+      "19": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Panoya kopyalandı ve DingTalk açıldı, lütfen sohbet penceresine yapıştırın"
+      }
+    },
+    "l0239": {
+      "20": {
+        "已复制到剪贴板_请手动打开钉钉并粘贴": "Panoya kopyalandı, lütfen DingTalk'ı manuel olarak açıp yapıştırın"
+      }
+    },
+    "l0242": {
+      "21": {
+        "分享失败_str_e": "Paylaşım başarısız: {str(e)}"
+      }
+    },
+    "l0260": {
+      "22": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Panoya kopyalandı ve WeCom açıldı, lütfen sohbet penceresine yapıştırın"
+      }
+    },
+    "l0263": {
+      "23": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0264": {
+      "24": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Panoya kopyalandı ve WeCom açıldı, lütfen sohbet penceresine yapıştırın"
+      }
+    },
+    "l0266": {
+      "25": {
+        "已复制到剪贴板_请手动打开企业微信并粘贴": "Panoya kopyalandı, lütfen WeCom'u manuel olarak açıp yapıştırın"
+      }
+    },
+    "l0269": {
+      "26": {
+        "分享失败_str_e": "Paylaşım başarısız: {str(e)}"
+      }
+    },
+    "l0282": {
+      "27": {
+        "已复制到剪贴板": "Panoya kopyalandı"
+      }
+    },
+    "l0284": {
+      "28": {
+        "复制失败_str_e": "Kopyalama başarısız: {str(e)}"
+      }
+    },
+    "l0340": {
+      "29": {
+        "上传失败_response_status_c": "Yükleme başarısız: {response.status_code}"
+      }
+    },
+    "l0343": {
+      "30": {
+        "上传失败_str_e": "Yükleme başarısız: {str(e)}"
+      }
+    }
+  },
+  "core_tray_manager": {
+    "l0019": {
+      "01": {
+        "截图贴图工具": "Ekran Görüntüsü Sabitleme Aracı"
+      }
+    },
+    "l0069": {
+      "05": {
+        "全屏截图": "Tam ekran görüntüsü"
+      }
+    },
+    "l0070": {
+      "06": {
+        "区域截图": "Bölge ekran görüntüsü"
+      }
+    },
+    "l0071": {
+      "07": {
+        "窗口截图": "Pencere ekran görüntüsü"
+      }
+    },
+    "l0075": {
+      "08": {
+        "取色器": "Renk seçici"
+      }
+    },
+    "l0076": {
+      "09": {
+        "屏幕录制": "Ekran kaydı"
+      }
+    },
+    "l0080": {
+      "10": {
+        "显示主窗口": "Ana pencereyi göster"
+      }
+    },
+    "l0081": {
+      "11": {
+        "设置": "Ayarlar"
+      }
+    },
+    "l0083": {
+      "12": {
+        "退出": "Çıkış"
+      }
+    }
+  },
+  "core_update_manager": {
+    "l0040": {
+      "01": {
+        "服务器返回数据格式错误": "Sunucudan dönen veri biçimi geçersiz"
+      }
+    },
+    "l0042": {
+      "02": {
+        "服务器响应错误_response_statu": "Sunucu yanıt hatası: {response.status_code}"
+      }
+    },
+    "l0044": {
+      "03": {
+        "网络连接失败_str_e": "Ağ bağlantısı başarısız: {str(e)}"
+      }
+    },
+    "l0068": {
+      "04": {
+        "检查更新": "Güncellemeleri denetle"
+      },
+      "05": {
+        "当前已是最新版本": "Zaten en son sürümü kullanıyorsunuz"
+      }
+    },
+    "l0074": {
+      "06": {
+        "检查失败": "Denetim başarısız"
+      },
+      "07": {
+        "获取版本信息失败": "Sürüm bilgisi alınamadı"
+      }
+    },
+    "l0083": {
+      "08": {
+        "发现新版本_remote_version": "Yeni sürüm bulundu: {remote_version}\n\n{data.get('update_log', 'No update log')}"
+      },
+      "09": {
+        "无更新日志": "Güncelleme günlüğü yok"
+      }
+    },
+    "l0086": {
+      "10": {
+        "强制更新_msg": "[Zorunlu Güncelleme]\n{msg}"
+      }
+    },
+    "l0087": {
+      "11": {
+        "必须更新": "Güncelleme gerekli"
+      },
+      "12": {
+        "立即更新": "Şimdi güncelle"
+      }
+    },
+    "l0092": {
+      "13": {
+        "发现新版本": "Yeni sürüm bulundu"
+      }
+    },
+    "l0094": {
+      "14": {
+        "立即更新": "Şimdi güncelle"
+      }
+    },
+    "l0095": {
+      "15": {
+        "稍后": "Daha sonra"
+      }
+    },
+    "l0104": {
+      "16": {
+        "检查失败": "Denetim başarısız"
+      },
+      "17": {
+        "检查更新出错_error_msg": "Güncellemeler denetlenirken hata oluştu:\n{error_msg}"
+      }
+    },
+    "l0125": {
+      "18": {
+        "未找到更新程序_updater_exe": "Güncelleyici bulunamadı: {updater_exe}"
+      }
+    },
+    "l0152": {
+      "19": {
+        "更新失败": "Güncelleme başarısız"
+      },
+      "20": {
+        "无法启动更新程序_str_e": "Güncelleyici başlatılamıyor:\n{str(e)}"
+      }
+    }
+  },
+  "main": {
+    "l0057": {
+      "01": {
+        "错误": "Hata"
+      },
+      "02": {
+        "程序发生错误_str_value": "Program hatası oluştu:\n{str(value)}"
+      }
+    },
+    "l0069": {
+      "03": {
+        "提示": "Bildirim"
+      },
+      "04": {
+        "程序已在运行中_请勿重复启动": "Program zaten çalışıyor. Lütfen tekrar başlatmayın."
+      }
+    },
+    "l0084": {
+      "05": {
+        "截图贴图工具": "Ekran Görüntüsü Sabitleme Aracı"
+      }
+    },
+    "l0086": {
+      "06": {
+        "鲲穹AI": "Kunqiong AI"
+      }
+    },
+    "l0138": {
+      "07": {
+        "启动错误": "Başlatma hatası"
+      },
+      "08": {
+        "程序启动失败_str_e": "Program başlatılamadı:\n{str(e)}"
+      }
+    }
+  },
+  "tools_crosshair": {
+    "l0081": {
+      "01": {
+        "当前_X_self_cursor_pos_x": "Geçerli: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0084": {
+      "02": {
+        "锁定_X_self_cursor_pos": "🔒 Kilitli: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0092": {
+      "03": {
+        "点_i_1_ΔX_sign_x_dx": "Nokta{i + 1}: ΔX={sign_x}{dx}  ΔY={sign_y}{dy}"
+      }
+    },
+    "l0095": {
+      "04": {
+        "Space_锁定_L_添加对比点_C_清": "Space=Kilitle | L=Karşılaştırma noktası ekle | C=Temizle | ESC=Çıkış"
+      }
+    },
+    "l0266": {
+      "05": {
+        "解除锁定": "Kilidi kaldır"
+      },
+      "06": {
+        "锁定当前坐标": "Geçerli koordinatları kilitle"
+      }
+    },
+    "l0270": {
+      "07": {
+        "添加对比点": "Karşılaştırma noktası ekle"
+      }
+    },
+    "l0274": {
+      "08": {
+        "清除所有对比点": "Tüm karşılaştırma noktalarını temizle"
+      }
+    },
+    "l0280": {
+      "09": {
+        "关闭": "Kapat"
+      }
+    }
+  },
+  "tools_magnifier": {
+    "l0024": {
+      "01": {
+        "放大镜": "Büyüteç"
+      }
+    },
+    "l0085": {
+      "02": {
+        "放大镜": "Büyüteç"
+      }
+    },
+    "l0158": {
+      "03": {
+        "按下_Esc_键退出": "Çıkmak için Esc tuşuna basın"
+      }
+    }
+  },
+  "tools_palette": {
+    "l0167": {
+      "01": {
+        "调色板": "Palet"
+      }
+    },
+    "l0261": {
+      "02": {
+        "主题颜色": "Tema renkleri"
+      }
+    },
+    "l0273": {
+      "03": {
+        "标准颜色": "Standart renkler"
+      }
+    },
+    "l0286": {
+      "04": {
+        "自定义颜色": "Özel renkler"
+      }
+    },
+    "l0316": {
+      "05": {
+        "取色器_P": "🔍 Renk Seçici (P)"
+      }
+    },
+    "l0416": {
+      "06": {
+        "添加到自定义颜色": "✨ Özel renklere ekle"
+      }
+    },
+    "l0442": {
+      "07": {
+        "复制": "📋 Kopyala"
+      }
+    },
+    "l0457": {
+      "08": {
+        "取消": "İptal"
+      }
+    },
+    "l0463": {
+      "09": {
+        "确定": "Tamam"
+      }
+    },
+    "l0611": {
+      "10": {
+        "已复制_text": "Kopyalandı: {text}"
+      }
+    },
+    "l0681": {
+      "11": {
+        "选择颜色": "Renk seç"
+      }
+    },
+    "l0716": {
+      "12": {
+        "已复制_color_name_upper": "Kopyalandı: {color.name().upper()}"
+      }
+    }
+  },
+  "tools_protractor": {
+    "l0048": {
+      "01": {
+        "量角器": "Açıölçer"
+      }
+    },
+    "l0216": {
+      "02": {
+        "锁定_self_angle_lock": "Kilitli: {self.angle_lock}°"
+      }
+    },
+    "l0240": {
+      "03": {
+        "拖动绿点移动中心": "Merkezi taşımak için yeşil noktayı sürükleyin"
+      }
+    },
+    "l0241": {
+      "04": {
+        "拖动红_蓝点调整角度": "Açıyı ayarlamak için kırmızı/mavi noktaları sürükleyin"
+      }
+    },
+    "l0242": {
+      "05": {
+        "L键切换角度锁定": "Açı kilidini açıp kapatmak için L tuşuna basın"
+      }
+    },
+    "l0243": {
+      "06": {
+        "S键保存测量": "Ölçümü kaydetmek için S tuşuna basın"
+      }
+    },
+    "l0244": {
+      "07": {
+        "E键导出CSV": "CSV olarak dışa aktarmak için E tuşuna basın"
+      }
+    },
+    "l0245": {
+      "08": {
+        "右键菜单_ESC退出": "Sağ tık menüsü | Çıkmak için ESC"
+      }
+    },
+    "l0335": {
+      "09": {
+        "保存当前测量": "Geçerli ölçümü kaydet"
+      }
+    },
+    "l0339": {
+      "10": {
+        "导出测量记录_CSV": "Ölçüm kayıtlarını dışa aktar (CSV)"
+      }
+    },
+    "l0345": {
+      "11": {
+        "禁用_if_self_lock_enabl": "{'Disable' if self.lock_enabled else 'Enable'} angle lock ({self.angle_lock}°)"
+      },
+      "12": {
+        "禁用": "Devre dışı bırak"
+      },
+      "13": {
+        "启用": "Etkinleştir"
+      }
+    },
+    "l0351": {
+      "14": {
+        "关闭": "Kapat"
+      }
+    },
+    "l0383": {
+      "15": {
+        "导出测量记录": "Ölçüm kayıtlarını dışa aktar"
+      }
+    },
+    "l0385": {
+      "16": {
+        "CSV文件_csv": "CSV dosyaları (*.csv)"
+      }
+    },
+    "l0391": {
+      "17": {
+        "时间": "Zaman"
+      },
+      "18": {
+        "测量角度": "Ölçülen açı"
+      },
+      "19": {
+        "起始角度": "Başlangıç açısı"
+      },
+      "20": {
+        "终止角度": "Bitiş açısı"
+      },
+      "21": {
+        "中心点X": "Merkez X"
+      },
+      "22": {
+        "中心点Y": "Merkez Y"
+      }
+    }
+  },
+  "tools_ruler": {
+    "l0019": {
+      "01": {
+        "默认_黄色": "Varsayılan (Sarı)"
+      }
+    },
+    "l0026": {
+      "02": {
+        "蓝色": "Mavi"
+      }
+    },
+    "l0033": {
+      "03": {
+        "白色": "Beyaz"
+      }
+    },
+    "l0040": {
+      "04": {
+        "黑色": "Siyah"
+      }
+    },
+    "l0065": {
+      "05": {
+        "像素_px": "Piksel (px)"
+      }
+    },
+    "l0066": {
+      "06": {
+        "英寸_in": "İnç (in)"
+      }
+    },
+    "l0067": {
+      "07": {
+        "厘米_cm": "Santimetre (cm)"
+      }
+    },
+    "l0280": {
+      "08": {
+        "像素尺": "Piksel Cetveli"
+      }
+    },
+    "l0352": {
+      "09": {
+        "DPI_self_dpi_单位_R": "DPI: {self.dpi} | Birim: {RulerUnit.UNITS[self.unit]['name']} | Opaklık: %{int(self.opacity * 100)}"
+      }
+    },
+    "l0359": {
+      "10": {
+        "右键菜单_滚轮调透明度_双击关闭": "Sağ tık menüsü | Opaklığı ayarlamak için fare tekerleği | Kapatmak için çift tık"
+      }
+    },
+    "l0585": {
+      "11": {
+        "单位": "📏 Birimler"
+      }
+    },
+    "l0605": {
+      "12": {
+        "配色": "🎨 Renk şeması"
+      }
+    },
+    "l0621": {
+      "13": {
+        "透明度": "Opaklık:"
+      }
+    },
+    "l0641": {
+      "14": {
+        "重置大小": "↺ Boyutu Sıfırla"
+      }
+    },
+    "l0646": {
+      "15": {
+        "关闭": "✕ Kapat"
+      }
+    }
+  },
+  "tools_screen_recorder": {
+    "l0142": {
+      "01": {
+        "屏幕录制器": "Ekran Kaydedici"
+      }
+    },
+    "l0196": {
+      "02": {
+        "屏幕录制": "Ekran Kaydı"
+      }
+    },
+    "l0223": {
+      "03": {
+        "已录制时间": "Kaydedilen Süre"
+      }
+    },
+    "l0253": {
+      "04": {
+        "开始录制": "Kaydı Başlat"
+      }
+    },
+    "l0260": {
+      "05": {
+        "暂停": "Duraklat"
+      }
+    },
+    "l0278": {
+      "06": {
+        "更改路径": "Yolu Değiştir"
+      }
+    },
+    "l0336": {
+      "07": {
+        "停止录制": "⏹ Kaydı Durdur"
+      }
+    },
+    "l0356": {
+      "08": {
+        "开始录制": "⏺ Kaydı Başlat"
+      }
+    },
+    "l0361": {
+      "09": {
+        "暂停": "⏸ Duraklat"
+      }
+    },
+    "l0370": {
+      "10": {
+        "继续": "▶ Devam Et"
+      }
+    },
+    "l0376": {
+      "11": {
+        "暂停": "⏸ Duraklat"
+      }
+    },
+    "l0407": {
+      "12": {
+        "选择保存目录": "Kayıt Dizini Seç"
+      }
+    }
+  },
+  "tools_whiteboard": {
+    "l0841": {
+      "01": {
+        "白板": "Beyaz Tahta"
+      }
+    },
+    "l0935": {
+      "02": {
+        "画笔": "Fırça"
+      }
+    },
+    "l0936": {
+      "03": {
+        "荧光笔": "Vurgulayıcı"
+      }
+    },
+    "l0937": {
+      "04": {
+        "直线": "Çizgi"
+      }
+    },
+    "l0938": {
+      "05": {
+        "矩形": "Dikdörtgen"
+      }
+    },
+    "l0939": {
+      "06": {
+        "填充矩形": "Dolu Dikdörtgen"
+      }
+    },
+    "l0940": {
+      "07": {
+        "椭圆": "Elips"
+      }
+    },
+    "l0941": {
+      "08": {
+        "箭头": "Ok"
+      }
+    },
+    "l0942": {
+      "09": {
+        "文字": "Metin"
+      }
+    },
+    "l0957": {
+      "10": {
+        "橡皮擦": "Silgi"
+      }
+    },
+    "l1001": {
+      "11": {
+        "更多颜色": "Daha Fazla Renk..."
+      }
+    },
+    "l1040": {
+      "12": {
+        "透明": "Şeffaf"
+      }
+    },
+    "l1041": {
+      "13": {
+        "白色": "Beyaz"
+      }
+    },
+    "l1042": {
+      "14": {
+        "黑色": "Siyah"
+      }
+    },
+    "l1047": {
+      "15": {
+        "tooltip_背景": "{tooltip}Arka Plan"
+      }
+    },
+    "l1061": {
+      "16": {
+        "撤销": "Geri Al"
+      }
+    },
+    "l1067": {
+      "17": {
+        "清空": "Temizle"
+      }
+    },
+    "l1080": {
+      "18": {
+        "缩小工具栏": "Araç Çubuğunu Daralt"
+      }
+    },
+    "l1086": {
+      "19": {
+        "保存": "Kaydet"
+      }
+    },
+    "l1102": {
+      "20": {
+        "退出": "Çık"
+      }
+    },
+    "l1145": {
+      "21": {
+        "对象擦除": "Nesne Silme"
+      }
+    },
+    "l1151": {
+      "22": {
+        "局部擦除": "Kısmi Silme"
+      }
+    },
+    "l1163": {
+      "23": {
+        "大小": "Boyut:"
+      }
+    },
+    "l1214": {
+      "24": {
+        "调色板": "Renk Paleti"
+      }
+    },
+    "l1228": {
+      "25": {
+        "缩小工具栏": "Araç Çubuğunu Daralt"
+      }
+    },
+    "l1243": {
+      "26": {
+        "展开白板": "Beyaz Tahtayı Genişlet"
+      }
+    },
+    "l1250": {
+      "27": {
+        "保存白板": "Beyaz Tahtayı Kaydet"
+      }
+    },
+    "l1252": {
+      "28": {
+        "PNG图像_png_PDF文件": "PNG Görseli (*.png);;PDF Dosyası (*.pdf)"
+      }
+    },
+    "l1259": {
+      "29": {
+        "已保存_os_path_basename_f": "Kaydedildi: {os.path.basename(file_path)}"
+      }
+    },
+    "l1272": {
+      "30": {
+        "保存失败": "Kaydetme Başarısız"
+      },
+      "31": {
+        "无法保存PDF_str_e": "PDF kaydedilemedi: {str(e)}"
+      }
+    }
+  },
+  "ui_ad_widget": {
+    "l0080": {
+      "02": {
+        "点击查看详情": "Detayları görmek için tıklayın"
+      }
+    }
+  },
+  "ui_clipboard_history": {
+    "l0081": {
+      "01": {
+        "剪贴板历史": "Pano Geçmişi"
+      }
+    },
+    "l0087": {
+      "02": {
+        "清空": "Temizle"
+      }
+    },
+    "l0118": {
+      "03": {
+        "暂无历史记录_复制图像后会自动记录": "Henüz geçmiş yok\nKopyalanan görseller otomatik olarak kaydedilecektir"
+      }
+    },
+    "l0161": {
+      "04": {
+        "确认清空": "Temizlemeyi Onayla"
+      }
+    },
+    "l0162": {
+      "05": {
+        "确定要清空所有剪贴板历史记录吗": "Tüm pano geçmişini temizlemek istediğinizden emin misiniz?"
+      }
+    },
+    "l0163": {
+      "06": {
+        "确定": "Onayla"
+      },
+      "07": {
+        "取消": "İptal"
+      }
+    },
+    "l0178": {
+      "08": {
+        "剪贴板历史": "Pano Geçmişi"
+      }
+    }
+  },
+  "ui_control_capture": {
+    "l0148": {
+      "01": {
+        "按钮": "Düğme"
+      },
+      "02": {
+        "复选框": "Onay Kutusu"
+      },
+      "03": {
+        "下拉框": "Açılır Liste"
+      }
+    },
+    "l0149": {
+      "04": {
+        "编辑框": "Düzenleme Kutusu"
+      },
+      "05": {
+        "列表": "Liste"
+      },
+      "06": {
+        "文本": "Metin"
+      }
+    },
+    "l0150": {
+      "07": {
+        "窗口": "Pencere"
+      },
+      "08": {
+        "窗格": "Bölme"
+      }
+    },
+    "l0152": {
+      "09": {
+        "控件": "Denetim"
+      }
+    },
+    "l0224": {
+      "10": {
+        "按钮": "Düğme"
+      }
+    },
+    "l0225": {
+      "11": {
+        "日历": "Takvim"
+      }
+    },
+    "l0226": {
+      "12": {
+        "复选框": "Onay Kutusu"
+      }
+    },
+    "l0227": {
+      "13": {
+        "下拉框": "Açılır Liste"
+      }
+    },
+    "l0228": {
+      "14": {
+        "编辑框": "Düzenleme Kutusu"
+      }
+    },
+    "l0229": {
+      "15": {
+        "超链接": "Köprü"
+      }
+    },
+    "l0230": {
+      "16": {
+        "图像": "Görsel"
+      }
+    },
+    "l0231": {
+      "17": {
+        "列表项": "Liste Öğesi"
+      }
+    },
+    "l0232": {
+      "18": {
+        "列表": "Liste"
+      }
+    },
+    "l0233": {
+      "19": {
+        "菜单": "Menü"
+      }
+    },
+    "l0234": {
+      "20": {
+        "菜单栏": "Menü Çubuğu"
+      }
+    },
+    "l0235": {
+      "21": {
+        "菜单项": "Menü Öğesi"
+      }
+    },
+    "l0236": {
+      "22": {
+        "进度条": "İlerleme Çubuğu"
+      }
+    },
+    "l0237": {
+      "23": {
+        "单选按钮": "Radyo Düğmesi"
+      }
+    },
+    "l0238": {
+      "24": {
+        "滚动条": "Kaydırma Çubuğu"
+      }
+    },
+    "l0239": {
+      "25": {
+        "滑块": "Kaydırıcı"
+      }
+    },
+    "l0240": {
+      "26": {
+        "微调框": "Spin Kutusu"
+      }
+    },
+    "l0241": {
+      "27": {
+        "状态栏": "Durum Çubuğu"
+      }
+    },
+    "l0242": {
+      "28": {
+        "标签页": "Sekme"
+      }
+    },
+    "l0243": {
+      "29": {
+        "标签项": "Sekme Öğesi"
+      }
+    },
+    "l0244": {
+      "30": {
+        "文本": "Metin"
+      }
+    },
+    "l0245": {
+      "31": {
+        "工具栏": "Araç Çubuğu"
+      }
+    },
+    "l0246": {
+      "32": {
+        "工具提示": "Araç İpucu"
+      }
+    },
+    "l0247": {
+      "33": {
+        "树形视图": "Ağaç Görünümü"
+      }
+    },
+    "l0248": {
+      "34": {
+        "树形项": "Ağaç Öğesi"
+      }
+    },
+    "l0249": {
+      "35": {
+        "自定义": "Özel"
+      }
+    },
+    "l0250": {
+      "36": {
+        "组": "Grup"
+      }
+    },
+    "l0251": {
+      "37": {
+        "缩略图": "Küçük Resim"
+      }
+    },
+    "l0252": {
+      "38": {
+        "数据网格": "Veri Izgarası"
+      }
+    },
+    "l0253": {
+      "39": {
+        "数据项": "Veri Öğesi"
+      }
+    },
+    "l0254": {
+      "40": {
+        "文档": "Belge"
+      }
+    },
+    "l0255": {
+      "41": {
+        "分隔条": "Ayırıcı"
+      }
+    },
+    "l0256": {
+      "42": {
+        "窗口": "Pencere"
+      }
+    },
+    "l0257": {
+      "43": {
+        "窗格": "Bölme"
+      }
+    },
+    "l0258": {
+      "44": {
+        "表头": "Başlık"
+      }
+    },
+    "l0259": {
+      "45": {
+        "表头项": "Başlık Öğesi"
+      }
+    },
+    "l0260": {
+      "46": {
+        "表格": "Tablo"
+      }
+    },
+    "l0261": {
+      "47": {
+        "标题栏": "Başlık Çubuğu"
+      }
+    },
+    "l0262": {
+      "48": {
+        "语义缩放": "Semantik Yakınlaştırma"
+      }
+    },
+    "l0264": {
+      "49": {
+        "控件_control_type": "Denetim ({control_type})"
+      }
+    },
+    "l0391": {
+      "50": {
+        "控件": "Denetim"
+      }
+    },
+    "l0398": {
+      "51": {
+        "移动鼠标选择目标": "Hedef seçmek için fareyi hareket ettirin"
+      }
+    },
+    "l0399": {
+      "52": {
+        "点击截取": "Yakalamak için tıklayın"
+      }
+    },
+    "l0400": {
+      "53": {
+        "Ctrl_点击滚动截取": "Kaydırmalı yakalama için Ctrl+Tıkla"
+      }
+    },
+    "l0401": {
+      "54": {
+        "滚轮_切换层级": "Seviyeler arasında geçiş için fare tekerleği ↑↓"
+      }
+    },
+    "l0402": {
+      "55": {
+        "ESC取消": "İptal etmek için ESC"
+      }
+    },
+    "l0521": {
+      "56": {
+        "未找到窗口": "Pencere bulunamadı"
+      }
+    },
+    "l0841": {
+      "57": {
+        "未识别到控件": "Denetim algılanmadı"
+      }
+    },
+    "l0896": {
+      "58": {
+        "未识别": "Tanınmadı"
+      }
+    },
+    "l0908": {
+      "59": {
+        "窗口_层级_1_total": "🪟 Pencere (Seviye 1/{total})"
+      }
+    },
+    "l0923": {
+      "60": {
+        "type_name_层级_level": "🎯 {type_name} (Seviye {level}/{total})"
+      }
+    },
+    "l0925": {
+      "61": {
+        "控件_层级_level_total": "🎯 Denetim (Seviye {level}/{total})"
+      }
+    },
+    "l0969": {
+      "62": {
+        "未识别到控件": "Denetim algılanmadı"
+      }
+    },
+    "l0977": {
+      "63": {
+        "窗口无效": "Geçersiz pencere"
+      }
+    },
+    "l0985": {
+      "64": {
+        "无法获取位置": "Konum alınamadı"
+      }
+    },
+    "l1000": {
+      "65": {
+        "尺寸无效": "Geçersiz boyut"
+      }
+    },
+    "l1021": {
+      "66": {
+        "窗口_title_滚轮_进入子控件": "Pencere: {title} | Alt denetimlere girmek için fare tekerleği↓ | Yakalamak için tıklayın | Kaydırmalı yakalama için Ctrl+Tıkla"
+      }
+    },
+    "l1023": {
+      "67": {
+        "窗口_滚轮_进入子控件_点击截取_C": "Pencere | Alt denetimlere girmek için fare tekerleği↓ | Yakalamak için tıklayın | Kaydırmalı yakalama için Ctrl+Tıkla"
+      }
+    },
+    "l1025": {
+      "68": {
+        "控件": "Denetim"
+      }
+    },
+    "l1028": {
+      "69": {
+        "type_info_滚轮_切换层级": "{type_info} | Seviyeler arasında geçiş için fare tekerleği↑↓ | Yakalamak için tıklayın | Kaydırmalı yakalama için Ctrl+Tıkla"
+      }
+    },
+    "l1057": {
+      "70": {
+        "按钮": "Düğme"
+      }
+    },
+    "l1058": {
+      "71": {
+        "输入框": "Giriş Kutusu"
+      }
+    },
+    "l1059": {
+      "72": {
+        "富文本框": "Zengin Metin Kutusu"
+      }
+    },
+    "l1060": {
+      "73": {
+        "下拉框": "Açılır Liste"
+      }
+    },
+    "l1061": {
+      "74": {
+        "列表框": "Liste Kutusu"
+      }
+    },
+    "l1062": {
+      "75": {
+        "列表视图": "Liste Görünümü"
+      }
+    },
+    "l1063": {
+      "76": {
+        "列表视图": "Liste Görünümü"
+      }
+    },
+    "l1064": {
+      "77": {
+        "树形视图": "Ağaç Görünümü"
+      }
+    },
+    "l1065": {
+      "78": {
+        "树形视图": "Ağaç Görünümü"
+      }
+    },
+    "l1066": {
+      "79": {
+        "数据表格": "Veri Tablosu"
+      }
+    },
+    "l1067": {
+      "80": {
+        "滚动条": "Kaydırma Çubuğu"
+      }
+    },
+    "l1068": {
+      "81": {
+        "静态文本": "Sabit Metin"
+      }
+    },
+    "l1069": {
+      "82": {
+        "标签页": "Sekme"
+      }
+    },
+    "l1070": {
+      "83": {
+        "标签页": "Sekme"
+      }
+    },
+    "l1071": {
+      "84": {
+        "工具栏": "Araç Çubuğu"
+      }
+    },
+    "l1072": {
+      "85": {
+        "状态栏": "Durum Çubuğu"
+      }
+    },
+    "l1073": {
+      "86": {
+        "状态栏": "Durum Çubuğu"
+      }
+    },
+    "l1074": {
+      "87": {
+        "菜单": "Menü"
+      }
+    },
+    "l1075": {
+      "88": {
+        "提示框": "Araç İpucu"
+      }
+    },
+    "l1076": {
+      "89": {
+        "进度条": "İlerleme Çubuğu"
+      }
+    },
+    "l1077": {
+      "90": {
+        "进度条": "İlerleme Çubuğu"
+      }
+    },
+    "l1078": {
+      "91": {
+        "滑块": "Kaydırıcı"
+      }
+    },
+    "l1079": {
+      "92": {
+        "滑块": "Kaydırıcı"
+      }
+    },
+    "l1080": {
+      "93": {
+        "微调按钮": "Spin Düğmesi"
+      }
+    },
+    "l1081": {
+      "94": {
+        "微调按钮": "Spin Düğmesi"
+      }
+    },
+    "l1082": {
+      "95": {
+        "表头": "Başlık"
+      }
+    },
+    "l1083": {
+      "96": {
+        "表头": "Başlık"
+      }
+    },
+    "l1084": {
+      "97": {
+        "工具条": "Araç Şeridi"
+      }
+    },
+    "l1085": {
+      "98": {
+        "工具条": "Araç Şeridi"
+      }
+    },
+    "l1086": {
+      "99": {
+        "文件视图": "Dosya Görünümü"
+      }
+    },
+    "l1088": {
+      "100": {
+        "浏览器": "Tarayıcı"
+      }
+    },
+    "l1089": {
+      "101": {
+        "浏览器": "Tarayıcı"
+      }
+    }
+  },
+  "ui_editor_panels": {
+    "l0060": {
+      "01": {
+        "画质特效": "🎨 Görüntü Efektleri"
+      }
+    },
+    "l0071": {
+      "02": {
+        "模糊": "🌫 Bulanıklık"
+      }
+    },
+    "l0072": {
+      "03": {
+        "锐化": "🔍 Keskinleştir"
+      }
+    },
+    "l0073": {
+      "04": {
+        "像素化": "▦ Pikselleştir"
+      }
+    },
+    "l0074": {
+      "05": {
+        "浮雕": "🗻 Kabartma"
+      }
+    },
+    "l0075": {
+      "06": {
+        "噪点": "✨ Gürültü"
+      }
+    },
+    "l0086": {
+      "07": {
+        "特效强度": "Efekt Gücü:"
+      }
+    },
+    "l0106": {
+      "08": {
+        "撤销": "↩ Geri Al"
+      }
+    },
+    "l0110": {
+      "09": {
+        "重置": "↺ Sıfırla"
+      }
+    },
+    "l0184": {
+      "10": {
+        "色彩调整": "🔆 Renk Ayarı"
+      }
+    },
+    "l0196": {
+      "11": {
+        "亮度": "☀ Parlaklık:"
+      }
+    },
+    "l0217": {
+      "12": {
+        "对比度": "◐ Kontrast:"
+      }
+    },
+    "l0238": {
+      "13": {
+        "饱和度": "🎨 Doygunluk:"
+      }
+    },
+    "l0260": {
+      "14": {
+        "重置": "↺ Sıfırla"
+      }
+    },
+    "l0264": {
+      "15": {
+        "应用": "✓ Uygula"
+      }
+    }
+  },
+  "ui_editor_window": {
+    "l0077": {
+      "01": {
+        "图像编辑器_PyScreenshot": "Görüntü Düzenleyici - PyScreenshot"
+      }
+    },
+    "l0098": {
+      "02": {
+        "QLabel_font_size_13px": "QLabel {\n                font-size: 13px;\n            }\n            QScrollBar:vertical {\n                background: transparent;\n                width: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:vertical {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-height: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:vertical:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar:horizontal {\n                background: transparent;\n                height: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:horizontal {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-width: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:horizontal:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar::add-line, QScrollBar::sub-line {\n                background: none;\n                border: none;\n            }\n            \n            /* Sidebar dock widget styling */\n            QDockWidget {\n                border: none;\n                background: #ffffff;\n            }\n            QDockWidget::title {\n                background: #f8f9fa;\n                padding: 10px 15px;\n                border-bottom: 1px solid #eaeaea;\n                font-weight: 600;\n                color: #333;\n            }"
+      }
+    },
+    "l0202": {
+      "03": {
+        "新建图像": "Yeni Görüntü"
+      }
+    },
+    "l0246": {
+      "04": {
+        "尺寸_s_width_s_heigh": "Boyut: {s.width()}×{s.height()} | {tab_data.title}"
+      }
+    },
+    "l0360": {
+      "05": {
+        "文件": "Dosya"
+      },
+      "06": {
+        "编辑": "Düzen"
+      },
+      "07": {
+        "绘图": "Çizim"
+      },
+      "08": {
+        "特效": "Efektler"
+      }
+    },
+    "l0361": {
+      "09": {
+        "文件": "Dosya"
+      },
+      "10": {
+        "编辑": "Düzen"
+      },
+      "11": {
+        "绘图": "Çizim"
+      },
+      "12": {
+        "特效": "Efektler"
+      }
+    },
+    "l0413": {
+      "13": {
+        "编辑": "Düzen"
+      }
+    },
+    "l0421": {
+      "14": {
+        "文件": "Dosya"
+      },
+      "15": {
+        "编辑": "Düzen"
+      },
+      "16": {
+        "绘图": "Çizim"
+      },
+      "17": {
+        "特效": "Efektler"
+      }
+    },
+    "l0458": {
+      "18": {
+        "返回": "Geri"
+      }
+    },
+    "l0461": {
+      "19": {
+        "返回": "Geri"
+      },
+      "20": {
+        "返回主页面": "Ana Sayfaya Dön"
+      }
+    },
+    "l0468": {
+      "21": {
+        "文件": "Dosya"
+      }
+    },
+    "l0471": {
+      "22": {
+        "新建": "Yeni"
+      },
+      "23": {
+        "新建图像": "Yeni Görüntü"
+      }
+    },
+    "l0475": {
+      "24": {
+        "打开": "Aç"
+      },
+      "25": {
+        "打开文件": "Dosya Aç"
+      }
+    },
+    "l0479": {
+      "26": {
+        "保存": "Kaydet"
+      },
+      "27": {
+        "保存_Ctrl_S": "Kaydet Ctrl+S"
+      }
+    },
+    "l0483": {
+      "28": {
+        "另存为": "Farklı Kaydet"
+      }
+    },
+    "l0490": {
+      "29": {
+        "分享": "Paylaş"
+      }
+    },
+    "l0493": {
+      "30": {
+        "分享": "Paylaş"
+      },
+      "31": {
+        "分享到": "Şuraya paylaş..."
+      }
+    },
+    "l0497": {
+      "32": {
+        "导出": "Dışa Aktar"
+      },
+      "33": {
+        "批量导出所有标签页": "Tüm sekmeleri toplu dışa aktar"
+      }
+    },
+    "l0504": {
+      "34": {
+        "打印": "Yazdır"
+      }
+    },
+    "l0507": {
+      "35": {
+        "打印": "Yazdır"
+      },
+      "36": {
+        "打印_Ctrl_P": "Yazdır Ctrl+P"
+      }
+    },
+    "l0514": {
+      "37": {
+        "操作": "İşlemler"
+      }
+    },
+    "l0517": {
+      "38": {
+        "撤销": "Geri Al"
+      },
+      "39": {
+        "撤销上一步操作": "Önceki işlemi geri al"
+      }
+    },
+    "l0521": {
+      "40": {
+        "重置": "Sıfırla"
+      },
+      "41": {
+        "重置为原始图像": "Orijinal görüntüye sıfırla"
+      }
+    },
+    "l0533": {
+      "42": {
+        "打开图像": "Görüntü Aç"
+      }
+    },
+    "l0534": {
+      "43": {
+        "图像文件_png_jpg_jpeg": "Görüntü Dosyaları (*.png *.jpg *.jpeg *.bmp *.gif);;Tüm Dosyalar (*.*)"
+      }
+    },
+    "l0541": {
+      "44": {
+        "错误": "Hata"
+      },
+      "45": {
+        "无法打开该图像文件": "Bu görüntü dosyası açılamıyor"
+      }
+    },
+    "l0553": {
+      "46": {
+        "历史": "Geçmiş"
+      }
+    },
+    "l0556": {
+      "47": {
+        "撤销": "Geri Al"
+      },
+      "48": {
+        "撤销_Ctrl_Z": "Geri Al Ctrl+Z"
+      }
+    },
+    "l0560": {
+      "49": {
+        "重置": "Sıfırla"
+      },
+      "50": {
+        "重置到原图_移除所有编辑": "Orijinal görüntüye sıfırla (tüm düzenlemeleri kaldır)"
+      }
+    },
+    "l0567": {
+      "51": {
+        "剪贴板": "Pano"
+      }
+    },
+    "l0570": {
+      "52": {
+        "复制": "Kopyala"
+      },
+      "53": {
+        "复制_Ctrl_C": "Kopyala Ctrl+C"
+      }
+    },
+    "l0574": {
+      "54": {
+        "粘贴": "Yapıştır"
+      },
+      "55": {
+        "粘贴_Ctrl_V": "Yapıştır Ctrl+V"
+      }
+    },
+    "l0581": {
+      "56": {
+        "变换": "Dönüştür"
+      }
+    },
+    "l0584": {
+      "57": {
+        "左旋": "Sola Döndür"
+      },
+      "58": {
+        "左旋90度": "90° Sola Döndür"
+      }
+    },
+    "l0588": {
+      "59": {
+        "右旋": "Sağa Döndür"
+      },
+      "60": {
+        "右旋90度": "90° Sağa Döndür"
+      }
+    },
+    "l0592": {
+      "61": {
+        "水平翻": "Yatay Çevir"
+      },
+      "62": {
+        "水平翻转": "Yatay Olarak Çevir"
+      }
+    },
+    "l0596": {
+      "63": {
+        "垂直翻": "Dikey Çevir"
+      },
+      "64": {
+        "垂直翻转": "Dikey Olarak Çevir"
+      }
+    },
+    "l0603": {
+      "65": {
+        "裁剪": "Kırp"
+      }
+    },
+    "l0606": {
+      "66": {
+        "裁剪": "Kırp"
+      },
+      "67": {
+        "裁剪图像": "Görüntüyü Kırp"
+      }
+    },
+    "l0613": {
+      "68": {
+        "文字识别": "Metin Tanıma"
+      }
+    },
+    "l0616": {
+      "69": {
+        "识别文字": "Metni Tanı"
+      },
+      "70": {
+        "识别裁剪区域文字并复制": "Kırpılmış alandaki metni tanı ve kopyala"
+      }
+    },
+    "l0635": {
+      "71": {
+        "选择": "Seç"
+      }
+    },
+    "l0640": {
+      "72": {
+        "移动": "Taşı"
+      },
+      "73": {
+        "移动工具": "Taşıma Aracı"
+      }
+    },
+    "l0648": {
+      "74": {
+        "画笔": "Fırça"
+      }
+    },
+    "l0652": {
+      "75": {
+        "画笔": "Fırça"
+      }
+    },
+    "l0653": {
+      "76": {
+        "荧光笔": "Vurgulayıcı"
+      }
+    },
+    "l0663": {
+      "77": {
+        "橡皮擦": "Silgi"
+      }
+    },
+    "l0677": {
+      "78": {
+        "形状": "Şekiller"
+      }
+    },
+    "l0681": {
+      "79": {
+        "箭头": "Ok"
+      }
+    },
+    "l0682": {
+      "80": {
+        "直线": "Çizgi"
+      }
+    },
+    "l0683": {
+      "81": {
+        "矩形": "Dikdörtgen"
+      },
+      "82": {
+        "空心矩形": "Boş Dikdörtgen"
+      }
+    },
+    "l0684": {
+      "83": {
+        "实心矩形": "Dolu Dikdörtgen"
+      },
+      "84": {
+        "填充矩形": "Dolgu Dikdörtgen"
+      }
+    },
+    "l0685": {
+      "85": {
+        "椭圆": "Elips"
+      },
+      "86": {
+        "空心椭圆": "Boş Elips"
+      }
+    },
+    "l0686": {
+      "87": {
+        "实心椭圆": "Dolu Elips"
+      },
+      "88": {
+        "填充椭圆": "Dolgu Elips"
+      }
+    },
+    "l0698": {
+      "89": {
+        "文字": "Metin"
+      }
+    },
+    "l0701": {
+      "90": {
+        "文字": "Metin"
+      },
+      "91": {
+        "添加文字": "Metin Ekle"
+      }
+    },
+    "l0709": {
+      "92": {
+        "大小": "Boyut"
+      }
+    },
+    "l0714": {
+      "93": {
+        "宽度": "Genişlik:"
+      }
+    },
+    "l0723": {
+      "94": {
+        "字号": "Yazı Boyutu:"
+      }
+    },
+    "l0735": {
+      "95": {
+        "颜色": "Renk"
+      }
+    },
+    "l0742": {
+      "96": {
+        "当前颜色_点击选择": "Geçerli renk - seçmek için tıklayın"
+      }
+    },
+    "l0759": {
+      "97": {
+        "历史": "Geçmiş"
+      }
+    },
+    "l0762": {
+      "98": {
+        "撤销": "Geri Al"
+      },
+      "99": {
+        "撤销_Ctrl_Z": "Geri Al Ctrl+Z"
+      }
+    },
+    "l0766": {
+      "100": {
+        "重置": "Sıfırla"
+      },
+      "101": {
+        "重置绘图_移除所有编辑": "Çizimi sıfırla (tüm düzenlemeleri kaldır)"
+      }
+    },
+    "l0798": {
+      "102": {
+        "对象擦除": "Nesne Silme"
+      }
+    },
+    "l0804": {
+      "103": {
+        "局部擦除": "Kısmi Silme"
+      }
+    },
+    "l0816": {
+      "104": {
+        "大小": "Boyut:"
+      }
+    },
+    "l0872": {
+      "105": {
+        "画质特效": "Görüntü Efektleri"
+      }
+    },
+    "l0875": {
+      "106": {
+        "模糊": "Bulanıklaştır"
+      },
+      "107": {
+        "模糊效果": "Bulanıklaştırma Efekti"
+      }
+    },
+    "l0879": {
+      "108": {
+        "锐化": "Keskinleştir"
+      },
+      "109": {
+        "锐化效果": "Keskinleştirme Efekti"
+      }
+    },
+    "l0883": {
+      "110": {
+        "像素化": "Pikselleştir"
+      },
+      "111": {
+        "像素化效果": "Pikselleştirme Efekti"
+      }
+    },
+    "l0887": {
+      "112": {
+        "浮雕": "Kabartma"
+      },
+      "113": {
+        "浮雕效果": "Kabartma Efekti"
+      }
+    },
+    "l0891": {
+      "114": {
+        "噪点": "Parazit"
+      },
+      "115": {
+        "添加噪点": "Parazit Ekle"
+      }
+    },
+    "l0898": {
+      "116": {
+        "局部特效": "Yerel Efektler"
+      }
+    },
+    "l0901": {
+      "117": {
+        "模糊笔刷": "Bulanıklaştırma Fırçası"
+      },
+      "118": {
+        "局部模糊": "Yerel Bulanıklaştırma"
+      }
+    },
+    "l0907": {
+      "119": {
+        "马赛克": "Mozaik"
+      },
+      "120": {
+        "局部马赛克": "Yerel Mozaik"
+      }
+    },
+    "l0916": {
+      "121": {
+        "面板": "Panel"
+      }
+    },
+    "l0919": {
+      "122": {
+        "色彩": "Renk"
+      },
+      "123": {
+        "打开色彩调整面板": "Renk ayarlama panelini aç"
+      }
+    },
+    "l0923": {
+      "124": {
+        "特效": "Efektler"
+      },
+      "125": {
+        "打开特效面板": "Efekt panelini aç"
+      }
+    },
+    "l0930": {
+      "126": {
+        "历史": "Geçmiş"
+      }
+    },
+    "l0933": {
+      "127": {
+        "撤销": "Geri Al"
+      },
+      "128": {
+        "撤销_Ctrl_Z": "Geri Al Ctrl+Z"
+      }
+    },
+    "l0937": {
+      "129": {
+        "重置": "Sıfırla"
+      },
+      "130": {
+        "重置特效": "Efektleri sıfırla"
+      }
+    },
+    "l0963": {
+      "131": {
+        "已应用_effect_特效": "✓ {effect} efekti uygulandı"
+      }
+    },
+    "l0965": {
+      "132": {
+        "特效应用失败_str_e": "✗ Efekt uygulanamadı: {str(e)}"
+      }
+    },
+    "l0972": {
+      "133": {
+        "粘贴的图像": "Yapıştırılan görüntü"
+      }
+    },
+    "l0973": {
+      "134": {
+        "已粘贴图像": "✓ Görüntü yapıştırıldı"
+      }
+    },
+    "l0975": {
+      "135": {
+        "剪贴板中没有图像": "Panoda görüntü yok"
+      }
+    },
+    "l0998": {
+      "136": {
+        "返回": "Geri"
+      },
+      "137": {
+        "新建": "Yeni"
+      },
+      "138": {
+        "打开": "Aç"
+      },
+      "139": {
+        "保存存": "Kaydet"
+      },
+      "140": {
+        "另存为": "Farklı Kaydet"
+      }
+    },
+    "l0999": {
+      "141": {
+        "分享": "Paylaş"
+      },
+      "142": {
+        "导出": "Dışa Aktar"
+      },
+      "143": {
+        "打印": "Yazdır"
+      }
+    },
+    "l1001": {
+      "144": {
+        "撤销": "Geri Al"
+      },
+      "145": {
+        "重置": "Sıfırla"
+      },
+      "146": {
+        "复制": "Kopyala"
+      },
+      "147": {
+        "粘贴": "Yapıştır"
+      },
+      "148": {
+        "裁剪": "Kırp"
+      }
+    },
+    "l1003": {
+      "149": {
+        "左旋": "Sola Döndür"
+      },
+      "150": {
+        "右旋": "Sağa Döndür"
+      },
+      "151": {
+        "水平翻": "Yatay Çevir"
+      },
+      "152": {
+        "垂直翻": "Dikey Çevir"
+      }
+    },
+    "l1005": {
+      "153": {
+        "移动": "Taşı"
+      },
+      "154": {
+        "画笔": "Fırça"
+      },
+      "155": {
+        "荧光笔": "Vurgulayıcı"
+      },
+      "156": {
+        "橡皮擦": "Silgi"
+      },
+      "157": {
+        "文字": "Metin"
+      }
+    },
+    "l1006": {
+      "158": {
+        "箭头": "Ok"
+      },
+      "159": {
+        "直线": "Çizgi"
+      },
+      "160": {
+        "矩形": "Dikdörtgen"
+      },
+      "161": {
+        "实心矩形": "Dolu Dikdörtgen"
+      }
+    },
+    "l1007": {
+      "162": {
+        "椭圆": "Elips"
+      },
+      "163": {
+        "实心椭圆": "Dolu Elips"
+      },
+      "164": {
+        "清除": "Temizle"
+      }
+    },
+    "l1009": {
+      "165": {
+        "模糊": "Bulanıklaştır"
+      },
+      "166": {
+        "锐化": "Keskinleştir"
+      },
+      "167": {
+        "像素化": "Pikselleştir"
+      },
+      "168": {
+        "浮雕": "Kabartma"
+      },
+      "169": {
+        "噪点": "Parazit"
+      }
+    },
+    "l1010": {
+      "170": {
+        "模糊笔刷": "Bulanıklaştırma Fırçası"
+      },
+      "171": {
+        "马赛克": "Mozaik"
+      },
+      "172": {
+        "色彩": "Renk"
+      },
+      "173": {
+        "特效": "Efektler"
+      }
+    },
+    "l1129": {
+      "174": {
+        "坐标_0_0": "Koordinatlar: 0, 0"
+      }
+    },
+    "l1145": {
+      "175": {
+        "尺寸_s_width_s_hei": "Boyut: {s.width()} × {s.height()}"
+      }
+    },
+    "l1146": {
+      "176": {
+        "就绪": "Hazır"
+      }
+    },
+    "l1148": {
+      "177": {
+        "尺寸": "Boyut: - × -"
+      }
+    },
+    "l1149": {
+      "178": {
+        "就绪": "Hazır"
+      }
+    },
+    "l1183": {
+      "179": {
+        "特效": "Efektler"
+      }
+    },
+    "l1197": {
+      "180": {
+        "调整": "Ayarla"
+      }
+    },
+    "l1228": {
+      "181": {
+        "调色板": "Palet"
+      }
+    },
+    "l1256": {
+      "182": {
+        "已清除标注": "Ek açıklamalar temizlendi"
+      }
+    },
+    "l1261": {
+      "183": {
+        "已复制到剪贴板": "✓ Panoya kopyalandı"
+      }
+    },
+    "l1266": {
+      "184": {
+        "错误": "Hata"
+      },
+      "185": {
+        "没有可保存的图像": "Kaydedilecek görüntü yok"
+      }
+    },
+    "l1277": {
+      "186": {
+        "已保存_os_path_basename": "✓ Kaydedildi: {os.path.basename(self.current_file_path)}"
+      }
+    },
+    "l1297": {
+      "187": {
+        "已保存_os_path_basename": "✓ Kaydedildi: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1310": {
+      "188": {
+        "错误": "Hata"
+      },
+      "189": {
+        "没有可保存的图像": "Kaydedilecek görüntü yok"
+      }
+    },
+    "l1329": {
+      "190": {
+        "已保存_os_path_basename": "✓ Kaydedildi: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1334": {
+      "191": {
+        "提示": "Bildirim"
+      },
+      "192": {
+        "没有可导出的图像": "Dışa aktarılacak görüntü yok."
+      }
+    },
+    "l1345": {
+      "193": {
+        "提示": "Bildirim"
+      },
+      "194": {
+        "没有可导出的图像": "Dışa aktarılacak görüntü yok."
+      }
+    },
+    "l1361": {
+      "195": {
+        "历史记录": "Geçmiş"
+      }
+    },
+    "l1381": {
+      "196": {
+        "文件不存在": "Dosya mevcut değil"
+      },
+      "197": {
+        "该文件已被移动或删除": "Bu dosya taşınmış veya silinmiş."
+      }
+    },
+    "l1463": {
+      "198": {
+        "保存失败": "Kaydetme başarısız"
+      }
+    },
+    "l1464": {
+      "199": {
+        "无法保存文件_error_n_n文件路径": "Dosya kaydedilemedi: {error}\\n\\nDosya yolu: {file_path}\\n\\nLütfen disk alanını ve yazma izinlerini kontrol edin."
+      }
+    },
+    "l1465": {
+      "200": {
+        "重试": "Yeniden Dene"
+      },
+      "201": {
+        "取消": "İptal"
+      }
+    },
+    "l1473": {
+      "202": {
+        "错误": "Hata"
+      },
+      "203": {
+        "没有可打印的图像": "Yazdırılacak görüntü yok"
+      }
+    },
+    "l1483": {
+      "204": {
+        "错误": "Hata"
+      },
+      "205": {
+        "没有可分享的图像": "Paylaşılacak görüntü yok"
+      }
+    },
+    "l1490": {
+      "206": {
+        "分享": "Paylaş"
+      }
+    },
+    "l1624": {
+      "207": {
+        "宽度": "Genişlik:"
+      }
+    },
+    "l1633": {
+      "208": {
+        "高度": "Yükseklik:"
+      }
+    },
+    "l1649": {
+      "209": {
+        "应用裁剪": "✓ Kırpmayı uygula"
+      }
+    },
+    "l1655": {
+      "210": {
+        "取消": "✗ İptal"
+      }
+    },
+    "l1706": {
+      "211": {
+        "已应用裁剪": "✓ Kırpma uygulandı"
+      }
+    },
+    "l1714": {
+      "212": {
+        "已取消裁剪": "Kırpma iptal edildi"
+      }
+    },
+    "l1721": {
+      "213": {
+        "请框选要识别的文字区域": "Lütfen tanınacak metin alanını seçin..."
+      }
+    },
+    "l1729": {
+      "214": {
+        "OCR_错误": "OCR Hatası"
+      },
+      "215": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Yerel OCR motoru hazır değil, lütfen bağımlılıkları kontrol edin."
+      }
+    },
+    "l1733": {
+      "216": {
+        "正在识别文字_请稍候": "Metin tanınıyor, lütfen bekleyin..."
+      }
+    },
+    "l1741": {
+      "217": {
+        "识别完成": "Tanıma tamamlandı"
+      }
+    },
+    "l1744": {
+      "218": {
+        "识别结果": "Tanıma Sonucu"
+      },
+      "219": {
+        "未识别到文字": "Metin tanınmadı."
+      }
+    },
+    "l1755": {
+      "220": {
+        "识别失败": "Tanıma başarısız"
+      }
+    },
+    "l1756": {
+      "221": {
+        "OCR_错误": "OCR Hatası"
+      },
+      "222": {
+        "识别失败_err_msg": "Tanıma başarısız: {err_msg}"
+      }
+    },
+    "l1779": {
+      "223": {
+        "已应用_effect_特效": "✓ {effect} efekti uygulandı"
+      }
+    },
+    "l1781": {
+      "224": {
+        "特效应用失败_str_e": "✗ Efekt uygulanamadı: {str(e)}"
+      }
+    },
+    "l1817": {
+      "225": {
+        "已撤销": "↩ Geri alındı"
+      }
+    },
+    "l1819": {
+      "226": {
+        "没有可撤销的操作": "Geri alınacak işlem yok"
+      }
+    },
+    "l1830": {
+      "227": {
+        "已重置到原图": "🔄 Orijinal görüntüye sıfırlandı"
+      }
+    },
+    "l1832": {
+      "228": {
+        "重置失败": "Sıfırlama başarısız"
+      }
+    },
+    "l1856": {
+      "229": {
+        "缩放_percent": "Yakınlaştırma: {percent}%"
+      }
+    },
+    "l1864": {
+      "230": {
+        "已应用调整": "✓ Ayarlamalar uygulandı"
+      }
+    },
+    "l1866": {
+      "231": {
+        "应用调整失败_str_e": "✗ Ayarlamalar uygulanamadı: {str(e)}"
+      }
+    },
+    "l1873": {
+      "232": {
+        "已重置调整": "✓ Ayarlamalar sıfırlandı"
+      }
+    },
+    "l1875": {
+      "233": {
+        "重置调整失败_str_e": "✗ Ayarlamalar sıfırlanamadı: {str(e)}"
+      }
+    },
+    "l2022": {
+      "234": {
+        "新建图像": "Yeni Görüntü"
+      }
+    }
+  },
+  "ui_freeform_capture": {
+    "l0102": {
+      "01": {
+        "按住鼠标绘制任意形状_松开完成_ESC": "Herhangi bir şekil çizmek için fareyi basılı tutun | Bitirmek için bırakın | İptal için ESC"
+      }
+    },
+    "l0460": {
+      "02": {
+        "保存": "Kaydet"
+      }
+    },
+    "l0549": {
+      "03": {
+        "输入文字": "Metin Gir"
+      },
+      "04": {
+        "请输入要添加的文字": "Lütfen eklenecek metni girin:"
+      }
+    }
+  },
+  "ui_history_panel": {
+    "l0086": {
+      "01": {
+        "未知": "Bilinmiyor"
+      }
+    },
+    "l0101": {
+      "02": {
+        "未知时间": "Bilinmeyen zaman"
+      }
+    },
+    "l0117": {
+      "03": {
+        "未知大小": "Bilinmeyen boyut"
+      }
+    },
+    "l0142": {
+      "04": {
+        "打开": "Aç"
+      }
+    },
+    "l0147": {
+      "05": {
+        "编辑": "Düzenle"
+      }
+    },
+    "l0152": {
+      "06": {
+        "删除": "Sil"
+      }
+    },
+    "l0182": {
+      "07": {
+        "打开文件位置": "📂 Dosya konumunu aç"
+      }
+    },
+    "l0186": {
+      "08": {
+        "编辑": "✏️ Düzenle"
+      }
+    },
+    "l0190": {
+      "09": {
+        "复制到剪贴板": "📋 Panoya kopyala"
+      }
+    },
+    "l0196": {
+      "10": {
+        "删除记录": "🗑️ Kaydı sil"
+      }
+    },
+    "l0238": {
+      "11": {
+        "截图历史": "📷 Ekran Görüntüsü Geçmişi"
+      }
+    },
+    "l0247": {
+      "12": {
+        "刷新": "Yenile"
+      }
+    },
+    "l0262": {
+      "13": {
+        "清空历史": "Geçmişi Temizle"
+      }
+    },
+    "l0277": {
+      "14": {
+        "共_0_条记录": "Toplam 0 kayıt"
+      }
+    },
+    "l0322": {
+      "15": {
+        "共_len_records_条记录": "Toplam {len(records)} kayıt"
+      }
+    },
+    "l0325": {
+      "16": {
+        "暂无历史记录": "Geçmiş kaydı yok"
+      }
+    },
+    "l0345": {
+      "17": {
+        "文件不存在": "Dosya mevcut değil"
+      },
+      "18": {
+        "该文件已被移动或删除": "Bu dosya taşınmış veya silinmiş."
+      }
+    },
+    "l0353": {
+      "19": {
+        "文件不存在": "Dosya mevcut değil"
+      },
+      "20": {
+        "该文件已被移动或删除": "Bu dosya taşınmış veya silinmiş."
+      }
+    },
+    "l0358": {
+      "21": {
+        "确认删除": "Silmeyi onayla"
+      }
+    },
+    "l0359": {
+      "22": {
+        "确定要删除这条历史记录吗_不会删除原文件": "Bu geçmiş kaydını silmek istediğinizden emin misiniz?\n(Orijinal dosya silinmeyecektir)"
+      }
+    },
+    "l0360": {
+      "23": {
+        "确定": "Tamam"
+      },
+      "24": {
+        "取消": "İptal"
+      }
+    },
+    "l0369": {
+      "25": {
+        "确认清空": "Temizlemeyi onayla"
+      }
+    },
+    "l0370": {
+      "26": {
+        "确定要清空所有历史记录吗_不会删除原文件": "Tüm geçmiş kayıtlarını temizlemek istediğinizden emin misiniz?\n(Orijinal dosyalar silinmeyecektir)"
+      }
+    },
+    "l0371": {
+      "27": {
+        "确定": "Tamam"
+      },
+      "28": {
+        "取消": "İptal"
+      }
+    }
+  },
+  "ui_layer_manager": {
+    "l0026": {
+      "01": {
+        "图层": "Katmanlar"
+      }
+    },
+    "l0061": {
+      "02": {
+        "self_name_副本": "{self.name} Kopya"
+      }
+    },
+    "l0097": {
+      "03": {
+        "图层_len_self_layers_1": "Katman {len(self.layers) + 1}"
+      }
+    }
+  },
+  "ui_layer_panel": {
+    "l0050": {
+      "01": {
+        "显示_隐藏图层": "Katmanı Göster/Gizle"
+      }
+    },
+    "l0121": {
+      "02": {
+        "透明度_self_layer_opacity": "Opaklık: {self.layer.opacity}%"
+      }
+    },
+    "l0133": {
+      "03": {
+        "锁定_解锁图层": "Katmanı Kilitle/Kilidini Aç"
+      }
+    },
+    "l0341": {
+      "04": {
+        "左对齐": "Sola Hizala"
+      }
+    },
+    "l0342": {
+      "05": {
+        "水平居中": "Yatayda Ortala"
+      }
+    },
+    "l0343": {
+      "06": {
+        "右对齐": "Sağa Hizala"
+      }
+    },
+    "l0362": {
+      "07": {
+        "顶部对齐": "Üste Hizala"
+      }
+    },
+    "l0363": {
+      "08": {
+        "垂直居中": "Dikeyde Ortala"
+      }
+    },
+    "l0364": {
+      "09": {
+        "底部对齐": "Alta Hizala"
+      }
+    },
+    "l0383": {
+      "10": {
+        "水平等距分布": "Yatayda Dağıt"
+      }
+    },
+    "l0384": {
+      "11": {
+        "垂直等距分布": "Dikeyde Dağıt"
+      }
+    },
+    "l0428": {
+      "12": {
+        "图层管理": "Katman Yönetimi"
+      }
+    },
+    "l0436": {
+      "13": {
+        "添加图层": "Katman Ekle"
+      }
+    },
+    "l0468": {
+      "14": {
+        "对齐与分布": "Hizala ve Dağıt"
+      }
+    },
+    "l0507": {
+      "15": {
+        "添加图层": "Katman Ekle"
+      }
+    },
+    "l0508": {
+      "16": {
+        "删除图层": "Katmanı Sil"
+      }
+    },
+    "l0509": {
+      "17": {
+        "复制图层": "Katmanı Çoğalt"
+      }
+    },
+    "l0510": {
+      "18": {
+        "上移": "Yukarı Taşı"
+      }
+    },
+    "l0511": {
+      "19": {
+        "下移": "Aşağı Taşı"
+      }
+    },
+    "l0512": {
+      "20": {
+        "置顶": "En Öne Getir"
+      }
+    },
+    "l0513": {
+      "21": {
+        "置底": "En Alta Gönder"
+      }
+    },
+    "l0514": {
+      "22": {
+        "合并": "Birleştir"
+      }
+    },
+    "l0532": {
+      "23": {
+        "撤销_Undo": "Geri Al (Undo)"
+      }
+    },
+    "l0538": {
+      "24": {
+        "重置图层_Reset": "Katmanı Sıfırla (Reset)"
+      }
+    },
+    "l0561": {
+      "25": {
+        "不透明度": "Opaklık"
+      }
+    },
+    "l0669": {
+      "26": {
+        "选择图片添加为新图层": "Yeni katman olarak eklemek için bir görsel seçin"
+      }
+    },
+    "l0670": {
+      "27": {
+        "图像文件_png_jpg_jpeg": "Görsel Dosyaları (*.png *.jpg *.jpeg *.bmp *.gif);;Tüm Dosyalar (*.*)"
+      }
+    },
+    "l0680": {
+      "28": {
+        "错误": "Hata"
+      },
+      "29": {
+        "无法打开该图像文件": "Bu görsel dosyası açılamıyor"
+      }
+    }
+  },
+  "ui_main_window": {
+    "l0275": {
+      "02": {
+        "登录": "Giriş Yap"
+      }
+    },
+    "l0398": {
+      "03": {
+        "截图贴图工具": "Ekran Görüntüsü Sabitleme Aracı"
+      }
+    },
+    "l0453": {
+      "04": {
+        "截图贴图工具": "Ekran Görüntüsü Sabitleme Aracı"
+      }
+    },
+    "l0464": {
+      "05": {
+        "返回预览": "↩️ Önizlemeye Dön"
+      }
+    },
+    "l0465": {
+      "06": {
+        "返回上次的预览状态": "Önceki önizleme durumuna dön"
+      }
+    },
+    "l0477": {
+      "07": {
+        "主页": "🏠 Ana Sayfa"
+      }
+    },
+    "l0478": {
+      "08": {
+        "新建": "📄 Yeni"
+      }
+    },
+    "l0479": {
+      "09": {
+        "打开": "📂 Aç"
+      }
+    },
+    "l0480": {
+      "10": {
+        "保存": "💾 Kaydet"
+      }
+    },
+    "l0481": {
+      "11": {
+        "另存为": "📋 Farklı Kaydet"
+      }
+    },
+    "l0482": {
+      "12": {
+        "打印": "🖨️ Yazdır"
+      }
+    },
+    "l0483": {
+      "13": {
+        "分享": "📤 Paylaş"
+      }
+    },
+    "l0484": {
+      "14": {
+        "选项": "⚙️ Seçenekler"
+      }
+    },
+    "l0506": {
+      "15": {
+        "登录": "👤 Giriş Yap"
+      }
+    },
+    "l0511": {
+      "16": {
+        "退出": "🚪 Çıkış"
+      }
+    },
+    "l0533": {
+      "17": {
+        "选择操作": "Bir işlem seçin"
+      }
+    },
+    "l0562": {
+      "18": {
+        "我要软件定制": "Özel yazılım geliştirme istiyorum"
+      }
+    },
+    "l0598": {
+      "20": {
+        "就绪_按_F8_重复上次截图": "Hazır | Son ekran görüntüsünü tekrarlamak için F8'e basın"
+      }
+    },
+    "l0603": {
+      "21": {
+        "取消登录": "Girişi İptal Et"
+      }
+    },
+    "l0621": {
+      "22": {
+        "启动时不显示此窗口": "Başlangıçta bu pencereyi gösterme"
+      }
+    },
+    "l0626": {
+      "23": {
+        "鲲穹AI旗下产品": "Kunqiong AI ürünleri"
+      }
+    },
+    "l0641": {
+      "24": {
+        "新任务": "📁 Yeni Görev"
+      }
+    },
+    "l0651": {
+      "25": {
+        "新建": "Yeni"
+      },
+      "26": {
+        "新建图像": "Yeni Görsel"
+      }
+    },
+    "l0655": {
+      "27": {
+        "打开": "Aç"
+      },
+      "28": {
+        "打开已有文件": "Mevcut bir dosyayı aç"
+      }
+    },
+    "l0661": {
+      "29": {
+        "截取屏幕": "📷 Ekran Yakala"
+      }
+    },
+    "l0671": {
+      "30": {
+        "全屏": "Tam Ekran"
+      }
+    },
+    "l0675": {
+      "31": {
+        "窗口": "Pencere"
+      }
+    },
+    "l0680": {
+      "32": {
+        "矩形区域": "Dikdörtgen Bölge"
+      }
+    },
+    "l0681": {
+      "33": {
+        "窗口控件": "Pencere Denetimleri"
+      }
+    },
+    "l0682": {
+      "34": {
+        "滚动截图": "Kaydırmalı Ekran Görüntüsü"
+      }
+    },
+    "l0683": {
+      "35": {
+        "任意形状": "Serbest Biçim"
+      }
+    },
+    "l0693": {
+      "36": {
+        "重复截取": "Yakalamayı Tekrarla"
+      },
+      "37": {
+        "F8_重复上次操作": "F8 Son İşlemi Tekrarla"
+      }
+    },
+    "l0707": {
+      "38": {
+        "实用工具": "🛠 Yardımcı Araçlar"
+      }
+    },
+    "l0718": {
+      "39": {
+        "屏幕录制器": "Ekran Kaydedici"
+      },
+      "40": {
+        "录制桌面视频": "Masaüstü videosu kaydet"
+      }
+    },
+    "l0719": {
+      "41": {
+        "取色器": "Renk Seçici"
+      },
+      "42": {
+        "在屏幕上拾取颜色": "Ekrandan renk seç"
+      }
+    },
+    "l0720": {
+      "43": {
+        "调色板": "Palet"
+      },
+      "44": {
+        "在调色板上按需调色": "Gerektiğinde palette renk karıştır"
+      }
+    },
+    "l0721": {
+      "45": {
+        "放大镜": "Büyüteç"
+      },
+      "46": {
+        "对屏幕像素放大细看": "Ekran piksellerini incelemek için yakınlaştır"
+      }
+    },
+    "l0722": {
+      "47": {
+        "标尺": "Cetvel"
+      },
+      "48": {
+        "测量桌面对象的尺寸": "Masaüstü nesnelerinin boyutunu ölç"
+      }
+    },
+    "l0723": {
+      "49": {
+        "坐标轴": "Koordinat Eksenleri"
+      },
+      "50": {
+        "查测相对坐标": "Göreli koordinatları kontrol et"
+      }
+    },
+    "l0724": {
+      "51": {
+        "量角器": "Açıölçer"
+      },
+      "52": {
+        "在屏幕上测量角度": "Ekranda açı ölç"
+      }
+    },
+    "l0725": {
+      "53": {
+        "白板": "Beyaz Tahta"
+      },
+      "54": {
+        "用于演示或绘画": "Sunum veya çizim için"
+      }
+    },
+    "l0783": {
+      "55": {
+        "已登录": "Giriş yapıldı"
+      }
+    },
+    "l0785": {
+      "56": {
+        "点击查看用户信息或退出登录": "Kullanıcı bilgilerini görüntülemek veya çıkış yapmak için tıklayın"
+      }
+    },
+    "l0792": {
+      "57": {
+        "登录": "👤 Giriş Yap"
+      }
+    },
+    "l0793": {
+      "58": {
+        "点击登录鲲穹AI账号": "Kunqiong AI hesabınıza giriş yapmak için tıklayın"
+      }
+    },
+    "l0829": {
+      "60": {
+        "登录确认": "Giriş Onayı"
+      }
+    },
+    "l0830": {
+      "61": {
+        "即将打开浏览器进行登录_是否继续_登录完成后请": "Giriş için tarayıcı açılacak. Devam edilsin mi?\n\nGiriş yaptıktan sonra lütfen bu uygulamaya geri dönün."
+      }
+    },
+    "l0833": {
+      "62": {
+        "正在等待网页登录完成": "Web girişinin tamamlanması bekleniyor..."
+      }
+    },
+    "l0841": {
+      "63": {
+        "登录已取消": "Giriş iptal edildi"
+      }
+    },
+    "l0904": {
+      "64": {
+        "未知": "Bilinmiyor"
+      }
+    },
+    "l0913": {
+      "65": {
+        "退出登录": "🚪 Çıkış Yap"
+      }
+    },
+    "l0925": {
+      "66": {
+        "已退出登录": "Çıkış yapıldı"
+      }
+    },
+    "l0926": {
+      "67": {
+        "提示": "Bildirim"
+      },
+      "68": {
+        "已成功退出登录": "Başarıyla çıkış yapıldı"
+      }
+    },
+    "l0934": {
+      "69": {
+        "登录成功": "Giriş Başarılı"
+      }
+    },
+    "l0935": {
+      "70": {
+        "登录成功": "Giriş Başarılı"
+      },
+      "71": {
+        "欢迎回来_账号已同步": "Tekrar hoş geldiniz! Hesabınız senkronize edildi."
+      }
+    },
+    "l0940": {
+      "72": {
+        "登录失败": "Giriş Başarısız"
+      }
+    },
+    "l0941": {
+      "73": {
+        "登录失败": "Giriş Başarısız"
+      },
+      "74": {
+        "登录过程中出现错误_error_msg": "Giriş sırasında bir hata oluştu:\n{error_msg}"
+      }
+    },
+    "l1020": {
+      "75": {
+        "没有可重复的截图操作": "Tekrarlanacak ekran görüntüsü işlemi yok"
+      }
+    },
+    "l1041": {
+      "76": {
+        "未知的截图模式": "Bilinmeyen ekran görüntüsü modu"
+      }
+    },
+    "l1080": {
+      "77": {
+        "提示": "Bildirim"
+      },
+      "78": {
+        "没有可恢复的预览状态": "Geri yüklenecek önizleme durumu yok"
+      }
+    },
+    "l1095": {
+      "79": {
+        "错误": "Hata"
+      },
+      "80": {
+        "预览缓存已过期或不存在": "Önizleme önbelleğinin süresi dolmuş veya mevcut değil"
+      }
+    },
+    "l1103": {
+      "81": {
+        "正在恢复_len_session_caches": "{len(session_caches)} sekme geri yükleniyor..."
+      }
+    },
+    "l1119": {
+      "82": {
+        "未命名": "Adsız"
+      }
+    },
+    "l1130": {
+      "83": {
+        "已恢复_len_session_cache": "✓ {len(session_caches)} sekme geri yüklendi"
+      }
+    },
+    "l1135": {
+      "84": {
+        "错误": "Hata"
+      },
+      "85": {
+        "无法加载预览图像": "Önizleme görseli yüklenemiyor"
+      }
+    },
+    "l1163": {
+      "86": {
+        "打开图像": "Görsel Aç"
+      }
+    },
+    "l1164": {
+      "87": {
+        "图像文件_png_jpg_jpeg": "Görsel Dosyaları (*.png *.jpg *.jpeg *.bmp *.gif);;Tüm Dosyalar (*.*)"
+      }
+    },
+    "l1176": {
+      "88": {
+        "提示": "Bildirim"
+      }
+    },
+    "l1177": {
+      "89": {
+        "请先打开或截取一张图像_然后在编辑器中进行保存": "Lütfen önce bir görsel açın veya yakalayın, ardından düzenleyicide kaydedin."
+      }
+    },
+    "l1185": {
+      "90": {
+        "提示": "Bildirim"
+      }
+    },
+    "l1186": {
+      "91": {
+        "请先打开或截取一张图像_然后在编辑器中进行另存为": "Lütfen önce bir görsel açın veya yakalayın, ardından düzenleyicide Farklı Kaydet'i kullanın."
+      }
+    },
+    "l1194": {
+      "92": {
+        "提示": "Bildirim"
+      }
+    },
+    "l1195": {
+      "93": {
+        "请先打开或截取一张图像_然后在编辑器中进行打印": "Lütfen önce bir görsel açın veya yakalayın, ardından düzenleyicide yazdırın."
+      }
+    },
+    "l1283": {
+      "94": {
+        "提示": "Bildirim"
+      },
+      "95": {
+        "剪贴板中没有可粘贴的图像": "Panoda yapıştırılacak görsel yok"
+      }
+    },
+    "l1315": {
+      "96": {
+        "提示": "Bildirim"
+      }
+    },
+    "l1316": {
+      "97": {
+        "没有可分享的图像_请先截取或打开一张图像": "Paylaşılacak görsel yok.\nLütfen önce bir görsel yakalayın veya açın."
+      }
+    },
+    "l1325": {
+      "98": {
+        "提示": "Bildirim"
+      },
+      "99": {
+        "没有可分享的图像": "Paylaşılacak görsel yok"
+      }
+    },
+    "l1329": {
+      "100": {
+        "分享": "Paylaş"
+      }
+    },
+    "l1361": {
+      "101": {
+        "提示": "Bildirim"
+      },
+      "102": {
+        "预览缓存已过期_请重新截图": "Önizleme önbelleğinin süresi doldu, lütfen yeniden ekran görüntüsü alın"
+      }
+    },
+    "l1379": {
+      "103": {
+        "未命名": "Adsız"
+      }
+    }
+  },
+  "ui_modern_dialog": {
+    "l0011": {
+      "01": {
+        "确定": "Tamam"
+      },
+      "02": {
+        "取消": "İptal"
+      }
+    },
+    "l0207": {
+      "03": {
+        "知道了": "Anladım"
+      }
+    },
+    "l0238": {
+      "04": {
+        "确定": "Tamam"
+      }
+    },
+    "l0243": {
+      "05": {
+        "确定": "Tamam"
+      }
+    },
+    "l0248": {
+      "06": {
+        "确定": "Tamam"
+      }
+    },
+    "l0253": {
+      "07": {
+        "确定": "Tamam"
+      }
+    },
+    "l0258": {
+      "08": {
+        "确定": "Tamam"
+      },
+      "09": {
+        "取消": "İptal"
+      }
+    },
+    "l0268": {
+      "10": {
+        "识别文本": "Metni Tanı"
+      }
+    },
+    "l0304": {
+      "11": {
+        "识别文本": "Metni Tanı"
+      }
+    },
+    "l0366": {
+      "12": {
+        "复制": "Kopyala"
+      }
+    }
+  },
+  "ui_new_image_dialog": {
+    "l0015": {
+      "01": {
+        "上次使用": "Son Kullanılan"
+      }
+    },
+    "l0016": {
+      "02": {
+        "剪贴板": "Pano"
+      }
+    },
+    "l0017": {
+      "03": {
+        "自定义": "Özel"
+      }
+    },
+    "l0029": {
+      "04": {
+        "白色": "Beyaz"
+      }
+    },
+    "l0030": {
+      "05": {
+        "黑色": "Siyah"
+      }
+    },
+    "l0031": {
+      "06": {
+        "透明": "Şeffaf"
+      }
+    },
+    "l0032": {
+      "07": {
+        "灰色": "Gri"
+      }
+    },
+    "l0033": {
+      "08": {
+        "红色": "Kırmızı"
+      }
+    },
+    "l0034": {
+      "09": {
+        "蓝色": "Mavi"
+      }
+    },
+    "l0129": {
+      "10": {
+        "新建图像": "Yeni Görsel"
+      }
+    },
+    "l0185": {
+      "11": {
+        "新建图像": "Yeni Görsel"
+      }
+    },
+    "l0190": {
+      "12": {
+        "画布大小_self_last_width": "Tuval Boyutu: {self.last_width} × {self.last_height}"
+      }
+    },
+    "l0198": {
+      "13": {
+        "预设": "Ön Ayar:"
+      }
+    },
+    "l0213": {
+      "14": {
+        "宽度": "Genişlik:"
+      }
+    },
+    "l0228": {
+      "15": {
+        "高度": "Yükseklik:"
+      }
+    },
+    "l0243": {
+      "16": {
+        "背景色": "Arka Plan Rengi:"
+      }
+    },
+    "l0263": {
+      "17": {
+        "自定义颜色": "Özel Renk"
+      }
+    },
+    "l0275": {
+      "18": {
+        "取消": "İptal"
+      }
+    },
+    "l0280": {
+      "19": {
+        "确定": "Tamam"
+      }
+    },
+    "l0298": {
+      "20": {
+        "画布大小_width_height": "Tuval Boyutu: {width} × {height}"
+      }
+    },
+    "l0341": {
+      "21": {
+        "剪贴板": "Pano"
+      }
+    },
+    "l0350": {
+      "22": {
+        "上次使用": "Son Kullanılan"
+      }
+    }
+  },
+  "ui_pin_window": {
+    "l0065": {
+      "01": {
+        "复制": "Kopyala"
+      }
+    },
+    "l0069": {
+      "02": {
+        "保存": "Kaydet"
+      }
+    },
+    "l0075": {
+      "03": {
+        "关闭": "Kapat"
+      }
+    },
+    "l0089": {
+      "04": {
+        "保存": "Kaydet"
+      }
+    }
+  },
+  "ui_print_dialog": {
+    "l0139": {
+      "01": {
+        "打印": "Yazdır"
+      }
+    },
+    "l0193": {
+      "02": {
+        "打印": "Yazdır"
+      }
+    },
+    "l0199": {
+      "03": {
+        "打印": "🖨️ Yazdır"
+      }
+    },
+    "l0207": {
+      "04": {
+        "打印机": "Yazıcı"
+      }
+    },
+    "l0222": {
+      "06": {
+        "设置": "Ayarlar"
+      }
+    },
+    "l0228": {
+      "07": {
+        "缩放": "Ölçek:"
+      }
+    },
+    "l0230": {
+      "08": {
+        "调整到_100": "%100'e ölçekle"
+      },
+      "09": {
+        "适合页面": "Sayfaya Sığdır"
+      },
+      "10": {
+        "自定义": "Özel"
+      }
+    },
+    "l0238": {
+      "11": {
+        "方向": "Yönlendirme:"
+      }
+    },
+    "l0240": {
+      "12": {
+        "纵向": "Dikey"
+      },
+      "13": {
+        "横向": "Yatay"
+      }
+    },
+    "l0247": {
+      "14": {
+        "纸张尺寸": "Kağıt Boyutu:"
+      }
+    },
+    "l0262": {
+      "15": {
+        "页边距": "Kenar Boşlukları:"
+      }
+    },
+    "l0265": {
+      "16": {
+        "正常_左_10mm_上_10mm": "Normal (Sol: 10mm, Üst: 10mm)"
+      }
+    },
+    "l0266": {
+      "17": {
+        "窄_左_5mm_上_5mm": "Dar (Sol: 5mm, Üst: 5mm)"
+      }
+    },
+    "l0267": {
+      "18": {
+        "宽_左_20mm_上_20mm": "Geniş (Sol: 20mm, Üst: 20mm)"
+      }
+    },
+    "l0268": {
+      "19": {
+        "自定义": "Özel..."
+      }
+    },
+    "l0276": {
+      "20": {
+        "打印颜色": "Yazdırma Rengi:"
+      }
+    },
+    "l0278": {
+      "21": {
+        "彩色": "Renkli"
+      },
+      "22": {
+        "灰度": "Gri Tonlamalı"
+      },
+      "23": {
+        "黑白": "Siyah & Beyaz"
+      }
+    },
+    "l0291": {
+      "25": {
+        "取消": "İptal"
+      }
+    },
+    "l0305": {
+      "26": {
+        "边距": "Kenar Boşlukları"
+      }
+    },
+    "l0306": {
+      "27": {
+        "左": "Sol"
+      }
+    },
+    "l0314": {
+      "28": {
+        "上": "Üst"
+      }
+    },
+    "l0322": {
+      "29": {
+        "右": "Sağ"
+      }
+    },
+    "l0330": {
+      "30": {
+        "下": "Alt"
+      }
+    },
+    "l0348": {
+      "31": {
+        "页面_1_1": "Sayfalar: 1 - 1"
+      }
+    },
+    "l0351": {
+      "32": {
+        "纸张尺寸_210_mm_297_mm": "Kağıt Boyutu: 210 mm × 297 mm"
+      }
+    },
+    "l0403": {
+      "33": {
+        "纸张尺寸_w_mm_h_mm": "Kağıt Boyutu: {w} mm × {h} mm"
+      }
+    }
+  },
+  "ui_region_capture": {
+    "l0071": {
+      "01": {
+        "移动选区": "Seçimi Taşı"
+      }
+    },
+    "l0083": {
+      "02": {
+        "取消_ESC": "İptal (ESC)"
+      }
+    },
+    "l0091": {
+      "03": {
+        "固定到桌面": "Masaüstüne Sabitle"
+      }
+    },
+    "l0099": {
+      "04": {
+        "保存_Ctrl_S": "Kaydet (Ctrl+S)"
+      }
+    },
+    "l0109": {
+      "05": {
+        "编辑_进入编辑器": "Düzenle (Düzenleyiciyi Aç)"
+      }
+    },
+    "l0117": {
+      "06": {
+        "复制并分享_Ctrl_C": "Kopyala ve Paylaş (Ctrl+C)"
+      }
+    },
+    "l0125": {
+      "07": {
+        "识别文字": "Metni Tanı"
+      }
+    },
+    "l0244": {
+      "08": {
+        "拖动选择区域_ESC取消": "Bir alan seçmek için sürükleyin | İptal etmek için ESC"
+      }
+    },
+    "l0668": {
+      "09": {
+        "保存": "Kaydet"
+      }
+    },
+    "l0716": {
+      "10": {
+        "输入文字": "Metin Gir"
+      },
+      "11": {
+        "请输入要添加的文字": "Lütfen eklenecek metni girin:"
+      }
+    },
+    "l0771": {
+      "12": {
+        "OCR_错误": "OCR Hatası"
+      },
+      "13": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Yerel OCR motoru hazır değil. Lütfen bağımlılıkları kontrol edin."
+      }
+    },
+    "l0787": {
+      "14": {
+        "识别结果": "Tanıma Sonucu"
+      },
+      "15": {
+        "未识别到文字": "Metin tanınmadı."
+      }
+    },
+    "l0800": {
+      "16": {
+        "OCR_错误": "OCR Hatası"
+      },
+      "17": {
+        "识别失败_err_msg": "Tanıma başarısız: {err_msg}"
+      }
+    }
+  },
+  "ui_save_dialog": {
+    "l0032": {
+      "01": {
+        "保存图像": "Görseli Kaydet"
+      }
+    },
+    "l0074": {
+      "02": {
+        "保存图像": "Görseli Kaydet"
+      }
+    },
+    "l0080": {
+      "03": {
+        "文件名": "Dosya Adı:"
+      }
+    },
+    "l0087": {
+      "04": {
+        "保存位置": "Kaydetme Konumu"
+      }
+    },
+    "l0096": {
+      "05": {
+        "浏览": "Gözat..."
+      }
+    },
+    "l0103": {
+      "06": {
+        "快速切换": "Hızlı geçiş:"
+      }
+    },
+    "l0120": {
+      "07": {
+        "暂无最近文件夹": "Son klasör yok"
+      }
+    },
+    "l0128": {
+      "08": {
+        "设为默认保存位置": "Varsayılan kaydetme konumu olarak ayarla"
+      }
+    },
+    "l0135": {
+      "09": {
+        "格式": "Biçim:"
+      }
+    },
+    "l0152": {
+      "10": {
+        "取消": "İptal"
+      }
+    },
+    "l0157": {
+      "11": {
+        "保存": "Kaydet"
+      }
+    },
+    "l0165": {
+      "12": {
+        "选择保存位置": "Kaydetme konumu seç"
+      }
+    },
+    "l0192": {
+      "13": {
+        "文件已存在": "Dosya zaten mevcut"
+      }
+    },
+    "l0193": {
+      "14": {
+        "文件_filename_已存在_是否覆盖": "Dosya {filename} zaten mevcut. Üzerine yazılsın mı?"
+      }
+    },
+    "l0194": {
+      "15": {
+        "覆盖": "Üzerine yaz"
+      },
+      "16": {
+        "取消": "İptal"
+      }
+    },
+    "l0216": {
+      "17": {
+        "保存失败": "Kaydetme başarısız"
+      }
+    },
+    "l0218": {
+      "18": {
+        "保存失败": "Kaydetme başarısız"
+      },
+      "19": {
+        "无法保存文件_str_e": "Dosya kaydedilemiyor: {str(e)}"
+      }
+    },
+    "l0240": {
+      "20": {
+        "批量导出": "Toplu dışa aktarma"
+      }
+    },
+    "l0283": {
+      "21": {
+        "批量导出_len_self_images": "Toplu dışa aktarma ({len(self.images)} görsel)"
+      }
+    },
+    "l0288": {
+      "22": {
+        "待导出图像": "Dışa aktarılacak görseller:"
+      }
+    },
+    "l0302": {
+      "23": {
+        "保存位置": "Kaydetme konumu:"
+      }
+    },
+    "l0307": {
+      "24": {
+        "浏览": "Gözat"
+      }
+    },
+    "l0314": {
+      "25": {
+        "导出格式": "Dışa aktarma biçimi:"
+      }
+    },
+    "l0320": {
+      "26": {
+        "命名规则": "Adlandırma kuralı:"
+      }
+    },
+    "l0323": {
+      "27": {
+        "保持原名": "Orijinal adı koru"
+      }
+    },
+    "l0324": {
+      "28": {
+        "添加前缀": "Önek ekle"
+      }
+    },
+    "l0325": {
+      "29": {
+        "添加后缀": "Sonek ekle"
+      }
+    },
+    "l0326": {
+      "30": {
+        "序号命名": "Numaralı adlandırma"
+      }
+    },
+    "l0332": {
+      "31": {
+        "前缀": "Önek:"
+      }
+    },
+    "l0336": {
+      "32": {
+        "例如_export": "Örnek: export_"
+      }
+    },
+    "l0358": {
+      "33": {
+        "取消": "İptal"
+      }
+    },
+    "l0363": {
+      "34": {
+        "开始导出": "Dışa aktarmayı başlat"
+      }
+    },
+    "l0371": {
+      "35": {
+        "选择导出位置": "Dışa aktarma konumu seç"
+      }
+    },
+    "l0380": {
+      "36": {
+        "前缀": "Önek:"
+      },
+      "37": {
+        "后缀": "Sonek:"
+      }
+    },
+    "l0424": {
+      "38": {
+        "已导出_os_path_basename_f": "Dışa aktarıldı: {os.path.basename(file_path)}"
+      }
+    },
+    "l0426": {
+      "39": {
+        "导出失败_name_str_e": "Dışa aktarma başarısız: {name} - {str(e)}"
+      }
+    },
+    "l0434": {
+      "40": {
+        "导出完成_成功_len_saved_path": "Dışa aktarma tamamlandı! Başarılı {len(saved_paths)}/{len(self.images)}"
+      }
+    },
+    "l0439": {
+      "41": {
+        "导出完成": "Dışa aktarma tamamlandı"
+      }
+    },
+    "l0440": {
+      "42": {
+        "成功导出_len_saved_paths": "{len(saved_paths)} görsel başarıyla dışa aktarıldı:\n{folder}"
+      }
+    }
+  },
+  "ui_scroll_capture": {
+    "l0144": {
+      "01": {
+        "长截图预览": "Uzun ekran görüntüsü önizlemesi"
+      }
+    },
+    "l0154": {
+      "02": {
+        "已捕获_self_frame_count_帧": "{self.frame_count} kare yakalandı"
+      }
+    },
+    "l0158": {
+      "03": {
+        "等待捕获": "Yakalama bekleniyor..."
+      }
+    },
+    "l0220": {
+      "04": {
+        "滚动页面开始捕获": "Yakalamayı başlatmak için sayfayı kaydırın"
+      }
+    },
+    "l0255": {
+      "05": {
+        "手动滚动预览_ESC_取消": "Manuel kaydırma önizlemesi · İptal için ESC"
+      }
+    },
+    "l0275": {
+      "06": {
+        "取消": "İptal"
+      }
+    },
+    "l0290": {
+      "07": {
+        "完成截图": "Ekran görüntüsünü bitir"
+      }
+    },
+    "l0456": {
+      "08": {
+        "开始捕获": "Yakalamayı başlat"
+      }
+    },
+    "l0463": {
+      "09": {
+        "点击开始后滚动页面": "Başlat'a tıklayın, ardından sayfayı kaydırın"
+      }
+    },
+    "l0557": {
+      "10": {
+        "拖动选择滚动区域_ESC_取消": "Kaydırma alanını seçmek için sürükleyin | İptal için ESC"
+      }
+    },
+    "l0589": {
+      "11": {
+        "捕获中_len_self_captures": "Yakalanıyor: {len(self.captures)}"
+      }
+    }
+  },
+  "ui_settings_dialog": {
+    "l0024": {
+      "01": {
+        "点击后按下快捷键": "Tıklayın ve ardından kısayol tuşuna basın..."
+      }
+    },
+    "l0086": {
+      "02": {
+        "程序设置": "Program Ayarları"
+      }
+    },
+    "l0182": {
+      "03": {
+        "常规": "Genel"
+      }
+    },
+    "l0183": {
+      "04": {
+        "截图": "Ekran görüntüsü"
+      }
+    },
+    "l0184": {
+      "05": {
+        "快捷键": "Kısayol tuşları"
+      }
+    },
+    "l0185": {
+      "06": {
+        "命名规则": "Adlandırma Kuralları"
+      }
+    },
+    "l0191": {
+      "07": {
+        "鲲穹AI旗下产品": "Bir Kunqiong AI ürünü"
+      }
+    },
+    "l0197": {
+      "08": {
+        "取消": "İptal"
+      }
+    },
+    "l0202": {
+      "09": {
+        "保存设置": "Ayarları Kaydet"
+      }
+    },
+    "l0215": {
+      "10": {
+        "保存设置": "Ayarları Kaydet"
+      }
+    },
+    "l0219": {
+      "11": {
+        "默认保存路径": "Varsayılan kaydetme yolu:"
+      }
+    },
+    "l0224": {
+      "12": {
+        "选择截图保存目录": "Ekran görüntüsü kaydetme dizinini seç..."
+      }
+    },
+    "l0227": {
+      "13": {
+        "浏览": "Gözat"
+      }
+    },
+    "l0235": {
+      "14": {
+        "默认格式": "Varsayılan biçim:"
+      }
+    },
+    "l0243": {
+      "15": {
+        "截图后自动保存到默认目录": "Ekran görüntüsünden sonra varsayılan dizine otomatik kaydet"
+      }
+    },
+    "l0246": {
+      "16": {
+        "截图后自动复制到剪贴板": "Ekran görüntüsünden sonra panoya otomatik kopyala"
+      }
+    },
+    "l0249": {
+      "17": {
+        "操作完成后显示通知": "İşlem tamamlandığında bildirim göster"
+      }
+    },
+    "l0255": {
+      "18": {
+        "编辑器设置": "Düzenleyici Ayarları"
+      }
+    },
+    "l0258": {
+      "19": {
+        "编辑器默认全屏显示": "Düzenleyici varsayılan olarak tam ekranda açılsın"
+      }
+    },
+    "l0261": {
+      "20": {
+        "记住编辑器窗口大小": "Düzenleyici pencere boyutunu hatırla"
+      }
+    },
+    "l0267": {
+      "21": {
+        "版本与更新": "Sürüm ve Güncellemeler"
+      }
+    },
+    "l0273": {
+      "22": {
+        "当前版本_current_version": "Mevcut sürüm: {current_version}"
+      }
+    },
+    "l0279": {
+      "23": {
+        "检查更新": "Güncellemeleri denetle"
+      }
+    },
+    "l0285": {
+      "24": {
+        "反馈问题": "Sorun bildir"
+      }
+    },
+    "l0328": {
+      "25": {
+        "滚动截图": "Kaydırmalı Ekran Görüntüsü"
+      }
+    },
+    "l0333": {
+      "26": {
+        "0_1秒": "× 0.1sn"
+      }
+    },
+    "l0334": {
+      "27": {
+        "滚动延迟": "Kaydırma gecikmesi:"
+      }
+    },
+    "l0337": {
+      "28": {
+        "慢速": "Yavaş"
+      },
+      "29": {
+        "中速": "Orta"
+      },
+      "30": {
+        "快速": "Hızlı"
+      }
+    },
+    "l0338": {
+      "31": {
+        "滚动速度": "Kaydırma hızı:"
+      }
+    },
+    "l0343": {
+      "32": {
+        "重复截取": "Yakalamayı tekrarla"
+      }
+    },
+    "l0346": {
+      "33": {
+        "按_F8_可重复上次截图操作": "Son ekran görüntüsü işlemini tekrarlamak için F8'e basın"
+      }
+    },
+    "l0359": {
+      "34": {
+        "快捷键设置": "Kısayol Tuşu Ayarları"
+      }
+    },
+    "l0368": {
+      "35": {
+        "全屏截图": "Tam ekran görüntüsü:"
+      },
+      "36": {
+        "例如_Ctrl_Shift_F": "Örnek: Ctrl+Shift+F"
+      }
+    },
+    "l0369": {
+      "37": {
+        "矩形截图": "Dikdörtgen ekran görüntüsü:"
+      },
+      "38": {
+        "例如_Ctrl_Shift_A": "Örnek: Ctrl+Shift+A"
+      }
+    },
+    "l0370": {
+      "39": {
+        "窗口控件截图": "Pencere/kontrol ekran görüntüsü:"
+      },
+      "40": {
+        "例如_Ctrl_Shift_W": "Örnek: Ctrl+Shift+W"
+      }
+    },
+    "l0371": {
+      "41": {
+        "取色器": "Renk seçici:"
+      },
+      "42": {
+        "例如_Ctrl_Shift_C": "Örnek: Ctrl+Shift+C"
+      }
+    },
+    "l0372": {
+      "43": {
+        "重复截取": "Yakalamayı tekrarla:"
+      },
+      "44": {
+        "例如_F8": "Örnek: F8"
+      }
+    },
+    "l0373": {
+      "45": {
+        "白板": "Beyaz tahta:"
+      },
+      "46": {
+        "例如_Win_Shift_W": "Örnek: Win+Shift+W"
+      }
+    },
+    "l0374": {
+      "47": {
+        "开始_停止录屏": "Kaydı başlat/durdur:"
+      },
+      "48": {
+        "例如_Ctrl_Shift_R": "Örnek: Ctrl+Shift+R"
+      }
+    },
+    "l0416": {
+      "49": {
+        "预设方案": "Ön ayarlar"
+      }
+    },
+    "l0419": {
+      "50": {
+        "默认": "Varsayılan"
+      },
+      "51": {
+        "HyperSnap风格": "HyperSnap stili"
+      },
+      "52": {
+        "Snagit风格": "Snagit stili"
+      }
+    },
+    "l0428": {
+      "53": {
+        "快捷键修改后保存即可生效_无需重启程序": "💡 Kısayol tuşu değişiklikleri kaydedildikten sonra yeniden başlatma gerekmeden etkin olur"
+      }
+    },
+    "l0449": {
+      "54": {
+        "与_self__get_hotkey_disp": "{self._get_hotkey_display_name(conflict_with)} ile çakışıyor"
+      }
+    },
+    "l0450": {
+      "55": {
+        "快捷键冲突_text_已被_sel": "⚠️ Kısayol tuşu çakışması: {text} zaten {self._get_hotkey_display_name(conflict_with)} tarafından kullanılıyor"
+      }
+    },
+    "l0453": {
+      "56": {
+        "有效": "Geçerli"
+      }
+    },
+    "l0462": {
+      "57": {
+        "全屏截图": "Tam ekran görüntüsü"
+      }
+    },
+    "l0463": {
+      "58": {
+        "矩形截图": "Dikdörtgen ekran görüntüsü"
+      }
+    },
+    "l0464": {
+      "59": {
+        "窗口控件截图": "Pencere/kontrol ekran görüntüsü"
+      }
+    },
+    "l0465": {
+      "60": {
+        "取色器": "Renk seçici"
+      }
+    },
+    "l0466": {
+      "61": {
+        "重复截取": "Yakalamayı tekrarla"
+      }
+    },
+    "l0467": {
+      "62": {
+        "白板": "Beyaz tahta"
+      }
+    },
+    "l0468": {
+      "63": {
+        "屏幕录制": "Ekran kaydı"
+      }
+    },
+    "l0478": {
+      "64": {
+        "文件命名规则": "Dosya Adlandırma Kuralları"
+      }
+    },
+    "l0481": {
+      "65": {
+        "自定义前缀": "Özel önek:"
+      }
+    },
+    "l0486": {
+      "66": {
+        "命名模板": "Adlandırma şablonu:"
+      }
+    },
+    "l0492": {
+      "67": {
+        "可用变量_YYYY_年份_2024": "Kullanılabilir değişkenler:\n  ${YYYY} - Yıl (2024)\n  ${MM} - Ay (01-12)\n  ${DD} - Gün (01-31)\n  ${HH} - Saat (00-23)\n  ${YYYYMMDD} - Tarih (20241201)\n  ${HHMMSS} - Zaman (143052)\n  ${MODE} - Ekran görüntüsü modu\n  ${PREFIX} - Özel önek\n  ${SEQ} - Sıra numarası (001, 002...)"
+      }
+    },
+    "l0510": {
+      "68": {
+        "预览": "Önizleme"
+      }
+    },
+    "l0561": {
+      "69": {
+        "选择保存目录": "Kaydetme dizinini seç"
+      }
+    },
+    "l0567": {
+      "70": {
+        "默认": "Varsayılan"
+      }
+    },
+    "l0573": {
+      "71": {
+        "HyperSnap风格": "HyperSnap stili"
+      }
+    },
+    "l0579": {
+      "72": {
+        "Snagit风格": "Snagit stili"
+      }
+    },
+    "l0601": {
+      "73": {
+        "快捷键冲突": "Kısayol tuşu çakışması"
+      }
+    },
+    "l0602": {
+      "74": {
+        "快捷键_text_被多个功能使用_请修改后再": "Kısayol tuşu {text} birden fazla işlev tarafından kullanılıyor. Lütfen kaydetmeden önce değiştirin."
+      }
+    }
+  },
+  "ui_share_panel": {
+    "l0109": {
+      "01": {
+        "FTP服务器配置": "FTP Sunucu Yapılandırması"
+      },
+      "02": {
+        "编辑FTP服务器": "FTP Sunucusunu Düzenle"
+      }
+    },
+    "l0125": {
+      "03": {
+        "例如_我的服务器": "Örnek: Sunucum"
+      }
+    },
+    "l0126": {
+      "04": {
+        "名称": "Ad:"
+      }
+    },
+    "l0129": {
+      "05": {
+        "例如_ftp_example_com": "Örnek: ftp.example.com"
+      }
+    },
+    "l0130": {
+      "06": {
+        "主机": "Ana bilgisayar:"
+      }
+    },
+    "l0135": {
+      "07": {
+        "端口": "Bağlantı noktası:"
+      }
+    },
+    "l0138": {
+      "08": {
+        "用户名": "Kullanıcı adı:"
+      }
+    },
+    "l0142": {
+      "09": {
+        "密码": "Parola:"
+      }
+    },
+    "l0146": {
+      "10": {
+        "远程目录路径": "Uzak dizin yolu"
+      }
+    },
+    "l0147": {
+      "11": {
+        "路径": "Yol:"
+      }
+    },
+    "l0151": {
+      "12": {
+        "协议": "Protokol:"
+      }
+    },
+    "l0156": {
+      "13": {
+        "测试连接": "Bağlantıyı Test Et"
+      }
+    },
+    "l0165": {
+      "14": {
+        "取消": "İptal"
+      }
+    },
+    "l0170": {
+      "15": {
+        "保存": "Kaydet"
+      }
+    },
+    "l0221": {
+      "16": {
+        "成功": "Başarılı"
+      },
+      "17": {
+        "连接测试成功": "Bağlantı testi başarılı!"
+      }
+    },
+    "l0223": {
+      "18": {
+        "失败": "Başarısız"
+      },
+      "19": {
+        "连接失败_message": "Bağlantı başarısız: {message}"
+      }
+    },
+    "l0227": {
+      "20": {
+        "错误": "Hata"
+      },
+      "21": {
+        "请填写名称和主机地址": "Lütfen bir ad ve ana bilgisayar adresi girin"
+      }
+    },
+    "l0248": {
+      "22": {
+        "云存储账号管理": "Bulut Depolama Hesap Yönetimi"
+      }
+    },
+    "l0257": {
+      "23": {
+        "百度网盘": "Baidu Netdisk"
+      }
+    },
+    "l0262": {
+      "24": {
+        "未授权": "Yetkilendirilmedi"
+      }
+    },
+    "l0275": {
+      "25": {
+        "授权后可将截图直接上传到百度网盘_方便跨设备访问": "Yetkilendirmeden sonra ekran görüntüleri Baidu Netdisk'e doğrudan yüklenebilir; böylece cihazlar arası erişim ve paylaşım kolaylaşır."
+      }
+    },
+    "l0281": {
+      "26": {
+        "授权百度网盘": "🔐 Baidu Netdisk'i Yetkilendir"
+      }
+    },
+    "l0299": {
+      "27": {
+        "关闭": "Kapat"
+      }
+    },
+    "l0324": {
+      "28": {
+        "提示": "Bildirim"
+      },
+      "29": {
+        "百度网盘功能暂不可用": "Baidu Netdisk geçici olarak kullanılamıyor"
+      }
+    },
+    "l0326": {
+      "30": {
+        "错误": "Hata"
+      },
+      "31": {
+        "授权失败_str_e": "Yetkilendirme başarısız: {str(e)}"
+      }
+    },
+    "l0330": {
+      "32": {
+        "已授权": "✓ Yetkilendirildi"
+      }
+    },
+    "l0340": {
+      "33": {
+        "成功": "Başarılı"
+      }
+    },
+    "l0342": {
+      "34": {
+        "失败": "Başarısız"
+      }
+    },
+    "l0350": {
+      "35": {
+        "分享进度": "Paylaşım İlerlemesi"
+      }
+    },
+    "l0357": {
+      "36": {
+        "准备中": "Hazırlanıyor..."
+      }
+    },
+    "l0365": {
+      "37": {
+        "取消": "İptal"
+      }
+    },
+    "l0397": {
+      "38": {
+        "关闭": "Kapat"
+      }
+    },
+    "l0425": {
+      "39": {
+        "分享": "Paylaş"
+      }
+    },
+    "l0429": {
+      "40": {
+        "选择分享方式": "Paylaşım yöntemini seçin"
+      }
+    },
+    "l0476": {
+      "41": {
+        "社交分享": "Sosyal Paylaşım"
+      }
+    },
+    "l0483": {
+      "42": {
+        "微信": "WeChat"
+      }
+    },
+    "l0484": {
+      "43": {
+        "已安装_分享到微信": "Yüklü - WeChat'te paylaş"
+      },
+      "44": {
+        "未检测到微信客户端": "WeChat istemcisi algılanmadı"
+      }
+    },
+    "l0491": {
+      "45": {
+        "已安装_分享到QQ": "Yüklü - QQ'da paylaş"
+      },
+      "46": {
+        "未检测到QQ客户端": "QQ istemcisi algılanmadı"
+      }
+    },
+    "l0497": {
+      "47": {
+        "钉钉": "DingTalk"
+      }
+    },
+    "l0498": {
+      "48": {
+        "已安装_分享到钉钉": "Yüklü - DingTalk'ta paylaş"
+      },
+      "49": {
+        "未检测到钉钉客户端": "DingTalk istemcisi algılanmadı"
+      }
+    },
+    "l0504": {
+      "50": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0505": {
+      "51": {
+        "已安装_分享到企业微信": "Yüklü - WeCom'da paylaş"
+      },
+      "52": {
+        "未检测到企业微信客户端": "WeCom istemcisi algılanmadı"
+      }
+    },
+    "l0513": {
+      "53": {
+        "云存储": "Bulut Depolama"
+      }
+    },
+    "l0517": {
+      "54": {
+        "百度网盘": "Baidu Netdisk"
+      },
+      "55": {
+        "上传并分享图像到百度网盘": "Görselleri Baidu Netdisk'e yükle ve paylaş"
+      }
+    },
+    "l0524": {
+      "56": {
+        "邮件": "E-posta"
+      }
+    },
+    "l0527": {
+      "57": {
+        "电子邮件": "E-posta"
+      },
+      "58": {
+        "添加图像的副本到电子邮件": "Görselin bir kopyasını e-postaya ekle"
+      }
+    },
+    "l0534": {
+      "59": {
+        "Office_应用": "Office Uygulamaları"
+      }
+    },
+    "l0537": {
+      "60": {
+        "插入图像的副本到_Word": "Görselin bir kopyasını Word'e ekle"
+      }
+    },
+    "l0541": {
+      "61": {
+        "插入图像的副本到_Excel": "Görselin bir kopyasını Excel'e ekle"
+      }
+    },
+    "l0545": {
+      "62": {
+        "插入图像的副本到_PowerPoint": "Görselin bir kopyasını PowerPoint'e ekle"
+      }
+    },
+    "l0549": {
+      "63": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "64": {
+        "发送图像的副本到_Paint": "Görselin bir kopyasını Paint'e gönder"
+      }
+    },
+    "l0564": {
+      "65": {
+        "发送到外部程序": "Harici programa gönder"
+      }
+    },
+    "l0568": {
+      "66": {
+        "外部程序": "Harici Program"
+      },
+      "67": {
+        "发送图像到_Photoshop_GIMP_等外部": "Görseli Photoshop ve GIMP gibi harici programlara gönder"
+      }
+    },
+    "l0573": {
+      "68": {
+        "直接发送图像到_FTP_服务器": "Görseli doğrudan FTP sunucusuna gönder"
+      }
+    },
+    "l0580": {
+      "69": {
+        "快捷操作": "Hızlı İşlemler"
+      }
+    },
+    "l0584": {
+      "70": {
+        "复制到剪贴板": "Panoya kopyala"
+      },
+      "71": {
+        "Ctrl_C_快速复制": "Ctrl+C hızlı kopyalama"
+      }
+    },
+    "l0591": {
+      "72": {
+        "应用检测状态": "Uygulama algılama durumu"
+      }
+    },
+    "l0610": {
+      "73": {
+        "微信": "WeChat"
+      }
+    },
+    "l0611": {
+      "74": {
+        "钉钉": "DingTalk"
+      },
+      "75": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0625": {
+      "76": {
+        "重新检测": "🔄 Yeniden algıla"
+      }
+    },
+    "l0649": {
+      "77": {
+        "提示": "Bildirim"
+      },
+      "78": {
+        "请重新打开分享面板以刷新检测结果": "Algılama sonuçlarını yenilemek için lütfen paylaşım panelini yeniden açın"
+      }
+    },
+    "l0673": {
+      "79": {
+        "图像尺寸_w_h_像素": "Görsel boyutu: {w} × {h} piksel"
+      }
+    },
+    "l0676": {
+      "80": {
+        "没有可分享的图像": "Paylaşılacak görsel yok"
+      }
+    },
+    "l0681": {
+      "81": {
+        "提示": "Bildirim"
+      },
+      "82": {
+        "请先截取或打开一张图像": "Lütfen önce bir görsel yakalayın veya açın"
+      }
+    },
+    "l0713": {
+      "83": {
+        "提示": "Bildirim"
+      },
+      "84": {
+        "功能开发中_share_type_value": "Özellik geliştirme aşamasında: {share_type.value}"
+      }
+    },
+    "l0721": {
+      "85": {
+        "正在处理": "İşleniyor..."
+      }
+    },
+    "l0740": {
+      "86": {
+        "选择外部程序": "Harici program seç"
+      }
+    },
+    "l0746": {
+      "87": {
+        "发送到Photoshop": "Photoshop'a gönder"
+      }
+    },
+    "l0751": {
+      "88": {
+        "发送到GIMP": "GIMP'e gönder"
+      }
+    },
+    "l0756": {
+      "89": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "90": {
+        "发送到画图": "Paint'e gönder"
+      }
+    },
+    "l0762": {
+      "91": {
+        "关闭": "Kapat"
+      }
+    },
+    "l0784": {
+      "92": {
+        "提示": "Bildirim"
+      },
+      "93": {
+        "请先截取或打开一张图像": "Lütfen önce bir görsel yakalayın veya açın"
+      }
+    },
+    "l0797": {
+      "94": {
+        "FTP服务器": "FTP Sunucusu"
+      }
+    },
+    "l0803": {
+      "95": {
+        "已配置的服务器": "Yapılandırılmış sunucular:"
+      }
+    },
+    "l0813": {
+      "96": {
+        "添加": "Ekle"
+      }
+    },
+    "l0817": {
+      "97": {
+        "编辑": "Düzenle"
+      }
+    },
+    "l0821": {
+      "98": {
+        "删除": "Sil"
+      }
+    },
+    "l0828": {
+      "99": {
+        "上传到选中的服务器": "Seçili sunucuya yükle"
+      }
+    },
+    "l0832": {
+      "100": {
+        "关闭": "Kapat"
+      }
+    },
+    "l0884": {
+      "101": {
+        "提示": "Bildirim"
+      },
+      "102": {
+        "请先选择一个服务器": "Lütfen önce bir sunucu seçin"
+      }
+    },
+    "l0906": {
+      "103": {
+        "提示": "Bildirim"
+      },
+      "104": {
+        "请先选择一个服务器": "Lütfen önce bir sunucu seçin"
+      }
+    },
+    "l0912": {
+      "105": {
+        "确认删除": "Silmeyi Onayla"
+      }
+    },
+    "l0913": {
+      "106": {
+        "确定要删除服务器_name_吗": "'{name}' sunucusunu silmek istediğinizden emin misiniz?"
+      }
+    },
+    "l0914": {
+      "107": {
+        "确定": "Onayla"
+      },
+      "108": {
+        "取消": "İptal"
+      }
+    },
+    "l0925": {
+      "109": {
+        "提示": "Bildirim"
+      },
+      "110": {
+        "请先选择一个服务器": "Lütfen önce bir sunucu seçin"
+      }
+    },
+    "l0929": {
+      "111": {
+        "提示": "Bildirim"
+      },
+      "112": {
+        "请先截取或打开一张图像": "Lütfen önce bir görüntü yakalayın veya açın"
+      }
+    }
+  },
+  "ui_tab_manager": {
+    "l0160": {
+      "01": {
+        "关闭": "Kapat"
+      }
+    },
+    "l0164": {
+      "02": {
+        "关闭其他": "Diğerlerini Kapat"
+      }
+    },
+    "l0235": {
+      "03": {
+        "新建": "Yeni"
+      }
+    },
+    "l0353": {
+      "04": {
+        "未保存的更改": "Kaydedilmemiş Değişiklikler"
+      }
+    },
+    "l0354": {
+      "05": {
+        "tab_data_title_有未保存的": "'{tab_data.title}' için kaydedilmemiş değişiklikler var. Kapatmak istediğinizden emin misiniz?"
+      }
+    },
+    "l0355": {
+      "06": {
+        "保存": "Kaydet"
+      },
+      "07": {
+        "不保存": "Kaydetme"
+      },
+      "08": {
+        "取消": "İptal"
+      }
+    }
+  },
+  "ui_text_box": {
+    "l0363": {
+      "01": {
+        "确认文本": "✓ Metni Onayla"
+      }
+    },
+    "l0370": {
+      "02": {
+        "删除文本框": "🗑 Metin Kutusunu Sil"
+      }
+    },
+    "l0375": {
+      "03": {
+        "取消": "✗ İptal"
+      }
+    }
+  },
+  "ui_unified_preview_window": {
+    "l0117": {
+      "01": {
+        "截图导航": "📷 Ekran Görüntüsü Gezinmesi"
+      }
+    },
+    "l0205": {
+      "02": {
+        "批量编辑": "⚙️ Toplu Düzenleme"
+      }
+    },
+    "l0211": {
+      "03": {
+        "旋转_90": "90° Döndür"
+      }
+    },
+    "l0212": {
+      "04": {
+        "旋转_90": "-90° Döndür"
+      }
+    },
+    "l0213": {
+      "05": {
+        "水平翻转": "Yatay Çevir"
+      }
+    },
+    "l0214": {
+      "06": {
+        "垂直翻转": "Dikey Çevir"
+      }
+    },
+    "l0215": {
+      "07": {
+        "全部模糊": "Tümünü Bulanıklaştır"
+      }
+    },
+    "l0216": {
+      "08": {
+        "全部锐化": "Tümünü Keskinleştir"
+      }
+    },
+    "l0259": {
+      "09": {
+        "筛选和排序": "🔍 Filtrele ve Sırala"
+      }
+    },
+    "l0264": {
+      "10": {
+        "排序方式": "Sıralama:"
+      }
+    },
+    "l0266": {
+      "11": {
+        "最新优先": "Önce En Yeni"
+      },
+      "12": {
+        "最旧优先": "Önce En Eski"
+      },
+      "13": {
+        "按名称": "Ada Göre"
+      },
+      "14": {
+        "按大小": "Boyuta Göre"
+      }
+    },
+    "l0271": {
+      "15": {
+        "搜索": "Ara:"
+      }
+    },
+    "l0273": {
+      "16": {
+        "输入文件名": "Dosya adını girin..."
+      }
+    },
+    "l0278": {
+      "17": {
+        "最小宽度": "Minimum Genişlik:"
+      }
+    },
+    "l0289": {
+      "18": {
+        "最新优先": "Önce En Yeni"
+      }
+    },
+    "l0290": {
+      "19": {
+        "最旧优先": "Önce En Eski"
+      }
+    },
+    "l0291": {
+      "20": {
+        "按名称": "Ada Göre"
+      }
+    },
+    "l0292": {
+      "21": {
+        "按大小": "Boyuta Göre"
+      }
+    },
+    "l0323": {
+      "22": {
+        "加载中": "Yükleniyor..."
+      }
+    },
+    "l0349": {
+      "23": {
+        "处理中_current_total": "İşleniyor... {current}/{total}"
+      }
+    },
+    "l0369": {
+      "24": {
+        "统一预览窗口_PyScreenshot": "Birleşik Önizleme Penceresi - PyScreenshot"
+      }
+    },
+    "l0463": {
+      "25": {
+        "就绪": "Hazır"
+      }
+    },
+    "l0479": {
+      "26": {
+        "0_张截图": "0 ekran görüntüsü"
+      }
+    },
+    "l0486": {
+      "27": {
+        "批量导出": "📦 Toplu Dışa Aktar"
+      }
+    },
+    "l0501": {
+      "28": {
+        "关闭": "✕ Kapat"
+      }
+    },
+    "l0521": {
+      "29": {
+        "截图_len_self_screenshots": "Ekran görüntüsü {len(self.screenshots) + 1}"
+      }
+    },
+    "l0574": {
+      "30": {
+        "已打开编辑器_title": "✓ Düzenleyici açıldı: {title}"
+      }
+    },
+    "l0579": {
+      "31": {
+        "提示": "Bildirim"
+      },
+      "32": {
+        "没有可操作的截图": "Üzerinde işlem yapılacak ekran görüntüsü yok"
+      }
+    },
+    "l0582": {
+      "33": {
+        "执行_operation": "{operation} gerçekleştir"
+      }
+    },
+    "l0589": {
+      "34": {
+        "已完成_operation": "✓ {operation} tamamlandı"
+      }
+    },
+    "l0594": {
+      "35": {
+        "提示": "Bildirim"
+      },
+      "36": {
+        "没有可导出的截图": "Dışa aktarılacak ekran görüntüsü yok"
+      }
+    },
+    "l0597": {
+      "37": {
+        "已导出_len_self_screensh": "✓ {len(self.screenshots)} ekran görüntüsü dışa aktarıldı"
+      }
+    },
+    "l0610": {
+      "38": {
+        "count_张截图": "{count} ekran görüntüsü"
+      }
+    }
+  },
+  "updater": {
+    "l0106": {
+      "01": {
+        "正在升级系统": "Sistem yükseltiliyor"
+      }
+    },
+    "l0118": {
+      "02": {
+        "准备就绪": "Hazırlanıyor..."
+      }
+    },
+    "l0194": {
+      "03": {
+        "正在关闭主程序": "Ana program kapatılıyor..."
+      }
+    },
+    "l0211": {
+      "04": {
+        "正在下载更新包": "Güncelleme paketi indiriliyor..."
+      }
+    },
+    "l0237": {
+      "05": {
+        "校验失败_下载文件损坏": "Doğrulama başarısız: indirilen dosya bozuk"
+      }
+    },
+    "l0244": {
+      "06": {
+        "下载失败_str_e": "İndirme başarısız: {str(e)}"
+      }
+    },
+    "l0249": {
+      "07": {
+        "正在安装更新": "Güncelleme yükleniyor..."
+      }
+    },
+    "l0271": {
+      "08": {
+        "正在重试_i_1_max_retri": "Yeniden deneniyor ({i + 1}/{max_retries})..."
+      }
+    },
+    "l0278": {
+      "09": {
+        "安装失败_文件被占用": "Yükleme başarısız: dosya kullanımda"
+      }
+    },
+    "l0283": {
+      "10": {
+        "清理并重启": "Temizleniyor ve yeniden başlatılıyor..."
+      }
+    },
+    "l0304": {
+      "11": {
+        "启动失败_请手动打开程序": "Başlatma başarısız, lütfen programı manuel olarak açın"
+      }
+    },
+    "l0308": {
+      "12": {
+        "未找到主程序": "Ana program bulunamadı"
+      }
+    },
+    "l0313": {
+      "13": {
+        "更新出错_请联系支持": "Güncelleme hatası, lütfen destek ile iletişime geçin"
+      }
+    }
+  },
+  "默认保存路径:": "Varsayılan kayıt yolu:",
+  "默认格式:": "Varsayılan biçim:",
+  "界面语言:": "Arayüz dili:",
+  "当前版本: {current_version}": "Geçerli sürüm: {current_version}",
+  "按 F8 可重复上次截图操作": "Son ekran görüntüsü işlemini tekrarlamak için F8 tuşuna basın",
+  "💡 快捷键修改后保存即可生效，无需重启程序": "💡 Kısayol değişiklikleri kaydettikten sonra hemen geçerli olur; programı yeniden başlatmanız gerekmez",
+  "HyperSnap风格": "HyperSnap stili",
+  "Snagit风格": "Snagit stili",
+  "\n可用变量:\n   - 年份 (2024)\n   - 月份 (01-12)\n   - 日期 (01-31)\n   - 小时 (00-23)\n   - 日期 (20241201)\n   - 时间 (143052)\n   - 截图模式\n   - 自定义前缀\n   - 序号 (001, 002...)\n        ": "\nKullanılabilir değişkenler:\n   - Yıl (2024)\n   - Ay (01-12)\n   - Gün (01-31)\n   - Saat (00-23)\n   - Tarih (20241201)\n   - Saat (143052)\n   - Ekran görüntüsü modu\n   - Özel önek\n   - Sıra numarası (001, 002...)\n        ",
+  "全屏截图:": "Tam ekran görüntüsü:",
+  "矩形截图:": "Dikdörtgen görüntü:",
+  "窗口控件截图:": "Pencere denetimi görüntüsü:",
+  "取色器:": "Renk seçici:",
+  "重复截取:": "Tekrar görüntü al:",
+  "白板:": "Beyaz tahta:",
+  "开始/停止录屏:": "Ekran kaydını başlat/durdur:"
+}

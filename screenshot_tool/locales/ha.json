@@ -1,0 +1,5586 @@
+{
+  "core_cloud_storage": {
+    "l0174": {
+      "02": {
+        "授权成功": "An ba da izini cikin nasara"
+      }
+    },
+    "l0179": {
+      "04": {
+        "授权失败_str_e": "An kasa ba da izini: {str(e)}"
+      }
+    },
+    "l0215": {
+      "05": {
+        "未授权": "Ba a ba da izini ba"
+      }
+    },
+    "l0244": {
+      "07": {
+        "上传失败_str_e": "An kasa ɗorawa: {str(e)}"
+      }
+    },
+    "l0262": {
+      "08": {
+        "创建上传会话失败": "An kasa ƙirƙirar zaman ɗorawa"
+      }
+    },
+    "l0290": {
+      "10": {
+        "上传成功": "An ɗora cikin nasara"
+      }
+    },
+    "l0383": {
+      "11": {
+        "授权成功": "An ba da izini cikin nasara"
+      }
+    },
+    "l0385": {
+      "12": {
+        "授权失败": "An kasa ba da izini"
+      }
+    },
+    "l0390": {
+      "14": {
+        "授权失败_str_e": "An kasa ba da izini: {str(e)}"
+      }
+    },
+    "l0400": {
+      "15": {
+        "未授权": "Ba a ba da izini ba"
+      }
+    },
+    "l0428": {
+      "16": {
+        "预上传失败_result": "Pre-upload ya kasa: {result}"
+      }
+    },
+    "l0466": {
+      "17": {
+        "上传成功_remote_path_fil": "An ɗora cikin nasara: {remote_path}/{filename}"
+      }
+    },
+    "l0468": {
+      "18": {
+        "创建文件失败_result": "An kasa ƙirƙirar fayil: {result}"
+      }
+    },
+    "l0471": {
+      "19": {
+        "上传失败_str_e": "An kasa ɗorawa: {str(e)}"
+      }
+    }
+  },
+  "core_ftp_manager": {
+    "l0067": {
+      "01": {
+        "正在连接服务器": "Ana haɗawa da uwar garke..."
+      }
+    },
+    "l0071": {
+      "02": {
+        "上传已取消": "An soke ɗorawa"
+      }
+    },
+    "l0074": {
+      "03": {
+        "正在上传文件": "Ana ɗora fayil..."
+      }
+    },
+    "l0078": {
+      "04": {
+        "上传成功": "An ɗora cikin nasara"
+      }
+    },
+    "l0081": {
+      "05": {
+        "权限错误_e": "Kuskuren izini: {e}"
+      }
+    },
+    "l0083": {
+      "06": {
+        "临时错误_e": "Kuskuren wucin gadi: {e}"
+      }
+    },
+    "l0085": {
+      "07": {
+        "连接被拒绝_请检查服务器地址和端口": "An ƙi haɗi, da fatan a duba adireshin uwar garke da tashar (port)"
+      }
+    },
+    "l0087": {
+      "08": {
+        "连接超时": "Lokacin haɗi ya ƙare"
+      }
+    },
+    "l0089": {
+      "09": {
+        "上传失败_str_e": "An kasa ɗorawa: {str(e)}"
+      }
+    },
+    "l0154": {
+      "10": {
+        "断点续传_从_rest_position_字": "Ci gaba da ɗorawa, fara daga bytes {rest_position}..."
+      }
+    },
+    "l0160": {
+      "11": {
+        "上传已取消": "An soke ɗorawa"
+      }
+    },
+    "l0214": {
+      "12": {
+        "连接成功": "An haɗa cikin nasara"
+      }
+    },
+    "l0216": {
+      "13": {
+        "认证失败_e": "Tabbatarwa (authentication) ta kasa: {e}"
+      }
+    },
+    "l0218": {
+      "14": {
+        "连接被拒绝": "An ƙi haɗi"
+      }
+    },
+    "l0220": {
+      "15": {
+        "连接超时": "Lokacin haɗi ya ƙare"
+      }
+    },
+    "l0222": {
+      "16": {
+        "连接失败_str_e": "Haɗi ya kasa: {str(e)}"
+      }
+    }
+  },
+  "core_hotkey_manager": {
+    "l0111": {
+      "03": {
+        "无效的快捷键": "Gajeriyar maɓalli mara inganci"
+      }
+    },
+    "l0123": {
+      "05": {
+        "注册成功": "An yi rajista cikin nasara"
+      }
+    },
+    "l0126": {
+      "06": {
+        "快捷键可能被其他程序占用": "Wataƙila wani shiri ne ke amfani da gajeriyar maɓallin"
+      },
+      "07": {
+        "错误代码_error_code": "Lambar kuskure: {error_code}"
+      }
+    },
+    "l0176": {
+      "11": {
+        "全屏截图": "Hoton allo gaba ɗaya"
+      }
+    },
+    "l0177": {
+      "12": {
+        "矩形截图": "Hoton allo mai murabba'i"
+      }
+    },
+    "l0178": {
+      "13": {
+        "窗口控件截图": "Hoton taga/kulawa"
+      }
+    },
+    "l0179": {
+      "14": {
+        "取色器": "Mai ɗaukar launi"
+      }
+    },
+    "l0180": {
+      "15": {
+        "重复截取": "Maimaita ɗauka"
+      }
+    },
+    "l0181": {
+      "16": {
+        "白板": "Allon fari"
+      }
+    },
+    "l0182": {
+      "17": {
+        "智能粘贴": "Manna mai kaifin basira"
+      }
+    },
+    "l0183": {
+      "18": {
+        "屏幕录制": "Rikodin allo"
+      }
+    },
+    "l0288": {
+      "19": {
+        "准备注册快捷键_name_hotke": "Ana shirin yin rajistar gajeriyar maɓalli: {name} = {hotkeys_config[name]}"
+      }
+    },
+    "l0300": {
+      "20": {
+        "快捷键监听线程已启动": "An fara zaren sauraron gajeriyar maɓalli"
+      }
+    },
+    "l0308": {
+      "21": {
+        "快捷键_display_name_注册成": "An yi rajistar gajeriyar maɓalli [{display_name}] cikin nasara"
+      }
+    },
+    "l0310": {
+      "22": {
+        "快捷键_display_name_注册失": "Rajistar gajeriyar maɓalli [{display_name}] ta kasa: {message}"
+      }
+    },
+    "l0322": {
+      "23": {
+        "快捷键与_conflict_冲突": "Gajeriyar maɓalli ta yi karo da [{conflict}]"
+      }
+    },
+    "l0332": {
+      "24": {
+        "已禁用": "An kashe"
+      }
+    },
+    "l0335": {
+      "25": {
+        "无效的快捷键格式": "Tsarin gajeriyar maɓalli mara inganci"
+      }
+    },
+    "l0345": {
+      "26": {
+        "未知的快捷键名称": "Sunan gajeriyar maɓalli da ba a sani ba"
+      }
+    },
+    "l0354": {
+      "27": {
+        "快捷键_name_已更新为_hotke": "An sabunta gajeriyar maɓalli [{name}] zuwa {hotkey_str}"
+      }
+    },
+    "l0355": {
+      "28": {
+        "更新成功": "An sabunta cikin nasara"
+      }
+    },
+    "l0357": {
+      "29": {
+        "快捷键服务未运行": "Sabis na gajeriyar maɓalli ba ya gudana"
+      }
+    },
+    "l0370": {
+      "30": {
+        "快捷键_name_已移除": "An cire gajeriyar maɓalli [{name}]"
+      }
+    },
+    "l0375": {
+      "31": {
+        "快捷键触发_name": "An kunna gajeriyar maɓalli: {name}"
+      }
+    },
+    "l0397": {
+      "32": {
+        "正在注销所有快捷键": "Ana cire rajistar duk gajerun maɓallan..."
+      }
+    },
+    "l0401": {
+      "33": {
+        "所有快捷键已注销": "An cire rajistar duk gajerun maɓallan"
+      }
+    },
+    "l0405": {
+      "34": {
+        "重新加载快捷键配置": "Ana sake loda saitin gajeriyar maɓalli..."
+      }
+    }
+  },
+  "core_kunqiong_login": {
+    "l0177": {
+      "04": {
+        "无法连接到登录服务器": "An kasa haɗawa da uwar garken shiga"
+      }
+    },
+    "l0189": {
+      "05": {
+        "无法打开系统浏览器": "An kasa buɗe burauzar tsarin"
+      }
+    },
+    "l0192": {
+      "06": {
+        "启动浏览器失败_e": "An kasa ƙaddamar da burauza: {e}"
+      }
+    },
+    "l0199": {
+      "07": {
+        "登录超时": "Lokacin shiga ya ƙare"
+      }
+    },
+    "l0224": {
+      "08": {
+        "获取用户信息失败": "An kasa samun bayanan mai amfani"
+      }
+    }
+  },
+  "core_ocr_engine": {
+    "l0035": {
+      "01": {
+        "rapidocr_onnxruntime_未安装": "Ba a shigar da rapidocr_onnxruntime ba, fasalolin OCR na cikin gida ba su samuwa"
+      }
+    }
+  },
+  "core_office_export": {
+    "l0106": {
+      "01": {
+        "截图内容": "Abun cikin hoton allo"
+      }
+    },
+    "l0134": {
+      "02": {
+        "需要安装_python_docx_库_pip": "Ana buƙatar ɗakin karatu python-docx: pip install python-docx"
+      }
+    },
+    "l0136": {
+      "03": {
+        "导出失败_str_e": "Fitarwa ta kasa: {str(e)}"
+      }
+    },
+    "l0149": {
+      "04": {
+        "截图": "Hoton allo"
+      }
+    },
+    "l0179": {
+      "05": {
+        "需要安装_openpyxl_库_pip_ins": "Ana buƙatar ɗakin karatu openpyxl: pip install openpyxl"
+      }
+    },
+    "l0181": {
+      "06": {
+        "导出失败_str_e": "Fitarwa ta kasa: {str(e)}"
+      }
+    },
+    "l0238": {
+      "07": {
+        "需要安装_python_pptx_库_pip": "Ana buƙatar ɗakin karatu python-pptx: pip install python-pptx"
+      }
+    },
+    "l0240": {
+      "08": {
+        "导出失败_str_e": "Fitarwa ta kasa: {str(e)}"
+      }
+    },
+    "l0256": {
+      "09": {
+        "发送失败_str_e": "Aika ya kasa: {str(e)}"
+      }
+    },
+    "l0298": {
+      "10": {
+        "发送失败_str_e": "Aika ya kasa: {str(e)}"
+      }
+    },
+    "l0327": {
+      "11": {
+        "未找到GIMP程序": "Ba a sami manhajar GIMP ba"
+      }
+    },
+    "l0330": {
+      "12": {
+        "发送失败_str_e": "Aika ya kasa: {str(e)}"
+      }
+    }
+  },
+  "core_share_manager": {
+    "l0147": {
+      "01": {
+        "准备中": "Ana shiryawa..."
+      }
+    },
+    "l0180": {
+      "02": {
+        "分享任务_task_share_type_va": "Aikin rabawa {task.share_type.value}"
+      }
+    },
+    "l0192": {
+      "03": {
+        "正在导出到Word": "Ana fitarwa zuwa Word..."
+      }
+    },
+    "l0198": {
+      "04": {
+        "已导出到Word": "An fitar zuwa Word"
+      }
+    },
+    "l0209": {
+      "05": {
+        "正在导出到Excel": "Ana fitarwa zuwa Excel..."
+      }
+    },
+    "l0215": {
+      "06": {
+        "已导出到Excel": "An fitar zuwa Excel"
+      }
+    },
+    "l0226": {
+      "07": {
+        "正在导出到PowerPoint": "Ana fitarwa zuwa PowerPoint..."
+      }
+    },
+    "l0232": {
+      "08": {
+        "已导出到PowerPoint": "An fitar zuwa PowerPoint"
+      }
+    },
+    "l0247": {
+      "09": {
+        "已发送到画图": "An aika zuwa Paint"
+      }
+    },
+    "l0262": {
+      "10": {
+        "已发送到Photoshop": "An aika zuwa Photoshop"
+      }
+    },
+    "l0277": {
+      "11": {
+        "已发送到GIMP": "An aika zuwa GIMP"
+      }
+    },
+    "l0295": {
+      "12": {
+        "未找到服务器配置_server_name": "Ba a sami saitin uwar garke ba: {server_name}"
+      }
+    },
+    "l0321": {
+      "13": {
+        "正在上传": "Ana ɗorawa..."
+      }
+    },
+    "l0331": {
+      "14": {
+        "上传中_uploaded_total": "Ana ɗorawa... bytes {uploaded}/{total}"
+      }
+    },
+    "l0339": {
+      "15": {
+        "上传成功": "An ɗora cikin nasara"
+      }
+    },
+    "l0434": {
+      "16": {
+        "请先授权OneDrive账号": "Da fatan a fara ba da izini ga asusun OneDrive ɗinka"
+      }
+    },
+    "l0454": {
+      "17": {
+        "正在上传": "Ana ɗorawa..."
+      }
+    },
+    "l0469": {
+      "18": {
+        "请先授权百度网盘账号": "Da fatan a fara ba da izini ga asusun Baidu Netdisk ɗinka"
+      }
+    },
+    "l0484": {
+      "19": {
+        "正在上传": "Ana ɗorawa..."
+      }
+    }
+  },
+  "core_social_share": {
+    "l0099": {
+      "01": {
+        "Applications_企业微信_app": "/Applications/WeCom.app"
+      }
+    },
+    "l0116": {
+      "02": {
+        "分享内容_date_str": "Abun da aka raba-{date_str}"
+      }
+    },
+    "l0125": {
+      "03": {
+        "请查看附件中的截图内容": "Da fatan a duba abun cikin hoton allo a cikin abin da aka makala."
+      }
+    },
+    "l0128": {
+      "04": {
+        "已打开邮件客户端": "An buɗe abokin imel"
+      }
+    },
+    "l0134": {
+      "05": {
+        "已打开邮件客户端_请手动添加附件_temp": "An buɗe abokin imel, da fatan a ƙara abin da aka makala da hannu: {temp_file}"
+      }
+    },
+    "l0138": {
+      "06": {
+        "tell_application_Mail": "tell application \"Mail\"\n                    set newMessage to make new outgoing message with properties {subject:\"{subject}\", content:\"Please check the screenshot content in the attachment.\"}\n                    tell newMessage\n                        make new attachment with properties {file name:POSIX file \"{temp_file}\"}\n                    end tell\n                    activate\n                end tell"
+      }
+    },
+    "l0148": {
+      "07": {
+        "已打开邮件客户端": "An buɗe abokin imel"
+      }
+    },
+    "l0153": {
+      "08": {
+        "已打开邮件客户端": "An buɗe abokin imel"
+      }
+    },
+    "l0156": {
+      "09": {
+        "打开邮件客户端失败_str_e": "An kasa buɗe abokin imel: {str(e)}"
+      }
+    },
+    "l0177": {
+      "10": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "An kwafi zuwa allo na kwafi kuma an buɗe WeChat, da fatan a manna a taga taɗi (Ctrl+V)"
+      }
+    },
+    "l0181": {
+      "11": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "An kwafi zuwa allo na kwafi kuma an buɗe WeChat, da fatan a manna a taga taɗi (Cmd+V)"
+      }
+    },
+    "l0183": {
+      "12": {
+        "已复制到剪贴板_请手动打开微信并粘贴": "An kwafi zuwa allo na kwafi, da fatan a buɗe WeChat da hannu kuma ka manna"
+      }
+    },
+    "l0186": {
+      "13": {
+        "分享失败_str_e": "Rabawa ta kasa: {str(e)}"
+      }
+    },
+    "l0206": {
+      "14": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "An kwafi zuwa allo na kwafi kuma an buɗe QQ, da fatan a manna a taga taɗi (Ctrl+V)"
+      }
+    },
+    "l0210": {
+      "15": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "An kwafi zuwa allo na kwafi kuma an buɗe QQ, da fatan a manna a taga taɗi (Cmd+V)"
+      }
+    },
+    "l0212": {
+      "16": {
+        "已复制到剪贴板_请手动打开QQ并粘贴": "An kwafi zuwa allo na kwafi, da fatan a buɗe QQ da hannu kuma ka manna"
+      }
+    },
+    "l0215": {
+      "17": {
+        "分享失败_str_e": "Rabawa ta kasa: {str(e)}"
+      }
+    },
+    "l0233": {
+      "18": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "An kwafi zuwa allo na kwafi kuma an buɗe DingTalk, da fatan a manna a taga taɗi"
+      }
+    },
+    "l0237": {
+      "19": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "An kwafi zuwa allo na kwafi kuma an buɗe DingTalk, da fatan a manna a taga taɗi"
+      }
+    },
+    "l0239": {
+      "20": {
+        "已复制到剪贴板_请手动打开钉钉并粘贴": "An kwafi zuwa allo na kwafi, da fatan a buɗe DingTalk da hannu kuma ka manna"
+      }
+    },
+    "l0242": {
+      "21": {
+        "分享失败_str_e": "Rabawa ta kasa: {str(e)}"
+      }
+    },
+    "l0260": {
+      "22": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "An kwafi zuwa allo na kwafi kuma an buɗe WeCom, da fatan a manna a taga taɗi"
+      }
+    },
+    "l0263": {
+      "23": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0264": {
+      "24": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "An kwafi zuwa allo na kwafi kuma an buɗe WeCom, da fatan a manna a taga taɗi"
+      }
+    },
+    "l0266": {
+      "25": {
+        "已复制到剪贴板_请手动打开企业微信并粘贴": "An kwafi zuwa allo na kwafi, da fatan a buɗe WeCom da hannu kuma ka manna"
+      }
+    },
+    "l0269": {
+      "26": {
+        "分享失败_str_e": "Rabawa ta kasa: {str(e)}"
+      }
+    },
+    "l0282": {
+      "27": {
+        "已复制到剪贴板": "An kwafi zuwa allo na kwafi"
+      }
+    },
+    "l0284": {
+      "28": {
+        "复制失败_str_e": "Kwafi ya kasa: {str(e)}"
+      }
+    },
+    "l0340": {
+      "29": {
+        "上传失败_response_status_c": "An kasa ɗorawa: {response.status_code}"
+      }
+    },
+    "l0343": {
+      "30": {
+        "上传失败_str_e": "An kasa ɗorawa: {str(e)}"
+      }
+    }
+  },
+  "core_tray_manager": {
+    "l0019": {
+      "01": {
+        "截图贴图工具": "Kayan Aikin Liƙa Hoton Allo"
+      }
+    },
+    "l0069": {
+      "05": {
+        "全屏截图": "Hoton allo gaba ɗaya"
+      }
+    },
+    "l0070": {
+      "06": {
+        "区域截图": "Hoton yanki"
+      }
+    },
+    "l0071": {
+      "07": {
+        "窗口截图": "Hoton taga"
+      }
+    },
+    "l0075": {
+      "08": {
+        "取色器": "Mai ɗaukar launi"
+      }
+    },
+    "l0076": {
+      "09": {
+        "屏幕录制": "Rikodin allo"
+      }
+    },
+    "l0080": {
+      "10": {
+        "显示主窗口": "Nuna babban taga"
+      }
+    },
+    "l0081": {
+      "11": {
+        "设置": "Saituna"
+      }
+    },
+    "l0083": {
+      "12": {
+        "退出": "Fita"
+      }
+    }
+  },
+  "core_update_manager": {
+    "l0040": {
+      "01": {
+        "服务器返回数据格式错误": "Tsarin bayanan da uwar garke ta dawo da shi ba daidai ba ne"
+      }
+    },
+    "l0042": {
+      "02": {
+        "服务器响应错误_response_statu": "Kuskuren amsar uwar garke: {response.status_code}"
+      }
+    },
+    "l0044": {
+      "03": {
+        "网络连接失败_str_e": "Haɗin cibiyar sadarwa ya kasa: {str(e)}"
+      }
+    },
+    "l0068": {
+      "04": {
+        "检查更新": "Duba sabuntawa"
+      },
+      "05": {
+        "当前已是最新版本": "Kana amfani da sabon sigar"
+      }
+    },
+    "l0074": {
+      "06": {
+        "检查失败": "Dubawa ta kasa"
+      },
+      "07": {
+        "获取版本信息失败": "An kasa samun bayanan sigar"
+      }
+    },
+    "l0083": {
+      "08": {
+        "发现新版本_remote_version": "An sami sabon sigar: {remote_version}\n\n{data.get('update_log', 'No update log')}"
+      },
+      "09": {
+        "无更新日志": "Babu bayanin sabuntawa"
+      }
+    },
+    "l0086": {
+      "10": {
+        "强制更新_msg": "[Sabuntawa Dole]\n{msg}"
+      }
+    },
+    "l0087": {
+      "11": {
+        "必须更新": "Dole ne a sabunta"
+      },
+      "12": {
+        "立即更新": "Sabunta yanzu"
+      }
+    },
+    "l0092": {
+      "13": {
+        "发现新版本": "An sami sabon sigar"
+      }
+    },
+    "l0094": {
+      "14": {
+        "立即更新": "Sabunta yanzu"
+      }
+    },
+    "l0095": {
+      "15": {
+        "稍后": "Daga baya"
+      }
+    },
+    "l0104": {
+      "16": {
+        "检查失败": "Dubawa ta kasa"
+      },
+      "17": {
+        "检查更新出错_error_msg": "Kuskure wajen duba sabuntawa:\n{error_msg}"
+      }
+    },
+    "l0125": {
+      "18": {
+        "未找到更新程序_updater_exe": "Ba a sami mai sabuntawa ba: {updater_exe}"
+      }
+    },
+    "l0152": {
+      "19": {
+        "更新失败": "Sabuntawa ta kasa"
+      },
+      "20": {
+        "无法启动更新程序_str_e": "An kasa fara mai sabuntawa:\n{str(e)}"
+      }
+    }
+  },
+  "main": {
+    "l0057": {
+      "01": {
+        "错误": "Kuskure"
+      },
+      "02": {
+        "程序发生错误_str_value": "Kuskure ya faru a shirin:\n{str(value)}"
+      }
+    },
+    "l0069": {
+      "03": {
+        "提示": "Sanarwa"
+      },
+      "04": {
+        "程序已在运行中_请勿重复启动": "Shirin yana gudana tuni. Da fatan kar a sake ƙaddamarwa."
+      }
+    },
+    "l0084": {
+      "05": {
+        "截图贴图工具": "Kayan Aikin Liƙa Hoton Allo"
+      }
+    },
+    "l0086": {
+      "06": {
+        "鲲穹AI": "Kunqiong AI"
+      }
+    },
+    "l0138": {
+      "07": {
+        "启动错误": "Kuskuren farawa"
+      },
+      "08": {
+        "程序启动失败_str_e": "Fara shirin ya kasa:\n{str(e)}"
+      }
+    }
+  },
+  "tools_crosshair": {
+    "l0081": {
+      "01": {
+        "当前_X_self_cursor_pos_x": "Yanzu: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0084": {
+      "02": {
+        "锁定_X_self_cursor_pos": "🔒 An kulle: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0092": {
+      "03": {
+        "点_i_1_ΔX_sign_x_dx": "Maki{i + 1}: ΔX={sign_x}{dx}  ΔY={sign_y}{dy}"
+      }
+    },
+    "l0095": {
+      "04": {
+        "Space_锁定_L_添加对比点_C_清": "Space=Kulle | L=Ƙara maki na kwatance | C=Share | ESC=Fita"
+      }
+    },
+    "l0266": {
+      "05": {
+        "解除锁定": "Buɗe kulle"
+      },
+      "06": {
+        "锁定当前坐标": "Kulle ko’odinet na yanzu"
+      }
+    },
+    "l0270": {
+      "07": {
+        "添加对比点": "Ƙara maki na kwatance"
+      }
+    },
+    "l0274": {
+      "08": {
+        "清除所有对比点": "Share dukkan maki na kwatance"
+      }
+    },
+    "l0280": {
+      "09": {
+        "关闭": "Rufe"
+      }
+    }
+  },
+  "tools_magnifier": {
+    "l0024": {
+      "01": {
+        "放大镜": "Gilashin ƙara girma"
+      }
+    },
+    "l0085": {
+      "02": {
+        "放大镜": "Gilashin ƙara girma"
+      }
+    },
+    "l0158": {
+      "03": {
+        "按下_Esc_键退出": "Danna Esc don fita"
+      }
+    }
+  },
+  "tools_palette": {
+    "l0167": {
+      "01": {
+        "调色板": "Palet"
+      }
+    },
+    "l0261": {
+      "02": {
+        "主题颜色": "Launukan jigo"
+      }
+    },
+    "l0273": {
+      "03": {
+        "标准颜色": "Launuka na daidaito"
+      }
+    },
+    "l0286": {
+      "04": {
+        "自定义颜色": "Launuka na musamman"
+      }
+    },
+    "l0316": {
+      "05": {
+        "取色器_P": "🔍 Mai ɗaukar launi (P)"
+      }
+    },
+    "l0416": {
+      "06": {
+        "添加到自定义颜色": "✨ Ƙara zuwa launuka na musamman"
+      }
+    },
+    "l0442": {
+      "07": {
+        "复制": "📋 Kwafi"
+      }
+    },
+    "l0457": {
+      "08": {
+        "取消": "Soke"
+      }
+    },
+    "l0463": {
+      "09": {
+        "确定": "OK"
+      }
+    },
+    "l0611": {
+      "10": {
+        "已复制_text": "An kwafi: {text}"
+      }
+    },
+    "l0681": {
+      "11": {
+        "选择颜色": "Zaɓi launi"
+      }
+    },
+    "l0716": {
+      "12": {
+        "已复制_color_name_upper": "An kwafi: {color.name().upper()}"
+      }
+    }
+  },
+  "tools_protractor": {
+    "l0048": {
+      "01": {
+        "量角器": "Ma'aunin kusurwa"
+      }
+    },
+    "l0216": {
+      "02": {
+        "锁定_self_angle_lock": "An kulle: {self.angle_lock}°"
+      }
+    },
+    "l0240": {
+      "03": {
+        "拖动绿点移动中心": "Ja ɗigon kore don matsar da tsakiya"
+      }
+    },
+    "l0241": {
+      "04": {
+        "拖动红_蓝点调整角度": "Ja ɗigon ja/shuɗi don daidaita kusurwa"
+      }
+    },
+    "l0242": {
+      "05": {
+        "L键切换角度锁定": "Danna L don kunna/kashe kulle kusurwa"
+      }
+    },
+    "l0243": {
+      "06": {
+        "S键保存测量": "Danna S don adana auna"
+      }
+    },
+    "l0244": {
+      "07": {
+        "E键导出CSV": "Danna E don fitar da CSV"
+      }
+    },
+    "l0245": {
+      "08": {
+        "右键菜单_ESC退出": "Menu na danna dama | ESC don fita"
+      }
+    },
+    "l0335": {
+      "09": {
+        "保存当前测量": "Adana auna na yanzu"
+      }
+    },
+    "l0339": {
+      "10": {
+        "导出测量记录_CSV": "Fitar da bayanan auna (CSV)"
+      }
+    },
+    "l0345": {
+      "11": {
+        "禁用_if_self_lock_enabl": "{'Disable' if self.lock_enabled else 'Enable'} kulle kusurwa ({self.angle_lock}°)"
+      },
+      "12": {
+        "禁用": "Kashe"
+      },
+      "13": {
+        "启用": "Kunna"
+      }
+    },
+    "l0351": {
+      "14": {
+        "关闭": "Rufe"
+      }
+    },
+    "l0383": {
+      "15": {
+        "导出测量记录": "Fitar da bayanan auna"
+      }
+    },
+    "l0385": {
+      "16": {
+        "CSV文件_csv": "Fayilolin CSV (*.csv)"
+      }
+    },
+    "l0391": {
+      "17": {
+        "时间": "Lokaci"
+      },
+      "18": {
+        "测量角度": "Kusurwar da aka auna"
+      },
+      "19": {
+        "起始角度": "Kusurwar farawa"
+      },
+      "20": {
+        "终止角度": "Kusurwar ƙarewa"
+      },
+      "21": {
+        "中心点X": "Tsakiya X"
+      },
+      "22": {
+        "中心点Y": "Tsakiya Y"
+      }
+    }
+  },
+  "tools_ruler": {
+    "l0019": {
+      "01": {
+        "默认_黄色": "Tsoho (Rawaya)"
+      }
+    },
+    "l0026": {
+      "02": {
+        "蓝色": "Shuɗi"
+      }
+    },
+    "l0033": {
+      "03": {
+        "白色": "Fari"
+      }
+    },
+    "l0040": {
+      "04": {
+        "黑色": "Baƙi"
+      }
+    },
+    "l0065": {
+      "05": {
+        "像素_px": "Pixels (px)"
+      }
+    },
+    "l0066": {
+      "06": {
+        "英寸_in": "Inches (in)"
+      }
+    },
+    "l0067": {
+      "07": {
+        "厘米_cm": "Santimita (cm)"
+      }
+    },
+    "l0280": {
+      "08": {
+        "像素尺": "Ma'aunin Pixel"
+      }
+    },
+    "l0352": {
+      "09": {
+        "DPI_self_dpi_单位_R": "DPI: {self.dpi} | Naúrar: {RulerUnit.UNITS[self.unit]['name']} | Haske: {int(self.opacity * 100)}%"
+      }
+    },
+    "l0359": {
+      "10": {
+        "右键菜单_滚轮调透明度_双击关闭": "Menu na danna dama | Dabaran linzami don daidaita haske | Danna sau biyu don rufe"
+      }
+    },
+    "l0585": {
+      "11": {
+        "单位": "📏 Naúro'i"
+      }
+    },
+    "l0605": {
+      "12": {
+        "配色": "🎨 Tsarin launi"
+      }
+    },
+    "l0621": {
+      "13": {
+        "透明度": "Bayyananne:"
+      }
+    },
+    "l0641": {
+      "14": {
+        "重置大小": "↺ Sake saita Girma"
+      }
+    },
+    "l0646": {
+      "15": {
+        "关闭": "✕ Rufe"
+      }
+    }
+  },
+  "tools_screen_recorder": {
+    "l0142": {
+      "01": {
+        "屏幕录制器": "Mai Rikodin Allo"
+      }
+    },
+    "l0196": {
+      "02": {
+        "屏幕录制": "Rikodin Allo"
+      }
+    },
+    "l0223": {
+      "03": {
+        "已录制时间": "Lokacin da aka rikoda"
+      }
+    },
+    "l0253": {
+      "04": {
+        "开始录制": "Fara Rikodi"
+      }
+    },
+    "l0260": {
+      "05": {
+        "暂停": "Dakatar"
+      }
+    },
+    "l0278": {
+      "06": {
+        "更改路径": "Canza Hanya"
+      }
+    },
+    "l0336": {
+      "07": {
+        "停止录制": "⏹ Tsayar da Rikodi"
+      }
+    },
+    "l0356": {
+      "08": {
+        "开始录制": "⏺ Fara Rikodi"
+      }
+    },
+    "l0361": {
+      "09": {
+        "暂停": "⏸ Dakatar"
+      }
+    },
+    "l0370": {
+      "10": {
+        "继续": "▶ Ci gaba"
+      }
+    },
+    "l0376": {
+      "11": {
+        "暂停": "⏸ Dakatar"
+      }
+    },
+    "l0407": {
+      "12": {
+        "选择保存目录": "Zaɓi Kundin Ajiya"
+      }
+    }
+  },
+  "tools_whiteboard": {
+    "l0841": {
+      "01": {
+        "白板": "Allon Rubutu"
+      }
+    },
+    "l0935": {
+      "02": {
+        "画笔": "Goga"
+      }
+    },
+    "l0936": {
+      "03": {
+        "荧光笔": "Alƙalamin Haske"
+      }
+    },
+    "l0937": {
+      "04": {
+        "直线": "Layi"
+      }
+    },
+    "l0938": {
+      "05": {
+        "矩形": "Murabba'i"
+      }
+    },
+    "l0939": {
+      "06": {
+        "填充矩形": "Murabba'i Mai Cike"
+      }
+    },
+    "l0940": {
+      "07": {
+        "椭圆": "Zobe"
+      }
+    },
+    "l0941": {
+      "08": {
+        "箭头": "Kibiya"
+      }
+    },
+    "l0942": {
+      "09": {
+        "文字": "Rubutu"
+      }
+    },
+    "l0957": {
+      "10": {
+        "橡皮擦": "Goge"
+      }
+    },
+    "l1001": {
+      "11": {
+        "更多颜色": "Ƙarin Launuka..."
+      }
+    },
+    "l1040": {
+      "12": {
+        "透明": "Mara launi"
+      }
+    },
+    "l1041": {
+      "13": {
+        "白色": "Fari"
+      }
+    },
+    "l1042": {
+      "14": {
+        "黑色": "Baƙi"
+      }
+    },
+    "l1047": {
+      "15": {
+        "tooltip_背景": "{tooltip}Bango"
+      }
+    },
+    "l1061": {
+      "16": {
+        "撤销": "Soke"
+      }
+    },
+    "l1067": {
+      "17": {
+        "清空": "Share"
+      }
+    },
+    "l1080": {
+      "18": {
+        "缩小工具栏": "Nad'e Kayan Aiki"
+      }
+    },
+    "l1086": {
+      "19": {
+        "保存": "Ajiye"
+      }
+    },
+    "l1102": {
+      "20": {
+        "退出": "Fita"
+      }
+    },
+    "l1145": {
+      "21": {
+        "对象擦除": "Goge Abu"
+      }
+    },
+    "l1151": {
+      "22": {
+        "局部擦除": "Goge Wani ɓangare"
+      }
+    },
+    "l1163": {
+      "23": {
+        "大小": "Girma:"
+      }
+    },
+    "l1214": {
+      "24": {
+        "调色板": "Faletin Launi"
+      }
+    },
+    "l1228": {
+      "25": {
+        "缩小工具栏": "Nad'e Kayan Aiki"
+      }
+    },
+    "l1243": {
+      "26": {
+        "展开白板": "Faɗaɗa Allon Rubutu"
+      }
+    },
+    "l1250": {
+      "27": {
+        "保存白板": "Ajiye Allon Rubutu"
+      }
+    },
+    "l1252": {
+      "28": {
+        "PNG图像_png_PDF文件": "Hoton PNG (*.png);;Fayil PDF (*.pdf)"
+      }
+    },
+    "l1259": {
+      "29": {
+        "已保存_os_path_basename_f": "An ajiye: {os.path.basename(file_path)}"
+      }
+    },
+    "l1272": {
+      "30": {
+        "保存失败": "Ajiya ta gaza"
+      },
+      "31": {
+        "无法保存PDF_str_e": "Ba a iya ajiye PDF ba: {str(e)}"
+      }
+    }
+  },
+  "ui_ad_widget": {
+    "l0080": {
+      "02": {
+        "点击查看详情": "Danna don duba cikakkun bayanai"
+      }
+    }
+  },
+  "ui_clipboard_history": {
+    "l0081": {
+      "01": {
+        "剪贴板历史": "Tarihin Clipboard"
+      }
+    },
+    "l0087": {
+      "02": {
+        "清空": "Share"
+      }
+    },
+    "l0118": {
+      "03": {
+        "暂无历史记录_复制图像后会自动记录": "Babu tarihi tukuna\nZa a rikoda hotunan da aka kwafa ta atomatik"
+      }
+    },
+    "l0161": {
+      "04": {
+        "确认清空": "Tabbatar da Sharewa"
+      }
+    },
+    "l0162": {
+      "05": {
+        "确定要清空所有剪贴板历史记录吗": "Ka tabbata kana son share duk tarihin clipboard?"
+      }
+    },
+    "l0163": {
+      "06": {
+        "确定": "Tabbatar"
+      },
+      "07": {
+        "取消": "Soke"
+      }
+    },
+    "l0178": {
+      "08": {
+        "剪贴板历史": "Tarihin Clipboard"
+      }
+    }
+  },
+  "ui_control_capture": {
+    "l0148": {
+      "01": {
+        "按钮": "Maɓalli"
+      },
+      "02": {
+        "复选框": "Akwatin Zaɓi"
+      },
+      "03": {
+        "下拉框": "Jerin Sauka"
+      }
+    },
+    "l0149": {
+      "04": {
+        "编辑框": "Akwatin Gyara"
+      },
+      "05": {
+        "列表": "Jeri"
+      },
+      "06": {
+        "文本": "Rubutu"
+      }
+    },
+    "l0150": {
+      "07": {
+        "窗口": "Taga"
+      },
+      "08": {
+        "窗格": "Fane"
+      }
+    },
+    "l0152": {
+      "09": {
+        "控件": "Sarrafa"
+      }
+    },
+    "l0224": {
+      "10": {
+        "按钮": "Maɓalli"
+      }
+    },
+    "l0225": {
+      "11": {
+        "日历": "Kalanda"
+      }
+    },
+    "l0226": {
+      "12": {
+        "复选框": "Akwatin Zaɓi"
+      }
+    },
+    "l0227": {
+      "13": {
+        "下拉框": "Jerin Sauka"
+      }
+    },
+    "l0228": {
+      "14": {
+        "编辑框": "Akwatin Gyara"
+      }
+    },
+    "l0229": {
+      "15": {
+        "超链接": "Mahada"
+      }
+    },
+    "l0230": {
+      "16": {
+        "图像": "Hoto"
+      }
+    },
+    "l0231": {
+      "17": {
+        "列表项": "Abun Jeri"
+      }
+    },
+    "l0232": {
+      "18": {
+        "列表": "Jeri"
+      }
+    },
+    "l0233": {
+      "19": {
+        "菜单": "Menu"
+      }
+    },
+    "l0234": {
+      "20": {
+        "菜单栏": "Sandar Menu"
+      }
+    },
+    "l0235": {
+      "21": {
+        "菜单项": "Abun Menu"
+      }
+    },
+    "l0236": {
+      "22": {
+        "进度条": "Sandar Ci gaba"
+      }
+    },
+    "l0237": {
+      "23": {
+        "单选按钮": "Maɓallin Zaɓi ɗaya"
+      }
+    },
+    "l0238": {
+      "24": {
+        "滚动条": "Sandar Gungura"
+      }
+    },
+    "l0239": {
+      "25": {
+        "滑块": "Silida"
+      }
+    },
+    "l0240": {
+      "26": {
+        "微调框": "Akwatin Juyawa"
+      }
+    },
+    "l0241": {
+      "27": {
+        "状态栏": "Sandar Matsayi"
+      }
+    },
+    "l0242": {
+      "28": {
+        "标签页": "Shafi"
+      }
+    },
+    "l0243": {
+      "29": {
+        "标签项": "Abun Shafi"
+      }
+    },
+    "l0244": {
+      "30": {
+        "文本": "Rubutu"
+      }
+    },
+    "l0245": {
+      "31": {
+        "工具栏": "Sandar Kayan Aiki"
+      }
+    },
+    "l0246": {
+      "32": {
+        "工具提示": "Bayani"
+      }
+    },
+    "l0247": {
+      "33": {
+        "树形视图": "Duban Itace"
+      }
+    },
+    "l0248": {
+      "34": {
+        "树形项": "Abun Itace"
+      }
+    },
+    "l0249": {
+      "35": {
+        "自定义": "Na Musamman"
+      }
+    },
+    "l0250": {
+      "36": {
+        "组": "Rukuni"
+      }
+    },
+    "l0251": {
+      "37": {
+        "缩略图": "Ƙaramin Hoto"
+      }
+    },
+    "l0252": {
+      "38": {
+        "数据网格": "Girman Bayanai"
+      }
+    },
+    "l0253": {
+      "39": {
+        "数据项": "Abun Bayanai"
+      }
+    },
+    "l0254": {
+      "40": {
+        "文档": "Takarda"
+      }
+    },
+    "l0255": {
+      "41": {
+        "分隔条": "Mai Raba"
+      }
+    },
+    "l0256": {
+      "42": {
+        "窗口": "Taga"
+      }
+    },
+    "l0257": {
+      "43": {
+        "窗格": "Fane"
+      }
+    },
+    "l0258": {
+      "44": {
+        "表头": "Kan Tebur"
+      }
+    },
+    "l0259": {
+      "45": {
+        "表头项": "Abun Kan Tebur"
+      }
+    },
+    "l0260": {
+      "46": {
+        "表格": "Tebur"
+      }
+    },
+    "l0261": {
+      "47": {
+        "标题栏": "Sandar Take"
+      }
+    },
+    "l0262": {
+      "48": {
+        "语义缩放": "Girman Ma'ana"
+      }
+    },
+    "l0264": {
+      "49": {
+        "控件_control_type": "Sarrafa ({control_type})"
+      }
+    },
+    "l0391": {
+      "50": {
+        "控件": "Sarrafa"
+      }
+    },
+    "l0398": {
+      "51": {
+        "移动鼠标选择目标": "Matsa linzamin kwamfuta don zaɓar manufa"
+      }
+    },
+    "l0399": {
+      "52": {
+        "点击截取": "Danna don ɗauka"
+      }
+    },
+    "l0400": {
+      "53": {
+        "Ctrl_点击滚动截取": "Ctrl+Click don ɗaukar gungura"
+      }
+    },
+    "l0401": {
+      "54": {
+        "滚轮_切换层级": "Dabaran linzami ↑↓ don canza matakai"
+      }
+    },
+    "l0402": {
+      "55": {
+        "ESC取消": "ESC don soke"
+      }
+    },
+    "l0521": {
+      "56": {
+        "未找到窗口": "Ba a samo taga ba"
+      }
+    },
+    "l0841": {
+      "57": {
+        "未识别到控件": "Ba a gano sarrafawa ba"
+      }
+    },
+    "l0896": {
+      "58": {
+        "未识别": "Ba a gane ba"
+      }
+    },
+    "l0908": {
+      "59": {
+        "窗口_层级_1_total": "🪟 Taga (Mataki 1/{total})"
+      }
+    },
+    "l0923": {
+      "60": {
+        "type_name_层级_level": "🎯 {type_name} (Mataki {level}/{total})"
+      }
+    },
+    "l0925": {
+      "61": {
+        "控件_层级_level_total": "🎯 Sarrafa (Mataki {level}/{total})"
+      }
+    },
+    "l0969": {
+      "62": {
+        "未识别到控件": "Ba a gano sarrafawa ba"
+      }
+    },
+    "l0977": {
+      "63": {
+        "窗口无效": "Taga mara inganci"
+      }
+    },
+    "l0985": {
+      "64": {
+        "无法获取位置": "Ba a iya samun matsayi ba"
+      }
+    },
+    "l1000": {
+      "65": {
+        "尺寸无效": "Girma mara inganci"
+      }
+    },
+    "l1021": {
+      "66": {
+        "窗口_title_滚轮_进入子控件": "Taga: {title} | Dabaran linzami↓ don shiga sarrafawa na ƙasa | Danna don ɗauka | Ctrl+Click don ɗaukar gungura"
+      }
+    },
+    "l1023": {
+      "67": {
+        "窗口_滚轮_进入子控件_点击截取_C": "Taga | Dabaran linzami↓ don shiga sarrafawa na ƙasa | Danna don ɗauka | Ctrl+Click don ɗaukar gungura"
+      }
+    },
+    "l1025": {
+      "68": {
+        "控件": "Sarrafa"
+      }
+    },
+    "l1028": {
+      "69": {
+        "type_info_滚轮_切换层级": "{type_info} | Dabaran linzami↑↓ don canza matakai | Danna don ɗauka | Ctrl+Click don ɗaukar gungura"
+      }
+    },
+    "l1057": {
+      "70": {
+        "按钮": "Maɓalli"
+      }
+    },
+    "l1058": {
+      "71": {
+        "输入框": "Akwatin Shigarwa"
+      }
+    },
+    "l1059": {
+      "72": {
+        "富文本框": "Akwatin Rubutu Mai Arziki"
+      }
+    },
+    "l1060": {
+      "73": {
+        "下拉框": "Jerin Sauka"
+      }
+    },
+    "l1061": {
+      "74": {
+        "列表框": "Akwatin Jeri"
+      }
+    },
+    "l1062": {
+      "75": {
+        "列表视图": "Duban Jeri"
+      }
+    },
+    "l1063": {
+      "76": {
+        "列表视图": "Duban Jeri"
+      }
+    },
+    "l1064": {
+      "77": {
+        "树形视图": "Duban Itace"
+      }
+    },
+    "l1065": {
+      "78": {
+        "树形视图": "Duban Itace"
+      }
+    },
+    "l1066": {
+      "79": {
+        "数据表格": "Teburin Bayanai"
+      }
+    },
+    "l1067": {
+      "80": {
+        "滚动条": "Sandar Gungura"
+      }
+    },
+    "l1068": {
+      "81": {
+        "静态文本": "Rubutu Tsaye"
+      }
+    },
+    "l1069": {
+      "82": {
+        "标签页": "Shafi"
+      }
+    },
+    "l1070": {
+      "83": {
+        "标签页": "Shafi"
+      }
+    },
+    "l1071": {
+      "84": {
+        "工具栏": "Sandar Kayan Aiki"
+      }
+    },
+    "l1072": {
+      "85": {
+        "状态栏": "Sandar Matsayi"
+      }
+    },
+    "l1073": {
+      "86": {
+        "状态栏": "Sandar Matsayi"
+      }
+    },
+    "l1074": {
+      "87": {
+        "菜单": "Menu"
+      }
+    },
+    "l1075": {
+      "88": {
+        "提示框": "Bayani"
+      }
+    },
+    "l1076": {
+      "89": {
+        "进度条": "Sandar Ci gaba"
+      }
+    },
+    "l1077": {
+      "90": {
+        "进度条": "Sandar Ci gaba"
+      }
+    },
+    "l1078": {
+      "91": {
+        "滑块": "Silida"
+      }
+    },
+    "l1079": {
+      "92": {
+        "滑块": "Silida"
+      }
+    },
+    "l1080": {
+      "93": {
+        "微调按钮": "Maɓallin Juyawa"
+      }
+    },
+    "l1081": {
+      "94": {
+        "微调按钮": "Maɓallin Juyawa"
+      }
+    },
+    "l1082": {
+      "95": {
+        "表头": "Kan Tebur"
+      }
+    },
+    "l1083": {
+      "96": {
+        "表头": "Kan Tebur"
+      }
+    },
+    "l1084": {
+      "97": {
+        "工具条": "Sirin Kayan Aiki"
+      }
+    },
+    "l1085": {
+      "98": {
+        "工具条": "Sirin Kayan Aiki"
+      }
+    },
+    "l1086": {
+      "99": {
+        "文件视图": "Duban Fayil"
+      }
+    },
+    "l1088": {
+      "100": {
+        "浏览器": "Bincike"
+      }
+    },
+    "l1089": {
+      "101": {
+        "浏览器": "Bincike"
+      }
+    }
+  },
+  "ui_editor_panels": {
+    "l0060": {
+      "01": {
+        "画质特效": "🎨 Tasirin Hoto"
+      }
+    },
+    "l0071": {
+      "02": {
+        "模糊": "🌫 Disashe"
+      }
+    },
+    "l0072": {
+      "03": {
+        "锐化": "🔍 Kaifafa"
+      }
+    },
+    "l0073": {
+      "04": {
+        "像素化": "▦ Pixelate"
+      }
+    },
+    "l0074": {
+      "05": {
+        "浮雕": "🗻 Emboss"
+      }
+    },
+    "l0075": {
+      "06": {
+        "噪点": "✨ Hayaniya"
+      }
+    },
+    "l0086": {
+      "07": {
+        "特效强度": "Ƙarfin Tasiri:"
+      }
+    },
+    "l0106": {
+      "08": {
+        "撤销": "↩ Soke"
+      }
+    },
+    "l0110": {
+      "09": {
+        "重置": "↺ Sake saita"
+      }
+    },
+    "l0184": {
+      "10": {
+        "色彩调整": "🔆 Daidaita Launi"
+      }
+    },
+    "l0196": {
+      "11": {
+        "亮度": "☀ Haske:"
+      }
+    },
+    "l0217": {
+      "12": {
+        "对比度": "◐ Bambanci:"
+      }
+    },
+    "l0238": {
+      "13": {
+        "饱和度": "🎨 Cikakken Launi:"
+      }
+    },
+    "l0260": {
+      "14": {
+        "重置": "↺ Sake saita"
+      }
+    },
+    "l0264": {
+      "15": {
+        "应用": "✓ Aiwatar"
+      }
+    }
+  },
+  "ui_editor_window": {
+    "l0077": {
+      "01": {
+        "图像编辑器_PyScreenshot": "Editan Hoto - PyScreenshot"
+      }
+    },
+    "l0098": {
+      "02": {
+        "QLabel_font_size_13px": "QLabel {\n                font-size: 13px;\n            }\n            QScrollBar:vertical {\n                background: transparent;\n                width: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:vertical {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-height: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:vertical:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar:horizontal {\n                background: transparent;\n                height: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:horizontal {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-width: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:horizontal:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar::add-line, QScrollBar::sub-line {\n                background: none;\n                border: none;\n            }\n            \n            /* Sidebar dock widget styling */\n            QDockWidget {\n                border: none;\n                background: #ffffff;\n            }\n            QDockWidget::title {\n                background: #f8f9fa;\n                padding: 10px 15px;\n                border-bottom: 1px solid #eaeaea;\n                font-weight: 600;\n                color: #333;\n            }"
+      }
+    },
+    "l0202": {
+      "03": {
+        "新建图像": "Sabon Hoto"
+      }
+    },
+    "l0246": {
+      "04": {
+        "尺寸_s_width_s_heigh": "Girma: {s.width()}×{s.height()} | {tab_data.title}"
+      }
+    },
+    "l0360": {
+      "05": {
+        "文件": "Fayil"
+      },
+      "06": {
+        "编辑": "Gyara"
+      },
+      "07": {
+        "绘图": "Zana"
+      },
+      "08": {
+        "特效": "Tasiri"
+      }
+    },
+    "l0361": {
+      "09": {
+        "文件": "Fayil"
+      },
+      "10": {
+        "编辑": "Gyara"
+      },
+      "11": {
+        "绘图": "Zana"
+      },
+      "12": {
+        "特效": "Tasiri"
+      }
+    },
+    "l0413": {
+      "13": {
+        "编辑": "Gyara"
+      }
+    },
+    "l0421": {
+      "14": {
+        "文件": "Fayil"
+      },
+      "15": {
+        "编辑": "Gyara"
+      },
+      "16": {
+        "绘图": "Zana"
+      },
+      "17": {
+        "特效": "Tasiri"
+      }
+    },
+    "l0458": {
+      "18": {
+        "返回": "Koma baya"
+      }
+    },
+    "l0461": {
+      "19": {
+        "返回": "Koma baya"
+      },
+      "20": {
+        "返回主页面": "Koma zuwa Babban Shafi"
+      }
+    },
+    "l0468": {
+      "21": {
+        "文件": "Fayil"
+      }
+    },
+    "l0471": {
+      "22": {
+        "新建": "Sabo"
+      },
+      "23": {
+        "新建图像": "Sabon Hoto"
+      }
+    },
+    "l0475": {
+      "24": {
+        "打开": "Buɗe"
+      },
+      "25": {
+        "打开文件": "Buɗe Fayil"
+      }
+    },
+    "l0479": {
+      "26": {
+        "保存": "Ajiye"
+      },
+      "27": {
+        "保存_Ctrl_S": "Ajiye Ctrl+S"
+      }
+    },
+    "l0483": {
+      "28": {
+        "另存为": "Ajiye Kamar"
+      }
+    },
+    "l0490": {
+      "29": {
+        "分享": "Raba"
+      }
+    },
+    "l0493": {
+      "30": {
+        "分享": "Raba"
+      },
+      "31": {
+        "分享到": "Raba zuwa..."
+      }
+    },
+    "l0497": {
+      "32": {
+        "导出": "Fitar"
+      },
+      "33": {
+        "批量导出所有标签页": "Fitar da duk shafuka a lokaci ɗaya"
+      }
+    },
+    "l0504": {
+      "34": {
+        "打印": "Buga"
+      }
+    },
+    "l0507": {
+      "35": {
+        "打印": "Buga"
+      },
+      "36": {
+        "打印_Ctrl_P": "Buga Ctrl+P"
+      }
+    },
+    "l0514": {
+      "37": {
+        "操作": "Ayyuka"
+      }
+    },
+    "l0517": {
+      "38": {
+        "撤销": "Soke"
+      },
+      "39": {
+        "撤销上一步操作": "Soke aikin da ya gabata"
+      }
+    },
+    "l0521": {
+      "40": {
+        "重置": "Sake saita"
+      },
+      "41": {
+        "重置为原始图像": "Sake saita zuwa hoton asali"
+      }
+    },
+    "l0533": {
+      "42": {
+        "打开图像": "Buɗe Hoto"
+      }
+    },
+    "l0534": {
+      "43": {
+        "图像文件_png_jpg_jpeg": "Fayilolin Hoto (*.png *.jpg *.jpeg *.bmp *.gif);;Duk Fayiloli (*.*)"
+      }
+    },
+    "l0541": {
+      "44": {
+        "错误": "Kuskure"
+      },
+      "45": {
+        "无法打开该图像文件": "Ba a iya buɗe wannan fayil ɗin hoto ba"
+      }
+    },
+    "l0553": {
+      "46": {
+        "历史": "Tarihi"
+      }
+    },
+    "l0556": {
+      "47": {
+        "撤销": "Soke"
+      },
+      "48": {
+        "撤销_Ctrl_Z": "Soke Ctrl+Z"
+      }
+    },
+    "l0560": {
+      "49": {
+        "重置": "Sake saita"
+      },
+      "50": {
+        "重置到原图_移除所有编辑": "Sakeita zuwa hoton asali (cire duk gyare-gyare)"
+      }
+    },
+    "l0567": {
+      "51": {
+        "剪贴板": "Allon kwafi"
+      }
+    },
+    "l0570": {
+      "52": {
+        "复制": "Kwafi"
+      },
+      "53": {
+        "复制_Ctrl_C": "Kwafi Ctrl+C"
+      }
+    },
+    "l0574": {
+      "54": {
+        "粘贴": "Liƙa"
+      },
+      "55": {
+        "粘贴_Ctrl_V": "Liƙa Ctrl+V"
+      }
+    },
+    "l0581": {
+      "56": {
+        "变换": "Canza"
+      }
+    },
+    "l0584": {
+      "57": {
+        "左旋": "Juya Hagu"
+      },
+      "58": {
+        "左旋90度": "Juya Hagu 90°"
+      }
+    },
+    "l0588": {
+      "59": {
+        "右旋": "Juya Dama"
+      },
+      "60": {
+        "右旋90度": "Juya Dama 90°"
+      }
+    },
+    "l0592": {
+      "61": {
+        "水平翻": "Juya a Kwance"
+      },
+      "62": {
+        "水平翻转": "Juyar a kwance"
+      }
+    },
+    "l0596": {
+      "63": {
+        "垂直翻": "Juya a Tsaye"
+      },
+      "64": {
+        "垂直翻转": "Juyar a tsaye"
+      }
+    },
+    "l0603": {
+      "65": {
+        "裁剪": "Yanke"
+      }
+    },
+    "l0606": {
+      "66": {
+        "裁剪": "Yanke"
+      },
+      "67": {
+        "裁剪图像": "Yanke Hoto"
+      }
+    },
+    "l0613": {
+      "68": {
+        "文字识别": "Gane Rubutu"
+      }
+    },
+    "l0616": {
+      "69": {
+        "识别文字": "Gane Rubutu"
+      },
+      "70": {
+        "识别裁剪区域文字并复制": "Gane rubutu a yankin da aka yanke kuma a kwafa"
+      }
+    },
+    "l0635": {
+      "71": {
+        "选择": "Zaɓa"
+      }
+    },
+    "l0640": {
+      "72": {
+        "移动": "Motsa"
+      },
+      "73": {
+        "移动工具": "Kayan Aikin Motsawa"
+      }
+    },
+    "l0648": {
+      "74": {
+        "画笔": "Burushi"
+      }
+    },
+    "l0652": {
+      "75": {
+        "画笔": "Burushi"
+      }
+    },
+    "l0653": {
+      "76": {
+        "荧光笔": "Alƙalamin haskaka rubutu"
+      }
+    },
+    "l0663": {
+      "77": {
+        "橡皮擦": "Goge"
+      }
+    },
+    "l0677": {
+      "78": {
+        "形状": "Siffofi"
+      }
+    },
+    "l0681": {
+      "79": {
+        "箭头": "Kibiya"
+      }
+    },
+    "l0682": {
+      "80": {
+        "直线": "Layi"
+      }
+    },
+    "l0683": {
+      "81": {
+        "矩形": "Murabba'i mai kusurwa huɗu"
+      },
+      "82": {
+        "空心矩形": "Murabba'i marar cikawa"
+      }
+    },
+    "l0684": {
+      "83": {
+        "实心矩形": "Murabba'i mai cikawa"
+      },
+      "84": {
+        "填充矩形": "Murabba'i da aka cika"
+      }
+    },
+    "l0685": {
+      "85": {
+        "椭圆": "Zobe"
+      },
+      "86": {
+        "空心椭圆": "Zobe marar cikawa"
+      }
+    },
+    "l0686": {
+      "87": {
+        "实心椭圆": "Zobe mai cikawa"
+      },
+      "88": {
+        "填充椭圆": "Zobe da aka cika"
+      }
+    },
+    "l0698": {
+      "89": {
+        "文字": "Rubutu"
+      }
+    },
+    "l0701": {
+      "90": {
+        "文字": "Rubutu"
+      },
+      "91": {
+        "添加文字": "Ƙara Rubutu"
+      }
+    },
+    "l0709": {
+      "92": {
+        "大小": "Girma"
+      }
+    },
+    "l0714": {
+      "93": {
+        "宽度": "Faɗi:"
+      }
+    },
+    "l0723": {
+      "94": {
+        "字号": "Girman Harafi:"
+      }
+    },
+    "l0735": {
+      "95": {
+        "颜色": "Launi"
+      }
+    },
+    "l0742": {
+      "96": {
+        "当前颜色_点击选择": "Launin yanzu - danna don zaɓa"
+      }
+    },
+    "l0759": {
+      "97": {
+        "历史": "Tarihi"
+      }
+    },
+    "l0762": {
+      "98": {
+        "撤销": "Warware"
+      },
+      "99": {
+        "撤销_Ctrl_Z": "Warware Ctrl+Z"
+      }
+    },
+    "l0766": {
+      "100": {
+        "重置": "Sake saita"
+      },
+      "101": {
+        "重置绘图_移除所有编辑": "Sake saita zane (cire duk gyare-gyare)"
+      }
+    },
+    "l0798": {
+      "102": {
+        "对象擦除": "Goge Abu"
+      }
+    },
+    "l0804": {
+      "103": {
+        "局部擦除": "Goge Sashe"
+      }
+    },
+    "l0816": {
+      "104": {
+        "大小": "Girma:"
+      }
+    },
+    "l0872": {
+      "105": {
+        "画质特效": "Tasirin Hoto"
+      }
+    },
+    "l0875": {
+      "106": {
+        "模糊": "Dusashe"
+      },
+      "107": {
+        "模糊效果": "Tasirin Dusashewa"
+      }
+    },
+    "l0879": {
+      "108": {
+        "锐化": "Kaifafa"
+      },
+      "109": {
+        "锐化效果": "Tasirin Kaifafawa"
+      }
+    },
+    "l0883": {
+      "110": {
+        "像素化": "Piksel"
+      },
+      "111": {
+        "像素化效果": "Tasirin Piksel"
+      }
+    },
+    "l0887": {
+      "112": {
+        "浮雕": "Emboss"
+      },
+      "113": {
+        "浮雕效果": "Tasirin Emboss"
+      }
+    },
+    "l0891": {
+      "114": {
+        "噪点": "Hayaniya"
+      },
+      "115": {
+        "添加噪点": "Ƙara Hayaniya"
+      }
+    },
+    "l0898": {
+      "116": {
+        "局部特效": "Tasirin Sashe"
+      }
+    },
+    "l0901": {
+      "117": {
+        "模糊笔刷": "Burushin Dusashewa"
+      },
+      "118": {
+        "局部模糊": "Dusashewar Sashe"
+      }
+    },
+    "l0907": {
+      "119": {
+        "马赛克": "Mosaic"
+      },
+      "120": {
+        "局部马赛克": "Mosaic na Sashe"
+      }
+    },
+    "l0916": {
+      "121": {
+        "面板": "Panel"
+      }
+    },
+    "l0919": {
+      "122": {
+        "色彩": "Launi"
+      },
+      "123": {
+        "打开色彩调整面板": "Buɗe panel ɗin daidaita launi"
+      }
+    },
+    "l0923": {
+      "124": {
+        "特效": "Tasiri"
+      },
+      "125": {
+        "打开特效面板": "Buɗe panel ɗin tasiri"
+      }
+    },
+    "l0930": {
+      "126": {
+        "历史": "Tarihi"
+      }
+    },
+    "l0933": {
+      "127": {
+        "撤销": "Warware"
+      },
+      "128": {
+        "撤销_Ctrl_Z": "Warware Ctrl+Z"
+      }
+    },
+    "l0937": {
+      "129": {
+        "重置": "Sake saita"
+      },
+      "130": {
+        "重置特效": "Sake saita tasiri"
+      }
+    },
+    "l0963": {
+      "131": {
+        "已应用_effect_特效": "✓ An yi amfani da tasirin {effect}"
+      }
+    },
+    "l0965": {
+      "132": {
+        "特效应用失败_str_e": "✗ An kasa amfani da tasiri: {str(e)}"
+      }
+    },
+    "l0972": {
+      "133": {
+        "粘贴的图像": "Hoton da aka liƙa"
+      }
+    },
+    "l0973": {
+      "134": {
+        "已粘贴图像": "✓ An liƙa hoto"
+      }
+    },
+    "l0975": {
+      "135": {
+        "剪贴板中没有图像": "Babu hoto a allon kwafi"
+      }
+    },
+    "l0998": {
+      "136": {
+        "返回": "Baya"
+      },
+      "137": {
+        "新建": "Sabon"
+      },
+      "138": {
+        "打开": "Buɗe"
+      },
+      "139": {
+        "保存存": "Ajiye"
+      },
+      "140": {
+        "另存为": "Ajiye Kamar"
+      }
+    },
+    "l0999": {
+      "141": {
+        "分享": "Raba"
+      },
+      "142": {
+        "导出": "Fitar"
+      },
+      "143": {
+        "打印": "Buga"
+      }
+    },
+    "l1001": {
+      "144": {
+        "撤销": "Warware"
+      },
+      "145": {
+        "重置": "Sake saita"
+      },
+      "146": {
+        "复制": "Kwafi"
+      },
+      "147": {
+        "粘贴": "Liƙa"
+      },
+      "148": {
+        "裁剪": "Yanke"
+      }
+    },
+    "l1003": {
+      "149": {
+        "左旋": "Juya Hagu"
+      },
+      "150": {
+        "右旋": "Juya Dama"
+      },
+      "151": {
+        "水平翻": "Juya a Kwance"
+      },
+      "152": {
+        "垂直翻": "Juya a Tsaye"
+      }
+    },
+    "l1005": {
+      "153": {
+        "移动": "Motsa"
+      },
+      "154": {
+        "画笔": "Burushi"
+      },
+      "155": {
+        "荧光笔": "Alƙalamin haskaka rubutu"
+      },
+      "156": {
+        "橡皮擦": "Goge"
+      },
+      "157": {
+        "文字": "Rubutu"
+      }
+    },
+    "l1006": {
+      "158": {
+        "箭头": "Kibiya"
+      },
+      "159": {
+        "直线": "Layi"
+      },
+      "160": {
+        "矩形": "Murabba'i mai kusurwa huɗu"
+      },
+      "161": {
+        "实心矩形": "Murabba'i mai cikawa"
+      }
+    },
+    "l1007": {
+      "162": {
+        "椭圆": "Zobe"
+      },
+      "163": {
+        "实心椭圆": "Zobe mai cikawa"
+      },
+      "164": {
+        "清除": "Share"
+      }
+    },
+    "l1009": {
+      "165": {
+        "模糊": "Dusashe"
+      },
+      "166": {
+        "锐化": "Kaifafa"
+      },
+      "167": {
+        "像素化": "Piksel"
+      },
+      "168": {
+        "浮雕": "Emboss"
+      },
+      "169": {
+        "噪点": "Hayaniya"
+      }
+    },
+    "l1010": {
+      "170": {
+        "模糊笔刷": "Burushin Dusashewa"
+      },
+      "171": {
+        "马赛克": "Mosaic"
+      },
+      "172": {
+        "色彩": "Launi"
+      },
+      "173": {
+        "特效": "Tasiri"
+      }
+    },
+    "l1129": {
+      "174": {
+        "坐标_0_0": "Matsayi: 0, 0"
+      }
+    },
+    "l1145": {
+      "175": {
+        "尺寸_s_width_s_hei": "Girma: {s.width()} × {s.height()}"
+      }
+    },
+    "l1146": {
+      "176": {
+        "就绪": "A shirye"
+      }
+    },
+    "l1148": {
+      "177": {
+        "尺寸": "Girma: - × -"
+      }
+    },
+    "l1149": {
+      "178": {
+        "就绪": "A shirye"
+      }
+    },
+    "l1183": {
+      "179": {
+        "特效": "Tasiri"
+      }
+    },
+    "l1197": {
+      "180": {
+        "调整": "Daidaita"
+      }
+    },
+    "l1228": {
+      "181": {
+        "调色板": "Palette"
+      }
+    },
+    "l1256": {
+      "182": {
+        "已清除标注": "An share bayanan alama"
+      }
+    },
+    "l1261": {
+      "183": {
+        "已复制到剪贴板": "✓ An kwafa zuwa allon kwafi"
+      }
+    },
+    "l1266": {
+      "184": {
+        "错误": "Kuskure"
+      },
+      "185": {
+        "没有可保存的图像": "Babu hoto da za a ajiye"
+      }
+    },
+    "l1277": {
+      "186": {
+        "已保存_os_path_basename": "✓ An ajiye: {os.path.basename(self.current_file_path)}"
+      }
+    },
+    "l1297": {
+      "187": {
+        "已保存_os_path_basename": "✓ An ajiye: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1310": {
+      "188": {
+        "错误": "Kuskure"
+      },
+      "189": {
+        "没有可保存的图像": "Babu hoto da za a ajiye"
+      }
+    },
+    "l1329": {
+      "190": {
+        "已保存_os_path_basename": "✓ An ajiye: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1334": {
+      "191": {
+        "提示": "Sanarwa"
+      },
+      "192": {
+        "没有可导出的图像": "Babu hoto da za a fitar."
+      }
+    },
+    "l1345": {
+      "193": {
+        "提示": "Sanarwa"
+      },
+      "194": {
+        "没有可导出的图像": "Babu hoto da za a fitar."
+      }
+    },
+    "l1361": {
+      "195": {
+        "历史记录": "Tarihi"
+      }
+    },
+    "l1381": {
+      "196": {
+        "文件不存在": "Fayil ɗin babu shi"
+      },
+      "197": {
+        "该文件已被移动或删除": "An matsar da wannan fayil ko an goge shi."
+      }
+    },
+    "l1463": {
+      "198": {
+        "保存失败": "Ajiye ya gaza"
+      }
+    },
+    "l1464": {
+      "199": {
+        "无法保存文件_error_n_n文件路径": "Ba za a iya ajiye fayil ba: {error}\\n\\nHanyar fayil: {file_path}\\n\\nDa fatan za a duba sararin faifai da izinin rubutu."
+      }
+    },
+    "l1465": {
+      "200": {
+        "重试": "Sake gwadawa"
+      },
+      "201": {
+        "取消": "Soke"
+      }
+    },
+    "l1473": {
+      "202": {
+        "错误": "Kuskure"
+      },
+      "203": {
+        "没有可打印的图像": "Babu hoto da za a buga"
+      }
+    },
+    "l1483": {
+      "204": {
+        "错误": "Kuskure"
+      },
+      "205": {
+        "没有可分享的图像": "Babu hoto da za a raba"
+      }
+    },
+    "l1490": {
+      "206": {
+        "分享": "Raba"
+      }
+    },
+    "l1624": {
+      "207": {
+        "宽度": "Faɗi:"
+      }
+    },
+    "l1633": {
+      "208": {
+        "高度": "Tsawo:"
+      }
+    },
+    "l1649": {
+      "209": {
+        "应用裁剪": "✓ Aiwatar da yanke"
+      }
+    },
+    "l1655": {
+      "210": {
+        "取消": "✗ Soke"
+      }
+    },
+    "l1706": {
+      "211": {
+        "已应用裁剪": "✓ An aiwatar da yanke"
+      }
+    },
+    "l1714": {
+      "212": {
+        "已取消裁剪": "An soke yanke"
+      }
+    },
+    "l1721": {
+      "213": {
+        "请框选要识别的文字区域": "Da fatan zaɓi yankin rubutun da za a gane..."
+      }
+    },
+    "l1729": {
+      "214": {
+        "OCR_错误": "Kuskuren OCR"
+      },
+      "215": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Injin OCR na gida bai shirya ba, da fatan duba abubuwan dogaro."
+      }
+    },
+    "l1733": {
+      "216": {
+        "正在识别文字_请稍候": "Ana gane rubutu, da fatan a jira..."
+      }
+    },
+    "l1741": {
+      "217": {
+        "识别完成": "An gama gane rubutu"
+      }
+    },
+    "l1744": {
+      "218": {
+        "识别结果": "Sakamakon Ganewa"
+      },
+      "219": {
+        "未识别到文字": "Ba a gane wani rubutu ba."
+      }
+    },
+    "l1755": {
+      "220": {
+        "识别失败": "Ganewa ta gaza"
+      }
+    },
+    "l1756": {
+      "221": {
+        "OCR_错误": "Kuskuren OCR"
+      },
+      "222": {
+        "识别失败_err_msg": "Ganewa ta gaza: {err_msg}"
+      }
+    },
+    "l1779": {
+      "223": {
+        "已应用_effect_特效": "✓ An yi amfani da tasirin {effect}"
+      }
+    },
+    "l1781": {
+      "224": {
+        "特效应用失败_str_e": "✗ An kasa amfani da tasiri: {str(e)}"
+      }
+    },
+    "l1817": {
+      "225": {
+        "已撤销": "↩ An warware"
+      }
+    },
+    "l1819": {
+      "226": {
+        "没有可撤销的操作": "Babu ayyukan da za a warware"
+      }
+    },
+    "l1830": {
+      "227": {
+        "已重置到原图": "🔄 An sake saita zuwa hoton asali"
+      }
+    },
+    "l1832": {
+      "228": {
+        "重置失败": "Sake saitawa ya gaza"
+      }
+    },
+    "l1856": {
+      "229": {
+        "缩放_percent": "Zuƙowa: {percent}%"
+      }
+    },
+    "l1864": {
+      "230": {
+        "已应用调整": "✓ An aiwatar da daidaitawa"
+      }
+    },
+    "l1866": {
+      "231": {
+        "应用调整失败_str_e": "✗ An kasa aiwatar da daidaitawa: {str(e)}"
+      }
+    },
+    "l1873": {
+      "232": {
+        "已重置调整": "✓ An sake saita daidaitawa"
+      }
+    },
+    "l1875": {
+      "233": {
+        "重置调整失败_str_e": "✗ An kasa sake saita daidaitawa: {str(e)}"
+      }
+    },
+    "l2022": {
+      "234": {
+        "新建图像": "Sabon Hoto"
+      }
+    }
+  },
+  "ui_freeform_capture": {
+    "l0102": {
+      "01": {
+        "按住鼠标绘制任意形状_松开完成_ESC": "Riƙe linzamin kwamfuta don zana kowace siffa | Saki don kammalawa | ESC don sokewa"
+      }
+    },
+    "l0460": {
+      "02": {
+        "保存": "Ajiye"
+      }
+    },
+    "l0549": {
+      "03": {
+        "输入文字": "Shigar da Rubutu"
+      },
+      "04": {
+        "请输入要添加的文字": "Da fatan shigar da rubutun da za a ƙara:"
+      }
+    }
+  },
+  "ui_history_panel": {
+    "l0086": {
+      "01": {
+        "未知": "Ba a sani ba"
+      }
+    },
+    "l0101": {
+      "02": {
+        "未知时间": "Lokaci ba a sani ba"
+      }
+    },
+    "l0117": {
+      "03": {
+        "未知大小": "Girma ba a sani ba"
+      }
+    },
+    "l0142": {
+      "04": {
+        "打开": "Buɗe"
+      }
+    },
+    "l0147": {
+      "05": {
+        "编辑": "Gyara"
+      }
+    },
+    "l0152": {
+      "06": {
+        "删除": "Goge"
+      }
+    },
+    "l0182": {
+      "07": {
+        "打开文件位置": "📂 Buɗe wurin fayil"
+      }
+    },
+    "l0186": {
+      "08": {
+        "编辑": "✏️ Gyara"
+      }
+    },
+    "l0190": {
+      "09": {
+        "复制到剪贴板": "📋 Kwafi zuwa allon kwafi"
+      }
+    },
+    "l0196": {
+      "10": {
+        "删除记录": "🗑️ Goge rikodi"
+      }
+    },
+    "l0238": {
+      "11": {
+        "截图历史": "📷 Tarihin Hoton allo"
+      }
+    },
+    "l0247": {
+      "12": {
+        "刷新": "Sabunta"
+      }
+    },
+    "l0262": {
+      "13": {
+        "清空历史": "Share Tarihi"
+      }
+    },
+    "l0277": {
+      "14": {
+        "共_0_条记录": "Jimilla rikodi 0"
+      }
+    },
+    "l0322": {
+      "15": {
+        "共_len_records_条记录": "Jimilla rikodi {len(records)}"
+      }
+    },
+    "l0325": {
+      "16": {
+        "暂无历史记录": "Babu rikodin tarihi"
+      }
+    },
+    "l0345": {
+      "17": {
+        "文件不存在": "Fayil ɗin babu shi"
+      },
+      "18": {
+        "该文件已被移动或删除": "An matsar da wannan fayil ko an goge shi."
+      }
+    },
+    "l0353": {
+      "19": {
+        "文件不存在": "Fayil ɗin babu shi"
+      },
+      "20": {
+        "该文件已被移动或删除": "An matsar da wannan fayil ko an goge shi."
+      }
+    },
+    "l0358": {
+      "21": {
+        "确认删除": "Tabbatar da gogewa"
+      }
+    },
+    "l0359": {
+      "22": {
+        "确定要删除这条历史记录吗_不会删除原文件": "Ka tabbata kana son goge wannan rikodin tarihin?\n(Ba za a goge ainihin fayil ba)"
+      }
+    },
+    "l0360": {
+      "23": {
+        "确定": "To"
+      },
+      "24": {
+        "取消": "Soke"
+      }
+    },
+    "l0369": {
+      "25": {
+        "确认清空": "Tabbatar da sharewa"
+      }
+    },
+    "l0370": {
+      "26": {
+        "确定要清空所有历史记录吗_不会删除原文件": "Ka tabbata kana son share duk rikodin tarihi?\n(Ba za a goge ainihin fayilolin ba)"
+      }
+    },
+    "l0371": {
+      "27": {
+        "确定": "To"
+      },
+      "28": {
+        "取消": "Soke"
+      }
+    }
+  },
+  "ui_layer_manager": {
+    "l0026": {
+      "01": {
+        "图层": "Yadudduka"
+      }
+    },
+    "l0061": {
+      "02": {
+        "self_name_副本": "Kwafin {self.name}"
+      }
+    },
+    "l0097": {
+      "03": {
+        "图层_len_self_layers_1": "Yadudduka {len(self.layers) + 1}"
+      }
+    }
+  },
+  "ui_layer_panel": {
+    "l0050": {
+      "01": {
+        "显示_隐藏图层": "Nuna/Boye Layer"
+      }
+    },
+    "l0121": {
+      "02": {
+        "透明度_self_layer_opacity": "Yanayin haske: {self.layer.opacity}%"
+      }
+    },
+    "l0133": {
+      "03": {
+        "锁定_解锁图层": "Kulle/Buɗe Layer"
+      }
+    },
+    "l0341": {
+      "04": {
+        "左对齐": "Daidaita Hagu"
+      }
+    },
+    "l0342": {
+      "05": {
+        "水平居中": "Daidaita Tsakiya a Kwance"
+      }
+    },
+    "l0343": {
+      "06": {
+        "右对齐": "Daidaita Dama"
+      }
+    },
+    "l0362": {
+      "07": {
+        "顶部对齐": "Daidaita Sama"
+      }
+    },
+    "l0363": {
+      "08": {
+        "垂直居中": "Daidaita Tsakiya a Tsaye"
+      }
+    },
+    "l0364": {
+      "09": {
+        "底部对齐": "Daidaita Ƙasa"
+      }
+    },
+    "l0383": {
+      "10": {
+        "水平等距分布": "Rarraba a Kwance"
+      }
+    },
+    "l0384": {
+      "11": {
+        "垂直等距分布": "Rarraba a Tsaye"
+      }
+    },
+    "l0428": {
+      "12": {
+        "图层管理": "Gudanar da Layer"
+      }
+    },
+    "l0436": {
+      "13": {
+        "添加图层": "Ƙara Layer"
+      }
+    },
+    "l0468": {
+      "14": {
+        "对齐与分布": "Daidaitawa da Rarrabawa"
+      }
+    },
+    "l0507": {
+      "15": {
+        "添加图层": "Ƙara Layer"
+      }
+    },
+    "l0508": {
+      "16": {
+        "删除图层": "Share Layer"
+      }
+    },
+    "l0509": {
+      "17": {
+        "复制图层": "Kwafe Layer"
+      }
+    },
+    "l0510": {
+      "18": {
+        "上移": "Matsa Sama"
+      }
+    },
+    "l0511": {
+      "19": {
+        "下移": "Matsa Ƙasa"
+      }
+    },
+    "l0512": {
+      "20": {
+        "置顶": "Kawo Gaba"
+      }
+    },
+    "l0513": {
+      "21": {
+        "置底": "Kai Baya"
+      }
+    },
+    "l0514": {
+      "22": {
+        "合并": "Haɗa"
+      }
+    },
+    "l0532": {
+      "23": {
+        "撤销_Undo": "Fasa (Undo)"
+      }
+    },
+    "l0538": {
+      "24": {
+        "重置图层_Reset": "Sake Saita Layer (Reset)"
+      }
+    },
+    "l0561": {
+      "25": {
+        "不透明度": "Yanayin haske"
+      }
+    },
+    "l0669": {
+      "26": {
+        "选择图片添加为新图层": "Zaɓi hoto don ƙara a matsayin sabon layer"
+      }
+    },
+    "l0670": {
+      "27": {
+        "图像文件_png_jpg_jpeg": "Fayilolin Hoto (*.png *.jpg *.jpeg *.bmp *.gif);;Duk Fayiloli (*.*)"
+      }
+    },
+    "l0680": {
+      "28": {
+        "错误": "Kuskure"
+      },
+      "29": {
+        "无法打开该图像文件": "An kasa buɗe wannan fayil ɗin hoto"
+      }
+    }
+  },
+  "ui_main_window": {
+    "l0275": {
+      "02": {
+        "登录": "Shiga"
+      }
+    },
+    "l0398": {
+      "03": {
+        "截图贴图工具": "Kayan Aikin Manna Hoton Allo"
+      }
+    },
+    "l0453": {
+      "04": {
+        "截图贴图工具": "Kayan Aikin Manna Hoton Allo"
+      }
+    },
+    "l0464": {
+      "05": {
+        "返回预览": "↩️ Komawa Dubawa"
+      }
+    },
+    "l0465": {
+      "06": {
+        "返回上次的预览状态": "Koma zuwa yanayin dubawa na baya"
+      }
+    },
+    "l0477": {
+      "07": {
+        "主页": "🏠 Gida"
+      }
+    },
+    "l0478": {
+      "08": {
+        "新建": "📄 Sabo"
+      }
+    },
+    "l0479": {
+      "09": {
+        "打开": "📂 Buɗe"
+      }
+    },
+    "l0480": {
+      "10": {
+        "保存": "💾 Ajiye"
+      }
+    },
+    "l0481": {
+      "11": {
+        "另存为": "📋 Ajiye da Wani Suna"
+      }
+    },
+    "l0482": {
+      "12": {
+        "打印": "🖨️ Buga"
+      }
+    },
+    "l0483": {
+      "13": {
+        "分享": "📤 Raba"
+      }
+    },
+    "l0484": {
+      "14": {
+        "选项": "⚙️ Zaɓuɓɓuka"
+      }
+    },
+    "l0506": {
+      "15": {
+        "登录": "👤 Shiga"
+      }
+    },
+    "l0511": {
+      "16": {
+        "退出": "🚪 Fita"
+      }
+    },
+    "l0533": {
+      "17": {
+        "选择操作": "Zaɓi aiki"
+      }
+    },
+    "l0562": {
+      "18": {
+        "我要软件定制": "Ina son ƙera manhaja ta musamman"
+      }
+    },
+    "l0598": {
+      "20": {
+        "就绪_按_F8_重复上次截图": "A shirye | Danna F8 don maimaita hoton allo na ƙarshe"
+      }
+    },
+    "l0603": {
+      "21": {
+        "取消登录": "Soke Shiga"
+      }
+    },
+    "l0621": {
+      "22": {
+        "启动时不显示此窗口": "Kada a nuna wannan taga yayin farawa"
+      }
+    },
+    "l0626": {
+      "23": {
+        "鲲穹AI旗下产品": "Kayayyakin Kunqiong AI"
+      }
+    },
+    "l0641": {
+      "24": {
+        "新任务": "📁 Sabon Aiki"
+      }
+    },
+    "l0651": {
+      "25": {
+        "新建": "Sabo"
+      },
+      "26": {
+        "新建图像": "Sabon Hoto"
+      }
+    },
+    "l0655": {
+      "27": {
+        "打开": "Buɗe"
+      },
+      "28": {
+        "打开已有文件": "Buɗe fayil da yake akwai"
+      }
+    },
+    "l0661": {
+      "29": {
+        "截取屏幕": "📷 Ɗauki Hoton Allo"
+      }
+    },
+    "l0671": {
+      "30": {
+        "全屏": "Cikakken allo"
+      }
+    },
+    "l0675": {
+      "31": {
+        "窗口": "Taga"
+      }
+    },
+    "l0680": {
+      "32": {
+        "矩形区域": "Yankin Murabba'i"
+      }
+    },
+    "l0681": {
+      "33": {
+        "窗口控件": "Sarrafa Taga"
+      }
+    },
+    "l0682": {
+      "34": {
+        "滚动截图": "Hoton Allo Mai Gungurawa"
+      }
+    },
+    "l0683": {
+      "35": {
+        "任意形状": "Siffa Mai 'Yanci"
+      }
+    },
+    "l0693": {
+      "36": {
+        "重复截取": "Maimaita Ɗauka"
+      },
+      "37": {
+        "F8_重复上次操作": "F8 Maimaita Aikin Ƙarshe"
+      }
+    },
+    "l0707": {
+      "38": {
+        "实用工具": "🛠 Kayan Aiki Masu Amfani"
+      }
+    },
+    "l0718": {
+      "39": {
+        "屏幕录制器": "Mai Rikodin Allo"
+      },
+      "40": {
+        "录制桌面视频": "Rikodi bidiyon tebur"
+      }
+    },
+    "l0719": {
+      "41": {
+        "取色器": "Mai Zaɓen Launi"
+      },
+      "42": {
+        "在屏幕上拾取颜色": "Zaɓi launuka daga allo"
+      }
+    },
+    "l0720": {
+      "43": {
+        "调色板": "Palet"
+      },
+      "44": {
+        "在调色板上按需调色": "Haɗa launuka a palet yadda ake buƙata"
+      }
+    },
+    "l0721": {
+      "45": {
+        "放大镜": "Madubin Ƙara Girma"
+      },
+      "46": {
+        "对屏幕像素放大细看": "Yi kusa don duba pixel na allo"
+      }
+    },
+    "l0722": {
+      "47": {
+        "标尺": "Mizanin Auna"
+      },
+      "48": {
+        "测量桌面对象的尺寸": "Auna girman abubuwan tebur"
+      }
+    },
+    "l0723": {
+      "49": {
+        "坐标轴": "Gatarin Daidaitawa"
+      },
+      "50": {
+        "查测相对坐标": "Duba daidaitattun matsayi na dangantaka"
+      }
+    },
+    "l0724": {
+      "51": {
+        "量角器": "Ma'aunin Kusurwa"
+      },
+      "52": {
+        "在屏幕上测量角度": "Auna kusurwa a kan allo"
+      }
+    },
+    "l0725": {
+      "53": {
+        "白板": "Allon Fari"
+      },
+      "54": {
+        "用于演示或绘画": "Don gabatarwa ko zane"
+      }
+    },
+    "l0783": {
+      "55": {
+        "已登录": "An shiga"
+      }
+    },
+    "l0785": {
+      "56": {
+        "点击查看用户信息或退出登录": "Danna don duba bayanan mai amfani ko fita daga shiga"
+      }
+    },
+    "l0792": {
+      "57": {
+        "登录": "👤 Shiga"
+      }
+    },
+    "l0793": {
+      "58": {
+        "点击登录鲲穹AI账号": "Danna don shiga asusun Kunqiong AI naka"
+      }
+    },
+    "l0829": {
+      "60": {
+        "登录确认": "Tabbatar da Shiga"
+      }
+    },
+    "l0830": {
+      "61": {
+        "即将打开浏览器进行登录_是否继续_登录完成后请": "Mai bincike zai buɗe don shiga. A ci gaba?\n\nBayan ka shiga, don Allah koma wannan manhaja."
+      }
+    },
+    "l0833": {
+      "62": {
+        "正在等待网页登录完成": "Ana jiran kammala shiga ta yanar gizo..."
+      }
+    },
+    "l0841": {
+      "63": {
+        "登录已取消": "An soke shiga"
+      }
+    },
+    "l0904": {
+      "64": {
+        "未知": "Ba a sani ba"
+      }
+    },
+    "l0913": {
+      "65": {
+        "退出登录": "🚪 Fita daga Shiga"
+      }
+    },
+    "l0925": {
+      "66": {
+        "已退出登录": "An fita daga shiga"
+      }
+    },
+    "l0926": {
+      "67": {
+        "提示": "Sanarwa"
+      },
+      "68": {
+        "已成功退出登录": "An yi nasarar fita daga shiga"
+      }
+    },
+    "l0934": {
+      "69": {
+        "登录成功": "An yi nasarar shiga"
+      }
+    },
+    "l0935": {
+      "70": {
+        "登录成功": "An yi nasarar shiga"
+      },
+      "71": {
+        "欢迎回来_账号已同步": "Barka da dawowa! An daidaita asusunka."
+      }
+    },
+    "l0940": {
+      "72": {
+        "登录失败": "Shiga ta gaza"
+      }
+    },
+    "l0941": {
+      "73": {
+        "登录失败": "Shiga ta gaza"
+      },
+      "74": {
+        "登录过程中出现错误_error_msg": "An sami kuskure yayin shiga:\n{error_msg}"
+      }
+    },
+    "l1020": {
+      "75": {
+        "没有可重复的截图操作": "Babu aikin hoton allo da za a maimaita"
+      }
+    },
+    "l1041": {
+      "76": {
+        "未知的截图模式": "Yanayin ɗaukar hoto da ba a sani ba"
+      }
+    },
+    "l1080": {
+      "77": {
+        "提示": "Sanarwa"
+      },
+      "78": {
+        "没有可恢复的预览状态": "Babu yanayin dubawa da za a dawo da shi"
+      }
+    },
+    "l1095": {
+      "79": {
+        "错误": "Kuskure"
+      },
+      "80": {
+        "预览缓存已过期或不存在": "Ajiyar dubawa ta ƙare ko ba ta wanzu"
+      }
+    },
+    "l1103": {
+      "81": {
+        "正在恢复_len_session_caches": "Ana dawo da {len(session_caches)} shafuka..."
+      }
+    },
+    "l1119": {
+      "82": {
+        "未命名": "Mara Suna"
+      }
+    },
+    "l1130": {
+      "83": {
+        "已恢复_len_session_cache": "✓ An dawo da shafuka {len(session_caches)}"
+      }
+    },
+    "l1135": {
+      "84": {
+        "错误": "Kuskure"
+      },
+      "85": {
+        "无法加载预览图像": "An kasa loda hoton dubawa"
+      }
+    },
+    "l1163": {
+      "86": {
+        "打开图像": "Buɗe Hoto"
+      }
+    },
+    "l1164": {
+      "87": {
+        "图像文件_png_jpg_jpeg": "Fayilolin Hoto (*.png *.jpg *.jpeg *.bmp *.gif);;Duk Fayiloli (*.*)"
+      }
+    },
+    "l1176": {
+      "88": {
+        "提示": "Sanarwa"
+      }
+    },
+    "l1177": {
+      "89": {
+        "请先打开或截取一张图像_然后在编辑器中进行保存": "Don Allah fara buɗe ko ɗaukar hoto, sannan ka ajiye shi a editan."
+      }
+    },
+    "l1185": {
+      "90": {
+        "提示": "Sanarwa"
+      }
+    },
+    "l1186": {
+      "91": {
+        "请先打开或截取一张图像_然后在编辑器中进行另存为": "Don Allah fara buɗe ko ɗaukar hoto, sannan ka yi Ajiye da Wani Suna a editan."
+      }
+    },
+    "l1194": {
+      "92": {
+        "提示": "Sanarwa"
+      }
+    },
+    "l1195": {
+      "93": {
+        "请先打开或截取一张图像_然后在编辑器中进行打印": "Don Allah fara buɗe ko ɗaukar hoto, sannan ka buga shi a editan."
+      }
+    },
+    "l1283": {
+      "94": {
+        "提示": "Sanarwa"
+      },
+      "95": {
+        "剪贴板中没有可粘贴的图像": "Babu hoto a allon manna da za a liƙa"
+      }
+    },
+    "l1315": {
+      "96": {
+        "提示": "Sanarwa"
+      }
+    },
+    "l1316": {
+      "97": {
+        "没有可分享的图像_请先截取或打开一张图像": "Babu hoto da za a raba.\nDon Allah fara ɗauka ko buɗe hoto."
+      }
+    },
+    "l1325": {
+      "98": {
+        "提示": "Sanarwa"
+      },
+      "99": {
+        "没有可分享的图像": "Babu hoto da za a raba"
+      }
+    },
+    "l1329": {
+      "100": {
+        "分享": "Raba"
+      }
+    },
+    "l1361": {
+      "101": {
+        "提示": "Sanarwa"
+      },
+      "102": {
+        "预览缓存已过期_请重新截图": "Ajiyar dubawa ta ƙare, don Allah ka sake ɗaukar hoton allo"
+      }
+    },
+    "l1379": {
+      "103": {
+        "未命名": "Mara Suna"
+      }
+    }
+  },
+  "ui_modern_dialog": {
+    "l0011": {
+      "01": {
+        "确定": "To"
+      },
+      "02": {
+        "取消": "Soke"
+      }
+    },
+    "l0207": {
+      "03": {
+        "知道了": "Na gane"
+      }
+    },
+    "l0238": {
+      "04": {
+        "确定": "To"
+      }
+    },
+    "l0243": {
+      "05": {
+        "确定": "To"
+      }
+    },
+    "l0248": {
+      "06": {
+        "确定": "To"
+      }
+    },
+    "l0253": {
+      "07": {
+        "确定": "To"
+      }
+    },
+    "l0258": {
+      "08": {
+        "确定": "To"
+      },
+      "09": {
+        "取消": "Soke"
+      }
+    },
+    "l0268": {
+      "10": {
+        "识别文本": "Gane Rubutu"
+      }
+    },
+    "l0304": {
+      "11": {
+        "识别文本": "Gane Rubutu"
+      }
+    },
+    "l0366": {
+      "12": {
+        "复制": "Kwafe"
+      }
+    }
+  },
+  "ui_new_image_dialog": {
+    "l0015": {
+      "01": {
+        "上次使用": "Amfani na Ƙarshe"
+      }
+    },
+    "l0016": {
+      "02": {
+        "剪贴板": "Allon Manna"
+      }
+    },
+    "l0017": {
+      "03": {
+        "自定义": "Na Musamman"
+      }
+    },
+    "l0029": {
+      "04": {
+        "白色": "Fari"
+      }
+    },
+    "l0030": {
+      "05": {
+        "黑色": "Baƙi"
+      }
+    },
+    "l0031": {
+      "06": {
+        "透明": "Bayyananne"
+      }
+    },
+    "l0032": {
+      "07": {
+        "灰色": "Toka"
+      }
+    },
+    "l0033": {
+      "08": {
+        "红色": "Ja"
+      }
+    },
+    "l0034": {
+      "09": {
+        "蓝色": "Shuɗi"
+      }
+    },
+    "l0129": {
+      "10": {
+        "新建图像": "Sabon Hoto"
+      }
+    },
+    "l0185": {
+      "11": {
+        "新建图像": "Sabon Hoto"
+      }
+    },
+    "l0190": {
+      "12": {
+        "画布大小_self_last_width": "Girman Canvas: {self.last_width} × {self.last_height}"
+      }
+    },
+    "l0198": {
+      "13": {
+        "预设": "Saiti na Farko:"
+      }
+    },
+    "l0213": {
+      "14": {
+        "宽度": "Faɗi:"
+      }
+    },
+    "l0228": {
+      "15": {
+        "高度": "Tsayi:"
+      }
+    },
+    "l0243": {
+      "16": {
+        "背景色": "Launin Baya:"
+      }
+    },
+    "l0263": {
+      "17": {
+        "自定义颜色": "Launi na Musamman"
+      }
+    },
+    "l0275": {
+      "18": {
+        "取消": "Soke"
+      }
+    },
+    "l0280": {
+      "19": {
+        "确定": "To"
+      }
+    },
+    "l0298": {
+      "20": {
+        "画布大小_width_height": "Girman Canvas: {width} × {height}"
+      }
+    },
+    "l0341": {
+      "21": {
+        "剪贴板": "Allon Manna"
+      }
+    },
+    "l0350": {
+      "22": {
+        "上次使用": "Amfani na Ƙarshe"
+      }
+    }
+  },
+  "ui_pin_window": {
+    "l0065": {
+      "01": {
+        "复制": "Kwafe"
+      }
+    },
+    "l0069": {
+      "02": {
+        "保存": "Ajiye"
+      }
+    },
+    "l0075": {
+      "03": {
+        "关闭": "Rufe"
+      }
+    },
+    "l0089": {
+      "04": {
+        "保存": "Ajiye"
+      }
+    }
+  },
+  "ui_print_dialog": {
+    "l0139": {
+      "01": {
+        "打印": "Buga"
+      }
+    },
+    "l0193": {
+      "02": {
+        "打印": "Buga"
+      }
+    },
+    "l0199": {
+      "03": {
+        "打印": "🖨️ Buga"
+      }
+    },
+    "l0207": {
+      "04": {
+        "打印机": "Firinta"
+      }
+    },
+    "l0222": {
+      "06": {
+        "设置": "Saituna"
+      }
+    },
+    "l0228": {
+      "07": {
+        "缩放": "Sikeli:"
+      }
+    },
+    "l0230": {
+      "08": {
+        "调整到_100": "Daidaita zuwa 100%"
+      },
+      "09": {
+        "适合页面": "Daidaita da Shafi"
+      },
+      "10": {
+        "自定义": "Na Musamman"
+      }
+    },
+    "l0238": {
+      "11": {
+        "方向": "Alkibla:"
+      }
+    },
+    "l0240": {
+      "12": {
+        "纵向": "Tsaye"
+      },
+      "13": {
+        "横向": "Kwance"
+      }
+    },
+    "l0247": {
+      "14": {
+        "纸张尺寸": "Girman Takarda:"
+      }
+    },
+    "l0262": {
+      "15": {
+        "页边距": "Gefunan Shafi:"
+      }
+    },
+    "l0265": {
+      "16": {
+        "正常_左_10mm_上_10mm": "Na al'ada (Hagu: 10mm, Sama: 10mm)"
+      }
+    },
+    "l0266": {
+      "17": {
+        "窄_左_5mm_上_5mm": "Matsi (Hagu: 5mm, Sama: 5mm)"
+      }
+    },
+    "l0267": {
+      "18": {
+        "宽_左_20mm_上_20mm": "Faɗi (Hagu: 20mm, Sama: 20mm)"
+      }
+    },
+    "l0268": {
+      "19": {
+        "自定义": "Na Musamman..."
+      }
+    },
+    "l0276": {
+      "20": {
+        "打印颜色": "Launin Bugawa:"
+      }
+    },
+    "l0278": {
+      "21": {
+        "彩色": "Launi"
+      },
+      "22": {
+        "灰度": "Sikelin Toka"
+      },
+      "23": {
+        "黑白": "Baƙi da Fari"
+      }
+    },
+    "l0291": {
+      "25": {
+        "取消": "Soke"
+      }
+    },
+    "l0305": {
+      "26": {
+        "边距": "Gefuna"
+      }
+    },
+    "l0306": {
+      "27": {
+        "左": "Hagu"
+      }
+    },
+    "l0314": {
+      "28": {
+        "上": "Sama"
+      }
+    },
+    "l0322": {
+      "29": {
+        "右": "Dama"
+      }
+    },
+    "l0330": {
+      "30": {
+        "下": "Ƙasa"
+      }
+    },
+    "l0348": {
+      "31": {
+        "页面_1_1": "Shafuka: 1 - 1"
+      }
+    },
+    "l0351": {
+      "32": {
+        "纸张尺寸_210_mm_297_mm": "Girman Takarda: 210 mm × 297 mm"
+      }
+    },
+    "l0403": {
+      "33": {
+        "纸张尺寸_w_mm_h_mm": "Girman Takarda: {w} mm × {h} mm"
+      }
+    }
+  },
+  "ui_region_capture": {
+    "l0071": {
+      "01": {
+        "移动选区": "Motsa Zaɓaɓɓen Yanki"
+      }
+    },
+    "l0083": {
+      "02": {
+        "取消_ESC": "Soke (ESC)"
+      }
+    },
+    "l0091": {
+      "03": {
+        "固定到桌面": "Manna a Tebur"
+      }
+    },
+    "l0099": {
+      "04": {
+        "保存_Ctrl_S": "Ajiye (Ctrl+S)"
+      }
+    },
+    "l0109": {
+      "05": {
+        "编辑_进入编辑器": "Gyara (Buɗe Edita)"
+      }
+    },
+    "l0117": {
+      "06": {
+        "复制并分享_Ctrl_C": "Kwafe kuma Raba (Ctrl+C)"
+      }
+    },
+    "l0125": {
+      "07": {
+        "识别文字": "Gane Rubutu"
+      }
+    },
+    "l0244": {
+      "08": {
+        "拖动选择区域_ESC取消": "Ja don zaɓar yanki | ESC don soke"
+      }
+    },
+    "l0668": {
+      "09": {
+        "保存": "Ajiye"
+      }
+    },
+    "l0716": {
+      "10": {
+        "输入文字": "Shigar da Rubutu"
+      },
+      "11": {
+        "请输入要添加的文字": "Don Allah shigar da rubutun da za a ƙara:"
+      }
+    },
+    "l0771": {
+      "12": {
+        "OCR_错误": "Kuskuren OCR"
+      },
+      "13": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Injin OCR na gida bai shirya ba. Don Allah duba dogaro."
+      }
+    },
+    "l0787": {
+      "14": {
+        "识别结果": "Sakamakon Ganewa"
+      },
+      "15": {
+        "未识别到文字": "Ba a gane rubutu ba."
+      }
+    },
+    "l0800": {
+      "16": {
+        "OCR_错误": "Kuskuren OCR"
+      },
+      "17": {
+        "识别失败_err_msg": "Ganewa ta gaza: {err_msg}"
+      }
+    }
+  },
+  "ui_save_dialog": {
+    "l0032": {
+      "01": {
+        "保存图像": "Ajiye Hoto"
+      }
+    },
+    "l0074": {
+      "02": {
+        "保存图像": "Ajiye Hoto"
+      }
+    },
+    "l0080": {
+      "03": {
+        "文件名": "Sunan Fayil:"
+      }
+    },
+    "l0087": {
+      "04": {
+        "保存位置": "Wurin Ajiya"
+      }
+    },
+    "l0096": {
+      "05": {
+        "浏览": "Bincika..."
+      }
+    },
+    "l0103": {
+      "06": {
+        "快速切换": "Canzawa da sauri:"
+      }
+    },
+    "l0120": {
+      "07": {
+        "暂无最近文件夹": "Babu manyan fayil na kwanan nan"
+      }
+    },
+    "l0128": {
+      "08": {
+        "设为默认保存位置": "Saita azaman wurin ajiya na tsoho"
+      }
+    },
+    "l0135": {
+      "09": {
+        "格式": "Tsari:"
+      }
+    },
+    "l0152": {
+      "10": {
+        "取消": "Soke"
+      }
+    },
+    "l0157": {
+      "11": {
+        "保存": "Ajiye"
+      }
+    },
+    "l0165": {
+      "12": {
+        "选择保存位置": "Zaɓi wurin ajiya"
+      }
+    },
+    "l0192": {
+      "13": {
+        "文件已存在": "Fayil ya riga ya wanzu"
+      }
+    },
+    "l0193": {
+      "14": {
+        "文件_filename_已存在_是否覆盖": "Fayil {filename} ya riga ya wanzu. A rubuta a kai?"
+      }
+    },
+    "l0194": {
+      "15": {
+        "覆盖": "Rubuta a kai"
+      },
+      "16": {
+        "取消": "Soke"
+      }
+    },
+    "l0216": {
+      "17": {
+        "保存失败": "Ajiya ta kasa"
+      }
+    },
+    "l0218": {
+      "18": {
+        "保存失败": "Ajiya ta kasa"
+      },
+      "19": {
+        "无法保存文件_str_e": "An kasa ajiye fayil: {str(e)}"
+      }
+    },
+    "l0240": {
+      "20": {
+        "批量导出": "Fitarwa a rukuni"
+      }
+    },
+    "l0283": {
+      "21": {
+        "批量导出_len_self_images": "Fitarwa a rukuni ({len(self.images)} hotuna)"
+      }
+    },
+    "l0288": {
+      "22": {
+        "待导出图像": "Hotunan da za a fitar:"
+      }
+    },
+    "l0302": {
+      "23": {
+        "保存位置": "Wurin ajiya:"
+      }
+    },
+    "l0307": {
+      "24": {
+        "浏览": "Bincika"
+      }
+    },
+    "l0314": {
+      "25": {
+        "导出格式": "Tsarin fitarwa:"
+      }
+    },
+    "l0320": {
+      "26": {
+        "命名规则": "Dokar suna:"
+      }
+    },
+    "l0323": {
+      "27": {
+        "保持原名": "Riƙe sunan asali"
+      }
+    },
+    "l0324": {
+      "28": {
+        "添加前缀": "Ƙara prefix"
+      }
+    },
+    "l0325": {
+      "29": {
+        "添加后缀": "Ƙara suffix"
+      }
+    },
+    "l0326": {
+      "30": {
+        "序号命名": "Sakawa suna da lamba"
+      }
+    },
+    "l0332": {
+      "31": {
+        "前缀": "Prefix:"
+      }
+    },
+    "l0336": {
+      "32": {
+        "例如_export": "Misali: export_"
+      }
+    },
+    "l0358": {
+      "33": {
+        "取消": "Soke"
+      }
+    },
+    "l0363": {
+      "34": {
+        "开始导出": "Fara fitarwa"
+      }
+    },
+    "l0371": {
+      "35": {
+        "选择导出位置": "Zaɓi wurin fitarwa"
+      }
+    },
+    "l0380": {
+      "36": {
+        "前缀": "Prefix:"
+      },
+      "37": {
+        "后缀": "Suffix:"
+      }
+    },
+    "l0424": {
+      "38": {
+        "已导出_os_path_basename_f": "An fitar: {os.path.basename(file_path)}"
+      }
+    },
+    "l0426": {
+      "39": {
+        "导出失败_name_str_e": "Fitarwa ta kasa: {name} - {str(e)}"
+      }
+    },
+    "l0434": {
+      "40": {
+        "导出完成_成功_len_saved_path": "An kammala fitarwa! An yi nasara {len(saved_paths)}/{len(self.images)}"
+      }
+    },
+    "l0439": {
+      "41": {
+        "导出完成": "An kammala fitarwa"
+      }
+    },
+    "l0440": {
+      "42": {
+        "成功导出_len_saved_paths": "An yi nasarar fitar da hotuna {len(saved_paths)} zuwa:\n{folder}"
+      }
+    }
+  },
+  "ui_scroll_capture": {
+    "l0144": {
+      "01": {
+        "长截图预览": "Duban dogon hoton allo"
+      }
+    },
+    "l0154": {
+      "02": {
+        "已捕获_self_frame_count_帧": "An kama firam {self.frame_count}"
+      }
+    },
+    "l0158": {
+      "03": {
+        "等待捕获": "Ana jiran kamawa..."
+      }
+    },
+    "l0220": {
+      "04": {
+        "滚动页面开始捕获": "Gungura shafin don fara kamawa"
+      }
+    },
+    "l0255": {
+      "05": {
+        "手动滚动预览_ESC_取消": "Duban gungurawa da hannu · ESC don soke"
+      }
+    },
+    "l0275": {
+      "06": {
+        "取消": "Soke"
+      }
+    },
+    "l0290": {
+      "07": {
+        "完成截图": "Kammala hoton allo"
+      }
+    },
+    "l0456": {
+      "08": {
+        "开始捕获": "Fara kamawa"
+      }
+    },
+    "l0463": {
+      "09": {
+        "点击开始后滚动页面": "Danna Fara, sannan ka gungura shafin"
+      }
+    },
+    "l0557": {
+      "10": {
+        "拖动选择滚动区域_ESC_取消": "Ja don zaɓar yankin gungurawa | ESC don soke"
+      }
+    },
+    "l0589": {
+      "11": {
+        "捕获中_len_self_captures": "Ana kamawa: {len(self.captures)}"
+      }
+    }
+  },
+  "ui_settings_dialog": {
+    "l0024": {
+      "01": {
+        "点击后按下快捷键": "Danna sannan ka matsa maɓallin gajerar hanya..."
+      }
+    },
+    "l0086": {
+      "02": {
+        "程序设置": "Saitunan Shirin"
+      }
+    },
+    "l0182": {
+      "03": {
+        "常规": "Na gaba ɗaya"
+      }
+    },
+    "l0183": {
+      "04": {
+        "截图": "Hoton allo"
+      }
+    },
+    "l0184": {
+      "05": {
+        "快捷键": "Gajerun maɓallan hanya"
+      }
+    },
+    "l0185": {
+      "06": {
+        "命名规则": "Dokokin Suna"
+      }
+    },
+    "l0191": {
+      "07": {
+        "鲲穹AI旗下产品": "Samfurin Kunqiong AI"
+      }
+    },
+    "l0197": {
+      "08": {
+        "取消": "Soke"
+      }
+    },
+    "l0202": {
+      "09": {
+        "保存设置": "Ajiye Saituna"
+      }
+    },
+    "l0215": {
+      "10": {
+        "保存设置": "Ajiye Saituna"
+      }
+    },
+    "l0219": {
+      "11": {
+        "默认保存路径": "Tsohuwar hanyar ajiya:"
+      }
+    },
+    "l0224": {
+      "12": {
+        "选择截图保存目录": "Zaɓi kundin ajiyar hoton allo..."
+      }
+    },
+    "l0227": {
+      "13": {
+        "浏览": "Bincika"
+      }
+    },
+    "l0235": {
+      "14": {
+        "默认格式": "Tsarin tsoho:"
+      }
+    },
+    "l0243": {
+      "15": {
+        "截图后自动保存到默认目录": "Ajiye kai tsaye zuwa kundin tsoho bayan hoton allo"
+      }
+    },
+    "l0246": {
+      "16": {
+        "截图后自动复制到剪贴板": "Kwafi kai tsaye zuwa allon liƙa bayan hoton allo"
+      }
+    },
+    "l0249": {
+      "17": {
+        "操作完成后显示通知": "Nuna sanarwa bayan an gama aiki"
+      }
+    },
+    "l0255": {
+      "18": {
+        "编辑器设置": "Saitunan Edita"
+      }
+    },
+    "l0258": {
+      "19": {
+        "编辑器默认全屏显示": "Edita yana buɗewa a cikakken allo ta tsoho"
+      }
+    },
+    "l0261": {
+      "20": {
+        "记住编辑器窗口大小": "Ka tuna girman taga na edita"
+      }
+    },
+    "l0267": {
+      "21": {
+        "版本与更新": "Siga da Sabuntawa"
+      }
+    },
+    "l0273": {
+      "22": {
+        "当前版本_current_version": "Sigar yanzu: {current_version}"
+      }
+    },
+    "l0279": {
+      "23": {
+        "检查更新": "Duba sabuntawa"
+      }
+    },
+    "l0285": {
+      "24": {
+        "反馈问题": "Ba da rahoton matsala"
+      }
+    },
+    "l0328": {
+      "25": {
+        "滚动截图": "Hoton allo mai gungurawa"
+      }
+    },
+    "l0333": {
+      "26": {
+        "0_1秒": "× 0.1s"
+      }
+    },
+    "l0334": {
+      "27": {
+        "滚动延迟": "Jinkirin gungurawa:"
+      }
+    },
+    "l0337": {
+      "28": {
+        "慢速": "A hankali"
+      },
+      "29": {
+        "中速": "Matsakaici"
+      },
+      "30": {
+        "快速": "Da sauri"
+      }
+    },
+    "l0338": {
+      "31": {
+        "滚动速度": "Saurin gungurawa:"
+      }
+    },
+    "l0343": {
+      "32": {
+        "重复截取": "Maimaita kamawa"
+      }
+    },
+    "l0346": {
+      "33": {
+        "按_F8_可重复上次截图操作": "Danna F8 don maimaita aikin hoton allo na ƙarshe"
+      }
+    },
+    "l0359": {
+      "34": {
+        "快捷键设置": "Saitunan Gajerun Maɓallan Hanya"
+      }
+    },
+    "l0368": {
+      "35": {
+        "全屏截图": "Hoton allo cikakke:"
+      },
+      "36": {
+        "例如_Ctrl_Shift_F": "Misali: Ctrl+Shift+F"
+      }
+    },
+    "l0369": {
+      "37": {
+        "矩形截图": "Hoton allo mai murabba'i:"
+      },
+      "38": {
+        "例如_Ctrl_Shift_A": "Misali: Ctrl+Shift+A"
+      }
+    },
+    "l0370": {
+      "39": {
+        "窗口控件截图": "Hoton taga/ikon sarrafawa:"
+      },
+      "40": {
+        "例如_Ctrl_Shift_W": "Misali: Ctrl+Shift+W"
+      }
+    },
+    "l0371": {
+      "41": {
+        "取色器": "Mai ɗaukar launi:"
+      },
+      "42": {
+        "例如_Ctrl_Shift_C": "Misali: Ctrl+Shift+C"
+      }
+    },
+    "l0372": {
+      "43": {
+        "重复截取": "Maimaita kamawa:"
+      },
+      "44": {
+        "例如_F8": "Misali: F8"
+      }
+    },
+    "l0373": {
+      "45": {
+        "白板": "Farar allo:"
+      },
+      "46": {
+        "例如_Win_Shift_W": "Misali: Win+Shift+W"
+      }
+    },
+    "l0374": {
+      "47": {
+        "开始_停止录屏": "Fara/tsayar da rikodi:"
+      },
+      "48": {
+        "例如_Ctrl_Shift_R": "Misali: Ctrl+Shift+R"
+      }
+    },
+    "l0416": {
+      "49": {
+        "预设方案": "Saitunan da aka riga aka tanada"
+      }
+    },
+    "l0419": {
+      "50": {
+        "默认": "Tsoho"
+      },
+      "51": {
+        "HyperSnap风格": "Salon HyperSnap"
+      },
+      "52": {
+        "Snagit风格": "Salon Snagit"
+      }
+    },
+    "l0428": {
+      "53": {
+        "快捷键修改后保存即可生效_无需重启程序": "💡 Canje-canjen gajerun maɓallan hanya suna aiki bayan an ajiye, ba sai an sake kunna shirin ba"
+      }
+    },
+    "l0449": {
+      "54": {
+        "与_self__get_hotkey_disp": "Yana rikici da {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0450": {
+      "55": {
+        "快捷键冲突_text_已被_sel": "⚠️ Rikicin gajerar hanya: {text} tuni {self._get_hotkey_display_name(conflict_with)} ke amfani da shi"
+      }
+    },
+    "l0453": {
+      "56": {
+        "有效": "Mai aiki"
+      }
+    },
+    "l0462": {
+      "57": {
+        "全屏截图": "Hoton allo cikakke"
+      }
+    },
+    "l0463": {
+      "58": {
+        "矩形截图": "Hoton allo mai murabba'i"
+      }
+    },
+    "l0464": {
+      "59": {
+        "窗口控件截图": "Hoton taga/ikon sarrafawa"
+      }
+    },
+    "l0465": {
+      "60": {
+        "取色器": "Mai ɗaukar launi"
+      }
+    },
+    "l0466": {
+      "61": {
+        "重复截取": "Maimaita kamawa"
+      }
+    },
+    "l0467": {
+      "62": {
+        "白板": "Farar allo"
+      }
+    },
+    "l0468": {
+      "63": {
+        "屏幕录制": "Rikodin allo"
+      }
+    },
+    "l0478": {
+      "64": {
+        "文件命名规则": "Dokokin Saka Sunan Fayil"
+      }
+    },
+    "l0481": {
+      "65": {
+        "自定义前缀": "Prefix na al'ada:"
+      }
+    },
+    "l0486": {
+      "66": {
+        "命名模板": "Samfurin suna:"
+      }
+    },
+    "l0492": {
+      "67": {
+        "可用变量_YYYY_年份_2024": "Canje-canje masu samuwa:\n  ${YYYY} - Shekara (2024)\n  ${MM} - Wata (01-12)\n  ${DD} - Rana (01-31)\n  ${HH} - Sa'a (00-23)\n  ${YYYYMMDD} - Kwanan wata (20241201)\n  ${HHMMSS} - Lokaci (143052)\n  ${MODE} - Yanayin hoton allo\n  ${PREFIX} - Prefix na al'ada\n  ${SEQ} - Lambar jeri (001, 002...)"
+      }
+    },
+    "l0510": {
+      "68": {
+        "预览": "Dubawa"
+      }
+    },
+    "l0561": {
+      "69": {
+        "选择保存目录": "Zaɓi kundin ajiya"
+      }
+    },
+    "l0567": {
+      "70": {
+        "默认": "Tsoho"
+      }
+    },
+    "l0573": {
+      "71": {
+        "HyperSnap风格": "Salon HyperSnap"
+      }
+    },
+    "l0579": {
+      "72": {
+        "Snagit风格": "Salon Snagit"
+      }
+    },
+    "l0601": {
+      "73": {
+        "快捷键冲突": "Rikicin gajerar hanya"
+      }
+    },
+    "l0602": {
+      "74": {
+        "快捷键_text_被多个功能使用_请修改后再": "Gajerar hanya {text} ayyuka da dama suna amfani da ita. Da fatan a gyara ta kafin ajiye."
+      }
+    }
+  },
+  "ui_share_panel": {
+    "l0109": {
+      "01": {
+        "FTP服务器配置": "Saitin Sabar FTP"
+      },
+      "02": {
+        "编辑FTP服务器": "Gyara Sabar FTP"
+      }
+    },
+    "l0125": {
+      "03": {
+        "例如_我的服务器": "Misali: Sabata"
+      }
+    },
+    "l0126": {
+      "04": {
+        "名称": "Suna:"
+      }
+    },
+    "l0129": {
+      "05": {
+        "例如_ftp_example_com": "Misali: ftp.example.com"
+      }
+    },
+    "l0130": {
+      "06": {
+        "主机": "Mai masauki:"
+      }
+    },
+    "l0135": {
+      "07": {
+        "端口": "Tashar jirgi:"
+      }
+    },
+    "l0138": {
+      "08": {
+        "用户名": "Sunan mai amfani:"
+      }
+    },
+    "l0142": {
+      "09": {
+        "密码": "Kalmar sirri:"
+      }
+    },
+    "l0146": {
+      "10": {
+        "远程目录路径": "Hanyar kundin nesa"
+      }
+    },
+    "l0147": {
+      "11": {
+        "路径": "Hanya:"
+      }
+    },
+    "l0151": {
+      "12": {
+        "协议": "Tsari:"
+      }
+    },
+    "l0156": {
+      "13": {
+        "测试连接": "Gwada Haɗi"
+      }
+    },
+    "l0165": {
+      "14": {
+        "取消": "Soke"
+      }
+    },
+    "l0170": {
+      "15": {
+        "保存": "Ajiye"
+      }
+    },
+    "l0221": {
+      "16": {
+        "成功": "Nasara"
+      },
+      "17": {
+        "连接测试成功": "Gwajin haɗi ya yi nasara!"
+      }
+    },
+    "l0223": {
+      "18": {
+        "失败": "Ya kasa"
+      },
+      "19": {
+        "连接失败_message": "Haɗi ya kasa: {message}"
+      }
+    },
+    "l0227": {
+      "20": {
+        "错误": "Kuskure"
+      },
+      "21": {
+        "请填写名称和主机地址": "Da fatan a cika suna da adireshin mai masauki"
+      }
+    },
+    "l0248": {
+      "22": {
+        "云存储账号管理": "Gudanar da Asusun Ma'ajiyar Gajimare"
+      }
+    },
+    "l0257": {
+      "23": {
+        "百度网盘": "Baidu Netdisk"
+      }
+    },
+    "l0262": {
+      "24": {
+        "未授权": "Ba a ba da izini ba"
+      }
+    },
+    "l0275": {
+      "25": {
+        "授权后可将截图直接上传到百度网盘_方便跨设备访问": "Bayan ba da izini, za a iya loda hotunan allo kai tsaye zuwa Baidu Netdisk don samun sauƙin shiga da rabawa tsakanin na'urori."
+      }
+    },
+    "l0281": {
+      "26": {
+        "授权百度网盘": "🔐 Ba da izini ga Baidu Netdisk"
+      }
+    },
+    "l0299": {
+      "27": {
+        "关闭": "Rufe"
+      }
+    },
+    "l0324": {
+      "28": {
+        "提示": "Sanarwa"
+      },
+      "29": {
+        "百度网盘功能暂不可用": "Baidu Netdisk ba ya samuwa na ɗan lokaci"
+      }
+    },
+    "l0326": {
+      "30": {
+        "错误": "Kuskure"
+      },
+      "31": {
+        "授权失败_str_e": "Ba da izini ya kasa: {str(e)}"
+      }
+    },
+    "l0330": {
+      "32": {
+        "已授权": "✓ An ba da izini"
+      }
+    },
+    "l0340": {
+      "33": {
+        "成功": "Nasara"
+      }
+    },
+    "l0342": {
+      "34": {
+        "失败": "Ya kasa"
+      }
+    },
+    "l0350": {
+      "35": {
+        "分享进度": "Ci gaban rabawa"
+      }
+    },
+    "l0357": {
+      "36": {
+        "准备中": "Ana shiryawa..."
+      }
+    },
+    "l0365": {
+      "37": {
+        "取消": "Soke"
+      }
+    },
+    "l0397": {
+      "38": {
+        "关闭": "Rufe"
+      }
+    },
+    "l0425": {
+      "39": {
+        "分享": "Raba"
+      }
+    },
+    "l0429": {
+      "40": {
+        "选择分享方式": "Zaɓi hanyar rabawa"
+      }
+    },
+    "l0476": {
+      "41": {
+        "社交分享": "Raba ta Kafofin Sada Zumunta"
+      }
+    },
+    "l0483": {
+      "42": {
+        "微信": "WeChat"
+      }
+    },
+    "l0484": {
+      "43": {
+        "已安装_分享到微信": "An girka - Raba zuwa WeChat"
+      },
+      "44": {
+        "未检测到微信客户端": "Ba a gano abokin cinikin WeChat ba"
+      }
+    },
+    "l0491": {
+      "45": {
+        "已安装_分享到QQ": "An girka - Raba zuwa QQ"
+      },
+      "46": {
+        "未检测到QQ客户端": "Ba a gano abokin cinikin QQ ba"
+      }
+    },
+    "l0497": {
+      "47": {
+        "钉钉": "DingTalk"
+      }
+    },
+    "l0498": {
+      "48": {
+        "已安装_分享到钉钉": "An girka - Raba zuwa DingTalk"
+      },
+      "49": {
+        "未检测到钉钉客户端": "Ba a gano abokin cinikin DingTalk ba"
+      }
+    },
+    "l0504": {
+      "50": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0505": {
+      "51": {
+        "已安装_分享到企业微信": "An girka - Raba zuwa WeCom"
+      },
+      "52": {
+        "未检测到企业微信客户端": "Ba a gano abokin cinikin WeCom ba"
+      }
+    },
+    "l0513": {
+      "53": {
+        "云存储": "Ma'ajiyar Gajimare"
+      }
+    },
+    "l0517": {
+      "54": {
+        "百度网盘": "Baidu Netdisk"
+      },
+      "55": {
+        "上传并分享图像到百度网盘": "Loda kuma raba hotuna zuwa Baidu Netdisk"
+      }
+    },
+    "l0524": {
+      "56": {
+        "邮件": "Imel"
+      }
+    },
+    "l0527": {
+      "57": {
+        "电子邮件": "Imel"
+      },
+      "58": {
+        "添加图像的副本到电子邮件": "Ƙara kwafin hoton zuwa imel"
+      }
+    },
+    "l0534": {
+      "59": {
+        "Office_应用": "Manhajojin Office"
+      }
+    },
+    "l0537": {
+      "60": {
+        "插入图像的副本到_Word": "Saka kwafin hoton cikin Word"
+      }
+    },
+    "l0541": {
+      "61": {
+        "插入图像的副本到_Excel": "Saka kwafin hoton cikin Excel"
+      }
+    },
+    "l0545": {
+      "62": {
+        "插入图像的副本到_PowerPoint": "Saka kwafin hoton cikin PowerPoint"
+      }
+    },
+    "l0549": {
+      "63": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "64": {
+        "发送图像的副本到_Paint": "Aika kwafin hoton zuwa Paint"
+      }
+    },
+    "l0564": {
+      "65": {
+        "发送到外部程序": "Aika zuwa shirin waje"
+      }
+    },
+    "l0568": {
+      "66": {
+        "外部程序": "Shirin Waje"
+      },
+      "67": {
+        "发送图像到_Photoshop_GIMP_等外部": "Aika hoto zuwa shirye-shiryen waje kamar Photoshop da GIMP"
+      }
+    },
+    "l0573": {
+      "68": {
+        "直接发送图像到_FTP_服务器": "Aika hoto kai tsaye zuwa sabar FTP"
+      }
+    },
+    "l0580": {
+      "69": {
+        "快捷操作": "Ayyukan gaggawa"
+      }
+    },
+    "l0584": {
+      "70": {
+        "复制到剪贴板": "Kwafi zuwa allon liƙa"
+      },
+      "71": {
+        "Ctrl_C_快速复制": "Ctrl+C kwafi da sauri"
+      }
+    },
+    "l0591": {
+      "72": {
+        "应用检测状态": "Matsayin gano manhaja"
+      }
+    },
+    "l0610": {
+      "73": {
+        "微信": "WeChat"
+      }
+    },
+    "l0611": {
+      "74": {
+        "钉钉": "DingTalk"
+      },
+      "75": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0625": {
+      "76": {
+        "重新检测": "🔄 Sake ganowa"
+      }
+    },
+    "l0649": {
+      "77": {
+        "提示": "Sanarwa"
+      },
+      "78": {
+        "请重新打开分享面板以刷新检测结果": "Da fatan a sake buɗe kwamitin rabawa don sabunta sakamakon ganowa"
+      }
+    },
+    "l0673": {
+      "79": {
+        "图像尺寸_w_h_像素": "Girman hoto: {w} × {h} pixels"
+      }
+    },
+    "l0676": {
+      "80": {
+        "没有可分享的图像": "Babu hoton da za a raba"
+      }
+    },
+    "l0681": {
+      "81": {
+        "提示": "Sanarwa"
+      },
+      "82": {
+        "请先截取或打开一张图像": "Da fatan a fara ɗaukar ko buɗe hoto"
+      }
+    },
+    "l0713": {
+      "83": {
+        "提示": "Sanarwa"
+      },
+      "84": {
+        "功能开发中_share_type_value": "Aiki yana kan haɓakawa: {share_type.value}"
+      }
+    },
+    "l0721": {
+      "85": {
+        "正在处理": "Ana sarrafawa..."
+      }
+    },
+    "l0740": {
+      "86": {
+        "选择外部程序": "Zaɓi shirin waje"
+      }
+    },
+    "l0746": {
+      "87": {
+        "发送到Photoshop": "Aika zuwa Photoshop"
+      }
+    },
+    "l0751": {
+      "88": {
+        "发送到GIMP": "Aika zuwa GIMP"
+      }
+    },
+    "l0756": {
+      "89": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "90": {
+        "发送到画图": "Aika zuwa Paint"
+      }
+    },
+    "l0762": {
+      "91": {
+        "关闭": "Rufe"
+      }
+    },
+    "l0784": {
+      "92": {
+        "提示": "Sanarwa"
+      },
+      "93": {
+        "请先截取或打开一张图像": "Da fatan a fara ɗaukar ko buɗe hoto"
+      }
+    },
+    "l0797": {
+      "94": {
+        "FTP服务器": "Sabar FTP"
+      }
+    },
+    "l0803": {
+      "95": {
+        "已配置的服务器": "Sabar da aka saita:"
+      }
+    },
+    "l0813": {
+      "96": {
+        "添加": "Ƙara"
+      }
+    },
+    "l0817": {
+      "97": {
+        "编辑": "Gyara"
+      }
+    },
+    "l0821": {
+      "98": {
+        "删除": "Share"
+      }
+    },
+    "l0828": {
+      "99": {
+        "上传到选中的服务器": "Loda zuwa uwar garken da aka zaɓa"
+      }
+    },
+    "l0832": {
+      "100": {
+        "关闭": "Rufe"
+      }
+    },
+    "l0884": {
+      "101": {
+        "提示": "Sanarwa"
+      },
+      "102": {
+        "请先选择一个服务器": "Da fatan za a fara zaɓar uwar garke"
+      }
+    },
+    "l0906": {
+      "103": {
+        "提示": "Sanarwa"
+      },
+      "104": {
+        "请先选择一个服务器": "Da fatan za a fara zaɓar uwar garke"
+      }
+    },
+    "l0912": {
+      "105": {
+        "确认删除": "Tabbatar da Gogewa"
+      }
+    },
+    "l0913": {
+      "106": {
+        "确定要删除服务器_name_吗": "Ka tabbata kana son goge uwar garken '{name}'?"
+      }
+    },
+    "l0914": {
+      "107": {
+        "确定": "Tabbatar"
+      },
+      "108": {
+        "取消": "Soke"
+      }
+    },
+    "l0925": {
+      "109": {
+        "提示": "Sanarwa"
+      },
+      "110": {
+        "请先选择一个服务器": "Da fatan za a fara zaɓar uwar garke"
+      }
+    },
+    "l0929": {
+      "111": {
+        "提示": "Sanarwa"
+      },
+      "112": {
+        "请先截取或打开一张图像": "Da fatan za a fara ɗauka ko buɗe hoto"
+      }
+    }
+  },
+  "ui_tab_manager": {
+    "l0160": {
+      "01": {
+        "关闭": "Rufe"
+      }
+    },
+    "l0164": {
+      "02": {
+        "关闭其他": "Rufe Sauran"
+      }
+    },
+    "l0235": {
+      "03": {
+        "新建": "Sabo"
+      }
+    },
+    "l0353": {
+      "04": {
+        "未保存的更改": "Canje-canje da ba a adana ba"
+      }
+    },
+    "l0354": {
+      "05": {
+        "tab_data_title_有未保存的": "'{tab_data.title}' yana da canje-canje da ba a adana ba. Ka tabbata kana son rufe shi?"
+      }
+    },
+    "l0355": {
+      "06": {
+        "保存": "Adana"
+      },
+      "07": {
+        "不保存": "Kada a adana"
+      },
+      "08": {
+        "取消": "Soke"
+      }
+    }
+  },
+  "ui_text_box": {
+    "l0363": {
+      "01": {
+        "确认文本": "✓ Tabbatar da Rubutu"
+      }
+    },
+    "l0370": {
+      "02": {
+        "删除文本框": "🗑 Goge Akwatin Rubutu"
+      }
+    },
+    "l0375": {
+      "03": {
+        "取消": "✗ Soke"
+      }
+    }
+  },
+  "ui_unified_preview_window": {
+    "l0117": {
+      "01": {
+        "截图导航": "📷 Kewayawar Hoton allo"
+      }
+    },
+    "l0205": {
+      "02": {
+        "批量编辑": "⚙️ Gyaran da yawa"
+      }
+    },
+    "l0211": {
+      "03": {
+        "旋转_90": "Juya 90°"
+      }
+    },
+    "l0212": {
+      "04": {
+        "旋转_90": "Juya -90°"
+      }
+    },
+    "l0213": {
+      "05": {
+        "水平翻转": "Juya a kwance"
+      }
+    },
+    "l0214": {
+      "06": {
+        "垂直翻转": "Juya a tsaye"
+      }
+    },
+    "l0215": {
+      "07": {
+        "全部模糊": "Dusar da Duka"
+      }
+    },
+    "l0216": {
+      "08": {
+        "全部锐化": "Kaifafa Duka"
+      }
+    },
+    "l0259": {
+      "09": {
+        "筛选和排序": "🔍 Tacewa da Tsarawa"
+      }
+    },
+    "l0264": {
+      "10": {
+        "排序方式": "Tsara ta:"
+      }
+    },
+    "l0266": {
+      "11": {
+        "最新优先": "Sabbi Farko"
+      },
+      "12": {
+        "最旧优先": "Tsofaffi Farko"
+      },
+      "13": {
+        "按名称": "Ta Suna"
+      },
+      "14": {
+        "按大小": "Ta Girma"
+      }
+    },
+    "l0271": {
+      "15": {
+        "搜索": "Bincike:"
+      }
+    },
+    "l0273": {
+      "16": {
+        "输入文件名": "Shigar da sunan fayil..."
+      }
+    },
+    "l0278": {
+      "17": {
+        "最小宽度": "Mafi ƙarancin faɗi:"
+      }
+    },
+    "l0289": {
+      "18": {
+        "最新优先": "Sabbi Farko"
+      }
+    },
+    "l0290": {
+      "19": {
+        "最旧优先": "Tsofaffi Farko"
+      }
+    },
+    "l0291": {
+      "20": {
+        "按名称": "Ta Suna"
+      }
+    },
+    "l0292": {
+      "21": {
+        "按大小": "Ta Girma"
+      }
+    },
+    "l0323": {
+      "22": {
+        "加载中": "Ana lodawa..."
+      }
+    },
+    "l0349": {
+      "23": {
+        "处理中_current_total": "Ana aiwatarwa... {current}/{total}"
+      }
+    },
+    "l0369": {
+      "24": {
+        "统一预览窗口_PyScreenshot": "Tagar Dubawa Guda - PyScreenshot"
+      }
+    },
+    "l0463": {
+      "25": {
+        "就绪": "A shirye"
+      }
+    },
+    "l0479": {
+      "26": {
+        "0_张截图": "Hotunan allo 0"
+      }
+    },
+    "l0486": {
+      "27": {
+        "批量导出": "📦 Fitar da yawa"
+      }
+    },
+    "l0501": {
+      "28": {
+        "关闭": "✕ Rufe"
+      }
+    },
+    "l0521": {
+      "29": {
+        "截图_len_self_screenshots": "Hoton allo {len(self.screenshots) + 1}"
+      }
+    },
+    "l0574": {
+      "30": {
+        "已打开编辑器_title": "✓ An buɗe editan: {title}"
+      }
+    },
+    "l0579": {
+      "31": {
+        "提示": "Sanarwa"
+      },
+      "32": {
+        "没有可操作的截图": "Babu hotunan allo da za a iya aiki da su"
+      }
+    },
+    "l0582": {
+      "33": {
+        "执行_operation": "Aiwtar da {operation}"
+      }
+    },
+    "l0589": {
+      "34": {
+        "已完成_operation": "✓ An kammala {operation}"
+      }
+    },
+    "l0594": {
+      "35": {
+        "提示": "Sanarwa"
+      },
+      "36": {
+        "没有可导出的截图": "Babu hotunan allo da za a fitar"
+      }
+    },
+    "l0597": {
+      "37": {
+        "已导出_len_self_screensh": "✓ An fitar da hotunan allo {len(self.screenshots)}"
+      }
+    },
+    "l0610": {
+      "38": {
+        "count_张截图": "Hotunan allo {count}"
+      }
+    }
+  },
+  "updater": {
+    "l0106": {
+      "01": {
+        "正在升级系统": "Ana haɓaka tsarin"
+      }
+    },
+    "l0118": {
+      "02": {
+        "准备就绪": "Ana shiryawa..."
+      }
+    },
+    "l0194": {
+      "03": {
+        "正在关闭主程序": "Ana rufe babban shirin..."
+      }
+    },
+    "l0211": {
+      "04": {
+        "正在下载更新包": "Ana sauke kunshin sabuntawa..."
+      }
+    },
+    "l0237": {
+      "05": {
+        "校验失败_下载文件损坏": "Tabbatarwa ta gaza: fayil ɗin da aka sauke ya lalace"
+      }
+    },
+    "l0244": {
+      "06": {
+        "下载失败_str_e": "Saukewa ya gaza: {str(e)}"
+      }
+    },
+    "l0249": {
+      "07": {
+        "正在安装更新": "Ana girka sabuntawa..."
+      }
+    },
+    "l0271": {
+      "08": {
+        "正在重试_i_1_max_retri": "Ana sake gwadawa ({i + 1}/{max_retries})..."
+      }
+    },
+    "l0278": {
+      "09": {
+        "安装失败_文件被占用": "Girkawa ta gaza: ana amfani da fayil ɗin"
+      }
+    },
+    "l0283": {
+      "10": {
+        "清理并重启": "Ana tsaftacewa kuma ana sake kunnawa..."
+      }
+    },
+    "l0304": {
+      "11": {
+        "启动失败_请手动打开程序": "Kaddamarwa ta gaza, da fatan za a buɗe shirin da hannu"
+      }
+    },
+    "l0308": {
+      "12": {
+        "未找到主程序": "Ba a sami babban shirin ba"
+      }
+    },
+    "l0313": {
+      "13": {
+        "更新出错_请联系支持": "Kuskure wajen sabuntawa, da fatan a tuntuɓi tallafi"
+      }
+    }
+  },
+  "默认保存路径:": "Tsohon hanyar ajiya:",
+  "默认格式:": "Tsarin tsoho:",
+  "界面语言:": "Yaren fuska:",
+  "当前版本: {current_version}": "Sigar yanzu: {current_version}",
+  "按 F8 可重复上次截图操作": "Danna F8 don maimaita daukar hoto na ƙarshe",
+  "💡 快捷键修改后保存即可生效，无需重启程序": "💡 Canje-canjen gajerun hanyoyi za su fara aiki bayan an adana, ba sai an sake kunna shirin ba",
+  "HyperSnap风格": "Salon HyperSnap",
+  "Snagit风格": "Salon Snagit",
+  "\n可用变量:\n   - 年份 (2024)\n   - 月份 (01-12)\n   - 日期 (01-31)\n   - 小时 (00-23)\n   - 日期 (20241201)\n   - 时间 (143052)\n   - 截图模式\n   - 自定义前缀\n   - 序号 (001, 002...)\n        ": "\nCanje-canje masu samuwa:\n   - Shekara (2024)\n   - Wata (01-12)\n   - Rana (01-31)\n   - Sa'a (00-23)\n   - Kwanan wata (20241201)\n   - Lokaci (143052)\n   - Yanayin daukar hoto\n   - Gabatarwar al'ada\n   - Lambar jeri (001, 002...)\n        ",
+  "全屏截图:": "Daukar cikakken allo:",
+  "矩形截图:": "Daukar hoto mai murabba’i:",
+  "窗口控件截图:": "Daukar sashin taga:",
+  "取色器:": "Mai ɗaukar launi:",
+  "重复截取:": "Maimaita daukar hoto:",
+  "白板:": "Allon fari:",
+  "开始/停止录屏:": "Fara/Tsaida rikodin allo:"
+}

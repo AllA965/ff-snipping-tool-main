@@ -1,0 +1,5648 @@
+{
+  "ui_main_window": {
+    "title": "Screenshot Pin Tool",
+    "sidebar": {
+      "return_preview": "Terug naar voorbeeld",
+      "home": "Start",
+      "new": "Nieuw",
+      "open": "Openen",
+      "save": "Opslaan",
+      "save_as": "Opslaan als",
+      "print": "Afdrukken",
+      "share": "Delen",
+      "options": "Opties",
+      "login": "Inloggen",
+      "exit": "Afsluiten"
+    },
+    "header": {
+      "select_action": "Actie kiezen"
+    },
+    "bottom": {
+      "customize": " Verzoek voor aangepaste software",
+      "ready": "Gereed | Druk op F8 om de laatste opname te herhalen",
+      "hide_on_startup": "Dit venster niet tonen bij opstarten",
+      "brand": "Een KunqiongAI-product"
+    },
+    "left": {
+      "new_task": "Nieuwe taak",
+      "new": "Nieuw",
+      "new_sub": "Nieuwe afbeelding",
+      "open": "Openen",
+      "open_sub": "Bestaand bestand openen",
+      "capture_screen": "Scherm vastleggen",
+      "fullscreen": "Volledig scherm",
+      "window": "Venster",
+      "region": "Regio",
+      "control": "Vensterbesturing",
+      "scroll": "Scrollende opname",
+      "freeform": "Vrije vorm",
+      "repeat": "Opname herhalen",
+      "repeat_sub": "F8 Herhaal laatste actie"
+    },
+    "right": {
+      "tools": "Hulpprogramma's",
+      "screen_recorder": "Schermrecorder",
+      "screen_recorder_sub": "Bureaubladvideo opnemen",
+      "color_picker": "Kleurenkiezer",
+      "color_picker_sub": "Kleuren van het scherm kiezen",
+      "palette": "Palet",
+      "palette_sub": "Kleuren op het palet aanpassen",
+      "magnifier": "Vergrootglas",
+      "magnifier_sub": "Inzoomen op schermpixels",
+      "ruler": "Liniaal",
+      "ruler_sub": "Objectgroottes op het scherm meten",
+      "crosshair": "Dradenkruis",
+      "crosshair_sub": "Relatieve coördinaten inspecteren",
+      "protractor": "Gradenboog",
+      "protractor_sub": "Hoeken op het scherm meten",
+      "whiteboard": "Whiteboard",
+      "whiteboard_sub": "Voor presentaties of tekenen"
+    },
+    "l0275": {
+      "02": {
+        "登录": "Inloggen"
+      }
+    },
+    "l0398": {
+      "03": {
+        "截图贴图工具": "Screenshot Pin Tool"
+      }
+    },
+    "l0453": {
+      "04": {
+        "截图贴图工具": "Screenshot Pin Tool"
+      }
+    },
+    "l0464": {
+      "05": {
+        "返回预览": "↩️ Terug naar voorbeeld"
+      }
+    },
+    "l0465": {
+      "06": {
+        "返回上次的预览状态": "Terug naar de vorige voorbeeldstatus"
+      }
+    },
+    "l0477": {
+      "07": {
+        "主页": "🏠 Startpagina"
+      }
+    },
+    "l0478": {
+      "08": {
+        "新建": "📄 Nieuw"
+      }
+    },
+    "l0479": {
+      "09": {
+        "打开": "📂 Openen"
+      }
+    },
+    "l0480": {
+      "10": {
+        "保存": "💾 Opslaan"
+      }
+    },
+    "l0481": {
+      "11": {
+        "另存为": "📋 Opslaan als"
+      }
+    },
+    "l0482": {
+      "12": {
+        "打印": "🖨️ Afdrukken"
+      }
+    },
+    "l0483": {
+      "13": {
+        "分享": "📤 Delen"
+      }
+    },
+    "l0484": {
+      "14": {
+        "选项": "⚙️ Opties"
+      }
+    },
+    "l0506": {
+      "15": {
+        "登录": "👤 Inloggen"
+      }
+    },
+    "l0511": {
+      "16": {
+        "退出": "🚪 Afsluiten"
+      }
+    },
+    "l0533": {
+      "17": {
+        "选择操作": "Kies een actie"
+      }
+    },
+    "l0562": {
+      "18": {
+        "我要软件定制": "Ik wil software op maat laten ontwikkelen"
+      }
+    },
+    "l0598": {
+      "20": {
+        "就绪_按_F8_重复上次截图": "Gereed | Druk op F8 om de laatste screenshot te herhalen"
+      }
+    },
+    "l0603": {
+      "21": {
+        "取消登录": "Inloggen annuleren"
+      }
+    },
+    "l0621": {
+      "22": {
+        "启动时不显示此窗口": "Dit venster niet tonen bij het opstarten"
+      }
+    },
+    "l0626": {
+      "23": {
+        "鲲穹AI旗下产品": "Producten van Kunqiong AI"
+      }
+    },
+    "l0641": {
+      "24": {
+        "新任务": "📁 Nieuwe taak"
+      }
+    },
+    "l0651": {
+      "25": {
+        "新建": "Nieuw"
+      },
+      "26": {
+        "新建图像": "Nieuwe afbeelding"
+      }
+    },
+    "l0655": {
+      "27": {
+        "打开": "Openen"
+      },
+      "28": {
+        "打开已有文件": "Een bestaand bestand openen"
+      }
+    },
+    "l0661": {
+      "29": {
+        "截取屏幕": "📷 Scherm vastleggen"
+      }
+    },
+    "l0671": {
+      "30": {
+        "全屏": "Volledig scherm"
+      }
+    },
+    "l0675": {
+      "31": {
+        "窗口": "Venster"
+      }
+    },
+    "l0680": {
+      "32": {
+        "矩形区域": "Rechthoekig gebied"
+      }
+    },
+    "l0681": {
+      "33": {
+        "窗口控件": "Vensterbesturingselementen"
+      }
+    },
+    "l0682": {
+      "34": {
+        "滚动截图": "Scrollende screenshot"
+      }
+    },
+    "l0683": {
+      "35": {
+        "任意形状": "Vrije vorm"
+      }
+    },
+    "l0693": {
+      "36": {
+        "重复截取": "Vastlegging herhalen"
+      },
+      "37": {
+        "F8_重复上次操作": "F8 Laatste actie herhalen"
+      }
+    },
+    "l0707": {
+      "38": {
+        "实用工具": "🛠 Hulpprogramma's"
+      }
+    },
+    "l0718": {
+      "39": {
+        "屏幕录制器": "Schermrecorder"
+      },
+      "40": {
+        "录制桌面视频": "Desktopvideo opnemen"
+      }
+    },
+    "l0719": {
+      "41": {
+        "取色器": "Kleurenkiezer"
+      },
+      "42": {
+        "在屏幕上拾取颜色": "Kleuren van het scherm oppikken"
+      }
+    },
+    "l0720": {
+      "43": {
+        "调色板": "Palet"
+      },
+      "44": {
+        "在调色板上按需调色": "Kleuren op het palet mengen zoals gewenst"
+      }
+    },
+    "l0721": {
+      "45": {
+        "放大镜": "Vergrootglas"
+      },
+      "46": {
+        "对屏幕像素放大细看": "Inzoomen om schermpixels nauwkeurig te bekijken"
+      }
+    },
+    "l0722": {
+      "47": {
+        "标尺": "Liniaal"
+      },
+      "48": {
+        "测量桌面对象的尺寸": "De grootte van bureaubladobjecten meten"
+      }
+    },
+    "l0723": {
+      "49": {
+        "坐标轴": "Coördinatenas"
+      },
+      "50": {
+        "查测相对坐标": "Relatieve coördinaten controleren"
+      }
+    },
+    "l0724": {
+      "51": {
+        "量角器": "Gradenboog"
+      },
+      "52": {
+        "在屏幕上测量角度": "Hoeken op het scherm meten"
+      }
+    },
+    "l0725": {
+      "53": {
+        "白板": "Whiteboard"
+      },
+      "54": {
+        "用于演示或绘画": "Voor presentaties of tekenen"
+      }
+    },
+    "l0783": {
+      "55": {
+        "已登录": "Ingelogd"
+      }
+    },
+    "l0785": {
+      "56": {
+        "点击查看用户信息或退出登录": "Klik om gebruikersinformatie te bekijken of uit te loggen"
+      }
+    },
+    "l0792": {
+      "57": {
+        "登录": "👤 Inloggen"
+      }
+    },
+    "l0793": {
+      "58": {
+        "点击登录鲲穹AI账号": "Klik om in te loggen op je Kunqiong AI-account"
+      }
+    },
+    "l0829": {
+      "60": {
+        "登录确认": "Inlogbevestiging"
+      }
+    },
+    "l0830": {
+      "61": {
+        "即将打开浏览器进行登录_是否继续_登录完成后请": "De browser wordt geopend om in te loggen. Doorgaan?\n\nKeer na het inloggen terug naar deze applicatie."
+      }
+    },
+    "l0833": {
+      "62": {
+        "正在等待网页登录完成": "Wachten tot het inloggen via het web is voltooid..."
+      }
+    },
+    "l0841": {
+      "63": {
+        "登录已取消": "Inloggen geannuleerd"
+      }
+    },
+    "l0904": {
+      "64": {
+        "未知": "Onbekend"
+      }
+    },
+    "l0913": {
+      "65": {
+        "退出登录": "🚪 Uitloggen"
+      }
+    },
+    "l0925": {
+      "66": {
+        "已退出登录": "Uitgelogd"
+      }
+    },
+    "l0926": {
+      "67": {
+        "提示": "Melding"
+      },
+      "68": {
+        "已成功退出登录": "Succesvol uitgelogd"
+      }
+    },
+    "l0934": {
+      "69": {
+        "登录成功": "Inloggen geslaagd"
+      }
+    },
+    "l0935": {
+      "70": {
+        "登录成功": "Inloggen geslaagd"
+      },
+      "71": {
+        "欢迎回来_账号已同步": "Welkom terug! Je account is gesynchroniseerd."
+      }
+    },
+    "l0940": {
+      "72": {
+        "登录失败": "Inloggen mislukt"
+      }
+    },
+    "l0941": {
+      "73": {
+        "登录失败": "Inloggen mislukt"
+      },
+      "74": {
+        "登录过程中出现错误_error_msg": "Er is een fout opgetreden tijdens het inloggen:\n{error_msg}"
+      }
+    },
+    "l1020": {
+      "75": {
+        "没有可重复的截图操作": "Geen screenshotbewerking om te herhalen"
+      }
+    },
+    "l1041": {
+      "76": {
+        "未知的截图模式": "Onbekende screenshotmodus"
+      }
+    },
+    "l1080": {
+      "77": {
+        "提示": "Melding"
+      },
+      "78": {
+        "没有可恢复的预览状态": "Geen voorbeeldstatus beschikbaar om te herstellen"
+      }
+    },
+    "l1095": {
+      "79": {
+        "错误": "Fout"
+      },
+      "80": {
+        "预览缓存已过期或不存在": "Voorbeeldcache is verlopen of bestaat niet"
+      }
+    },
+    "l1103": {
+      "81": {
+        "正在恢复_len_session_caches": "{len(session_caches)} tabbladen herstellen..."
+      }
+    },
+    "l1119": {
+      "82": {
+        "未命名": "Naamloos"
+      }
+    },
+    "l1130": {
+      "83": {
+        "已恢复_len_session_cache": "✓ {len(session_caches)} tabbladen hersteld"
+      }
+    },
+    "l1135": {
+      "84": {
+        "错误": "Fout"
+      },
+      "85": {
+        "无法加载预览图像": "Kan voorbeeldafbeelding niet laden"
+      }
+    },
+    "l1163": {
+      "86": {
+        "打开图像": "Afbeelding openen"
+      }
+    },
+    "l1164": {
+      "87": {
+        "图像文件_png_jpg_jpeg": "Afbeeldingsbestanden (*.png *.jpg *.jpeg *.bmp *.gif);;Alle bestanden (*.*)"
+      }
+    },
+    "l1176": {
+      "88": {
+        "提示": "Melding"
+      }
+    },
+    "l1177": {
+      "89": {
+        "请先打开或截取一张图像_然后在编辑器中进行保存": "Open of maak eerst een afbeelding en sla deze daarna op in de editor."
+      }
+    },
+    "l1185": {
+      "90": {
+        "提示": "Melding"
+      }
+    },
+    "l1186": {
+      "91": {
+        "请先打开或截取一张图像_然后在编辑器中进行另存为": "Open of maak eerst een afbeelding en gebruik daarna Opslaan als in de editor."
+      }
+    },
+    "l1194": {
+      "92": {
+        "提示": "Melding"
+      }
+    },
+    "l1195": {
+      "93": {
+        "请先打开或截取一张图像_然后在编辑器中进行打印": "Open of maak eerst een afbeelding en druk deze daarna af in de editor."
+      }
+    },
+    "l1283": {
+      "94": {
+        "提示": "Melding"
+      },
+      "95": {
+        "剪贴板中没有可粘贴的图像": "Er staat geen afbeelding op het klembord om te plakken"
+      }
+    },
+    "l1315": {
+      "96": {
+        "提示": "Melding"
+      }
+    },
+    "l1316": {
+      "97": {
+        "没有可分享的图像_请先截取或打开一张图像": "Er is geen afbeelding om te delen.\nLeg eerst een afbeelding vast of open er een."
+      }
+    },
+    "l1325": {
+      "98": {
+        "提示": "Melding"
+      },
+      "99": {
+        "没有可分享的图像": "Er is geen afbeelding om te delen"
+      }
+    },
+    "l1329": {
+      "100": {
+        "分享": "Delen"
+      }
+    },
+    "l1361": {
+      "101": {
+        "提示": "Melding"
+      },
+      "102": {
+        "预览缓存已过期_请重新截图": "Voorbeeldcache is verlopen, maak opnieuw een screenshot"
+      }
+    },
+    "l1379": {
+      "103": {
+        "未命名": "Naamloos"
+      }
+    }
+  },
+  "core_cloud_storage": {
+    "l0174": {
+      "02": {
+        "授权成功": "Autorisatie geslaagd"
+      }
+    },
+    "l0179": {
+      "04": {
+        "授权失败_str_e": "Autorisatie mislukt: {str(e)}"
+      }
+    },
+    "l0215": {
+      "05": {
+        "未授权": "Niet geautoriseerd"
+      }
+    },
+    "l0244": {
+      "07": {
+        "上传失败_str_e": "Uploaden mislukt: {str(e)}"
+      }
+    },
+    "l0262": {
+      "08": {
+        "创建上传会话失败": "Maken van uploadsessie mislukt"
+      }
+    },
+    "l0290": {
+      "10": {
+        "上传成功": "Uploaden geslaagd"
+      }
+    },
+    "l0383": {
+      "11": {
+        "授权成功": "Autorisatie geslaagd"
+      }
+    },
+    "l0385": {
+      "12": {
+        "授权失败": "Autorisatie mislukt"
+      }
+    },
+    "l0390": {
+      "14": {
+        "授权失败_str_e": "Autorisatie mislukt: {str(e)}"
+      }
+    },
+    "l0400": {
+      "15": {
+        "未授权": "Niet geautoriseerd"
+      }
+    },
+    "l0428": {
+      "16": {
+        "预上传失败_result": "Pre-upload mislukt: {result}"
+      }
+    },
+    "l0466": {
+      "17": {
+        "上传成功_remote_path_fil": "Uploaden geslaagd: {remote_path}/{filename}"
+      }
+    },
+    "l0468": {
+      "18": {
+        "创建文件失败_result": "Maken van bestand mislukt: {result}"
+      }
+    },
+    "l0471": {
+      "19": {
+        "上传失败_str_e": "Uploaden mislukt: {str(e)}"
+      }
+    }
+  },
+  "core_ftp_manager": {
+    "l0067": {
+      "01": {
+        "正在连接服务器": "Verbinden met server..."
+      }
+    },
+    "l0071": {
+      "02": {
+        "上传已取消": "Upload geannuleerd"
+      }
+    },
+    "l0074": {
+      "03": {
+        "正在上传文件": "Bestand uploaden..."
+      }
+    },
+    "l0078": {
+      "04": {
+        "上传成功": "Uploaden geslaagd"
+      }
+    },
+    "l0081": {
+      "05": {
+        "权限错误_e": "Machtigingsfout: {e}"
+      }
+    },
+    "l0083": {
+      "06": {
+        "临时错误_e": "Tijdelijke fout: {e}"
+      }
+    },
+    "l0085": {
+      "07": {
+        "连接被拒绝_请检查服务器地址和端口": "Verbinding geweigerd, controleer het serveradres en de poort"
+      }
+    },
+    "l0087": {
+      "08": {
+        "连接超时": "Time-out bij verbinding"
+      }
+    },
+    "l0089": {
+      "09": {
+        "上传失败_str_e": "Uploaden mislukt: {str(e)}"
+      }
+    },
+    "l0154": {
+      "10": {
+        "断点续传_从_rest_position_字": "Upload hervatten, starten vanaf {rest_position} bytes..."
+      }
+    },
+    "l0160": {
+      "11": {
+        "上传已取消": "Upload geannuleerd"
+      }
+    },
+    "l0214": {
+      "12": {
+        "连接成功": "Verbonden"
+      }
+    },
+    "l0216": {
+      "13": {
+        "认证失败_e": "Authenticatie mislukt: {e}"
+      }
+    },
+    "l0218": {
+      "14": {
+        "连接被拒绝": "Verbinding geweigerd"
+      }
+    },
+    "l0220": {
+      "15": {
+        "连接超时": "Time-out bij verbinding"
+      }
+    },
+    "l0222": {
+      "16": {
+        "连接失败_str_e": "Verbinding mislukt: {str(e)}"
+      }
+    }
+  },
+  "core_hotkey_manager": {
+    "l0111": {
+      "03": {
+        "无效的快捷键": "Ongeldige sneltoets"
+      }
+    },
+    "l0123": {
+      "05": {
+        "注册成功": "Registratie geslaagd"
+      }
+    },
+    "l0126": {
+      "06": {
+        "快捷键可能被其他程序占用": "De sneltoets is mogelijk in gebruik door een ander programma"
+      },
+      "07": {
+        "错误代码_error_code": "Foutcode: {error_code}"
+      }
+    },
+    "l0176": {
+      "11": {
+        "全屏截图": "Screenshot van volledig scherm"
+      }
+    },
+    "l0177": {
+      "12": {
+        "矩形截图": "Rechthoekige screenshot"
+      }
+    },
+    "l0178": {
+      "13": {
+        "窗口控件截图": "Screenshot van venster/besturingselement"
+      }
+    },
+    "l0179": {
+      "14": {
+        "取色器": "Kleurenkiezer"
+      }
+    },
+    "l0180": {
+      "15": {
+        "重复截取": "Opname herhalen"
+      }
+    },
+    "l0181": {
+      "16": {
+        "白板": "Whiteboard"
+      }
+    },
+    "l0182": {
+      "17": {
+        "智能粘贴": "Slim plakken"
+      }
+    },
+    "l0183": {
+      "18": {
+        "屏幕录制": "Schermopname"
+      }
+    },
+    "l0288": {
+      "19": {
+        "准备注册快捷键_name_hotke": "Bezig met voorbereiden van registratie van sneltoets: {name} = {hotkeys_config[name]}"
+      }
+    },
+    "l0300": {
+      "20": {
+        "快捷键监听线程已启动": "Sneltoets-luisterthread gestart"
+      }
+    },
+    "l0308": {
+      "21": {
+        "快捷键_display_name_注册成": "Sneltoets [{display_name}] succesvol geregistreerd"
+      }
+    },
+    "l0310": {
+      "22": {
+        "快捷键_display_name_注册失": "Registratie van sneltoets [{display_name}] mislukt: {message}"
+      }
+    },
+    "l0322": {
+      "23": {
+        "快捷键与_conflict_冲突": "Sneltoets conflicteert met [{conflict}]"
+      }
+    },
+    "l0332": {
+      "24": {
+        "已禁用": "Uitgeschakeld"
+      }
+    },
+    "l0335": {
+      "25": {
+        "无效的快捷键格式": "Ongeldig sneltoetsformaat"
+      }
+    },
+    "l0345": {
+      "26": {
+        "未知的快捷键名称": "Onbekende sneltoetsnaam"
+      }
+    },
+    "l0354": {
+      "27": {
+        "快捷键_name_已更新为_hotke": "Sneltoets [{name}] is bijgewerkt naar {hotkey_str}"
+      }
+    },
+    "l0355": {
+      "28": {
+        "更新成功": "Bijwerken geslaagd"
+      }
+    },
+    "l0357": {
+      "29": {
+        "快捷键服务未运行": "Sneltoetsservice is niet actief"
+      }
+    },
+    "l0370": {
+      "30": {
+        "快捷键_name_已移除": "Sneltoets [{name}] verwijderd"
+      }
+    },
+    "l0375": {
+      "31": {
+        "快捷键触发_name": "Sneltoets geactiveerd: {name}"
+      }
+    },
+    "l0397": {
+      "32": {
+        "正在注销所有快捷键": "Alle sneltoetsen worden afgemeld..."
+      }
+    },
+    "l0401": {
+      "33": {
+        "所有快捷键已注销": "Alle sneltoetsen zijn afgemeld"
+      }
+    },
+    "l0405": {
+      "34": {
+        "重新加载快捷键配置": "Configuratie van sneltoetsen opnieuw laden..."
+      }
+    }
+  },
+  "core_kunqiong_login": {
+    "l0177": {
+      "04": {
+        "无法连接到登录服务器": "Kan geen verbinding maken met de inlogserver"
+      }
+    },
+    "l0189": {
+      "05": {
+        "无法打开系统浏览器": "Kan de systeembrowser niet openen"
+      }
+    },
+    "l0192": {
+      "06": {
+        "启动浏览器失败_e": "Starten van browser mislukt: {e}"
+      }
+    },
+    "l0199": {
+      "07": {
+        "登录超时": "Time-out bij inloggen"
+      }
+    },
+    "l0224": {
+      "08": {
+        "获取用户信息失败": "Ophalen van gebruikersinformatie mislukt"
+      }
+    }
+  },
+  "core_ocr_engine": {
+    "l0035": {
+      "01": {
+        "rapidocr_onnxruntime_未安装": "rapidocr_onnxruntime is niet geïnstalleerd, lokale OCR-functies zijn niet beschikbaar"
+      }
+    }
+  },
+  "core_office_export": {
+    "l0106": {
+      "01": {
+        "截图内容": "Inhoud van screenshot"
+      }
+    },
+    "l0134": {
+      "02": {
+        "需要安装_python_docx_库_pip": "python-docx-bibliotheek is vereist: pip install python-docx"
+      }
+    },
+    "l0136": {
+      "03": {
+        "导出失败_str_e": "Exporteren mislukt: {str(e)}"
+      }
+    },
+    "l0149": {
+      "04": {
+        "截图": "Screenshot"
+      }
+    },
+    "l0179": {
+      "05": {
+        "需要安装_openpyxl_库_pip_ins": "openpyxl-bibliotheek is vereist: pip install openpyxl"
+      }
+    },
+    "l0181": {
+      "06": {
+        "导出失败_str_e": "Exporteren mislukt: {str(e)}"
+      }
+    },
+    "l0238": {
+      "07": {
+        "需要安装_python_pptx_库_pip": "python-pptx-bibliotheek is vereist: pip install python-pptx"
+      }
+    },
+    "l0240": {
+      "08": {
+        "导出失败_str_e": "Exporteren mislukt: {str(e)}"
+      }
+    },
+    "l0256": {
+      "09": {
+        "发送失败_str_e": "Verzenden mislukt: {str(e)}"
+      }
+    },
+    "l0298": {
+      "10": {
+        "发送失败_str_e": "Verzenden mislukt: {str(e)}"
+      }
+    },
+    "l0327": {
+      "11": {
+        "未找到GIMP程序": "GIMP-toepassing niet gevonden"
+      }
+    },
+    "l0330": {
+      "12": {
+        "发送失败_str_e": "Verzenden mislukt: {str(e)}"
+      }
+    }
+  },
+  "core_share_manager": {
+    "l0147": {
+      "01": {
+        "准备中": "Voorbereiden..."
+      }
+    },
+    "l0180": {
+      "02": {
+        "分享任务_task_share_type_va": "Deeltaak {task.share_type.value}"
+      }
+    },
+    "l0192": {
+      "03": {
+        "正在导出到Word": "Exporteren naar Word..."
+      }
+    },
+    "l0198": {
+      "04": {
+        "已导出到Word": "Geëxporteerd naar Word"
+      }
+    },
+    "l0209": {
+      "05": {
+        "正在导出到Excel": "Exporteren naar Excel..."
+      }
+    },
+    "l0215": {
+      "06": {
+        "已导出到Excel": "Geëxporteerd naar Excel"
+      }
+    },
+    "l0226": {
+      "07": {
+        "正在导出到PowerPoint": "Exporteren naar PowerPoint..."
+      }
+    },
+    "l0232": {
+      "08": {
+        "已导出到PowerPoint": "Geëxporteerd naar PowerPoint"
+      }
+    },
+    "l0247": {
+      "09": {
+        "已发送到画图": "Verzonden naar Paint"
+      }
+    },
+    "l0262": {
+      "10": {
+        "已发送到Photoshop": "Verzonden naar Photoshop"
+      }
+    },
+    "l0277": {
+      "11": {
+        "已发送到GIMP": "Verzonden naar GIMP"
+      }
+    },
+    "l0295": {
+      "12": {
+        "未找到服务器配置_server_name": "Serverconfiguratie niet gevonden: {server_name}"
+      }
+    },
+    "l0321": {
+      "13": {
+        "正在上传": "Uploaden..."
+      }
+    },
+    "l0331": {
+      "14": {
+        "上传中_uploaded_total": "Uploaden... {uploaded}/{total} bytes"
+      }
+    },
+    "l0339": {
+      "15": {
+        "上传成功": "Uploaden geslaagd"
+      }
+    },
+    "l0434": {
+      "16": {
+        "请先授权OneDrive账号": "Autoriseer eerst uw OneDrive-account"
+      }
+    },
+    "l0454": {
+      "17": {
+        "正在上传": "Uploaden..."
+      }
+    },
+    "l0469": {
+      "18": {
+        "请先授权百度网盘账号": "Autoriseer eerst uw Baidu Netdisk-account"
+      }
+    },
+    "l0484": {
+      "19": {
+        "正在上传": "Uploaden..."
+      }
+    }
+  },
+  "core_social_share": {
+    "l0099": {
+      "01": {
+        "Applications_企业微信_app": "/Applications/WeCom.app"
+      }
+    },
+    "l0116": {
+      "02": {
+        "分享内容_date_str": "Gedeelde inhoud-{date_str}"
+      }
+    },
+    "l0125": {
+      "03": {
+        "请查看附件中的截图内容": "Bekijk de inhoud van de screenshot in de bijlage."
+      }
+    },
+    "l0128": {
+      "04": {
+        "已打开邮件客户端": "E-mailclient geopend"
+      }
+    },
+    "l0134": {
+      "05": {
+        "已打开邮件客户端_请手动添加附件_temp": "E-mailclient geopend, voeg de bijlage handmatig toe: {temp_file}"
+      }
+    },
+    "l0138": {
+      "06": {
+        "tell_application_Mail": "tell application \"Mail\"\n                    set newMessage to make new outgoing message with properties {subject:\"{subject}\", content:\"Bekijk de inhoud van de screenshot in de bijlage.\"}\n                    tell newMessage\n                        make new attachment with properties {file name:POSIX file \"{temp_file}\"}\n                    end tell\n                    activate\n                end tell"
+      }
+    },
+    "l0148": {
+      "07": {
+        "已打开邮件客户端": "E-mailclient geopend"
+      }
+    },
+    "l0153": {
+      "08": {
+        "已打开邮件客户端": "E-mailclient geopend"
+      }
+    },
+    "l0156": {
+      "09": {
+        "打开邮件客户端失败_str_e": "Openen van e-mailclient mislukt: {str(e)}"
+      }
+    },
+    "l0177": {
+      "10": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Gekopieerd naar klembord en WeChat geopend, plak in het chatvenster (Ctrl+V)"
+      }
+    },
+    "l0181": {
+      "11": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Gekopieerd naar klembord en WeChat geopend, plak in het chatvenster (Cmd+V)"
+      }
+    },
+    "l0183": {
+      "12": {
+        "已复制到剪贴板_请手动打开微信并粘贴": "Gekopieerd naar klembord, open WeChat handmatig en plak"
+      }
+    },
+    "l0186": {
+      "13": {
+        "分享失败_str_e": "Delen mislukt: {str(e)}"
+      }
+    },
+    "l0206": {
+      "14": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Gekopieerd naar klembord en QQ geopend, plak in het chatvenster (Ctrl+V)"
+      }
+    },
+    "l0210": {
+      "15": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Gekopieerd naar klembord en QQ geopend, plak in het chatvenster (Cmd+V)"
+      }
+    },
+    "l0212": {
+      "16": {
+        "已复制到剪贴板_请手动打开QQ并粘贴": "Gekopieerd naar klembord, open QQ handmatig en plak"
+      }
+    },
+    "l0215": {
+      "17": {
+        "分享失败_str_e": "Delen mislukt: {str(e)}"
+      }
+    },
+    "l0233": {
+      "18": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Gekopieerd naar klembord en DingTalk geopend, plak in het chatvenster"
+      }
+    },
+    "l0237": {
+      "19": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Gekopieerd naar klembord en DingTalk geopend, plak in het chatvenster"
+      }
+    },
+    "l0239": {
+      "20": {
+        "已复制到剪贴板_请手动打开钉钉并粘贴": "Gekopieerd naar klembord, open DingTalk handmatig en plak"
+      }
+    },
+    "l0242": {
+      "21": {
+        "分享失败_str_e": "Delen mislukt: {str(e)}"
+      }
+    },
+    "l0260": {
+      "22": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Gekopieerd naar klembord en WeCom geopend, plak in het chatvenster"
+      }
+    },
+    "l0263": {
+      "23": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0264": {
+      "24": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Gekopieerd naar klembord en WeCom geopend, plak in het chatvenster"
+      }
+    },
+    "l0266": {
+      "25": {
+        "已复制到剪贴板_请手动打开企业微信并粘贴": "Gekopieerd naar klembord, open WeCom handmatig en plak"
+      }
+    },
+    "l0269": {
+      "26": {
+        "分享失败_str_e": "Delen mislukt: {str(e)}"
+      }
+    },
+    "l0282": {
+      "27": {
+        "已复制到剪贴板": "Gekopieerd naar klembord"
+      }
+    },
+    "l0284": {
+      "28": {
+        "复制失败_str_e": "Kopiëren mislukt: {str(e)}"
+      }
+    },
+    "l0340": {
+      "29": {
+        "上传失败_response_status_c": "Uploaden mislukt: {response.status_code}"
+      }
+    },
+    "l0343": {
+      "30": {
+        "上传失败_str_e": "Uploaden mislukt: {str(e)}"
+      }
+    }
+  },
+  "core_tray_manager": {
+    "l0019": {
+      "01": {
+        "截图贴图工具": "Screenshot Pin Tool"
+      }
+    },
+    "l0069": {
+      "05": {
+        "全屏截图": "Screenshot van volledig scherm"
+      }
+    },
+    "l0070": {
+      "06": {
+        "区域截图": "Screenshot van regio"
+      }
+    },
+    "l0071": {
+      "07": {
+        "窗口截图": "Screenshot van venster"
+      }
+    },
+    "l0075": {
+      "08": {
+        "取色器": "Kleurenkiezer"
+      }
+    },
+    "l0076": {
+      "09": {
+        "屏幕录制": "Schermopname"
+      }
+    },
+    "l0080": {
+      "10": {
+        "显示主窗口": "Hoofdvenster tonen"
+      }
+    },
+    "l0081": {
+      "11": {
+        "设置": "Instellingen"
+      }
+    },
+    "l0083": {
+      "12": {
+        "退出": "Afsluiten"
+      }
+    }
+  },
+  "core_update_manager": {
+    "l0040": {
+      "01": {
+        "服务器返回数据格式错误": "Ongeldige gegevensindeling geretourneerd door server"
+      }
+    },
+    "l0042": {
+      "02": {
+        "服务器响应错误_response_statu": "Serverresponserfout: {response.status_code}"
+      }
+    },
+    "l0044": {
+      "03": {
+        "网络连接失败_str_e": "Netwerkverbinding mislukt: {str(e)}"
+      }
+    },
+    "l0068": {
+      "04": {
+        "检查更新": "Controleren op updates"
+      },
+      "05": {
+        "当前已是最新版本": "U gebruikt al de nieuwste versie"
+      }
+    },
+    "l0074": {
+      "06": {
+        "检查失败": "Controleren mislukt"
+      },
+      "07": {
+        "获取版本信息失败": "Kan versie-informatie niet ophalen"
+      }
+    },
+    "l0083": {
+      "08": {
+        "发现新版本_remote_version": "Nieuwe versie gevonden: {remote_version}\n\n{data.get('update_log', 'No update log')}"
+      },
+      "09": {
+        "无更新日志": "Geen updatelog"
+      }
+    },
+    "l0086": {
+      "10": {
+        "强制更新_msg": "[Verplichte update]\n{msg}"
+      }
+    },
+    "l0087": {
+      "11": {
+        "必须更新": "Update vereist"
+      },
+      "12": {
+        "立即更新": "Nu updaten"
+      }
+    },
+    "l0092": {
+      "13": {
+        "发现新版本": "Nieuwe versie gevonden"
+      }
+    },
+    "l0094": {
+      "14": {
+        "立即更新": "Nu updaten"
+      }
+    },
+    "l0095": {
+      "15": {
+        "稍后": "Later"
+      }
+    },
+    "l0104": {
+      "16": {
+        "检查失败": "Controleren mislukt"
+      },
+      "17": {
+        "检查更新出错_error_msg": "Fout bij controleren op updates:\n{error_msg}"
+      }
+    },
+    "l0125": {
+      "18": {
+        "未找到更新程序_updater_exe": "Updater niet gevonden: {updater_exe}"
+      }
+    },
+    "l0152": {
+      "19": {
+        "更新失败": "Updaten mislukt"
+      },
+      "20": {
+        "无法启动更新程序_str_e": "Kan updater niet starten:\n{str(e)}"
+      }
+    }
+  },
+  "main": {
+    "l0057": {
+      "01": {
+        "错误": "Fout"
+      },
+      "02": {
+        "程序发生错误_str_value": "Er is een programmafout opgetreden:\n{str(value)}"
+      }
+    },
+    "l0069": {
+      "03": {
+        "提示": "Melding"
+      },
+      "04": {
+        "程序已在运行中_请勿重复启动": "Het programma wordt al uitgevoerd. Start het niet opnieuw."
+      }
+    },
+    "l0084": {
+      "05": {
+        "截图贴图工具": "Screenshot Pin Tool"
+      }
+    },
+    "l0086": {
+      "06": {
+        "鲲穹AI": "Kunqiong AI"
+      }
+    },
+    "l0138": {
+      "07": {
+        "启动错误": "Opstartfout"
+      },
+      "08": {
+        "程序启动失败_str_e": "Programma starten mislukt:\n{str(e)}"
+      }
+    }
+  },
+  "tools_crosshair": {
+    "l0081": {
+      "01": {
+        "当前_X_self_cursor_pos_x": "Huidig: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0084": {
+      "02": {
+        "锁定_X_self_cursor_pos": "🔒 Vergrendeld: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0092": {
+      "03": {
+        "点_i_1_ΔX_sign_x_dx": "Punt{i + 1}: ΔX={sign_x}{dx}  ΔY={sign_y}{dy}"
+      }
+    },
+    "l0095": {
+      "04": {
+        "Space_锁定_L_添加对比点_C_清": "Spatie=Vergrendelen | L=Vergelijkingspunt toevoegen | C=Wissen | ESC=Afsluiten"
+      }
+    },
+    "l0266": {
+      "05": {
+        "解除锁定": "Ontgrendelen"
+      },
+      "06": {
+        "锁定当前坐标": "Huidige coördinaten vergrendelen"
+      }
+    },
+    "l0270": {
+      "07": {
+        "添加对比点": "Vergelijkingspunt toevoegen"
+      }
+    },
+    "l0274": {
+      "08": {
+        "清除所有对比点": "Alle vergelijkingspunten wissen"
+      }
+    },
+    "l0280": {
+      "09": {
+        "关闭": "Sluiten"
+      }
+    }
+  },
+  "tools_magnifier": {
+    "l0024": {
+      "01": {
+        "放大镜": "Vergrootglas"
+      }
+    },
+    "l0085": {
+      "02": {
+        "放大镜": "Vergrootglas"
+      }
+    },
+    "l0158": {
+      "03": {
+        "按下_Esc_键退出": "Druk op Esc om af te sluiten"
+      }
+    }
+  },
+  "tools_palette": {
+    "l0167": {
+      "01": {
+        "调色板": "Palet"
+      }
+    },
+    "l0261": {
+      "02": {
+        "主题颜色": "Themakleuren"
+      }
+    },
+    "l0273": {
+      "03": {
+        "标准颜色": "Standaardkleuren"
+      }
+    },
+    "l0286": {
+      "04": {
+        "自定义颜色": "Aangepaste kleuren"
+      }
+    },
+    "l0316": {
+      "05": {
+        "取色器_P": "🔍 Kleurkiezer (P)"
+      }
+    },
+    "l0416": {
+      "06": {
+        "添加到自定义颜色": "✨ Toevoegen aan aangepaste kleuren"
+      }
+    },
+    "l0442": {
+      "07": {
+        "复制": "📋 Kopiëren"
+      }
+    },
+    "l0457": {
+      "08": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0463": {
+      "09": {
+        "确定": "OK"
+      }
+    },
+    "l0611": {
+      "10": {
+        "已复制_text": "Gekopieerd: {text}"
+      }
+    },
+    "l0681": {
+      "11": {
+        "选择颜色": "Kleur selecteren"
+      }
+    },
+    "l0716": {
+      "12": {
+        "已复制_color_name_upper": "Gekopieerd: {color.name().upper()}"
+      }
+    }
+  },
+  "tools_protractor": {
+    "l0048": {
+      "01": {
+        "量角器": "Gradenboog"
+      }
+    },
+    "l0216": {
+      "02": {
+        "锁定_self_angle_lock": "Vergrendeld: {self.angle_lock}°"
+      }
+    },
+    "l0240": {
+      "03": {
+        "拖动绿点移动中心": "Sleep het groene punt om het midden te verplaatsen"
+      }
+    },
+    "l0241": {
+      "04": {
+        "拖动红_蓝点调整角度": "Sleep de rode/blauwe punten om de hoek aan te passen"
+      }
+    },
+    "l0242": {
+      "05": {
+        "L键切换角度锁定": "Druk op L om hoekvergrendeling in/uit te schakelen"
+      }
+    },
+    "l0243": {
+      "06": {
+        "S键保存测量": "Druk op S om meting op te slaan"
+      }
+    },
+    "l0244": {
+      "07": {
+        "E键导出CSV": "Druk op E om CSV te exporteren"
+      }
+    },
+    "l0245": {
+      "08": {
+        "右键菜单_ESC退出": "Rechtermuisknopmenu | ESC om af te sluiten"
+      }
+    },
+    "l0335": {
+      "09": {
+        "保存当前测量": "Huidige meting opslaan"
+      }
+    },
+    "l0339": {
+      "10": {
+        "导出测量记录_CSV": "Meetgegevens exporteren (CSV)"
+      }
+    },
+    "l0345": {
+      "11": {
+        "禁用_if_self_lock_enabl": "{'Disable' if self.lock_enabled else 'Enable'} angle lock ({self.angle_lock}°)"
+      },
+      "12": {
+        "禁用": "Uitschakelen"
+      },
+      "13": {
+        "启用": "Inschakelen"
+      }
+    },
+    "l0351": {
+      "14": {
+        "关闭": "Sluiten"
+      }
+    },
+    "l0383": {
+      "15": {
+        "导出测量记录": "Meetgegevens exporteren"
+      }
+    },
+    "l0385": {
+      "16": {
+        "CSV文件_csv": "CSV-bestanden (*.csv)"
+      }
+    },
+    "l0391": {
+      "17": {
+        "时间": "Tijd"
+      },
+      "18": {
+        "测量角度": "Gemeten hoek"
+      },
+      "19": {
+        "起始角度": "Starthoek"
+      },
+      "20": {
+        "终止角度": "Eindhoek"
+      },
+      "21": {
+        "中心点X": "Midden X"
+      },
+      "22": {
+        "中心点Y": "Midden Y"
+      }
+    }
+  },
+  "tools_ruler": {
+    "l0019": {
+      "01": {
+        "默认_黄色": "Standaard (geel)"
+      }
+    },
+    "l0026": {
+      "02": {
+        "蓝色": "Blauw"
+      }
+    },
+    "l0033": {
+      "03": {
+        "白色": "Wit"
+      }
+    },
+    "l0040": {
+      "04": {
+        "黑色": "Zwart"
+      }
+    },
+    "l0065": {
+      "05": {
+        "像素_px": "Pixels (px)"
+      }
+    },
+    "l0066": {
+      "06": {
+        "英寸_in": "Inches (in)"
+      }
+    },
+    "l0067": {
+      "07": {
+        "厘米_cm": "Centimeters (cm)"
+      }
+    },
+    "l0280": {
+      "08": {
+        "像素尺": "Pixelraster"
+      }
+    },
+    "l0352": {
+      "09": {
+        "DPI_self_dpi_单位_R": "DPI: {self.dpi} | Eenheid: {RulerUnit.UNITS[self.unit]['name']} | Dekking: {int(self.opacity * 100)}%"
+      }
+    },
+    "l0359": {
+      "10": {
+        "右键菜单_滚轮调透明度_双击关闭": "Rechtermuisknopmenu | Muiswiel om dekking aan te passen | Dubbelklik om te sluiten"
+      }
+    },
+    "l0585": {
+      "11": {
+        "单位": "📏 Eenheden"
+      }
+    },
+    "l0605": {
+      "12": {
+        "配色": "🎨 Kleurenschema"
+      }
+    },
+    "l0621": {
+      "13": {
+        "透明度": "Dekking:"
+      }
+    },
+    "l0641": {
+      "14": {
+        "重置大小": "↺ Grootte resetten"
+      }
+    },
+    "l0646": {
+      "15": {
+        "关闭": "✕ Sluiten"
+      }
+    }
+  },
+  "tools_screen_recorder": {
+    "l0142": {
+      "01": {
+        "屏幕录制器": "Schermrecorder"
+      }
+    },
+    "l0196": {
+      "02": {
+        "屏幕录制": "Schermopname"
+      }
+    },
+    "l0223": {
+      "03": {
+        "已录制时间": "Opgenomen tijd"
+      }
+    },
+    "l0253": {
+      "04": {
+        "开始录制": "Opname starten"
+      }
+    },
+    "l0260": {
+      "05": {
+        "暂停": "Pauze"
+      }
+    },
+    "l0278": {
+      "06": {
+        "更改路径": "Pad wijzigen"
+      }
+    },
+    "l0336": {
+      "07": {
+        "停止录制": "⏹ Opname stoppen"
+      }
+    },
+    "l0356": {
+      "08": {
+        "开始录制": "⏺ Opname starten"
+      }
+    },
+    "l0361": {
+      "09": {
+        "暂停": "⏸ Pauze"
+      }
+    },
+    "l0370": {
+      "10": {
+        "继续": "▶ Hervatten"
+      }
+    },
+    "l0376": {
+      "11": {
+        "暂停": "⏸ Pauze"
+      }
+    },
+    "l0407": {
+      "12": {
+        "选择保存目录": "Opslagmap selecteren"
+      }
+    }
+  },
+  "tools_whiteboard": {
+    "l0841": {
+      "01": {
+        "白板": "Whiteboard"
+      }
+    },
+    "l0935": {
+      "02": {
+        "画笔": "Penseel"
+      }
+    },
+    "l0936": {
+      "03": {
+        "荧光笔": "Markeerstift"
+      }
+    },
+    "l0937": {
+      "04": {
+        "直线": "Lijn"
+      }
+    },
+    "l0938": {
+      "05": {
+        "矩形": "Rechthoek"
+      }
+    },
+    "l0939": {
+      "06": {
+        "填充矩形": "Gevulde rechthoek"
+      }
+    },
+    "l0940": {
+      "07": {
+        "椭圆": "Ellips"
+      }
+    },
+    "l0941": {
+      "08": {
+        "箭头": "Pijl"
+      }
+    },
+    "l0942": {
+      "09": {
+        "文字": "Tekst"
+      }
+    },
+    "l0957": {
+      "10": {
+        "橡皮擦": "Gum"
+      }
+    },
+    "l1001": {
+      "11": {
+        "更多颜色": "Meer kleuren..."
+      }
+    },
+    "l1040": {
+      "12": {
+        "透明": "Transparant"
+      }
+    },
+    "l1041": {
+      "13": {
+        "白色": "Wit"
+      }
+    },
+    "l1042": {
+      "14": {
+        "黑色": "Zwart"
+      }
+    },
+    "l1047": {
+      "15": {
+        "tooltip_背景": "{tooltip}Achtergrond"
+      }
+    },
+    "l1061": {
+      "16": {
+        "撤销": "Ongedaan maken"
+      }
+    },
+    "l1067": {
+      "17": {
+        "清空": "Wissen"
+      }
+    },
+    "l1080": {
+      "18": {
+        "缩小工具栏": "Werkbalk samenvouwen"
+      }
+    },
+    "l1086": {
+      "19": {
+        "保存": "Opslaan"
+      }
+    },
+    "l1102": {
+      "20": {
+        "退出": "Afsluiten"
+      }
+    },
+    "l1145": {
+      "21": {
+        "对象擦除": "Object wissen"
+      }
+    },
+    "l1151": {
+      "22": {
+        "局部擦除": "Gedeeltelijk wissen"
+      }
+    },
+    "l1163": {
+      "23": {
+        "大小": "Grootte:"
+      }
+    },
+    "l1214": {
+      "24": {
+        "调色板": "Palet"
+      }
+    },
+    "l1228": {
+      "25": {
+        "缩小工具栏": "Werkbalk samenvouwen"
+      }
+    },
+    "l1243": {
+      "26": {
+        "展开白板": "Whiteboard uitvouwen"
+      }
+    },
+    "l1250": {
+      "27": {
+        "保存白板": "Whiteboard opslaan"
+      }
+    },
+    "l1252": {
+      "28": {
+        "PNG图像_png_PDF文件": "PNG-afbeelding (*.png);;PDF-bestand (*.pdf)"
+      }
+    },
+    "l1259": {
+      "29": {
+        "已保存_os_path_basename_f": "Opgeslagen: {os.path.basename(file_path)}"
+      }
+    },
+    "l1272": {
+      "30": {
+        "保存失败": "Opslaan mislukt"
+      },
+      "31": {
+        "无法保存PDF_str_e": "Kan PDF niet opslaan: {str(e)}"
+      }
+    }
+  },
+  "ui_ad_widget": {
+    "l0080": {
+      "02": {
+        "点击查看详情": "Klik om details te bekijken"
+      }
+    }
+  },
+  "ui_clipboard_history": {
+    "l0081": {
+      "01": {
+        "剪贴板历史": "Klembordgeschiedenis"
+      }
+    },
+    "l0087": {
+      "02": {
+        "清空": "Wissen"
+      }
+    },
+    "l0118": {
+      "03": {
+        "暂无历史记录_复制图像后会自动记录": "Nog geen geschiedenis\nGekopieerde afbeeldingen worden automatisch opgeslagen"
+      }
+    },
+    "l0161": {
+      "04": {
+        "确认清空": "Wissen bevestigen"
+      }
+    },
+    "l0162": {
+      "05": {
+        "确定要清空所有剪贴板历史记录吗": "Weet u zeker dat u alle klembordgeschiedenis wilt wissen?"
+      }
+    },
+    "l0163": {
+      "06": {
+        "确定": "Bevestigen"
+      },
+      "07": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0178": {
+      "08": {
+        "剪贴板历史": "Klembordgeschiedenis"
+      }
+    }
+  },
+  "ui_control_capture": {
+    "l0148": {
+      "01": {
+        "按钮": "Knop"
+      },
+      "02": {
+        "复选框": "Selectievakje"
+      },
+      "03": {
+        "下拉框": "Keuzelijst"
+      }
+    },
+    "l0149": {
+      "04": {
+        "编辑框": "Invoervak"
+      },
+      "05": {
+        "列表": "Lijst"
+      },
+      "06": {
+        "文本": "Tekst"
+      }
+    },
+    "l0150": {
+      "07": {
+        "窗口": "Venster"
+      },
+      "08": {
+        "窗格": "Paneel"
+      }
+    },
+    "l0152": {
+      "09": {
+        "控件": "Besturingselement"
+      }
+    },
+    "l0224": {
+      "10": {
+        "按钮": "Knop"
+      }
+    },
+    "l0225": {
+      "11": {
+        "日历": "Kalender"
+      }
+    },
+    "l0226": {
+      "12": {
+        "复选框": "Selectievakje"
+      }
+    },
+    "l0227": {
+      "13": {
+        "下拉框": "Keuzelijst"
+      }
+    },
+    "l0228": {
+      "14": {
+        "编辑框": "Invoervak"
+      }
+    },
+    "l0229": {
+      "15": {
+        "超链接": "Hyperlink"
+      }
+    },
+    "l0230": {
+      "16": {
+        "图像": "Afbeelding"
+      }
+    },
+    "l0231": {
+      "17": {
+        "列表项": "Lijstitem"
+      }
+    },
+    "l0232": {
+      "18": {
+        "列表": "Lijst"
+      }
+    },
+    "l0233": {
+      "19": {
+        "菜单": "Menu"
+      }
+    },
+    "l0234": {
+      "20": {
+        "菜单栏": "Menubalk"
+      }
+    },
+    "l0235": {
+      "21": {
+        "菜单项": "Menu-item"
+      }
+    },
+    "l0236": {
+      "22": {
+        "进度条": "Voortgangsbalk"
+      }
+    },
+    "l0237": {
+      "23": {
+        "单选按钮": "Keuzerondje"
+      }
+    },
+    "l0238": {
+      "24": {
+        "滚动条": "Schuifbalk"
+      }
+    },
+    "l0239": {
+      "25": {
+        "滑块": "Schuifregelaar"
+      }
+    },
+    "l0240": {
+      "26": {
+        "微调框": "Draaivak"
+      }
+    },
+    "l0241": {
+      "27": {
+        "状态栏": "Statusbalk"
+      }
+    },
+    "l0242": {
+      "28": {
+        "标签页": "Tabblad"
+      }
+    },
+    "l0243": {
+      "29": {
+        "标签项": "Tabbladitem"
+      }
+    },
+    "l0244": {
+      "30": {
+        "文本": "Tekst"
+      }
+    },
+    "l0245": {
+      "31": {
+        "工具栏": "Werkbalk"
+      }
+    },
+    "l0246": {
+      "32": {
+        "工具提示": "Knopinfo"
+      }
+    },
+    "l0247": {
+      "33": {
+        "树形视图": "Boomweergave"
+      }
+    },
+    "l0248": {
+      "34": {
+        "树形项": "Boomitem"
+      }
+    },
+    "l0249": {
+      "35": {
+        "自定义": "Aangepast"
+      }
+    },
+    "l0250": {
+      "36": {
+        "组": "Groep"
+      }
+    },
+    "l0251": {
+      "37": {
+        "缩略图": "Miniatuur"
+      }
+    },
+    "l0252": {
+      "38": {
+        "数据网格": "Gegevensraster"
+      }
+    },
+    "l0253": {
+      "39": {
+        "数据项": "Gegevensitem"
+      }
+    },
+    "l0254": {
+      "40": {
+        "文档": "Document"
+      }
+    },
+    "l0255": {
+      "41": {
+        "分隔条": "Scheidingsteken"
+      }
+    },
+    "l0256": {
+      "42": {
+        "窗口": "Venster"
+      }
+    },
+    "l0257": {
+      "43": {
+        "窗格": "Paneel"
+      }
+    },
+    "l0258": {
+      "44": {
+        "表头": "Koptekst"
+      }
+    },
+    "l0259": {
+      "45": {
+        "表头项": "Koptekstitem"
+      }
+    },
+    "l0260": {
+      "46": {
+        "表格": "Tabel"
+      }
+    },
+    "l0261": {
+      "47": {
+        "标题栏": "Titelbalk"
+      }
+    },
+    "l0262": {
+      "48": {
+        "语义缩放": "Semantische zoom"
+      }
+    },
+    "l0264": {
+      "49": {
+        "控件_control_type": "Besturingselement ({control_type})"
+      }
+    },
+    "l0391": {
+      "50": {
+        "控件": "Besturingselement"
+      }
+    },
+    "l0398": {
+      "51": {
+        "移动鼠标选择目标": "Beweeg de muis om een doel te selecteren"
+      }
+    },
+    "l0399": {
+      "52": {
+        "点击截取": "Klik om vast te leggen"
+      }
+    },
+    "l0400": {
+      "53": {
+        "Ctrl_点击滚动截取": "Ctrl+Klik om scrollend vast te leggen"
+      }
+    },
+    "l0401": {
+      "54": {
+        "滚轮_切换层级": "Muiswiel ↑↓ om van niveau te wisselen"
+      }
+    },
+    "l0402": {
+      "55": {
+        "ESC取消": "ESC om te annuleren"
+      }
+    },
+    "l0521": {
+      "56": {
+        "未找到窗口": "Venster niet gevonden"
+      }
+    },
+    "l0841": {
+      "57": {
+        "未识别到控件": "Geen besturingselement gedetecteerd"
+      }
+    },
+    "l0896": {
+      "58": {
+        "未识别": "Niet herkend"
+      }
+    },
+    "l0908": {
+      "59": {
+        "窗口_层级_1_total": "🪟 Venster (Niveau 1/{total})"
+      }
+    },
+    "l0923": {
+      "60": {
+        "type_name_层级_level": "🎯 {type_name} (Niveau {level}/{total})"
+      }
+    },
+    "l0925": {
+      "61": {
+        "控件_层级_level_total": "🎯 Besturingselement (Niveau {level}/{total})"
+      }
+    },
+    "l0969": {
+      "62": {
+        "未识别到控件": "Geen besturingselement gedetecteerd"
+      }
+    },
+    "l0977": {
+      "63": {
+        "窗口无效": "Ongeldig venster"
+      }
+    },
+    "l0985": {
+      "64": {
+        "无法获取位置": "Kan positie niet ophalen"
+      }
+    },
+    "l1000": {
+      "65": {
+        "尺寸无效": "Ongeldige grootte"
+      }
+    },
+    "l1021": {
+      "66": {
+        "窗口_title_滚轮_进入子控件": "Venster: {title} | Muiswiel↓ om onderliggende besturingselementen te openen | Klik om vast te leggen | Ctrl+Klik om scrollend vast te leggen"
+      }
+    },
+    "l1023": {
+      "67": {
+        "窗口_滚轮_进入子控件_点击截取_C": "Venster | Muiswiel↓ om onderliggende besturingselementen te openen | Klik om vast te leggen | Ctrl+Klik om scrollend vast te leggen"
+      }
+    },
+    "l1025": {
+      "68": {
+        "控件": "Besturingselement"
+      }
+    },
+    "l1028": {
+      "69": {
+        "type_info_滚轮_切换层级": "{type_info} | Muiswiel↑↓ om van niveau te wisselen | Klik om vast te leggen | Ctrl+Klik om scrollend vast te leggen"
+      }
+    },
+    "l1057": {
+      "70": {
+        "按钮": "Knop"
+      }
+    },
+    "l1058": {
+      "71": {
+        "输入框": "Invoervak"
+      }
+    },
+    "l1059": {
+      "72": {
+        "富文本框": "Rich-textvak"
+      }
+    },
+    "l1060": {
+      "73": {
+        "下拉框": "Vervolgkeuzelijst"
+      }
+    },
+    "l1061": {
+      "74": {
+        "列表框": "Lijstvak"
+      }
+    },
+    "l1062": {
+      "75": {
+        "列表视图": "Lijstweergave"
+      }
+    },
+    "l1063": {
+      "76": {
+        "列表视图": "Lijstweergave"
+      }
+    },
+    "l1064": {
+      "77": {
+        "树形视图": "Boomweergave"
+      }
+    },
+    "l1065": {
+      "78": {
+        "树形视图": "Boomweergave"
+      }
+    },
+    "l1066": {
+      "79": {
+        "数据表格": "Gegevenstabel"
+      }
+    },
+    "l1067": {
+      "80": {
+        "滚动条": "Schuifbalk"
+      }
+    },
+    "l1068": {
+      "81": {
+        "静态文本": "Statische tekst"
+      }
+    },
+    "l1069": {
+      "82": {
+        "标签页": "Tabblad"
+      }
+    },
+    "l1070": {
+      "83": {
+        "标签页": "Tabblad"
+      }
+    },
+    "l1071": {
+      "84": {
+        "工具栏": "Werkbalk"
+      }
+    },
+    "l1072": {
+      "85": {
+        "状态栏": "Statusbalk"
+      }
+    },
+    "l1073": {
+      "86": {
+        "状态栏": "Statusbalk"
+      }
+    },
+    "l1074": {
+      "87": {
+        "菜单": "Menu"
+      }
+    },
+    "l1075": {
+      "88": {
+        "提示框": "Knopinfo"
+      }
+    },
+    "l1076": {
+      "89": {
+        "进度条": "Voortgangsbalk"
+      }
+    },
+    "l1077": {
+      "90": {
+        "进度条": "Voortgangsbalk"
+      }
+    },
+    "l1078": {
+      "91": {
+        "滑块": "Schuifregelaar"
+      }
+    },
+    "l1079": {
+      "92": {
+        "滑块": "Schuifregelaar"
+      }
+    },
+    "l1080": {
+      "93": {
+        "微调按钮": "Draaiknop"
+      }
+    },
+    "l1081": {
+      "94": {
+        "微调按钮": "Draaiknop"
+      }
+    },
+    "l1082": {
+      "95": {
+        "表头": "Koptekst"
+      }
+    },
+    "l1083": {
+      "96": {
+        "表头": "Koptekst"
+      }
+    },
+    "l1084": {
+      "97": {
+        "工具条": "Werkbalk"
+      }
+    },
+    "l1085": {
+      "98": {
+        "工具条": "Werkbalk"
+      }
+    },
+    "l1086": {
+      "99": {
+        "文件视图": "Bestandsweergave"
+      }
+    },
+    "l1088": {
+      "100": {
+        "浏览器": "Browser"
+      }
+    },
+    "l1089": {
+      "101": {
+        "浏览器": "Browser"
+      }
+    }
+  },
+  "ui_editor_panels": {
+    "l0060": {
+      "01": {
+        "画质特效": "🎨 Beeldeffecten"
+      }
+    },
+    "l0071": {
+      "02": {
+        "模糊": "🌫 Vervagen"
+      }
+    },
+    "l0072": {
+      "03": {
+        "锐化": "🔍 Verscherpen"
+      }
+    },
+    "l0073": {
+      "04": {
+        "像素化": "▦ Pixeleren"
+      }
+    },
+    "l0074": {
+      "05": {
+        "浮雕": "🗻 Reliëf"
+      }
+    },
+    "l0075": {
+      "06": {
+        "噪点": "✨ Ruis"
+      }
+    },
+    "l0086": {
+      "07": {
+        "特效强度": "Effectsterkte:"
+      }
+    },
+    "l0106": {
+      "08": {
+        "撤销": "↩ Ongedaan maken"
+      }
+    },
+    "l0110": {
+      "09": {
+        "重置": "↺ Resetten"
+      }
+    },
+    "l0184": {
+      "10": {
+        "色彩调整": "🔆 Kleuraanpassing"
+      }
+    },
+    "l0196": {
+      "11": {
+        "亮度": "☀ Helderheid:"
+      }
+    },
+    "l0217": {
+      "12": {
+        "对比度": "◐ Contrast:"
+      }
+    },
+    "l0238": {
+      "13": {
+        "饱和度": "🎨 Verzadiging:"
+      }
+    },
+    "l0260": {
+      "14": {
+        "重置": "↺ Resetten"
+      }
+    },
+    "l0264": {
+      "15": {
+        "应用": "✓ Toepassen"
+      }
+    }
+  },
+  "ui_editor_window": {
+    "l0077": {
+      "01": {
+        "图像编辑器_PyScreenshot": "Afbeeldingseditor - PyScreenshot"
+      }
+    },
+    "l0098": {
+      "02": {
+        "QLabel_font_size_13px": "QLabel {\n                font-size: 13px;\n            }\n            QScrollBar:vertical {\n                background: transparent;\n                width: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:vertical {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-height: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:vertical:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar:horizontal {\n                background: transparent;\n                height: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:horizontal {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-width: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:horizontal:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar::add-line, QScrollBar::sub-line {\n                background: none;\n                border: none;\n            }\n            \n            /* Styling van zijbalk-dockwidget */\n            QDockWidget {\n                border: none;\n                background: #ffffff;\n            }\n            QDockWidget::title {\n                background: #f8f9fa;\n                padding: 10px 15px;\n                border-bottom: 1px solid #eaeaea;\n                font-weight: 600;\n                color: #333;\n            }"
+      }
+    },
+    "l0202": {
+      "03": {
+        "新建图像": "Nieuwe afbeelding"
+      }
+    },
+    "l0246": {
+      "04": {
+        "尺寸_s_width_s_heigh": "Grootte: {s.width()}×{s.height()} | {tab_data.title}"
+      }
+    },
+    "l0360": {
+      "05": {
+        "文件": "Bestand"
+      },
+      "06": {
+        "编辑": "Bewerken"
+      },
+      "07": {
+        "绘图": "Tekenen"
+      },
+      "08": {
+        "特效": "Effecten"
+      }
+    },
+    "l0361": {
+      "09": {
+        "文件": "Bestand"
+      },
+      "10": {
+        "编辑": "Bewerken"
+      },
+      "11": {
+        "绘图": "Tekenen"
+      },
+      "12": {
+        "特效": "Effecten"
+      }
+    },
+    "l0413": {
+      "13": {
+        "编辑": "Bewerken"
+      }
+    },
+    "l0421": {
+      "14": {
+        "文件": "Bestand"
+      },
+      "15": {
+        "编辑": "Bewerken"
+      },
+      "16": {
+        "绘图": "Tekenen"
+      },
+      "17": {
+        "特效": "Effecten"
+      }
+    },
+    "l0458": {
+      "18": {
+        "返回": "Terug"
+      }
+    },
+    "l0461": {
+      "19": {
+        "返回": "Terug"
+      },
+      "20": {
+        "返回主页面": "Terug naar hoofdpagina"
+      }
+    },
+    "l0468": {
+      "21": {
+        "文件": "Bestand"
+      }
+    },
+    "l0471": {
+      "22": {
+        "新建": "Nieuw"
+      },
+      "23": {
+        "新建图像": "Nieuwe afbeelding"
+      }
+    },
+    "l0475": {
+      "24": {
+        "打开": "Openen"
+      },
+      "25": {
+        "打开文件": "Bestand openen"
+      }
+    },
+    "l0479": {
+      "26": {
+        "保存": "Opslaan"
+      },
+      "27": {
+        "保存_Ctrl_S": "Opslaan Ctrl+S"
+      }
+    },
+    "l0483": {
+      "28": {
+        "另存为": "Opslaan als"
+      }
+    },
+    "l0490": {
+      "29": {
+        "分享": "Delen"
+      }
+    },
+    "l0493": {
+      "30": {
+        "分享": "Delen"
+      },
+      "31": {
+        "分享到": "Delen naar..."
+      }
+    },
+    "l0497": {
+      "32": {
+        "导出": "Exporteren"
+      },
+      "33": {
+        "批量导出所有标签页": "Alle tabbladen in batch exporteren"
+      }
+    },
+    "l0504": {
+      "34": {
+        "打印": "Afdrukken"
+      }
+    },
+    "l0507": {
+      "35": {
+        "打印": "Afdrukken"
+      },
+      "36": {
+        "打印_Ctrl_P": "Afdrukken Ctrl+P"
+      }
+    },
+    "l0514": {
+      "37": {
+        "操作": "Acties"
+      }
+    },
+    "l0517": {
+      "38": {
+        "撤销": "Ongedaan maken"
+      },
+      "39": {
+        "撤销上一步操作": "Vorige actie ongedaan maken"
+      }
+    },
+    "l0521": {
+      "40": {
+        "重置": "Resetten"
+      },
+      "41": {
+        "重置为原始图像": "Terugzetten naar originele afbeelding"
+      }
+    },
+    "l0533": {
+      "42": {
+        "打开图像": "Afbeelding openen"
+      }
+    },
+    "l0534": {
+      "43": {
+        "图像文件_png_jpg_jpeg": "Afbeeldingsbestanden (*.png *.jpg *.jpeg *.bmp *.gif);;Alle bestanden (*.*)"
+      }
+    },
+    "l0541": {
+      "44": {
+        "错误": "Fout"
+      },
+      "45": {
+        "无法打开该图像文件": "Kan dit afbeeldingsbestand niet openen"
+      }
+    },
+    "l0553": {
+      "46": {
+        "历史": "Geschiedenis"
+      }
+    },
+    "l0556": {
+      "47": {
+        "撤销": "Ongedaan maken"
+      },
+      "48": {
+        "撤销_Ctrl_Z": "Ongedaan maken Ctrl+Z"
+      }
+    },
+    "l0560": {
+      "49": {
+        "重置": "Resetten"
+      },
+      "50": {
+        "重置到原图_移除所有编辑": "Terugzetten naar originele afbeelding (alle bewerkingen verwijderen)"
+      }
+    },
+    "l0567": {
+      "51": {
+        "剪贴板": "Klembord"
+      }
+    },
+    "l0570": {
+      "52": {
+        "复制": "Kopiëren"
+      },
+      "53": {
+        "复制_Ctrl_C": "Kopiëren Ctrl+C"
+      }
+    },
+    "l0574": {
+      "54": {
+        "粘贴": "Plakken"
+      },
+      "55": {
+        "粘贴_Ctrl_V": "Plakken Ctrl+V"
+      }
+    },
+    "l0581": {
+      "56": {
+        "变换": "Transformeren"
+      }
+    },
+    "l0584": {
+      "57": {
+        "左旋": "Linksom draaien"
+      },
+      "58": {
+        "左旋90度": "90° linksom draaien"
+      }
+    },
+    "l0588": {
+      "59": {
+        "右旋": "Rechtsom draaien"
+      },
+      "60": {
+        "右旋90度": "90° rechtsom draaien"
+      }
+    },
+    "l0592": {
+      "61": {
+        "水平翻": "Horizontaal spiegelen"
+      },
+      "62": {
+        "水平翻转": "Horizontaal spiegelen"
+      }
+    },
+    "l0596": {
+      "63": {
+        "垂直翻": "Verticaal spiegelen"
+      },
+      "64": {
+        "垂直翻转": "Verticaal spiegelen"
+      }
+    },
+    "l0603": {
+      "65": {
+        "裁剪": "Bijsnijden"
+      }
+    },
+    "l0606": {
+      "66": {
+        "裁剪": "Bijsnijden"
+      },
+      "67": {
+        "裁剪图像": "Afbeelding bijsnijden"
+      }
+    },
+    "l0613": {
+      "68": {
+        "文字识别": "Tekstherkenning"
+      }
+    },
+    "l0616": {
+      "69": {
+        "识别文字": "Tekst herkennen"
+      },
+      "70": {
+        "识别裁剪区域文字并复制": "Tekst in het bijgesneden gebied herkennen en kopiëren"
+      }
+    },
+    "l0635": {
+      "71": {
+        "选择": "Selecteren"
+      }
+    },
+    "l0640": {
+      "72": {
+        "移动": "Verplaatsen"
+      },
+      "73": {
+        "移动工具": "Verplaatsingsgereedschap"
+      }
+    },
+    "l0648": {
+      "74": {
+        "画笔": "Penseel"
+      }
+    },
+    "l0652": {
+      "75": {
+        "画笔": "Penseel"
+      }
+    },
+    "l0653": {
+      "76": {
+        "荧光笔": "Markeerstift"
+      }
+    },
+    "l0663": {
+      "77": {
+        "橡皮擦": "Gum"
+      }
+    },
+    "l0677": {
+      "78": {
+        "形状": "Vormen"
+      }
+    },
+    "l0681": {
+      "79": {
+        "箭头": "Pijl"
+      }
+    },
+    "l0682": {
+      "80": {
+        "直线": "Lijn"
+      }
+    },
+    "l0683": {
+      "81": {
+        "矩形": "Rechthoek"
+      },
+      "82": {
+        "空心矩形": "Holle rechthoek"
+      }
+    },
+    "l0684": {
+      "83": {
+        "实心矩形": "Massieve rechthoek"
+      },
+      "84": {
+        "填充矩形": "Gevulde rechthoek"
+      }
+    },
+    "l0685": {
+      "85": {
+        "椭圆": "Ellips"
+      },
+      "86": {
+        "空心椭圆": "Holle ellips"
+      }
+    },
+    "l0686": {
+      "87": {
+        "实心椭圆": "Massieve ellips"
+      },
+      "88": {
+        "填充椭圆": "Gevulde ellips"
+      }
+    },
+    "l0698": {
+      "89": {
+        "文字": "Tekst"
+      }
+    },
+    "l0701": {
+      "90": {
+        "文字": "Tekst"
+      },
+      "91": {
+        "添加文字": "Tekst toevoegen"
+      }
+    },
+    "l0709": {
+      "92": {
+        "大小": "Grootte"
+      }
+    },
+    "l0714": {
+      "93": {
+        "宽度": "Breedte:"
+      }
+    },
+    "l0723": {
+      "94": {
+        "字号": "Lettergrootte:"
+      }
+    },
+    "l0735": {
+      "95": {
+        "颜色": "Kleur"
+      }
+    },
+    "l0742": {
+      "96": {
+        "当前颜色_点击选择": "Huidige kleur - klik om te selecteren"
+      }
+    },
+    "l0759": {
+      "97": {
+        "历史": "Geschiedenis"
+      }
+    },
+    "l0762": {
+      "98": {
+        "撤销": "Ongedaan maken"
+      },
+      "99": {
+        "撤销_Ctrl_Z": "Ongedaan maken Ctrl+Z"
+      }
+    },
+    "l0766": {
+      "100": {
+        "重置": "Resetten"
+      },
+      "101": {
+        "重置绘图_移除所有编辑": "Tekening resetten (alle bewerkingen verwijderen)"
+      }
+    },
+    "l0798": {
+      "102": {
+        "对象擦除": "Object wissen"
+      }
+    },
+    "l0804": {
+      "103": {
+        "局部擦除": "Gedeeltelijk wissen"
+      }
+    },
+    "l0816": {
+      "104": {
+        "大小": "Grootte:"
+      }
+    },
+    "l0872": {
+      "105": {
+        "画质特效": "Beeldeffecten"
+      }
+    },
+    "l0875": {
+      "106": {
+        "模糊": "Vervagen"
+      },
+      "107": {
+        "模糊效果": "Vervaageffect"
+      }
+    },
+    "l0879": {
+      "108": {
+        "锐化": "Verscherpen"
+      },
+      "109": {
+        "锐化效果": "Verscherpingseffect"
+      }
+    },
+    "l0883": {
+      "110": {
+        "像素化": "Pixeleren"
+      },
+      "111": {
+        "像素化效果": "Pixeleffect"
+      }
+    },
+    "l0887": {
+      "112": {
+        "浮雕": "Reliëf"
+      },
+      "113": {
+        "浮雕效果": "Reliëfeffect"
+      }
+    },
+    "l0891": {
+      "114": {
+        "噪点": "Ruis"
+      },
+      "115": {
+        "添加噪点": "Ruis toevoegen"
+      }
+    },
+    "l0898": {
+      "116": {
+        "局部特效": "Lokale effecten"
+      }
+    },
+    "l0901": {
+      "117": {
+        "模糊笔刷": "Vervaagpenseel"
+      },
+      "118": {
+        "局部模糊": "Lokaal vervagen"
+      }
+    },
+    "l0907": {
+      "119": {
+        "马赛克": "Mozaïek"
+      },
+      "120": {
+        "局部马赛克": "Lokaal mozaïek"
+      }
+    },
+    "l0916": {
+      "121": {
+        "面板": "Paneel"
+      }
+    },
+    "l0919": {
+      "122": {
+        "色彩": "Kleur"
+      },
+      "123": {
+        "打开色彩调整面板": "Paneel voor kleuraanpassing openen"
+      }
+    },
+    "l0923": {
+      "124": {
+        "特效": "Effecten"
+      },
+      "125": {
+        "打开特效面板": "Effectenpaneel openen"
+      }
+    },
+    "l0930": {
+      "126": {
+        "历史": "Geschiedenis"
+      }
+    },
+    "l0933": {
+      "127": {
+        "撤销": "Ongedaan maken"
+      },
+      "128": {
+        "撤销_Ctrl_Z": "Ongedaan maken Ctrl+Z"
+      }
+    },
+    "l0937": {
+      "129": {
+        "重置": "Resetten"
+      },
+      "130": {
+        "重置特效": "Effecten resetten"
+      }
+    },
+    "l0963": {
+      "131": {
+        "已应用_effect_特效": "✓ Effect {effect} toegepast"
+      }
+    },
+    "l0965": {
+      "132": {
+        "特效应用失败_str_e": "✗ Toepassen van effect mislukt: {str(e)}"
+      }
+    },
+    "l0972": {
+      "133": {
+        "粘贴的图像": "Geplakte afbeelding"
+      }
+    },
+    "l0973": {
+      "134": {
+        "已粘贴图像": "✓ Afbeelding geplakt"
+      }
+    },
+    "l0975": {
+      "135": {
+        "剪贴板中没有图像": "Geen afbeelding op het klembord"
+      }
+    },
+    "l0998": {
+      "136": {
+        "返回": "Terug"
+      },
+      "137": {
+        "新建": "Nieuw"
+      },
+      "138": {
+        "打开": "Openen"
+      },
+      "139": {
+        "保存存": "Opslaan"
+      },
+      "140": {
+        "另存为": "Opslaan als"
+      }
+    },
+    "l0999": {
+      "141": {
+        "分享": "Delen"
+      },
+      "142": {
+        "导出": "Exporteren"
+      },
+      "143": {
+        "打印": "Afdrukken"
+      }
+    },
+    "l1001": {
+      "144": {
+        "撤销": "Ongedaan maken"
+      },
+      "145": {
+        "重置": "Resetten"
+      },
+      "146": {
+        "复制": "Kopiëren"
+      },
+      "147": {
+        "粘贴": "Plakken"
+      },
+      "148": {
+        "裁剪": "Bijsnijden"
+      }
+    },
+    "l1003": {
+      "149": {
+        "左旋": "Linksom draaien"
+      },
+      "150": {
+        "右旋": "Rechtsom draaien"
+      },
+      "151": {
+        "水平翻": "Horizontaal spiegelen"
+      },
+      "152": {
+        "垂直翻": "Verticaal spiegelen"
+      }
+    },
+    "l1005": {
+      "153": {
+        "移动": "Verplaatsen"
+      },
+      "154": {
+        "画笔": "Penseel"
+      },
+      "155": {
+        "荧光笔": "Markeerstift"
+      },
+      "156": {
+        "橡皮擦": "Gum"
+      },
+      "157": {
+        "文字": "Tekst"
+      }
+    },
+    "l1006": {
+      "158": {
+        "箭头": "Pijl"
+      },
+      "159": {
+        "直线": "Lijn"
+      },
+      "160": {
+        "矩形": "Rechthoek"
+      },
+      "161": {
+        "实心矩形": "Gevulde rechthoek"
+      }
+    },
+    "l1007": {
+      "162": {
+        "椭圆": "Ellips"
+      },
+      "163": {
+        "实心椭圆": "Gevulde ellips"
+      },
+      "164": {
+        "清除": "Wissen"
+      }
+    },
+    "l1009": {
+      "165": {
+        "模糊": "Vervagen"
+      },
+      "166": {
+        "锐化": "Verscherpen"
+      },
+      "167": {
+        "像素化": "Pixeleren"
+      },
+      "168": {
+        "浮雕": "Reliëf"
+      },
+      "169": {
+        "噪点": "Ruis"
+      }
+    },
+    "l1010": {
+      "170": {
+        "模糊笔刷": "Vervaagpenseel"
+      },
+      "171": {
+        "马赛克": "Mozaïek"
+      },
+      "172": {
+        "色彩": "Kleur"
+      },
+      "173": {
+        "特效": "Effecten"
+      }
+    },
+    "l1129": {
+      "174": {
+        "坐标_0_0": "Coördinaten: 0, 0"
+      }
+    },
+    "l1145": {
+      "175": {
+        "尺寸_s_width_s_hei": "Grootte: {s.width()} × {s.height()}"
+      }
+    },
+    "l1146": {
+      "176": {
+        "就绪": "Gereed"
+      }
+    },
+    "l1148": {
+      "177": {
+        "尺寸": "Grootte: - × -"
+      }
+    },
+    "l1149": {
+      "178": {
+        "就绪": "Gereed"
+      }
+    },
+    "l1183": {
+      "179": {
+        "特效": "Effecten"
+      }
+    },
+    "l1197": {
+      "180": {
+        "调整": "Aanpassen"
+      }
+    },
+    "l1228": {
+      "181": {
+        "调色板": "Palet"
+      }
+    },
+    "l1256": {
+      "182": {
+        "已清除标注": "Annotaties gewist"
+      }
+    },
+    "l1261": {
+      "183": {
+        "已复制到剪贴板": "✓ Gekopieerd naar klembord"
+      }
+    },
+    "l1266": {
+      "184": {
+        "错误": "Fout"
+      },
+      "185": {
+        "没有可保存的图像": "Geen afbeelding om op te slaan"
+      }
+    },
+    "l1277": {
+      "186": {
+        "已保存_os_path_basename": "✓ Opgeslagen: {os.path.basename(self.current_file_path)}"
+      }
+    },
+    "l1297": {
+      "187": {
+        "已保存_os_path_basename": "✓ Opgeslagen: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1310": {
+      "188": {
+        "错误": "Fout"
+      },
+      "189": {
+        "没有可保存的图像": "Geen afbeelding om op te slaan"
+      }
+    },
+    "l1329": {
+      "190": {
+        "已保存_os_path_basename": "✓ Opgeslagen: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1334": {
+      "191": {
+        "提示": "Melding"
+      },
+      "192": {
+        "没有可导出的图像": "Geen afbeelding om te exporteren."
+      }
+    },
+    "l1345": {
+      "193": {
+        "提示": "Melding"
+      },
+      "194": {
+        "没有可导出的图像": "Geen afbeelding om te exporteren."
+      }
+    },
+    "l1361": {
+      "195": {
+        "历史记录": "Geschiedenis"
+      }
+    },
+    "l1381": {
+      "196": {
+        "文件不存在": "Bestand bestaat niet"
+      },
+      "197": {
+        "该文件已被移动或删除": "Dit bestand is verplaatst of verwijderd."
+      }
+    },
+    "l1463": {
+      "198": {
+        "保存失败": "Opslaan mislukt"
+      }
+    },
+    "l1464": {
+      "199": {
+        "无法保存文件_error_n_n文件路径": "Kan bestand niet opslaan: {error}\\n\\nBestandspad: {file_path}\\n\\nControleer de schijfruimte en schrijfrechten."
+      }
+    },
+    "l1465": {
+      "200": {
+        "重试": "Opnieuw proberen"
+      },
+      "201": {
+        "取消": "Annuleren"
+      }
+    },
+    "l1473": {
+      "202": {
+        "错误": "Fout"
+      },
+      "203": {
+        "没有可打印的图像": "Geen afbeelding om af te drukken"
+      }
+    },
+    "l1483": {
+      "204": {
+        "错误": "Fout"
+      },
+      "205": {
+        "没有可分享的图像": "Geen afbeelding om te delen"
+      }
+    },
+    "l1490": {
+      "206": {
+        "分享": "Delen"
+      }
+    },
+    "l1624": {
+      "207": {
+        "宽度": "Breedte:"
+      }
+    },
+    "l1633": {
+      "208": {
+        "高度": "Hoogte:"
+      }
+    },
+    "l1649": {
+      "209": {
+        "应用裁剪": "✓ Bijsnijden toepassen"
+      }
+    },
+    "l1655": {
+      "210": {
+        "取消": "✗ Annuleren"
+      }
+    },
+    "l1706": {
+      "211": {
+        "已应用裁剪": "✓ Bijsnijden toegepast"
+      }
+    },
+    "l1714": {
+      "212": {
+        "已取消裁剪": "Bijsnijden geannuleerd"
+      }
+    },
+    "l1721": {
+      "213": {
+        "请框选要识别的文字区域": "Selecteer het tekstgebied om te herkennen..."
+      }
+    },
+    "l1729": {
+      "214": {
+        "OCR_错误": "OCR-fout"
+      },
+      "215": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Lokale OCR-engine is niet gereed, controleer de afhankelijkheden."
+      }
+    },
+    "l1733": {
+      "216": {
+        "正在识别文字_请稍候": "Tekst wordt herkend, even geduld..."
+      }
+    },
+    "l1741": {
+      "217": {
+        "识别完成": "Herkenning voltooid"
+      }
+    },
+    "l1744": {
+      "218": {
+        "识别结果": "Herkenningsresultaat"
+      },
+      "219": {
+        "未识别到文字": "Geen tekst herkend."
+      }
+    },
+    "l1755": {
+      "220": {
+        "识别失败": "Herkenning mislukt"
+      }
+    },
+    "l1756": {
+      "221": {
+        "OCR_错误": "OCR-fout"
+      },
+      "222": {
+        "识别失败_err_msg": "Herkenning mislukt: {err_msg}"
+      }
+    },
+    "l1779": {
+      "223": {
+        "已应用_effect_特效": "✓ Effect {effect} toegepast"
+      }
+    },
+    "l1781": {
+      "224": {
+        "特效应用失败_str_e": "✗ Toepassen van effect mislukt: {str(e)}"
+      }
+    },
+    "l1817": {
+      "225": {
+        "已撤销": "↩ Ongedaan gemaakt"
+      }
+    },
+    "l1819": {
+      "226": {
+        "没有可撤销的操作": "Geen acties om ongedaan te maken"
+      }
+    },
+    "l1830": {
+      "227": {
+        "已重置到原图": "🔄 Teruggezet naar originele afbeelding"
+      }
+    },
+    "l1832": {
+      "228": {
+        "重置失败": "Resetten mislukt"
+      }
+    },
+    "l1856": {
+      "229": {
+        "缩放_percent": "Zoom: {percent}%"
+      }
+    },
+    "l1864": {
+      "230": {
+        "已应用调整": "✓ Aanpassingen toegepast"
+      }
+    },
+    "l1866": {
+      "231": {
+        "应用调整失败_str_e": "✗ Toepassen van aanpassingen mislukt: {str(e)}"
+      }
+    },
+    "l1873": {
+      "232": {
+        "已重置调整": "✓ Aanpassingen gereset"
+      }
+    },
+    "l1875": {
+      "233": {
+        "重置调整失败_str_e": "✗ Resetten van aanpassingen mislukt: {str(e)}"
+      }
+    },
+    "l2022": {
+      "234": {
+        "新建图像": "Nieuwe afbeelding"
+      }
+    }
+  },
+  "ui_freeform_capture": {
+    "l0102": {
+      "01": {
+        "按住鼠标绘制任意形状_松开完成_ESC": "Houd de muis ingedrukt om een willekeurige vorm te tekenen | Loslaten om te voltooien | ESC om te annuleren"
+      }
+    },
+    "l0460": {
+      "02": {
+        "保存": "Opslaan"
+      }
+    },
+    "l0549": {
+      "03": {
+        "输入文字": "Tekst invoeren"
+      },
+      "04": {
+        "请输入要添加的文字": "Voer de toe te voegen tekst in:"
+      }
+    }
+  },
+  "ui_history_panel": {
+    "l0086": {
+      "01": {
+        "未知": "Onbekend"
+      }
+    },
+    "l0101": {
+      "02": {
+        "未知时间": "Onbekende tijd"
+      }
+    },
+    "l0117": {
+      "03": {
+        "未知大小": "Onbekende grootte"
+      }
+    },
+    "l0142": {
+      "04": {
+        "打开": "Openen"
+      }
+    },
+    "l0147": {
+      "05": {
+        "编辑": "Bewerken"
+      }
+    },
+    "l0152": {
+      "06": {
+        "删除": "Verwijderen"
+      }
+    },
+    "l0182": {
+      "07": {
+        "打开文件位置": "📂 Bestandslocatie openen"
+      }
+    },
+    "l0186": {
+      "08": {
+        "编辑": "✏️ Bewerken"
+      }
+    },
+    "l0190": {
+      "09": {
+        "复制到剪贴板": "📋 Naar klembord kopiëren"
+      }
+    },
+    "l0196": {
+      "10": {
+        "删除记录": "🗑️ Record verwijderen"
+      }
+    },
+    "l0238": {
+      "11": {
+        "截图历史": "📷 Screenshotgeschiedenis"
+      }
+    },
+    "l0247": {
+      "12": {
+        "刷新": "Vernieuwen"
+      }
+    },
+    "l0262": {
+      "13": {
+        "清空历史": "Geschiedenis wissen"
+      }
+    },
+    "l0277": {
+      "14": {
+        "共_0_条记录": "Totaal 0 records"
+      }
+    },
+    "l0322": {
+      "15": {
+        "共_len_records_条记录": "Totaal {len(records)} records"
+      }
+    },
+    "l0325": {
+      "16": {
+        "暂无历史记录": "Geen geschiedenisrecords"
+      }
+    },
+    "l0345": {
+      "17": {
+        "文件不存在": "Bestand bestaat niet"
+      },
+      "18": {
+        "该文件已被移动或删除": "Dit bestand is verplaatst of verwijderd."
+      }
+    },
+    "l0353": {
+      "19": {
+        "文件不存在": "Bestand bestaat niet"
+      },
+      "20": {
+        "该文件已被移动或删除": "Dit bestand is verplaatst of verwijderd."
+      }
+    },
+    "l0358": {
+      "21": {
+        "确认删除": "Verwijdering bevestigen"
+      }
+    },
+    "l0359": {
+      "22": {
+        "确定要删除这条历史记录吗_不会删除原文件": "Weet u zeker dat u dit geschiedenisrecord wilt verwijderen?\n(Het originele bestand wordt niet verwijderd)"
+      }
+    },
+    "l0360": {
+      "23": {
+        "确定": "OK"
+      },
+      "24": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0369": {
+      "25": {
+        "确认清空": "Wissen bevestigen"
+      }
+    },
+    "l0370": {
+      "26": {
+        "确定要清空所有历史记录吗_不会删除原文件": "Weet u zeker dat u alle geschiedenisrecords wilt wissen?\n(De originele bestanden worden niet verwijderd)"
+      }
+    },
+    "l0371": {
+      "27": {
+        "确定": "OK"
+      },
+      "28": {
+        "取消": "Annuleren"
+      }
+    }
+  },
+  "ui_layer_manager": {
+    "l0026": {
+      "01": {
+        "图层": "Lagen"
+      }
+    },
+    "l0061": {
+      "02": {
+        "self_name_副本": "{self.name} Kopie"
+      }
+    },
+    "l0097": {
+      "03": {
+        "图层_len_self_layers_1": "Laag {len(self.layers) + 1}"
+      }
+    }
+  },
+  "ui_layer_panel": {
+    "l0050": {
+      "01": {
+        "显示_隐藏图层": "Laag tonen/verbergen"
+      }
+    },
+    "l0121": {
+      "02": {
+        "透明度_self_layer_opacity": "Dekking: {self.layer.opacity}%"
+      }
+    },
+    "l0133": {
+      "03": {
+        "锁定_解锁图层": "Laag vergrendelen/ontgrendelen"
+      }
+    },
+    "l0341": {
+      "04": {
+        "左对齐": "Links uitlijnen"
+      }
+    },
+    "l0342": {
+      "05": {
+        "水平居中": "Horizontaal centreren"
+      }
+    },
+    "l0343": {
+      "06": {
+        "右对齐": "Rechts uitlijnen"
+      }
+    },
+    "l0362": {
+      "07": {
+        "顶部对齐": "Boven uitlijnen"
+      }
+    },
+    "l0363": {
+      "08": {
+        "垂直居中": "Verticaal centreren"
+      }
+    },
+    "l0364": {
+      "09": {
+        "底部对齐": "Onder uitlijnen"
+      }
+    },
+    "l0383": {
+      "10": {
+        "水平等距分布": "Horizontaal verdelen"
+      }
+    },
+    "l0384": {
+      "11": {
+        "垂直等距分布": "Verticaal verdelen"
+      }
+    },
+    "l0428": {
+      "12": {
+        "图层管理": "Laagbeheer"
+      }
+    },
+    "l0436": {
+      "13": {
+        "添加图层": "Laag toevoegen"
+      }
+    },
+    "l0468": {
+      "14": {
+        "对齐与分布": "Uitlijnen en verdelen"
+      }
+    },
+    "l0507": {
+      "15": {
+        "添加图层": "Laag toevoegen"
+      }
+    },
+    "l0508": {
+      "16": {
+        "删除图层": "Laag verwijderen"
+      }
+    },
+    "l0509": {
+      "17": {
+        "复制图层": "Laag dupliceren"
+      }
+    },
+    "l0510": {
+      "18": {
+        "上移": "Omhoog verplaatsen"
+      }
+    },
+    "l0511": {
+      "19": {
+        "下移": "Omlaag verplaatsen"
+      }
+    },
+    "l0512": {
+      "20": {
+        "置顶": "Naar voorgrond"
+      }
+    },
+    "l0513": {
+      "21": {
+        "置底": "Naar achtergrond"
+      }
+    },
+    "l0514": {
+      "22": {
+        "合并": "Samenvoegen"
+      }
+    },
+    "l0532": {
+      "23": {
+        "撤销_Undo": "Ongedaan maken (Undo)"
+      }
+    },
+    "l0538": {
+      "24": {
+        "重置图层_Reset": "Laag resetten (Reset)"
+      }
+    },
+    "l0561": {
+      "25": {
+        "不透明度": "Dekking"
+      }
+    },
+    "l0669": {
+      "26": {
+        "选择图片添加为新图层": "Selecteer een afbeelding om als nieuwe laag toe te voegen"
+      }
+    },
+    "l0670": {
+      "27": {
+        "图像文件_png_jpg_jpeg": "Afbeeldingsbestanden (*.png *.jpg *.jpeg *.bmp *.gif);;Alle bestanden (*.*)"
+      }
+    },
+    "l0680": {
+      "28": {
+        "错误": "Fout"
+      },
+      "29": {
+        "无法打开该图像文件": "Kan dit afbeeldingsbestand niet openen"
+      }
+    }
+  },
+  "ui_modern_dialog": {
+    "l0011": {
+      "01": {
+        "确定": "OK"
+      },
+      "02": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0207": {
+      "03": {
+        "知道了": "Begrepen"
+      }
+    },
+    "l0238": {
+      "04": {
+        "确定": "OK"
+      }
+    },
+    "l0243": {
+      "05": {
+        "确定": "OK"
+      }
+    },
+    "l0248": {
+      "06": {
+        "确定": "OK"
+      }
+    },
+    "l0253": {
+      "07": {
+        "确定": "OK"
+      }
+    },
+    "l0258": {
+      "08": {
+        "确定": "OK"
+      },
+      "09": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0268": {
+      "10": {
+        "识别文本": "Tekst herkennen"
+      }
+    },
+    "l0304": {
+      "11": {
+        "识别文本": "Tekst herkennen"
+      }
+    },
+    "l0366": {
+      "12": {
+        "复制": "Kopiëren"
+      }
+    }
+  },
+  "ui_new_image_dialog": {
+    "l0015": {
+      "01": {
+        "上次使用": "Laatst gebruikt"
+      }
+    },
+    "l0016": {
+      "02": {
+        "剪贴板": "Klembord"
+      }
+    },
+    "l0017": {
+      "03": {
+        "自定义": "Aangepast"
+      }
+    },
+    "l0029": {
+      "04": {
+        "白色": "Wit"
+      }
+    },
+    "l0030": {
+      "05": {
+        "黑色": "Zwart"
+      }
+    },
+    "l0031": {
+      "06": {
+        "透明": "Transparant"
+      }
+    },
+    "l0032": {
+      "07": {
+        "灰色": "Grijs"
+      }
+    },
+    "l0033": {
+      "08": {
+        "红色": "Rood"
+      }
+    },
+    "l0034": {
+      "09": {
+        "蓝色": "Blauw"
+      }
+    },
+    "l0129": {
+      "10": {
+        "新建图像": "Nieuwe afbeelding"
+      }
+    },
+    "l0185": {
+      "11": {
+        "新建图像": "Nieuwe afbeelding"
+      }
+    },
+    "l0190": {
+      "12": {
+        "画布大小_self_last_width": "Canvasgrootte: {self.last_width} × {self.last_height}"
+      }
+    },
+    "l0198": {
+      "13": {
+        "预设": "Voorinstelling:"
+      }
+    },
+    "l0213": {
+      "14": {
+        "宽度": "Breedte:"
+      }
+    },
+    "l0228": {
+      "15": {
+        "高度": "Hoogte:"
+      }
+    },
+    "l0243": {
+      "16": {
+        "背景色": "Achtergrondkleur:"
+      }
+    },
+    "l0263": {
+      "17": {
+        "自定义颜色": "Aangepaste kleur"
+      }
+    },
+    "l0275": {
+      "18": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0280": {
+      "19": {
+        "确定": "OK"
+      }
+    },
+    "l0298": {
+      "20": {
+        "画布大小_width_height": "Canvasgrootte: {width} × {height}"
+      }
+    },
+    "l0341": {
+      "21": {
+        "剪贴板": "Klembord"
+      }
+    },
+    "l0350": {
+      "22": {
+        "上次使用": "Laatst gebruikt"
+      }
+    }
+  },
+  "ui_pin_window": {
+    "l0065": {
+      "01": {
+        "复制": "Kopiëren"
+      }
+    },
+    "l0069": {
+      "02": {
+        "保存": "Opslaan"
+      }
+    },
+    "l0075": {
+      "03": {
+        "关闭": "Sluiten"
+      }
+    },
+    "l0089": {
+      "04": {
+        "保存": "Opslaan"
+      }
+    }
+  },
+  "ui_print_dialog": {
+    "l0139": {
+      "01": {
+        "打印": "Afdrukken"
+      }
+    },
+    "l0193": {
+      "02": {
+        "打印": "Afdrukken"
+      }
+    },
+    "l0199": {
+      "03": {
+        "打印": "🖨️ Afdrukken"
+      }
+    },
+    "l0207": {
+      "04": {
+        "打印机": "Printer"
+      }
+    },
+    "l0222": {
+      "06": {
+        "设置": "Instellingen"
+      }
+    },
+    "l0228": {
+      "07": {
+        "缩放": "Schaal:"
+      }
+    },
+    "l0230": {
+      "08": {
+        "调整到_100": "Schalen naar 100%"
+      },
+      "09": {
+        "适合页面": "Aan pagina aanpassen"
+      },
+      "10": {
+        "自定义": "Aangepast"
+      }
+    },
+    "l0238": {
+      "11": {
+        "方向": "Oriëntatie:"
+      }
+    },
+    "l0240": {
+      "12": {
+        "纵向": "Staand"
+      },
+      "13": {
+        "横向": "Liggend"
+      }
+    },
+    "l0247": {
+      "14": {
+        "纸张尺寸": "Papierformaat:"
+      }
+    },
+    "l0262": {
+      "15": {
+        "页边距": "Marges:"
+      }
+    },
+    "l0265": {
+      "16": {
+        "正常_左_10mm_上_10mm": "Normaal (Links: 10 mm, Boven: 10 mm)"
+      }
+    },
+    "l0266": {
+      "17": {
+        "窄_左_5mm_上_5mm": "Smal (Links: 5 mm, Boven: 5 mm)"
+      }
+    },
+    "l0267": {
+      "18": {
+        "宽_左_20mm_上_20mm": "Breed (Links: 20 mm, Boven: 20 mm)"
+      }
+    },
+    "l0268": {
+      "19": {
+        "自定义": "Aangepast..."
+      }
+    },
+    "l0276": {
+      "20": {
+        "打印颜色": "Afdrukkleur:"
+      }
+    },
+    "l0278": {
+      "21": {
+        "彩色": "Kleur"
+      },
+      "22": {
+        "灰度": "Grijstinten"
+      },
+      "23": {
+        "黑白": "Zwart-wit"
+      }
+    },
+    "l0291": {
+      "25": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0305": {
+      "26": {
+        "边距": "Marges"
+      }
+    },
+    "l0306": {
+      "27": {
+        "左": "Links"
+      }
+    },
+    "l0314": {
+      "28": {
+        "上": "Boven"
+      }
+    },
+    "l0322": {
+      "29": {
+        "右": "Rechts"
+      }
+    },
+    "l0330": {
+      "30": {
+        "下": "Onder"
+      }
+    },
+    "l0348": {
+      "31": {
+        "页面_1_1": "Pagina's: 1 - 1"
+      }
+    },
+    "l0351": {
+      "32": {
+        "纸张尺寸_210_mm_297_mm": "Papierformaat: 210 mm × 297 mm"
+      }
+    },
+    "l0403": {
+      "33": {
+        "纸张尺寸_w_mm_h_mm": "Papierformaat: {w} mm × {h} mm"
+      }
+    }
+  },
+  "ui_region_capture": {
+    "l0071": {
+      "01": {
+        "移动选区": "Selectie verplaatsen"
+      }
+    },
+    "l0083": {
+      "02": {
+        "取消_ESC": "Annuleren (ESC)"
+      }
+    },
+    "l0091": {
+      "03": {
+        "固定到桌面": "Aan bureaublad vastmaken"
+      }
+    },
+    "l0099": {
+      "04": {
+        "保存_Ctrl_S": "Opslaan (Ctrl+S)"
+      }
+    },
+    "l0109": {
+      "05": {
+        "编辑_进入编辑器": "Bewerken (Editor openen)"
+      }
+    },
+    "l0117": {
+      "06": {
+        "复制并分享_Ctrl_C": "Kopiëren en delen (Ctrl+C)"
+      }
+    },
+    "l0125": {
+      "07": {
+        "识别文字": "Tekst herkennen"
+      }
+    },
+    "l0244": {
+      "08": {
+        "拖动选择区域_ESC取消": "Sleep om een gebied te selecteren | ESC om te annuleren"
+      }
+    },
+    "l0668": {
+      "09": {
+        "保存": "Opslaan"
+      }
+    },
+    "l0716": {
+      "10": {
+        "输入文字": "Tekst invoeren"
+      },
+      "11": {
+        "请输入要添加的文字": "Voer de toe te voegen tekst in:"
+      }
+    },
+    "l0771": {
+      "12": {
+        "OCR_错误": "OCR-fout"
+      },
+      "13": {
+        "本地_OCR_引擎未就绪_请检查依赖": "De lokale OCR-engine is niet gereed. Controleer de afhankelijkheden."
+      }
+    },
+    "l0787": {
+      "14": {
+        "识别结果": "Herkenningsresultaat"
+      },
+      "15": {
+        "未识别到文字": "Geen tekst herkend."
+      }
+    },
+    "l0800": {
+      "16": {
+        "OCR_错误": "OCR-fout"
+      },
+      "17": {
+        "识别失败_err_msg": "Herkenning mislukt: {err_msg}"
+      }
+    }
+  },
+  "ui_save_dialog": {
+    "l0032": {
+      "01": {
+        "保存图像": "Afbeelding opslaan"
+      }
+    },
+    "l0074": {
+      "02": {
+        "保存图像": "Afbeelding opslaan"
+      }
+    },
+    "l0080": {
+      "03": {
+        "文件名": "Bestandsnaam:"
+      }
+    },
+    "l0087": {
+      "04": {
+        "保存位置": "Opslaglocatie"
+      }
+    },
+    "l0096": {
+      "05": {
+        "浏览": "Bladeren..."
+      }
+    },
+    "l0103": {
+      "06": {
+        "快速切换": "Snel wisselen:"
+      }
+    },
+    "l0120": {
+      "07": {
+        "暂无最近文件夹": "Geen recente mappen"
+      }
+    },
+    "l0128": {
+      "08": {
+        "设为默认保存位置": "Instellen als standaard opslaglocatie"
+      }
+    },
+    "l0135": {
+      "09": {
+        "格式": "Indeling:"
+      }
+    },
+    "l0152": {
+      "10": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0157": {
+      "11": {
+        "保存": "Opslaan"
+      }
+    },
+    "l0165": {
+      "12": {
+        "选择保存位置": "Opslaglocatie selecteren"
+      }
+    },
+    "l0192": {
+      "13": {
+        "文件已存在": "Bestand bestaat al"
+      }
+    },
+    "l0193": {
+      "14": {
+        "文件_filename_已存在_是否覆盖": "Bestand {filename} bestaat al. Overschrijven?"
+      }
+    },
+    "l0194": {
+      "15": {
+        "覆盖": "Overschrijven"
+      },
+      "16": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0216": {
+      "17": {
+        "保存失败": "Opslaan mislukt"
+      }
+    },
+    "l0218": {
+      "18": {
+        "保存失败": "Opslaan mislukt"
+      },
+      "19": {
+        "无法保存文件_str_e": "Kan bestand niet opslaan: {str(e)}"
+      }
+    },
+    "l0240": {
+      "20": {
+        "批量导出": "Batch exporteren"
+      }
+    },
+    "l0283": {
+      "21": {
+        "批量导出_len_self_images": "Batch exporteren ({len(self.images)} afbeeldingen)"
+      }
+    },
+    "l0288": {
+      "22": {
+        "待导出图像": "Te exporteren afbeeldingen:"
+      }
+    },
+    "l0302": {
+      "23": {
+        "保存位置": "Opslaglocatie:"
+      }
+    },
+    "l0307": {
+      "24": {
+        "浏览": "Bladeren"
+      }
+    },
+    "l0314": {
+      "25": {
+        "导出格式": "Exportindeling:"
+      }
+    },
+    "l0320": {
+      "26": {
+        "命名规则": "Naamgevingsregel:"
+      }
+    },
+    "l0323": {
+      "27": {
+        "保持原名": "Originele naam behouden"
+      }
+    },
+    "l0324": {
+      "28": {
+        "添加前缀": "Voorvoegsel toevoegen"
+      }
+    },
+    "l0325": {
+      "29": {
+        "添加后缀": "Achtervoegsel toevoegen"
+      }
+    },
+    "l0326": {
+      "30": {
+        "序号命名": "Naamgeving met volgnummer"
+      }
+    },
+    "l0332": {
+      "31": {
+        "前缀": "Voorvoegsel:"
+      }
+    },
+    "l0336": {
+      "32": {
+        "例如_export": "Voorbeeld: export_"
+      }
+    },
+    "l0358": {
+      "33": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0363": {
+      "34": {
+        "开始导出": "Export starten"
+      }
+    },
+    "l0371": {
+      "35": {
+        "选择导出位置": "Exportlocatie selecteren"
+      }
+    },
+    "l0380": {
+      "36": {
+        "前缀": "Voorvoegsel:"
+      },
+      "37": {
+        "后缀": "Achtervoegsel:"
+      }
+    },
+    "l0424": {
+      "38": {
+        "已导出_os_path_basename_f": "Geëxporteerd: {os.path.basename(file_path)}"
+      }
+    },
+    "l0426": {
+      "39": {
+        "导出失败_name_str_e": "Export mislukt: {name} - {str(e)}"
+      }
+    },
+    "l0434": {
+      "40": {
+        "导出完成_成功_len_saved_path": "Export voltooid! Gelukt: {len(saved_paths)}/{len(self.images)}"
+      }
+    },
+    "l0439": {
+      "41": {
+        "导出完成": "Export voltooid"
+      }
+    },
+    "l0440": {
+      "42": {
+        "成功导出_len_saved_paths": "{len(saved_paths)} afbeeldingen succesvol geëxporteerd naar:\n{folder}"
+      }
+    }
+  },
+  "ui_scroll_capture": {
+    "l0144": {
+      "01": {
+        "长截图预览": "Voorbeeld van lange screenshot"
+      }
+    },
+    "l0154": {
+      "02": {
+        "已捕获_self_frame_count_帧": "{self.frame_count} frames vastgelegd"
+      }
+    },
+    "l0158": {
+      "03": {
+        "等待捕获": "Wachten op vastleggen..."
+      }
+    },
+    "l0220": {
+      "04": {
+        "滚动页面开始捕获": "Scroll de pagina om het vastleggen te starten"
+      }
+    },
+    "l0255": {
+      "05": {
+        "手动滚动预览_ESC_取消": "Handmatige scrollvoorvertoning · ESC om te annuleren"
+      }
+    },
+    "l0275": {
+      "06": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0290": {
+      "07": {
+        "完成截图": "Screenshot voltooien"
+      }
+    },
+    "l0456": {
+      "08": {
+        "开始捕获": "Vastleggen starten"
+      }
+    },
+    "l0463": {
+      "09": {
+        "点击开始后滚动页面": "Klik op Start en scroll vervolgens de pagina"
+      }
+    },
+    "l0557": {
+      "10": {
+        "拖动选择滚动区域_ESC_取消": "Sleep om het scrollgebied te selecteren | ESC om te annuleren"
+      }
+    },
+    "l0589": {
+      "11": {
+        "捕获中_len_self_captures": "Bezig met vastleggen: {len(self.captures)}"
+      }
+    }
+  },
+  "ui_settings_dialog": {
+    "l0024": {
+      "01": {
+        "点击后按下快捷键": "Klik en druk vervolgens op de sneltoets..."
+      }
+    },
+    "l0086": {
+      "02": {
+        "程序设置": "Programma-instellingen"
+      }
+    },
+    "l0182": {
+      "03": {
+        "常规": "Algemeen"
+      }
+    },
+    "l0183": {
+      "04": {
+        "截图": "Screenshot"
+      }
+    },
+    "l0184": {
+      "05": {
+        "快捷键": "Sneltoetsen"
+      }
+    },
+    "l0185": {
+      "06": {
+        "命名规则": "Naamgevingsregels"
+      }
+    },
+    "l0191": {
+      "07": {
+        "鲲穹AI旗下产品": "Een product van Kunqiong AI"
+      }
+    },
+    "l0197": {
+      "08": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0202": {
+      "09": {
+        "保存设置": "Instellingen opslaan"
+      }
+    },
+    "l0215": {
+      "10": {
+        "保存设置": "Instellingen opslaan"
+      }
+    },
+    "l0219": {
+      "11": {
+        "默认保存路径": "Standaard opslagpad:"
+      }
+    },
+    "l0224": {
+      "12": {
+        "选择截图保存目录": "Selecteer de opslagmap voor screenshots..."
+      }
+    },
+    "l0227": {
+      "13": {
+        "浏览": "Bladeren"
+      }
+    },
+    "l0235": {
+      "14": {
+        "默认格式": "Standaardindeling:"
+      }
+    },
+    "l0243": {
+      "15": {
+        "截图后自动保存到默认目录": "Na screenshot automatisch opslaan in de standaardmap"
+      }
+    },
+    "l0246": {
+      "16": {
+        "截图后自动复制到剪贴板": "Na screenshot automatisch kopiëren naar klembord"
+      }
+    },
+    "l0249": {
+      "17": {
+        "操作完成后显示通知": "Melding tonen nadat de actie is voltooid"
+      }
+    },
+    "l0255": {
+      "18": {
+        "编辑器设置": "Editorinstellingen"
+      }
+    },
+    "l0258": {
+      "19": {
+        "编辑器默认全屏显示": "Editor wordt standaard op volledig scherm geopend"
+      }
+    },
+    "l0261": {
+      "20": {
+        "记住编辑器窗口大小": "Venstergrootte van editor onthouden"
+      }
+    },
+    "l0267": {
+      "21": {
+        "版本与更新": "Versie en updates"
+      }
+    },
+    "l0273": {
+      "22": {
+        "当前版本_current_version": "Huidige versie: {current_version}"
+      }
+    },
+    "l0279": {
+      "23": {
+        "检查更新": "Controleren op updates"
+      }
+    },
+    "l0285": {
+      "24": {
+        "反馈问题": "Een probleem melden"
+      }
+    },
+    "l0328": {
+      "25": {
+        "滚动截图": "Scrollende screenshot"
+      }
+    },
+    "l0333": {
+      "26": {
+        "0_1秒": "× 0,1 s"
+      }
+    },
+    "l0334": {
+      "27": {
+        "滚动延迟": "Scrollvertraging:"
+      }
+    },
+    "l0337": {
+      "28": {
+        "慢速": "Langzaam"
+      },
+      "29": {
+        "中速": "Gemiddeld"
+      },
+      "30": {
+        "快速": "Snel"
+      }
+    },
+    "l0338": {
+      "31": {
+        "滚动速度": "Scrollsnelheid:"
+      }
+    },
+    "l0343": {
+      "32": {
+        "重复截取": "Herhaald vastleggen"
+      }
+    },
+    "l0346": {
+      "33": {
+        "按_F8_可重复上次截图操作": "Druk op F8 om de laatste screenshotactie te herhalen"
+      }
+    },
+    "l0359": {
+      "34": {
+        "快捷键设置": "Sneltoetsinstellingen"
+      }
+    },
+    "l0368": {
+      "35": {
+        "全屏截图": "Screenshot op volledig scherm:"
+      },
+      "36": {
+        "例如_Ctrl_Shift_F": "Voorbeeld: Ctrl+Shift+F"
+      }
+    },
+    "l0369": {
+      "37": {
+        "矩形截图": "Rechthoekige screenshot:"
+      },
+      "38": {
+        "例如_Ctrl_Shift_A": "Voorbeeld: Ctrl+Shift+A"
+      }
+    },
+    "l0370": {
+      "39": {
+        "窗口控件截图": "Screenshot van venster/besturingselement:"
+      },
+      "40": {
+        "例如_Ctrl_Shift_W": "Voorbeeld: Ctrl+Shift+W"
+      }
+    },
+    "l0371": {
+      "41": {
+        "取色器": "Kleurenkiezer:"
+      },
+      "42": {
+        "例如_Ctrl_Shift_C": "Voorbeeld: Ctrl+Shift+C"
+      }
+    },
+    "l0372": {
+      "43": {
+        "重复截取": "Herhaald vastleggen:"
+      },
+      "44": {
+        "例如_F8": "Voorbeeld: F8"
+      }
+    },
+    "l0373": {
+      "45": {
+        "白板": "Whiteboard:"
+      },
+      "46": {
+        "例如_Win_Shift_W": "Voorbeeld: Win+Shift+W"
+      }
+    },
+    "l0374": {
+      "47": {
+        "开始_停止录屏": "Schermopname starten/stoppen:"
+      },
+      "48": {
+        "例如_Ctrl_Shift_R": "Voorbeeld: Ctrl+Shift+R"
+      }
+    },
+    "l0416": {
+      "49": {
+        "预设方案": "Voorinstellingen"
+      }
+    },
+    "l0419": {
+      "50": {
+        "默认": "Standaard"
+      },
+      "51": {
+        "HyperSnap风格": "HyperSnap-stijl"
+      },
+      "52": {
+        "Snagit风格": "Snagit-stijl"
+      }
+    },
+    "l0428": {
+      "53": {
+        "快捷键修改后保存即可生效_无需重启程序": "💡 Wijzigingen aan sneltoetsen worden na het opslaan direct toegepast; opnieuw opstarten is niet nodig"
+      }
+    },
+    "l0449": {
+      "54": {
+        "与_self__get_hotkey_disp": "Conflict met {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0450": {
+      "55": {
+        "快捷键冲突_text_已被_sel": "⚠️ Sneltoetsconflict: {text} wordt al gebruikt door {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0453": {
+      "56": {
+        "有效": "Geldig"
+      }
+    },
+    "l0462": {
+      "57": {
+        "全屏截图": "Screenshot op volledig scherm"
+      }
+    },
+    "l0463": {
+      "58": {
+        "矩形截图": "Rechthoekige screenshot"
+      }
+    },
+    "l0464": {
+      "59": {
+        "窗口控件截图": "Screenshot van venster/besturingselement"
+      }
+    },
+    "l0465": {
+      "60": {
+        "取色器": "Kleurenkiezer"
+      }
+    },
+    "l0466": {
+      "61": {
+        "重复截取": "Herhaald vastleggen"
+      }
+    },
+    "l0467": {
+      "62": {
+        "白板": "Whiteboard"
+      }
+    },
+    "l0468": {
+      "63": {
+        "屏幕录制": "Schermopname"
+      }
+    },
+    "l0478": {
+      "64": {
+        "文件命名规则": "Bestandsnaamregels"
+      }
+    },
+    "l0481": {
+      "65": {
+        "自定义前缀": "Aangepast voorvoegsel:"
+      }
+    },
+    "l0486": {
+      "66": {
+        "命名模板": "Naamgevingssjabloon:"
+      }
+    },
+    "l0492": {
+      "67": {
+        "可用变量_YYYY_年份_2024": "Beschikbare variabelen:\n  ${YYYY} - Jaar (2024)\n  ${MM} - Maand (01-12)\n  ${DD} - Dag (01-31)\n  ${HH} - Uur (00-23)\n  ${YYYYMMDD} - Datum (20241201)\n  ${HHMMSS} - Tijd (143052)\n  ${MODE} - Screenshotmodus\n  ${PREFIX} - Aangepast voorvoegsel\n  ${SEQ} - Volgnummer (001, 002...)"
+      }
+    },
+    "l0510": {
+      "68": {
+        "预览": "Voorbeeld"
+      }
+    },
+    "l0561": {
+      "69": {
+        "选择保存目录": "Opslagmap selecteren"
+      }
+    },
+    "l0567": {
+      "70": {
+        "默认": "Standaard"
+      }
+    },
+    "l0573": {
+      "71": {
+        "HyperSnap风格": "HyperSnap-stijl"
+      }
+    },
+    "l0579": {
+      "72": {
+        "Snagit风格": "Snagit-stijl"
+      }
+    },
+    "l0601": {
+      "73": {
+        "快捷键冲突": "Sneltoetsconflict"
+      }
+    },
+    "l0602": {
+      "74": {
+        "快捷键_text_被多个功能使用_请修改后再": "Sneltoets {text} wordt door meerdere functies gebruikt. Pas deze aan voordat u opslaat."
+      }
+    }
+  },
+  "ui_share_panel": {
+    "l0109": {
+      "01": {
+        "FTP服务器配置": "Configuratie van FTP-server"
+      },
+      "02": {
+        "编辑FTP服务器": "FTP-server bewerken"
+      }
+    },
+    "l0125": {
+      "03": {
+        "例如_我的服务器": "Voorbeeld: Mijn server"
+      }
+    },
+    "l0126": {
+      "04": {
+        "名称": "Naam:"
+      }
+    },
+    "l0129": {
+      "05": {
+        "例如_ftp_example_com": "Voorbeeld: ftp.example.com"
+      }
+    },
+    "l0130": {
+      "06": {
+        "主机": "Host:"
+      }
+    },
+    "l0135": {
+      "07": {
+        "端口": "Poort:"
+      }
+    },
+    "l0138": {
+      "08": {
+        "用户名": "Gebruikersnaam:"
+      }
+    },
+    "l0142": {
+      "09": {
+        "密码": "Wachtwoord:"
+      }
+    },
+    "l0146": {
+      "10": {
+        "远程目录路径": "Pad naar externe map"
+      }
+    },
+    "l0147": {
+      "11": {
+        "路径": "Pad:"
+      }
+    },
+    "l0151": {
+      "12": {
+        "协议": "Protocol:"
+      }
+    },
+    "l0156": {
+      "13": {
+        "测试连接": "Verbinding testen"
+      }
+    },
+    "l0165": {
+      "14": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0170": {
+      "15": {
+        "保存": "Opslaan"
+      }
+    },
+    "l0221": {
+      "16": {
+        "成功": "Geslaagd"
+      },
+      "17": {
+        "连接测试成功": "Verbindingstest geslaagd!"
+      }
+    },
+    "l0223": {
+      "18": {
+        "失败": "Mislukt"
+      },
+      "19": {
+        "连接失败_message": "Verbinding mislukt: {message}"
+      }
+    },
+    "l0227": {
+      "20": {
+        "错误": "Fout"
+      },
+      "21": {
+        "请填写名称和主机地址": "Voer een naam en hostadres in"
+      }
+    },
+    "l0248": {
+      "22": {
+        "云存储账号管理": "Beheer van cloudopslagaccounts"
+      }
+    },
+    "l0257": {
+      "23": {
+        "百度网盘": "Baidu Netdisk"
+      }
+    },
+    "l0262": {
+      "24": {
+        "未授权": "Niet geautoriseerd"
+      }
+    },
+    "l0275": {
+      "25": {
+        "授权后可将截图直接上传到百度网盘_方便跨设备访问": "Na autorisatie kunnen screenshots direct naar Baidu Netdisk worden geüpload voor gemakkelijke toegang en delen op verschillende apparaten."
+      }
+    },
+    "l0281": {
+      "26": {
+        "授权百度网盘": "🔐 Baidu Netdisk autoriseren"
+      }
+    },
+    "l0299": {
+      "27": {
+        "关闭": "Sluiten"
+      }
+    },
+    "l0324": {
+      "28": {
+        "提示": "Melding"
+      },
+      "29": {
+        "百度网盘功能暂不可用": "Baidu Netdisk is tijdelijk niet beschikbaar"
+      }
+    },
+    "l0326": {
+      "30": {
+        "错误": "Fout"
+      },
+      "31": {
+        "授权失败_str_e": "Autorisatie mislukt: {str(e)}"
+      }
+    },
+    "l0330": {
+      "32": {
+        "已授权": "✓ Geautoriseerd"
+      }
+    },
+    "l0340": {
+      "33": {
+        "成功": "Geslaagd"
+      }
+    },
+    "l0342": {
+      "34": {
+        "失败": "Mislukt"
+      }
+    },
+    "l0350": {
+      "35": {
+        "分享进度": "Voortgang delen"
+      }
+    },
+    "l0357": {
+      "36": {
+        "准备中": "Voorbereiden..."
+      }
+    },
+    "l0365": {
+      "37": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0397": {
+      "38": {
+        "关闭": "Sluiten"
+      }
+    },
+    "l0425": {
+      "39": {
+        "分享": "Delen"
+      }
+    },
+    "l0429": {
+      "40": {
+        "选择分享方式": "Kies een deelmethode"
+      }
+    },
+    "l0476": {
+      "41": {
+        "社交分享": "Delen via sociale media"
+      }
+    },
+    "l0483": {
+      "42": {
+        "微信": "WeChat"
+      }
+    },
+    "l0484": {
+      "43": {
+        "已安装_分享到微信": "Geïnstalleerd - Delen naar WeChat"
+      },
+      "44": {
+        "未检测到微信客户端": "WeChat-client niet gedetecteerd"
+      }
+    },
+    "l0491": {
+      "45": {
+        "已安装_分享到QQ": "Geïnstalleerd - Delen naar QQ"
+      },
+      "46": {
+        "未检测到QQ客户端": "QQ-client niet gedetecteerd"
+      }
+    },
+    "l0497": {
+      "47": {
+        "钉钉": "DingTalk"
+      }
+    },
+    "l0498": {
+      "48": {
+        "已安装_分享到钉钉": "Geïnstalleerd - Delen naar DingTalk"
+      },
+      "49": {
+        "未检测到钉钉客户端": "DingTalk-client niet gedetecteerd"
+      }
+    },
+    "l0504": {
+      "50": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0505": {
+      "51": {
+        "已安装_分享到企业微信": "Geïnstalleerd - Delen naar WeCom"
+      },
+      "52": {
+        "未检测到企业微信客户端": "WeCom-client niet gedetecteerd"
+      }
+    },
+    "l0513": {
+      "53": {
+        "云存储": "Cloudopslag"
+      }
+    },
+    "l0517": {
+      "54": {
+        "百度网盘": "Baidu Netdisk"
+      },
+      "55": {
+        "上传并分享图像到百度网盘": "Afbeeldingen uploaden en delen naar Baidu Netdisk"
+      }
+    },
+    "l0524": {
+      "56": {
+        "邮件": "E-mail"
+      }
+    },
+    "l0527": {
+      "57": {
+        "电子邮件": "E-mail"
+      },
+      "58": {
+        "添加图像的副本到电子邮件": "Een kopie van de afbeelding toevoegen aan e-mail"
+      }
+    },
+    "l0534": {
+      "59": {
+        "Office_应用": "Office-apps"
+      }
+    },
+    "l0537": {
+      "60": {
+        "插入图像的副本到_Word": "Een kopie van de afbeelding invoegen in Word"
+      }
+    },
+    "l0541": {
+      "61": {
+        "插入图像的副本到_Excel": "Een kopie van de afbeelding invoegen in Excel"
+      }
+    },
+    "l0545": {
+      "62": {
+        "插入图像的副本到_PowerPoint": "Een kopie van de afbeelding invoegen in PowerPoint"
+      }
+    },
+    "l0549": {
+      "63": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "64": {
+        "发送图像的副本到_Paint": "Een kopie van de afbeelding verzenden naar Paint"
+      }
+    },
+    "l0564": {
+      "65": {
+        "发送到外部程序": "Verzenden naar extern programma"
+      }
+    },
+    "l0568": {
+      "66": {
+        "外部程序": "Extern programma"
+      },
+      "67": {
+        "发送图像到_Photoshop_GIMP_等外部": "Afbeelding verzenden naar externe programma's zoals Photoshop en GIMP"
+      }
+    },
+    "l0573": {
+      "68": {
+        "直接发送图像到_FTP_服务器": "Afbeelding rechtstreeks verzenden naar FTP-server"
+      }
+    },
+    "l0580": {
+      "69": {
+        "快捷操作": "Snelle acties"
+      }
+    },
+    "l0584": {
+      "70": {
+        "复制到剪贴板": "Kopiëren naar klembord"
+      },
+      "71": {
+        "Ctrl_C_快速复制": "Ctrl+C snel kopiëren"
+      }
+    },
+    "l0591": {
+      "72": {
+        "应用检测状态": "Detectiestatus van applicaties"
+      }
+    },
+    "l0610": {
+      "73": {
+        "微信": "WeChat"
+      }
+    },
+    "l0611": {
+      "74": {
+        "钉钉": "DingTalk"
+      },
+      "75": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0625": {
+      "76": {
+        "重新检测": "🔄 Opnieuw detecteren"
+      }
+    },
+    "l0649": {
+      "77": {
+        "提示": "Melding"
+      },
+      "78": {
+        "请重新打开分享面板以刷新检测结果": "Open het deelpaneel opnieuw om de detectieresultaten te vernieuwen"
+      }
+    },
+    "l0673": {
+      "79": {
+        "图像尺寸_w_h_像素": "Afbeeldingsgrootte: {w} × {h} pixels"
+      }
+    },
+    "l0676": {
+      "80": {
+        "没有可分享的图像": "Geen afbeelding beschikbaar om te delen"
+      }
+    },
+    "l0681": {
+      "81": {
+        "提示": "Melding"
+      },
+      "82": {
+        "请先截取或打开一张图像": "Maak of open eerst een afbeelding"
+      }
+    },
+    "l0713": {
+      "83": {
+        "提示": "Melding"
+      },
+      "84": {
+        "功能开发中_share_type_value": "Functie in ontwikkeling: {share_type.value}"
+      }
+    },
+    "l0721": {
+      "85": {
+        "正在处理": "Verwerken..."
+      }
+    },
+    "l0740": {
+      "86": {
+        "选择外部程序": "Selecteer extern programma"
+      }
+    },
+    "l0746": {
+      "87": {
+        "发送到Photoshop": "Verzenden naar Photoshop"
+      }
+    },
+    "l0751": {
+      "88": {
+        "发送到GIMP": "Verzenden naar GIMP"
+      }
+    },
+    "l0756": {
+      "89": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "90": {
+        "发送到画图": "Verzenden naar Paint"
+      }
+    },
+    "l0762": {
+      "91": {
+        "关闭": "Sluiten"
+      }
+    },
+    "l0784": {
+      "92": {
+        "提示": "Melding"
+      },
+      "93": {
+        "请先截取或打开一张图像": "Maak of open eerst een afbeelding"
+      }
+    },
+    "l0797": {
+      "94": {
+        "FTP服务器": "FTP-server"
+      }
+    },
+    "l0803": {
+      "95": {
+        "已配置的服务器": "Geconfigureerde servers:"
+      }
+    },
+    "l0813": {
+      "96": {
+        "添加": "Toevoegen"
+      }
+    },
+    "l0817": {
+      "97": {
+        "编辑": "Bewerken"
+      }
+    },
+    "l0821": {
+      "98": {
+        "删除": "Verwijderen"
+      }
+    },
+    "l0828": {
+      "99": {
+        "上传到选中的服务器": "Uploaden naar geselecteerde server"
+      }
+    },
+    "l0832": {
+      "100": {
+        "关闭": "Sluiten"
+      }
+    },
+    "l0884": {
+      "101": {
+        "提示": "Melding"
+      },
+      "102": {
+        "请先选择一个服务器": "Selecteer eerst een server"
+      }
+    },
+    "l0906": {
+      "103": {
+        "提示": "Melding"
+      },
+      "104": {
+        "请先选择一个服务器": "Selecteer eerst een server"
+      }
+    },
+    "l0912": {
+      "105": {
+        "确认删除": "Verwijdering bevestigen"
+      }
+    },
+    "l0913": {
+      "106": {
+        "确定要删除服务器_name_吗": "Weet u zeker dat u server '{name}' wilt verwijderen?"
+      }
+    },
+    "l0914": {
+      "107": {
+        "确定": "Bevestigen"
+      },
+      "108": {
+        "取消": "Annuleren"
+      }
+    },
+    "l0925": {
+      "109": {
+        "提示": "Melding"
+      },
+      "110": {
+        "请先选择一个服务器": "Selecteer eerst een server"
+      }
+    },
+    "l0929": {
+      "111": {
+        "提示": "Melding"
+      },
+      "112": {
+        "请先截取或打开一张图像": "Maak of open eerst een afbeelding"
+      }
+    }
+  },
+  "ui_tab_manager": {
+    "l0160": {
+      "01": {
+        "关闭": "Sluiten"
+      }
+    },
+    "l0164": {
+      "02": {
+        "关闭其他": "Andere sluiten"
+      }
+    },
+    "l0235": {
+      "03": {
+        "新建": "Nieuw"
+      }
+    },
+    "l0353": {
+      "04": {
+        "未保存的更改": "Niet-opgeslagen wijzigingen"
+      }
+    },
+    "l0354": {
+      "05": {
+        "tab_data_title_有未保存的": "'{tab_data.title}' heeft niet-opgeslagen wijzigingen. Weet u zeker dat u het wilt sluiten?"
+      }
+    },
+    "l0355": {
+      "06": {
+        "保存": "Opslaan"
+      },
+      "07": {
+        "不保存": "Niet opslaan"
+      },
+      "08": {
+        "取消": "Annuleren"
+      }
+    }
+  },
+  "ui_text_box": {
+    "l0363": {
+      "01": {
+        "确认文本": "✓ Tekst bevestigen"
+      }
+    },
+    "l0370": {
+      "02": {
+        "删除文本框": "🗑 Tekstvak verwijderen"
+      }
+    },
+    "l0375": {
+      "03": {
+        "取消": "✗ Annuleren"
+      }
+    }
+  },
+  "ui_unified_preview_window": {
+    "l0117": {
+      "01": {
+        "截图导航": "📷 Schermafbeeldingsnavigatie"
+      }
+    },
+    "l0205": {
+      "02": {
+        "批量编辑": "⚙️ Batchbewerking"
+      }
+    },
+    "l0211": {
+      "03": {
+        "旋转_90": "90° draaien"
+      }
+    },
+    "l0212": {
+      "04": {
+        "旋转_90": "-90° draaien"
+      }
+    },
+    "l0213": {
+      "05": {
+        "水平翻转": "Horizontaal spiegelen"
+      }
+    },
+    "l0214": {
+      "06": {
+        "垂直翻转": "Verticaal spiegelen"
+      }
+    },
+    "l0215": {
+      "07": {
+        "全部模糊": "Alles vervagen"
+      }
+    },
+    "l0216": {
+      "08": {
+        "全部锐化": "Alles verscherpen"
+      }
+    },
+    "l0259": {
+      "09": {
+        "筛选和排序": "🔍 Filteren en sorteren"
+      }
+    },
+    "l0264": {
+      "10": {
+        "排序方式": "Sorteren op:"
+      }
+    },
+    "l0266": {
+      "11": {
+        "最新优先": "Nieuwste eerst"
+      },
+      "12": {
+        "最旧优先": "Oudste eerst"
+      },
+      "13": {
+        "按名称": "Op naam"
+      },
+      "14": {
+        "按大小": "Op grootte"
+      }
+    },
+    "l0271": {
+      "15": {
+        "搜索": "Zoeken:"
+      }
+    },
+    "l0273": {
+      "16": {
+        "输入文件名": "Voer bestandsnaam in..."
+      }
+    },
+    "l0278": {
+      "17": {
+        "最小宽度": "Minimale breedte:"
+      }
+    },
+    "l0289": {
+      "18": {
+        "最新优先": "Nieuwste eerst"
+      }
+    },
+    "l0290": {
+      "19": {
+        "最旧优先": "Oudste eerst"
+      }
+    },
+    "l0291": {
+      "20": {
+        "按名称": "Op naam"
+      }
+    },
+    "l0292": {
+      "21": {
+        "按大小": "Op grootte"
+      }
+    },
+    "l0323": {
+      "22": {
+        "加载中": "Laden..."
+      }
+    },
+    "l0349": {
+      "23": {
+        "处理中_current_total": "Verwerken... {current}/{total}"
+      }
+    },
+    "l0369": {
+      "24": {
+        "统一预览窗口_PyScreenshot": "Geünificeerd voorbeeldvenster - PyScreenshot"
+      }
+    },
+    "l0463": {
+      "25": {
+        "就绪": "Gereed"
+      }
+    },
+    "l0479": {
+      "26": {
+        "0_张截图": "0 schermafbeeldingen"
+      }
+    },
+    "l0486": {
+      "27": {
+        "批量导出": "📦 Batch exporteren"
+      }
+    },
+    "l0501": {
+      "28": {
+        "关闭": "✕ Sluiten"
+      }
+    },
+    "l0521": {
+      "29": {
+        "截图_len_self_screenshots": "Schermafbeelding {len(self.screenshots) + 1}"
+      }
+    },
+    "l0574": {
+      "30": {
+        "已打开编辑器_title": "✓ Editor geopend: {title}"
+      }
+    },
+    "l0579": {
+      "31": {
+        "提示": "Melding"
+      },
+      "32": {
+        "没有可操作的截图": "Geen schermafbeeldingen beschikbaar om te bewerken"
+      }
+    },
+    "l0582": {
+      "33": {
+        "执行_operation": "{operation} uitvoeren"
+      }
+    },
+    "l0589": {
+      "34": {
+        "已完成_operation": "✓ {operation} voltooid"
+      }
+    },
+    "l0594": {
+      "35": {
+        "提示": "Melding"
+      },
+      "36": {
+        "没有可导出的截图": "Geen schermafbeeldingen om te exporteren"
+      }
+    },
+    "l0597": {
+      "37": {
+        "已导出_len_self_screensh": "✓ {len(self.screenshots)} schermafbeeldingen geëxporteerd"
+      }
+    },
+    "l0610": {
+      "38": {
+        "count_张截图": "{count} schermafbeeldingen"
+      }
+    }
+  },
+  "updater": {
+    "l0106": {
+      "01": {
+        "正在升级系统": "Systeem wordt bijgewerkt"
+      }
+    },
+    "l0118": {
+      "02": {
+        "准备就绪": "Voorbereiden..."
+      }
+    },
+    "l0194": {
+      "03": {
+        "正在关闭主程序": "Hoofdprogramma sluiten..."
+      }
+    },
+    "l0211": {
+      "04": {
+        "正在下载更新包": "Updatepakket downloaden..."
+      }
+    },
+    "l0237": {
+      "05": {
+        "校验失败_下载文件损坏": "Verificatie mislukt: gedownload bestand is beschadigd"
+      }
+    },
+    "l0244": {
+      "06": {
+        "下载失败_str_e": "Download mislukt: {str(e)}"
+      }
+    },
+    "l0249": {
+      "07": {
+        "正在安装更新": "Update installeren..."
+      }
+    },
+    "l0271": {
+      "08": {
+        "正在重试_i_1_max_retri": "Opnieuw proberen ({i + 1}/{max_retries})..."
+      }
+    },
+    "l0278": {
+      "09": {
+        "安装失败_文件被占用": "Installatie mislukt: bestand is in gebruik"
+      }
+    },
+    "l0283": {
+      "10": {
+        "清理并重启": "Opschonen en opnieuw opstarten..."
+      }
+    },
+    "l0304": {
+      "11": {
+        "启动失败_请手动打开程序": "Starten mislukt, open het programma handmatig"
+      }
+    },
+    "l0308": {
+      "12": {
+        "未找到主程序": "Hoofdprogramma niet gevonden"
+      }
+    },
+    "l0313": {
+      "13": {
+        "更新出错_请联系支持": "Updatefout, neem contact op met ondersteuning"
+      }
+    }
+  },
+  "滚动延迟:": "Scrollvertraging:",
+  "滚动速度:": "Scrollsnelheid:",
+  "全屏截图:": "Volledig scherm vastleggen:",
+  "矩形截图:": "Rechthoekige opname:",
+  "窗口控件截图:": "Vensteronderdeel vastleggen:",
+  "取色器:": "Kleurenkiezer:",
+  "重复截取:": "Opname herhalen:",
+  "白板:": "Whiteboard:",
+  "开始/停止录屏:": "Schermopname starten/stoppen:",
+  "自定义前缀:": "Aangepast voorvoegsel:",
+  "命名模板:": "Naamgevingssjabloon:",
+  "\n可用变量:\n   - 年份 (2024)\n   - 月份 (01-12)\n   - 日期 (01-31)\n   - 小时 (00-23)\n   - 日期 (20241201)\n   - 时间 (143052)\n   - 截图模式\n   - 自定义前缀\n   - 序号 (001, 002...)\n        ": "\nBeschikbare variabelen:\n   - Jaar (2024)\n   - Maand (01-12)\n   - Dag (01-31)\n   - Uur (00-23)\n   - Datum (20241201)\n   - Tijd (143052)\n   - Opnamemodus\n   - Aangepast voorvoegsel\n   - Volgnummer (001, 002...)\n        ",
+  "默认保存路径:": "Standaard opslagpad:",
+  "默认格式:": "Standaardindeling:",
+  "界面语言:": "Interfacetaal:",
+  "当前版本: {current_version}": "Huidige versie: {current_version}",
+  "按 F8 可重复上次截图操作": "Druk op F8 om de vorige schermafbeelding te herhalen",
+  "💡 快捷键修改后保存即可生效，无需重启程序": "💡 Sneltoetswijzigingen worden na het opslaan direct van kracht; opnieuw opstarten is niet nodig",
+  "HyperSnap风格": "HyperSnap-stijl",
+  "Snagit风格": "Snagit-stijl"
+}

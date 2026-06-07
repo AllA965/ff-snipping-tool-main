@@ -1,0 +1,5586 @@
+{
+  "core_cloud_storage": {
+    "l0174": {
+      "02": {
+        "授权成功": "Autorização bem-sucedida"
+      }
+    },
+    "l0179": {
+      "04": {
+        "授权失败_str_e": "Falha na autorização: {str(e)}"
+      }
+    },
+    "l0215": {
+      "05": {
+        "未授权": "Não autorizado"
+      }
+    },
+    "l0244": {
+      "07": {
+        "上传失败_str_e": "Falha no upload: {str(e)}"
+      }
+    },
+    "l0262": {
+      "08": {
+        "创建上传会话失败": "Falha ao criar sessão de upload"
+      }
+    },
+    "l0290": {
+      "10": {
+        "上传成功": "Upload bem-sucedido"
+      }
+    },
+    "l0383": {
+      "11": {
+        "授权成功": "Autorização bem-sucedida"
+      }
+    },
+    "l0385": {
+      "12": {
+        "授权失败": "Falha na autorização"
+      }
+    },
+    "l0390": {
+      "14": {
+        "授权失败_str_e": "Falha na autorização: {str(e)}"
+      }
+    },
+    "l0400": {
+      "15": {
+        "未授权": "Não autorizado"
+      }
+    },
+    "l0428": {
+      "16": {
+        "预上传失败_result": "Falha no pré-upload: {result}"
+      }
+    },
+    "l0466": {
+      "17": {
+        "上传成功_remote_path_fil": "Upload bem-sucedido: {remote_path}/{filename}"
+      }
+    },
+    "l0468": {
+      "18": {
+        "创建文件失败_result": "Falha ao criar ficheiro: {result}"
+      }
+    },
+    "l0471": {
+      "19": {
+        "上传失败_str_e": "Falha no upload: {str(e)}"
+      }
+    }
+  },
+  "core_ftp_manager": {
+    "l0067": {
+      "01": {
+        "正在连接服务器": "A ligar ao servidor..."
+      }
+    },
+    "l0071": {
+      "02": {
+        "上传已取消": "Upload cancelado"
+      }
+    },
+    "l0074": {
+      "03": {
+        "正在上传文件": "A enviar ficheiro..."
+      }
+    },
+    "l0078": {
+      "04": {
+        "上传成功": "Upload bem-sucedido"
+      }
+    },
+    "l0081": {
+      "05": {
+        "权限错误_e": "Erro de permissão: {e}"
+      }
+    },
+    "l0083": {
+      "06": {
+        "临时错误_e": "Erro temporário: {e}"
+      }
+    },
+    "l0085": {
+      "07": {
+        "连接被拒绝_请检查服务器地址和端口": "Ligação recusada, verifique o endereço e a porta do servidor"
+      }
+    },
+    "l0087": {
+      "08": {
+        "连接超时": "Tempo limite de ligação esgotado"
+      }
+    },
+    "l0089": {
+      "09": {
+        "上传失败_str_e": "Falha no upload: {str(e)}"
+      }
+    },
+    "l0154": {
+      "10": {
+        "断点续传_从_rest_position_字": "A retomar o upload, a partir de {rest_position} bytes..."
+      }
+    },
+    "l0160": {
+      "11": {
+        "上传已取消": "Upload cancelado"
+      }
+    },
+    "l0214": {
+      "12": {
+        "连接成功": "Ligado com sucesso"
+      }
+    },
+    "l0216": {
+      "13": {
+        "认证失败_e": "Falha na autenticação: {e}"
+      }
+    },
+    "l0218": {
+      "14": {
+        "连接被拒绝": "Ligação recusada"
+      }
+    },
+    "l0220": {
+      "15": {
+        "连接超时": "Tempo limite de ligação esgotado"
+      }
+    },
+    "l0222": {
+      "16": {
+        "连接失败_str_e": "Falha na ligação: {str(e)}"
+      }
+    }
+  },
+  "core_hotkey_manager": {
+    "l0111": {
+      "03": {
+        "无效的快捷键": "Tecla de atalho inválida"
+      }
+    },
+    "l0123": {
+      "05": {
+        "注册成功": "Registado com sucesso"
+      }
+    },
+    "l0126": {
+      "06": {
+        "快捷键可能被其他程序占用": "A tecla de atalho pode estar a ser utilizada por outro programa"
+      },
+      "07": {
+        "错误代码_error_code": "Código de erro: {error_code}"
+      }
+    },
+    "l0176": {
+      "11": {
+        "全屏截图": "Captura de ecrã em ecrã inteiro"
+      }
+    },
+    "l0177": {
+      "12": {
+        "矩形截图": "Captura de ecrã retangular"
+      }
+    },
+    "l0178": {
+      "13": {
+        "窗口控件截图": "Captura de ecrã de janela/controlo"
+      }
+    },
+    "l0179": {
+      "14": {
+        "取色器": "Seletor de cores"
+      }
+    },
+    "l0180": {
+      "15": {
+        "重复截取": "Repetir captura"
+      }
+    },
+    "l0181": {
+      "16": {
+        "白板": "Quadro branco"
+      }
+    },
+    "l0182": {
+      "17": {
+        "智能粘贴": "Colagem inteligente"
+      }
+    },
+    "l0183": {
+      "18": {
+        "屏幕录制": "Gravação de ecrã"
+      }
+    },
+    "l0288": {
+      "19": {
+        "准备注册快捷键_name_hotke": "A preparar para registar tecla de atalho: {name} = {hotkeys_config[name]}"
+      }
+    },
+    "l0300": {
+      "20": {
+        "快捷键监听线程已启动": "Thread de escuta de teclas de atalho iniciada"
+      }
+    },
+    "l0308": {
+      "21": {
+        "快捷键_display_name_注册成": "Tecla de atalho [{display_name}] registada com sucesso"
+      }
+    },
+    "l0310": {
+      "22": {
+        "快捷键_display_name_注册失": "Falha ao registar tecla de atalho [{display_name}]: {message}"
+      }
+    },
+    "l0322": {
+      "23": {
+        "快捷键与_conflict_冲突": "A tecla de atalho entra em conflito com [{conflict}]"
+      }
+    },
+    "l0332": {
+      "24": {
+        "已禁用": "Desativado"
+      }
+    },
+    "l0335": {
+      "25": {
+        "无效的快捷键格式": "Formato de tecla de atalho inválido"
+      }
+    },
+    "l0345": {
+      "26": {
+        "未知的快捷键名称": "Nome de tecla de atalho desconhecido"
+      }
+    },
+    "l0354": {
+      "27": {
+        "快捷键_name_已更新为_hotke": "A tecla de atalho [{name}] foi atualizada para {hotkey_str}"
+      }
+    },
+    "l0355": {
+      "28": {
+        "更新成功": "Atualizado com sucesso"
+      }
+    },
+    "l0357": {
+      "29": {
+        "快捷键服务未运行": "O serviço de teclas de atalho não está em execução"
+      }
+    },
+    "l0370": {
+      "30": {
+        "快捷键_name_已移除": "Tecla de atalho [{name}] removida"
+      }
+    },
+    "l0375": {
+      "31": {
+        "快捷键触发_name": "Tecla de atalho acionada: {name}"
+      }
+    },
+    "l0397": {
+      "32": {
+        "正在注销所有快捷键": "A anular registo de todas as teclas de atalho..."
+      }
+    },
+    "l0401": {
+      "33": {
+        "所有快捷键已注销": "Todas as teclas de atalho foram anuladas"
+      }
+    },
+    "l0405": {
+      "34": {
+        "重新加载快捷键配置": "A recarregar configuração de teclas de atalho..."
+      }
+    }
+  },
+  "core_kunqiong_login": {
+    "l0177": {
+      "04": {
+        "无法连接到登录服务器": "Não foi possível ligar ao servidor de login"
+      }
+    },
+    "l0189": {
+      "05": {
+        "无法打开系统浏览器": "Não foi possível abrir o navegador do sistema"
+      }
+    },
+    "l0192": {
+      "06": {
+        "启动浏览器失败_e": "Falha ao iniciar o navegador: {e}"
+      }
+    },
+    "l0199": {
+      "07": {
+        "登录超时": "Tempo limite de login esgotado"
+      }
+    },
+    "l0224": {
+      "08": {
+        "获取用户信息失败": "Falha ao obter informações do utilizador"
+      }
+    }
+  },
+  "core_ocr_engine": {
+    "l0035": {
+      "01": {
+        "rapidocr_onnxruntime_未安装": "rapidocr_onnxruntime não está instalado; as funcionalidades de OCR local não estão disponíveis"
+      }
+    }
+  },
+  "core_office_export": {
+    "l0106": {
+      "01": {
+        "截图内容": "Conteúdo da captura de ecrã"
+      }
+    },
+    "l0134": {
+      "02": {
+        "需要安装_python_docx_库_pip": "A biblioteca python-docx é necessária: pip install python-docx"
+      }
+    },
+    "l0136": {
+      "03": {
+        "导出失败_str_e": "Falha na exportação: {str(e)}"
+      }
+    },
+    "l0149": {
+      "04": {
+        "截图": "Captura de ecrã"
+      }
+    },
+    "l0179": {
+      "05": {
+        "需要安装_openpyxl_库_pip_ins": "A biblioteca openpyxl é necessária: pip install openpyxl"
+      }
+    },
+    "l0181": {
+      "06": {
+        "导出失败_str_e": "Falha na exportação: {str(e)}"
+      }
+    },
+    "l0238": {
+      "07": {
+        "需要安装_python_pptx_库_pip": "A biblioteca python-pptx é necessária: pip install python-pptx"
+      }
+    },
+    "l0240": {
+      "08": {
+        "导出失败_str_e": "Falha na exportação: {str(e)}"
+      }
+    },
+    "l0256": {
+      "09": {
+        "发送失败_str_e": "Falha no envio: {str(e)}"
+      }
+    },
+    "l0298": {
+      "10": {
+        "发送失败_str_e": "Falha no envio: {str(e)}"
+      }
+    },
+    "l0327": {
+      "11": {
+        "未找到GIMP程序": "Aplicação GIMP não encontrada"
+      }
+    },
+    "l0330": {
+      "12": {
+        "发送失败_str_e": "Falha no envio: {str(e)}"
+      }
+    }
+  },
+  "core_share_manager": {
+    "l0147": {
+      "01": {
+        "准备中": "A preparar..."
+      }
+    },
+    "l0180": {
+      "02": {
+        "分享任务_task_share_type_va": "Tarefa de partilha {task.share_type.value}"
+      }
+    },
+    "l0192": {
+      "03": {
+        "正在导出到Word": "A exportar para Word..."
+      }
+    },
+    "l0198": {
+      "04": {
+        "已导出到Word": "Exportado para Word"
+      }
+    },
+    "l0209": {
+      "05": {
+        "正在导出到Excel": "A exportar para Excel..."
+      }
+    },
+    "l0215": {
+      "06": {
+        "已导出到Excel": "Exportado para Excel"
+      }
+    },
+    "l0226": {
+      "07": {
+        "正在导出到PowerPoint": "A exportar para PowerPoint..."
+      }
+    },
+    "l0232": {
+      "08": {
+        "已导出到PowerPoint": "Exportado para PowerPoint"
+      }
+    },
+    "l0247": {
+      "09": {
+        "已发送到画图": "Enviado para o Paint"
+      }
+    },
+    "l0262": {
+      "10": {
+        "已发送到Photoshop": "Enviado para o Photoshop"
+      }
+    },
+    "l0277": {
+      "11": {
+        "已发送到GIMP": "Enviado para o GIMP"
+      }
+    },
+    "l0295": {
+      "12": {
+        "未找到服务器配置_server_name": "Configuração do servidor não encontrada: {server_name}"
+      }
+    },
+    "l0321": {
+      "13": {
+        "正在上传": "A enviar..."
+      }
+    },
+    "l0331": {
+      "14": {
+        "上传中_uploaded_total": "A enviar... {uploaded}/{total} bytes"
+      }
+    },
+    "l0339": {
+      "15": {
+        "上传成功": "Upload bem-sucedido"
+      }
+    },
+    "l0434": {
+      "16": {
+        "请先授权OneDrive账号": "Autorize primeiro a sua conta do OneDrive"
+      }
+    },
+    "l0454": {
+      "17": {
+        "正在上传": "A enviar..."
+      }
+    },
+    "l0469": {
+      "18": {
+        "请先授权百度网盘账号": "Autorize primeiro a sua conta do Baidu Netdisk"
+      }
+    },
+    "l0484": {
+      "19": {
+        "正在上传": "A enviar..."
+      }
+    }
+  },
+  "core_social_share": {
+    "l0099": {
+      "01": {
+        "Applications_企业微信_app": "/Applications/WeCom.app"
+      }
+    },
+    "l0116": {
+      "02": {
+        "分享内容_date_str": "Conteúdo partilhado-{date_str}"
+      }
+    },
+    "l0125": {
+      "03": {
+        "请查看附件中的截图内容": "Verifique o conteúdo da captura de ecrã no anexo."
+      }
+    },
+    "l0128": {
+      "04": {
+        "已打开邮件客户端": "Cliente de e-mail aberto"
+      }
+    },
+    "l0134": {
+      "05": {
+        "已打开邮件客户端_请手动添加附件_temp": "Cliente de e-mail aberto, adicione manualmente o anexo: {temp_file}"
+      }
+    },
+    "l0138": {
+      "06": {
+        "tell_application_Mail": "tell application \"Mail\"\n                    set newMessage to make new outgoing message with properties {subject:\"{subject}\", content:\"Verifique o conteúdo da captura de ecrã no anexo.\"}\n                    tell newMessage\n                        make new attachment with properties {file name:POSIX file \"{temp_file}\"}\n                    end tell\n                    activate\n                end tell"
+      }
+    },
+    "l0148": {
+      "07": {
+        "已打开邮件客户端": "Cliente de e-mail aberto"
+      }
+    },
+    "l0153": {
+      "08": {
+        "已打开邮件客户端": "Cliente de e-mail aberto"
+      }
+    },
+    "l0156": {
+      "09": {
+        "打开邮件客户端失败_str_e": "Falha ao abrir o cliente de e-mail: {str(e)}"
+      }
+    },
+    "l0177": {
+      "10": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Copiado para a área de transferência e aberto o WeChat, cole na janela de chat (Ctrl+V)"
+      }
+    },
+    "l0181": {
+      "11": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Copiado para a área de transferência e aberto o WeChat, cole na janela de chat (Cmd+V)"
+      }
+    },
+    "l0183": {
+      "12": {
+        "已复制到剪贴板_请手动打开微信并粘贴": "Copiado para a área de transferência; abra o WeChat manualmente e cole"
+      }
+    },
+    "l0186": {
+      "13": {
+        "分享失败_str_e": "Falha ao partilhar: {str(e)}"
+      }
+    },
+    "l0206": {
+      "14": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Copiado para a área de transferência e aberto o QQ, cole na janela de chat (Ctrl+V)"
+      }
+    },
+    "l0210": {
+      "15": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Copiado para a área de transferência e aberto o QQ, cole na janela de chat (Cmd+V)"
+      }
+    },
+    "l0212": {
+      "16": {
+        "已复制到剪贴板_请手动打开QQ并粘贴": "Copiado para a área de transferência; abra o QQ manualmente e cole"
+      }
+    },
+    "l0215": {
+      "17": {
+        "分享失败_str_e": "Falha ao partilhar: {str(e)}"
+      }
+    },
+    "l0233": {
+      "18": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Copiado para a área de transferência e aberto o DingTalk, cole na janela de chat"
+      }
+    },
+    "l0237": {
+      "19": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Copiado para a área de transferência e aberto o DingTalk, cole na janela de chat"
+      }
+    },
+    "l0239": {
+      "20": {
+        "已复制到剪贴板_请手动打开钉钉并粘贴": "Copiado para a área de transferência; abra o DingTalk manualmente e cole"
+      }
+    },
+    "l0242": {
+      "21": {
+        "分享失败_str_e": "Falha ao partilhar: {str(e)}"
+      }
+    },
+    "l0260": {
+      "22": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Copiado para a área de transferência e aberto o WeCom, cole na janela de chat"
+      }
+    },
+    "l0263": {
+      "23": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0264": {
+      "24": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Copiado para a área de transferência e aberto o WeCom, cole na janela de chat"
+      }
+    },
+    "l0266": {
+      "25": {
+        "已复制到剪贴板_请手动打开企业微信并粘贴": "Copiado para a área de transferência; abra o WeCom manualmente e cole"
+      }
+    },
+    "l0269": {
+      "26": {
+        "分享失败_str_e": "Falha ao partilhar: {str(e)}"
+      }
+    },
+    "l0282": {
+      "27": {
+        "已复制到剪贴板": "Copiado para a área de transferência"
+      }
+    },
+    "l0284": {
+      "28": {
+        "复制失败_str_e": "Falha ao copiar: {str(e)}"
+      }
+    },
+    "l0340": {
+      "29": {
+        "上传失败_response_status_c": "Falha no upload: {response.status_code}"
+      }
+    },
+    "l0343": {
+      "30": {
+        "上传失败_str_e": "Falha no upload: {str(e)}"
+      }
+    }
+  },
+  "core_tray_manager": {
+    "l0019": {
+      "01": {
+        "截图贴图工具": "Ferramenta de Fixação de Capturas"
+      }
+    },
+    "l0069": {
+      "05": {
+        "全屏截图": "Captura de ecrã em ecrã inteiro"
+      }
+    },
+    "l0070": {
+      "06": {
+        "区域截图": "Captura de região"
+      }
+    },
+    "l0071": {
+      "07": {
+        "窗口截图": "Captura de janela"
+      }
+    },
+    "l0075": {
+      "08": {
+        "取色器": "Seletor de cores"
+      }
+    },
+    "l0076": {
+      "09": {
+        "屏幕录制": "Gravação de ecrã"
+      }
+    },
+    "l0080": {
+      "10": {
+        "显示主窗口": "Mostrar janela principal"
+      }
+    },
+    "l0081": {
+      "11": {
+        "设置": "Definições"
+      }
+    },
+    "l0083": {
+      "12": {
+        "退出": "Sair"
+      }
+    }
+  },
+  "core_update_manager": {
+    "l0040": {
+      "01": {
+        "服务器返回数据格式错误": "Formato de dados inválido devolvido pelo servidor"
+      }
+    },
+    "l0042": {
+      "02": {
+        "服务器响应错误_response_statu": "Erro na resposta do servidor: {response.status_code}"
+      }
+    },
+    "l0044": {
+      "03": {
+        "网络连接失败_str_e": "Falha na ligação de rede: {str(e)}"
+      }
+    },
+    "l0068": {
+      "04": {
+        "检查更新": "Procurar atualizações"
+      },
+      "05": {
+        "当前已是最新版本": "Já está a usar a versão mais recente"
+      }
+    },
+    "l0074": {
+      "06": {
+        "检查失败": "Falha na verificação"
+      },
+      "07": {
+        "获取版本信息失败": "Falha ao obter informações da versão"
+      }
+    },
+    "l0083": {
+      "08": {
+        "发现新版本_remote_version": "New version found: {remote_version}\n\n{data.get('update_log', 'No update log')}"
+      },
+      "09": {
+        "无更新日志": "Sem registo de atualizações"
+      }
+    },
+    "l0086": {
+      "10": {
+        "强制更新_msg": "[Atualização obrigatória]\n{msg}"
+      }
+    },
+    "l0087": {
+      "11": {
+        "必须更新": "Atualização necessária"
+      },
+      "12": {
+        "立即更新": "Atualizar agora"
+      }
+    },
+    "l0092": {
+      "13": {
+        "发现新版本": "Nova versão encontrada"
+      }
+    },
+    "l0094": {
+      "14": {
+        "立即更新": "Atualizar agora"
+      }
+    },
+    "l0095": {
+      "15": {
+        "稍后": "Mais tarde"
+      }
+    },
+    "l0104": {
+      "16": {
+        "检查失败": "Falha na verificação"
+      },
+      "17": {
+        "检查更新出错_error_msg": "Erro ao verificar atualizações:\n{error_msg}"
+      }
+    },
+    "l0125": {
+      "18": {
+        "未找到更新程序_updater_exe": "Atualizador não encontrado: {updater_exe}"
+      }
+    },
+    "l0152": {
+      "19": {
+        "更新失败": "Falha na atualização"
+      },
+      "20": {
+        "无法启动更新程序_str_e": "Não foi possível iniciar o atualizador:\n{str(e)}"
+      }
+    }
+  },
+  "main": {
+    "l0057": {
+      "01": {
+        "错误": "Erro"
+      },
+      "02": {
+        "程序发生错误_str_value": "Ocorreu um erro no programa:\n{str(value)}"
+      }
+    },
+    "l0069": {
+      "03": {
+        "提示": "Aviso"
+      },
+      "04": {
+        "程序已在运行中_请勿重复启动": "O programa já está em execução. Não o inicie novamente."
+      }
+    },
+    "l0084": {
+      "05": {
+        "截图贴图工具": "Ferramenta de Fixação de Capturas"
+      }
+    },
+    "l0086": {
+      "06": {
+        "鲲穹AI": "Kunqiong AI"
+      }
+    },
+    "l0138": {
+      "07": {
+        "启动错误": "Erro de arranque"
+      },
+      "08": {
+        "程序启动失败_str_e": "Falha ao iniciar o programa:\n{str(e)}"
+      }
+    }
+  },
+  "tools_crosshair": {
+    "l0081": {
+      "01": {
+        "当前_X_self_cursor_pos_x": "Atual: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0084": {
+      "02": {
+        "锁定_X_self_cursor_pos": "🔒 Bloqueado: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0092": {
+      "03": {
+        "点_i_1_ΔX_sign_x_dx": "Ponto{i + 1}: ΔX={sign_x}{dx}  ΔY={sign_y}{dy}"
+      }
+    },
+    "l0095": {
+      "04": {
+        "Space_锁定_L_添加对比点_C_清": "Espaço=Bloquear | L=Adicionar ponto de comparação | C=Limpar | ESC=Sair"
+      }
+    },
+    "l0266": {
+      "05": {
+        "解除锁定": "Desbloquear"
+      },
+      "06": {
+        "锁定当前坐标": "Bloquear coordenadas atuais"
+      }
+    },
+    "l0270": {
+      "07": {
+        "添加对比点": "Adicionar ponto de comparação"
+      }
+    },
+    "l0274": {
+      "08": {
+        "清除所有对比点": "Limpar todos os pontos de comparação"
+      }
+    },
+    "l0280": {
+      "09": {
+        "关闭": "Fechar"
+      }
+    }
+  },
+  "tools_magnifier": {
+    "l0024": {
+      "01": {
+        "放大镜": "Lupa"
+      }
+    },
+    "l0085": {
+      "02": {
+        "放大镜": "Lupa"
+      }
+    },
+    "l0158": {
+      "03": {
+        "按下_Esc_键退出": "Prima Esc para sair"
+      }
+    }
+  },
+  "tools_palette": {
+    "l0167": {
+      "01": {
+        "调色板": "Paleta"
+      }
+    },
+    "l0261": {
+      "02": {
+        "主题颜色": "Cores do tema"
+      }
+    },
+    "l0273": {
+      "03": {
+        "标准颜色": "Cores padrão"
+      }
+    },
+    "l0286": {
+      "04": {
+        "自定义颜色": "Cores personalizadas"
+      }
+    },
+    "l0316": {
+      "05": {
+        "取色器_P": "🔍 Seletor de cores (P)"
+      }
+    },
+    "l0416": {
+      "06": {
+        "添加到自定义颜色": "✨ Adicionar às cores personalizadas"
+      }
+    },
+    "l0442": {
+      "07": {
+        "复制": "📋 Copiar"
+      }
+    },
+    "l0457": {
+      "08": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0463": {
+      "09": {
+        "确定": "OK"
+      }
+    },
+    "l0611": {
+      "10": {
+        "已复制_text": "Copiado: {text}"
+      }
+    },
+    "l0681": {
+      "11": {
+        "选择颜色": "Selecionar cor"
+      }
+    },
+    "l0716": {
+      "12": {
+        "已复制_color_name_upper": "Copiado: {color.name().upper()}"
+      }
+    }
+  },
+  "tools_protractor": {
+    "l0048": {
+      "01": {
+        "量角器": "Transferidor"
+      }
+    },
+    "l0216": {
+      "02": {
+        "锁定_self_angle_lock": "Bloqueado: {self.angle_lock}°"
+      }
+    },
+    "l0240": {
+      "03": {
+        "拖动绿点移动中心": "Arraste o ponto verde para mover o centro"
+      }
+    },
+    "l0241": {
+      "04": {
+        "拖动红_蓝点调整角度": "Arraste os pontos vermelhos/azuis para ajustar o ângulo"
+      }
+    },
+    "l0242": {
+      "05": {
+        "L键切换角度锁定": "Prima L para alternar o bloqueio do ângulo"
+      }
+    },
+    "l0243": {
+      "06": {
+        "S键保存测量": "Prima S para guardar a medição"
+      }
+    },
+    "l0244": {
+      "07": {
+        "E键导出CSV": "Prima E para exportar CSV"
+      }
+    },
+    "l0245": {
+      "08": {
+        "右键菜单_ESC退出": "Menu de clique direito | ESC para sair"
+      }
+    },
+    "l0335": {
+      "09": {
+        "保存当前测量": "Guardar a medição atual"
+      }
+    },
+    "l0339": {
+      "10": {
+        "导出测量记录_CSV": "Exportar registos de medição (CSV)"
+      }
+    },
+    "l0345": {
+      "11": {
+        "禁用_if_self_lock_enabl": "{'Disable' if self.lock_enabled else 'Enable'} angle lock ({self.angle_lock}°)"
+      },
+      "12": {
+        "禁用": "Desativar"
+      },
+      "13": {
+        "启用": "Ativar"
+      }
+    },
+    "l0351": {
+      "14": {
+        "关闭": "Fechar"
+      }
+    },
+    "l0383": {
+      "15": {
+        "导出测量记录": "Exportar registos de medição"
+      }
+    },
+    "l0385": {
+      "16": {
+        "CSV文件_csv": "Ficheiros CSV (*.csv)"
+      }
+    },
+    "l0391": {
+      "17": {
+        "时间": "Hora"
+      },
+      "18": {
+        "测量角度": "Ângulo medido"
+      },
+      "19": {
+        "起始角度": "Ângulo inicial"
+      },
+      "20": {
+        "终止角度": "Ângulo final"
+      },
+      "21": {
+        "中心点X": "X do centro"
+      },
+      "22": {
+        "中心点Y": "Y do centro"
+      }
+    }
+  },
+  "tools_ruler": {
+    "l0019": {
+      "01": {
+        "默认_黄色": "Padrão (Amarelo)"
+      }
+    },
+    "l0026": {
+      "02": {
+        "蓝色": "Azul"
+      }
+    },
+    "l0033": {
+      "03": {
+        "白色": "Branco"
+      }
+    },
+    "l0040": {
+      "04": {
+        "黑色": "Preto"
+      }
+    },
+    "l0065": {
+      "05": {
+        "像素_px": "Pixéis (px)"
+      }
+    },
+    "l0066": {
+      "06": {
+        "英寸_in": "Polegadas (in)"
+      }
+    },
+    "l0067": {
+      "07": {
+        "厘米_cm": "Centímetros (cm)"
+      }
+    },
+    "l0280": {
+      "08": {
+        "像素尺": "Régua de Pixéis"
+      }
+    },
+    "l0352": {
+      "09": {
+        "DPI_self_dpi_单位_R": "DPI: {self.dpi} | Unidade: {RulerUnit.UNITS[self.unit]['name']} | Opacidade: {int(self.opacity * 100)}%"
+      }
+    },
+    "l0359": {
+      "10": {
+        "右键菜单_滚轮调透明度_双击关闭": "Menu de clique direito | Roda do rato para ajustar a opacidade | Duplo clique para fechar"
+      }
+    },
+    "l0585": {
+      "11": {
+        "单位": "📏 Unidades"
+      }
+    },
+    "l0605": {
+      "12": {
+        "配色": "🎨 Esquema de cores"
+      }
+    },
+    "l0621": {
+      "13": {
+        "透明度": "Opacidade:"
+      }
+    },
+    "l0641": {
+      "14": {
+        "重置大小": "↺ Redefinir tamanho"
+      }
+    },
+    "l0646": {
+      "15": {
+        "关闭": "✕ Fechar"
+      }
+    }
+  },
+  "tools_screen_recorder": {
+    "l0142": {
+      "01": {
+        "屏幕录制器": "Gravador de Tela"
+      }
+    },
+    "l0196": {
+      "02": {
+        "屏幕录制": "Gravação de Tela"
+      }
+    },
+    "l0223": {
+      "03": {
+        "已录制时间": "Tempo Gravado"
+      }
+    },
+    "l0253": {
+      "04": {
+        "开始录制": "Iniciar gravação"
+      }
+    },
+    "l0260": {
+      "05": {
+        "暂停": "Pausar"
+      }
+    },
+    "l0278": {
+      "06": {
+        "更改路径": "Alterar caminho"
+      }
+    },
+    "l0336": {
+      "07": {
+        "停止录制": "⏹ Parar gravação"
+      }
+    },
+    "l0356": {
+      "08": {
+        "开始录制": "⏺ Iniciar gravação"
+      }
+    },
+    "l0361": {
+      "09": {
+        "暂停": "⏸ Pausar"
+      }
+    },
+    "l0370": {
+      "10": {
+        "继续": "▶ Retomar"
+      }
+    },
+    "l0376": {
+      "11": {
+        "暂停": "⏸ Pausar"
+      }
+    },
+    "l0407": {
+      "12": {
+        "选择保存目录": "Selecionar diretório de salvamento"
+      }
+    }
+  },
+  "tools_whiteboard": {
+    "l0841": {
+      "01": {
+        "白板": "Quadro branco"
+      }
+    },
+    "l0935": {
+      "02": {
+        "画笔": "Pincel"
+      }
+    },
+    "l0936": {
+      "03": {
+        "荧光笔": "Marca-texto"
+      }
+    },
+    "l0937": {
+      "04": {
+        "直线": "Linha"
+      }
+    },
+    "l0938": {
+      "05": {
+        "矩形": "Retângulo"
+      }
+    },
+    "l0939": {
+      "06": {
+        "填充矩形": "Retângulo preenchido"
+      }
+    },
+    "l0940": {
+      "07": {
+        "椭圆": "Elipse"
+      }
+    },
+    "l0941": {
+      "08": {
+        "箭头": "Seta"
+      }
+    },
+    "l0942": {
+      "09": {
+        "文字": "Texto"
+      }
+    },
+    "l0957": {
+      "10": {
+        "橡皮擦": "Borracha"
+      }
+    },
+    "l1001": {
+      "11": {
+        "更多颜色": "Mais cores..."
+      }
+    },
+    "l1040": {
+      "12": {
+        "透明": "Transparente"
+      }
+    },
+    "l1041": {
+      "13": {
+        "白色": "Branco"
+      }
+    },
+    "l1042": {
+      "14": {
+        "黑色": "Preto"
+      }
+    },
+    "l1047": {
+      "15": {
+        "tooltip_背景": "{tooltip}Fundo"
+      }
+    },
+    "l1061": {
+      "16": {
+        "撤销": "Desfazer"
+      }
+    },
+    "l1067": {
+      "17": {
+        "清空": "Limpar"
+      }
+    },
+    "l1080": {
+      "18": {
+        "缩小工具栏": "Recolher barra de ferramentas"
+      }
+    },
+    "l1086": {
+      "19": {
+        "保存": "Salvar"
+      }
+    },
+    "l1102": {
+      "20": {
+        "退出": "Sair"
+      }
+    },
+    "l1145": {
+      "21": {
+        "对象擦除": "Apagar objeto"
+      }
+    },
+    "l1151": {
+      "22": {
+        "局部擦除": "Apagar parcialmente"
+      }
+    },
+    "l1163": {
+      "23": {
+        "大小": "Tamanho:"
+      }
+    },
+    "l1214": {
+      "24": {
+        "调色板": "Paleta"
+      }
+    },
+    "l1228": {
+      "25": {
+        "缩小工具栏": "Recolher barra de ferramentas"
+      }
+    },
+    "l1243": {
+      "26": {
+        "展开白板": "Expandir quadro branco"
+      }
+    },
+    "l1250": {
+      "27": {
+        "保存白板": "Salvar quadro branco"
+      }
+    },
+    "l1252": {
+      "28": {
+        "PNG图像_png_PDF文件": "Imagem PNG (*.png);;Arquivo PDF (*.pdf)"
+      }
+    },
+    "l1259": {
+      "29": {
+        "已保存_os_path_basename_f": "Salvo: {os.path.basename(file_path)}"
+      }
+    },
+    "l1272": {
+      "30": {
+        "保存失败": "Falha ao salvar"
+      },
+      "31": {
+        "无法保存PDF_str_e": "Não foi possível salvar o PDF: {str(e)}"
+      }
+    }
+  },
+  "ui_ad_widget": {
+    "l0080": {
+      "02": {
+        "点击查看详情": "Clique para ver detalhes"
+      }
+    }
+  },
+  "ui_clipboard_history": {
+    "l0081": {
+      "01": {
+        "剪贴板历史": "Histórico da área de transferência"
+      }
+    },
+    "l0087": {
+      "02": {
+        "清空": "Limpar"
+      }
+    },
+    "l0118": {
+      "03": {
+        "暂无历史记录_复制图像后会自动记录": "Ainda não há histórico\nAs imagens copiadas serão registradas automaticamente"
+      }
+    },
+    "l0161": {
+      "04": {
+        "确认清空": "Confirmar limpeza"
+      }
+    },
+    "l0162": {
+      "05": {
+        "确定要清空所有剪贴板历史记录吗": "Tem certeza de que deseja limpar todo o histórico da área de transferência?"
+      }
+    },
+    "l0163": {
+      "06": {
+        "确定": "Confirmar"
+      },
+      "07": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0178": {
+      "08": {
+        "剪贴板历史": "Histórico da área de transferência"
+      }
+    }
+  },
+  "ui_control_capture": {
+    "l0148": {
+      "01": {
+        "按钮": "Botão"
+      },
+      "02": {
+        "复选框": "Caixa de seleção"
+      },
+      "03": {
+        "下拉框": "Lista suspensa"
+      }
+    },
+    "l0149": {
+      "04": {
+        "编辑框": "Caixa de edição"
+      },
+      "05": {
+        "列表": "Lista"
+      },
+      "06": {
+        "文本": "Texto"
+      }
+    },
+    "l0150": {
+      "07": {
+        "窗口": "Janela"
+      },
+      "08": {
+        "窗格": "Painel"
+      }
+    },
+    "l0152": {
+      "09": {
+        "控件": "Controle"
+      }
+    },
+    "l0224": {
+      "10": {
+        "按钮": "Botão"
+      }
+    },
+    "l0225": {
+      "11": {
+        "日历": "Calendário"
+      }
+    },
+    "l0226": {
+      "12": {
+        "复选框": "Caixa de seleção"
+      }
+    },
+    "l0227": {
+      "13": {
+        "下拉框": "Lista suspensa"
+      }
+    },
+    "l0228": {
+      "14": {
+        "编辑框": "Caixa de edição"
+      }
+    },
+    "l0229": {
+      "15": {
+        "超链接": "Hiperlink"
+      }
+    },
+    "l0230": {
+      "16": {
+        "图像": "Imagem"
+      }
+    },
+    "l0231": {
+      "17": {
+        "列表项": "Item da lista"
+      }
+    },
+    "l0232": {
+      "18": {
+        "列表": "Lista"
+      }
+    },
+    "l0233": {
+      "19": {
+        "菜单": "Menu"
+      }
+    },
+    "l0234": {
+      "20": {
+        "菜单栏": "Barra de menu"
+      }
+    },
+    "l0235": {
+      "21": {
+        "菜单项": "Item de menu"
+      }
+    },
+    "l0236": {
+      "22": {
+        "进度条": "Barra de progresso"
+      }
+    },
+    "l0237": {
+      "23": {
+        "单选按钮": "Botão de opção"
+      }
+    },
+    "l0238": {
+      "24": {
+        "滚动条": "Barra de rolagem"
+      }
+    },
+    "l0239": {
+      "25": {
+        "滑块": "Controle deslizante"
+      }
+    },
+    "l0240": {
+      "26": {
+        "微调框": "Caixa de rotação"
+      }
+    },
+    "l0241": {
+      "27": {
+        "状态栏": "Barra de status"
+      }
+    },
+    "l0242": {
+      "28": {
+        "标签页": "Aba"
+      }
+    },
+    "l0243": {
+      "29": {
+        "标签项": "Item de aba"
+      }
+    },
+    "l0244": {
+      "30": {
+        "文本": "Texto"
+      }
+    },
+    "l0245": {
+      "31": {
+        "工具栏": "Barra de ferramentas"
+      }
+    },
+    "l0246": {
+      "32": {
+        "工具提示": "Dica de ferramenta"
+      }
+    },
+    "l0247": {
+      "33": {
+        "树形视图": "Exibição em árvore"
+      }
+    },
+    "l0248": {
+      "34": {
+        "树形项": "Item da árvore"
+      }
+    },
+    "l0249": {
+      "35": {
+        "自定义": "Personalizado"
+      }
+    },
+    "l0250": {
+      "36": {
+        "组": "Grupo"
+      }
+    },
+    "l0251": {
+      "37": {
+        "缩略图": "Miniatura"
+      }
+    },
+    "l0252": {
+      "38": {
+        "数据网格": "Grade de dados"
+      }
+    },
+    "l0253": {
+      "39": {
+        "数据项": "Item de dados"
+      }
+    },
+    "l0254": {
+      "40": {
+        "文档": "Documento"
+      }
+    },
+    "l0255": {
+      "41": {
+        "分隔条": "Separador"
+      }
+    },
+    "l0256": {
+      "42": {
+        "窗口": "Janela"
+      }
+    },
+    "l0257": {
+      "43": {
+        "窗格": "Painel"
+      }
+    },
+    "l0258": {
+      "44": {
+        "表头": "Cabeçalho"
+      }
+    },
+    "l0259": {
+      "45": {
+        "表头项": "Item de cabeçalho"
+      }
+    },
+    "l0260": {
+      "46": {
+        "表格": "Tabela"
+      }
+    },
+    "l0261": {
+      "47": {
+        "标题栏": "Barra de título"
+      }
+    },
+    "l0262": {
+      "48": {
+        "语义缩放": "Zoom semântico"
+      }
+    },
+    "l0264": {
+      "49": {
+        "控件_control_type": "Controle ({control_type})"
+      }
+    },
+    "l0391": {
+      "50": {
+        "控件": "Controle"
+      }
+    },
+    "l0398": {
+      "51": {
+        "移动鼠标选择目标": "Mova o mouse para selecionar um alvo"
+      }
+    },
+    "l0399": {
+      "52": {
+        "点击截取": "Clique para capturar"
+      }
+    },
+    "l0400": {
+      "53": {
+        "Ctrl_点击滚动截取": "Ctrl+Clique para captura com rolagem"
+      }
+    },
+    "l0401": {
+      "54": {
+        "滚轮_切换层级": "Roda do mouse ↑↓ para alternar níveis"
+      }
+    },
+    "l0402": {
+      "55": {
+        "ESC取消": "ESC para cancelar"
+      }
+    },
+    "l0521": {
+      "56": {
+        "未找到窗口": "Janela não encontrada"
+      }
+    },
+    "l0841": {
+      "57": {
+        "未识别到控件": "Nenhum controle detectado"
+      }
+    },
+    "l0896": {
+      "58": {
+        "未识别": "Não reconhecido"
+      }
+    },
+    "l0908": {
+      "59": {
+        "窗口_层级_1_total": "🪟 Janela (Nível 1/{total})"
+      }
+    },
+    "l0923": {
+      "60": {
+        "type_name_层级_level": "🎯 {type_name} (Nível {level}/{total})"
+      }
+    },
+    "l0925": {
+      "61": {
+        "控件_层级_level_total": "🎯 Controle (Nível {level}/{total})"
+      }
+    },
+    "l0969": {
+      "62": {
+        "未识别到控件": "Nenhum controle detectado"
+      }
+    },
+    "l0977": {
+      "63": {
+        "窗口无效": "Janela inválida"
+      }
+    },
+    "l0985": {
+      "64": {
+        "无法获取位置": "Não foi possível obter a posição"
+      }
+    },
+    "l1000": {
+      "65": {
+        "尺寸无效": "Tamanho inválido"
+      }
+    },
+    "l1021": {
+      "66": {
+        "窗口_title_滚轮_进入子控件": "Janela: {title} | Roda do mouse↓ para entrar nos controles filhos | Clique para capturar | Ctrl+Clique para captura com rolagem"
+      }
+    },
+    "l1023": {
+      "67": {
+        "窗口_滚轮_进入子控件_点击截取_C": "Janela | Roda do mouse↓ para entrar nos controles filhos | Clique para capturar | Ctrl+Clique para captura com rolagem"
+      }
+    },
+    "l1025": {
+      "68": {
+        "控件": "Controle"
+      }
+    },
+    "l1028": {
+      "69": {
+        "type_info_滚轮_切换层级": "{type_info} | Roda do mouse↑↓ para alternar níveis | Clique para capturar | Ctrl+Clique para captura com rolagem"
+      }
+    },
+    "l1057": {
+      "70": {
+        "按钮": "Botão"
+      }
+    },
+    "l1058": {
+      "71": {
+        "输入框": "Caixa de entrada"
+      }
+    },
+    "l1059": {
+      "72": {
+        "富文本框": "Caixa de texto rico"
+      }
+    },
+    "l1060": {
+      "73": {
+        "下拉框": "Lista suspensa"
+      }
+    },
+    "l1061": {
+      "74": {
+        "列表框": "Caixa de lista"
+      }
+    },
+    "l1062": {
+      "75": {
+        "列表视图": "Exibição de lista"
+      }
+    },
+    "l1063": {
+      "76": {
+        "列表视图": "Exibição de lista"
+      }
+    },
+    "l1064": {
+      "77": {
+        "树形视图": "Exibição em árvore"
+      }
+    },
+    "l1065": {
+      "78": {
+        "树形视图": "Exibição em árvore"
+      }
+    },
+    "l1066": {
+      "79": {
+        "数据表格": "Tabela de dados"
+      }
+    },
+    "l1067": {
+      "80": {
+        "滚动条": "Barra de rolagem"
+      }
+    },
+    "l1068": {
+      "81": {
+        "静态文本": "Texto estático"
+      }
+    },
+    "l1069": {
+      "82": {
+        "标签页": "Aba"
+      }
+    },
+    "l1070": {
+      "83": {
+        "标签页": "Aba"
+      }
+    },
+    "l1071": {
+      "84": {
+        "工具栏": "Barra de ferramentas"
+      }
+    },
+    "l1072": {
+      "85": {
+        "状态栏": "Barra de status"
+      }
+    },
+    "l1073": {
+      "86": {
+        "状态栏": "Barra de status"
+      }
+    },
+    "l1074": {
+      "87": {
+        "菜单": "Menu"
+      }
+    },
+    "l1075": {
+      "88": {
+        "提示框": "Dica de ferramenta"
+      }
+    },
+    "l1076": {
+      "89": {
+        "进度条": "Barra de progresso"
+      }
+    },
+    "l1077": {
+      "90": {
+        "进度条": "Barra de progresso"
+      }
+    },
+    "l1078": {
+      "91": {
+        "滑块": "Controle deslizante"
+      }
+    },
+    "l1079": {
+      "92": {
+        "滑块": "Controle deslizante"
+      }
+    },
+    "l1080": {
+      "93": {
+        "微调按钮": "Botão de rotação"
+      }
+    },
+    "l1081": {
+      "94": {
+        "微调按钮": "Botão de rotação"
+      }
+    },
+    "l1082": {
+      "95": {
+        "表头": "Cabeçalho"
+      }
+    },
+    "l1083": {
+      "96": {
+        "表头": "Cabeçalho"
+      }
+    },
+    "l1084": {
+      "97": {
+        "工具条": "Barra de ferramentas"
+      }
+    },
+    "l1085": {
+      "98": {
+        "工具条": "Barra de ferramentas"
+      }
+    },
+    "l1086": {
+      "99": {
+        "文件视图": "Exibição de arquivos"
+      }
+    },
+    "l1088": {
+      "100": {
+        "浏览器": "Navegador"
+      }
+    },
+    "l1089": {
+      "101": {
+        "浏览器": "Navegador"
+      }
+    }
+  },
+  "ui_editor_panels": {
+    "l0060": {
+      "01": {
+        "画质特效": "🎨 Efeitos de imagem"
+      }
+    },
+    "l0071": {
+      "02": {
+        "模糊": "🌫 Desfoque"
+      }
+    },
+    "l0072": {
+      "03": {
+        "锐化": "🔍 Nitidez"
+      }
+    },
+    "l0073": {
+      "04": {
+        "像素化": "▦ Pixelização"
+      }
+    },
+    "l0074": {
+      "05": {
+        "浮雕": "🗻 Relevo"
+      }
+    },
+    "l0075": {
+      "06": {
+        "噪点": "✨ Ruído"
+      }
+    },
+    "l0086": {
+      "07": {
+        "特效强度": "Intensidade do efeito:"
+      }
+    },
+    "l0106": {
+      "08": {
+        "撤销": "↩ Desfazer"
+      }
+    },
+    "l0110": {
+      "09": {
+        "重置": "↺ Redefinir"
+      }
+    },
+    "l0184": {
+      "10": {
+        "色彩调整": "🔆 Ajuste de cor"
+      }
+    },
+    "l0196": {
+      "11": {
+        "亮度": "☀ Brilho:"
+      }
+    },
+    "l0217": {
+      "12": {
+        "对比度": "◐ Contraste:"
+      }
+    },
+    "l0238": {
+      "13": {
+        "饱和度": "🎨 Saturação:"
+      }
+    },
+    "l0260": {
+      "14": {
+        "重置": "↺ Redefinir"
+      }
+    },
+    "l0264": {
+      "15": {
+        "应用": "✓ Aplicar"
+      }
+    }
+  },
+  "ui_editor_window": {
+    "l0077": {
+      "01": {
+        "图像编辑器_PyScreenshot": "Editor de Imagem - PyScreenshot"
+      }
+    },
+    "l0098": {
+      "02": {
+        "QLabel_font_size_13px": "QLabel {\n                font-size: 13px;\n            }\n            QScrollBar:vertical {\n                background: transparent;\n                width: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:vertical {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-height: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:vertical:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar:horizontal {\n                background: transparent;\n                height: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:horizontal {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-width: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:horizontal:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar::add-line, QScrollBar::sub-line {\n                background: none;\n                border: none;\n            }\n            \n            /* Sidebar dock widget styling */\n            QDockWidget {\n                border: none;\n                background: #ffffff;\n            }\n            QDockWidget::title {\n                background: #f8f9fa;\n                padding: 10px 15px;\n                border-bottom: 1px solid #eaeaea;\n                font-weight: 600;\n                color: #333;\n            }"
+      }
+    },
+    "l0202": {
+      "03": {
+        "新建图像": "Nova imagem"
+      }
+    },
+    "l0246": {
+      "04": {
+        "尺寸_s_width_s_heigh": "Tamanho: {s.width()}×{s.height()} | {tab_data.title}"
+      }
+    },
+    "l0360": {
+      "05": {
+        "文件": "Arquivo"
+      },
+      "06": {
+        "编辑": "Editar"
+      },
+      "07": {
+        "绘图": "Desenhar"
+      },
+      "08": {
+        "特效": "Efeitos"
+      }
+    },
+    "l0361": {
+      "09": {
+        "文件": "Arquivo"
+      },
+      "10": {
+        "编辑": "Editar"
+      },
+      "11": {
+        "绘图": "Desenhar"
+      },
+      "12": {
+        "特效": "Efeitos"
+      }
+    },
+    "l0413": {
+      "13": {
+        "编辑": "Editar"
+      }
+    },
+    "l0421": {
+      "14": {
+        "文件": "Arquivo"
+      },
+      "15": {
+        "编辑": "Editar"
+      },
+      "16": {
+        "绘图": "Desenhar"
+      },
+      "17": {
+        "特效": "Efeitos"
+      }
+    },
+    "l0458": {
+      "18": {
+        "返回": "Voltar"
+      }
+    },
+    "l0461": {
+      "19": {
+        "返回": "Voltar"
+      },
+      "20": {
+        "返回主页面": "Voltar para a página principal"
+      }
+    },
+    "l0468": {
+      "21": {
+        "文件": "Arquivo"
+      }
+    },
+    "l0471": {
+      "22": {
+        "新建": "Novo"
+      },
+      "23": {
+        "新建图像": "Nova imagem"
+      }
+    },
+    "l0475": {
+      "24": {
+        "打开": "Abrir"
+      },
+      "25": {
+        "打开文件": "Abrir arquivo"
+      }
+    },
+    "l0479": {
+      "26": {
+        "保存": "Salvar"
+      },
+      "27": {
+        "保存_Ctrl_S": "Salvar Ctrl+S"
+      }
+    },
+    "l0483": {
+      "28": {
+        "另存为": "Salvar como"
+      }
+    },
+    "l0490": {
+      "29": {
+        "分享": "Compartilhar"
+      }
+    },
+    "l0493": {
+      "30": {
+        "分享": "Compartilhar"
+      },
+      "31": {
+        "分享到": "Compartilhar em..."
+      }
+    },
+    "l0497": {
+      "32": {
+        "导出": "Exportar"
+      },
+      "33": {
+        "批量导出所有标签页": "Exportação em lote de todas as abas"
+      }
+    },
+    "l0504": {
+      "34": {
+        "打印": "Imprimir"
+      }
+    },
+    "l0507": {
+      "35": {
+        "打印": "Imprimir"
+      },
+      "36": {
+        "打印_Ctrl_P": "Imprimir Ctrl+P"
+      }
+    },
+    "l0514": {
+      "37": {
+        "操作": "Ações"
+      }
+    },
+    "l0517": {
+      "38": {
+        "撤销": "Desfazer"
+      },
+      "39": {
+        "撤销上一步操作": "Desfazer ação anterior"
+      }
+    },
+    "l0521": {
+      "40": {
+        "重置": "Redefinir"
+      },
+      "41": {
+        "重置为原始图像": "Redefinir para a imagem original"
+      }
+    },
+    "l0533": {
+      "42": {
+        "打开图像": "Abrir imagem"
+      }
+    },
+    "l0534": {
+      "43": {
+        "图像文件_png_jpg_jpeg": "Arquivos de imagem (*.png *.jpg *.jpeg *.bmp *.gif);;Todos os arquivos (*.*)"
+      }
+    },
+    "l0541": {
+      "44": {
+        "错误": "Erro"
+      },
+      "45": {
+        "无法打开该图像文件": "Não foi possível abrir este arquivo de imagem"
+      }
+    },
+    "l0553": {
+      "46": {
+        "历史": "Histórico"
+      }
+    },
+    "l0556": {
+      "47": {
+        "撤销": "Desfazer"
+      },
+      "48": {
+        "撤销_Ctrl_Z": "Desfazer Ctrl+Z"
+      }
+    },
+    "l0560": {
+      "49": {
+        "重置": "Redefinir"
+      },
+      "50": {
+        "重置到原图_移除所有编辑": "Redefinir para a imagem original (remover todas as edições)"
+      }
+    },
+    "l0567": {
+      "51": {
+        "剪贴板": "Área de transferência"
+      }
+    },
+    "l0570": {
+      "52": {
+        "复制": "Copiar"
+      },
+      "53": {
+        "复制_Ctrl_C": "Copiar Ctrl+C"
+      }
+    },
+    "l0574": {
+      "54": {
+        "粘贴": "Colar"
+      },
+      "55": {
+        "粘贴_Ctrl_V": "Colar Ctrl+V"
+      }
+    },
+    "l0581": {
+      "56": {
+        "变换": "Transformar"
+      }
+    },
+    "l0584": {
+      "57": {
+        "左旋": "Rodar para a esquerda"
+      },
+      "58": {
+        "左旋90度": "Rodar para a esquerda 90°"
+      }
+    },
+    "l0588": {
+      "59": {
+        "右旋": "Rodar para a direita"
+      },
+      "60": {
+        "右旋90度": "Rodar para a direita 90°"
+      }
+    },
+    "l0592": {
+      "61": {
+        "水平翻": "Inverter horizontalmente"
+      },
+      "62": {
+        "水平翻转": "Inverter horizontalmente"
+      }
+    },
+    "l0596": {
+      "63": {
+        "垂直翻": "Inverter verticalmente"
+      },
+      "64": {
+        "垂直翻转": "Inverter verticalmente"
+      }
+    },
+    "l0603": {
+      "65": {
+        "裁剪": "Recortar"
+      }
+    },
+    "l0606": {
+      "66": {
+        "裁剪": "Recortar"
+      },
+      "67": {
+        "裁剪图像": "Recortar imagem"
+      }
+    },
+    "l0613": {
+      "68": {
+        "文字识别": "Reconhecimento de texto"
+      }
+    },
+    "l0616": {
+      "69": {
+        "识别文字": "Reconhecer texto"
+      },
+      "70": {
+        "识别裁剪区域文字并复制": "Reconhecer texto na área recortada e copiar"
+      }
+    },
+    "l0635": {
+      "71": {
+        "选择": "Selecionar"
+      }
+    },
+    "l0640": {
+      "72": {
+        "移动": "Mover"
+      },
+      "73": {
+        "移动工具": "Ferramenta Mover"
+      }
+    },
+    "l0648": {
+      "74": {
+        "画笔": "Pincel"
+      }
+    },
+    "l0652": {
+      "75": {
+        "画笔": "Pincel"
+      }
+    },
+    "l0653": {
+      "76": {
+        "荧光笔": "Marca-texto"
+      }
+    },
+    "l0663": {
+      "77": {
+        "橡皮擦": "Borracha"
+      }
+    },
+    "l0677": {
+      "78": {
+        "形状": "Formas"
+      }
+    },
+    "l0681": {
+      "79": {
+        "箭头": "Seta"
+      }
+    },
+    "l0682": {
+      "80": {
+        "直线": "Linha"
+      }
+    },
+    "l0683": {
+      "81": {
+        "矩形": "Retângulo"
+      },
+      "82": {
+        "空心矩形": "Retângulo vazado"
+      }
+    },
+    "l0684": {
+      "83": {
+        "实心矩形": "Retângulo sólido"
+      },
+      "84": {
+        "填充矩形": "Retângulo preenchido"
+      }
+    },
+    "l0685": {
+      "85": {
+        "椭圆": "Elipse"
+      },
+      "86": {
+        "空心椭圆": "Elipse vazada"
+      }
+    },
+    "l0686": {
+      "87": {
+        "实心椭圆": "Elipse sólida"
+      },
+      "88": {
+        "填充椭圆": "Elipse preenchida"
+      }
+    },
+    "l0698": {
+      "89": {
+        "文字": "Texto"
+      }
+    },
+    "l0701": {
+      "90": {
+        "文字": "Texto"
+      },
+      "91": {
+        "添加文字": "Adicionar texto"
+      }
+    },
+    "l0709": {
+      "92": {
+        "大小": "Tamanho"
+      }
+    },
+    "l0714": {
+      "93": {
+        "宽度": "Largura:"
+      }
+    },
+    "l0723": {
+      "94": {
+        "字号": "Tamanho da fonte:"
+      }
+    },
+    "l0735": {
+      "95": {
+        "颜色": "Cor"
+      }
+    },
+    "l0742": {
+      "96": {
+        "当前颜色_点击选择": "Cor atual - clique para selecionar"
+      }
+    },
+    "l0759": {
+      "97": {
+        "历史": "Histórico"
+      }
+    },
+    "l0762": {
+      "98": {
+        "撤销": "Desfazer"
+      },
+      "99": {
+        "撤销_Ctrl_Z": "Desfazer Ctrl+Z"
+      }
+    },
+    "l0766": {
+      "100": {
+        "重置": "Redefinir"
+      },
+      "101": {
+        "重置绘图_移除所有编辑": "Redefinir desenho (remover todas as edições)"
+      }
+    },
+    "l0798": {
+      "102": {
+        "对象擦除": "Apagar objeto"
+      }
+    },
+    "l0804": {
+      "103": {
+        "局部擦除": "Apagamento parcial"
+      }
+    },
+    "l0816": {
+      "104": {
+        "大小": "Tamanho:"
+      }
+    },
+    "l0872": {
+      "105": {
+        "画质特效": "Efeitos de imagem"
+      }
+    },
+    "l0875": {
+      "106": {
+        "模糊": "Desfoque"
+      },
+      "107": {
+        "模糊效果": "Efeito de desfoque"
+      }
+    },
+    "l0879": {
+      "108": {
+        "锐化": "Nitidez"
+      },
+      "109": {
+        "锐化效果": "Efeito de nitidez"
+      }
+    },
+    "l0883": {
+      "110": {
+        "像素化": "Pixelizar"
+      },
+      "111": {
+        "像素化效果": "Efeito de pixelização"
+      }
+    },
+    "l0887": {
+      "112": {
+        "浮雕": "Relevo"
+      },
+      "113": {
+        "浮雕效果": "Efeito de relevo"
+      }
+    },
+    "l0891": {
+      "114": {
+        "噪点": "Ruído"
+      },
+      "115": {
+        "添加噪点": "Adicionar ruído"
+      }
+    },
+    "l0898": {
+      "116": {
+        "局部特效": "Efeitos locais"
+      }
+    },
+    "l0901": {
+      "117": {
+        "模糊笔刷": "Pincel de desfoque"
+      },
+      "118": {
+        "局部模糊": "Desfoque local"
+      }
+    },
+    "l0907": {
+      "119": {
+        "马赛克": "Mosaico"
+      },
+      "120": {
+        "局部马赛克": "Mosaico local"
+      }
+    },
+    "l0916": {
+      "121": {
+        "面板": "Painel"
+      }
+    },
+    "l0919": {
+      "122": {
+        "色彩": "Cor"
+      },
+      "123": {
+        "打开色彩调整面板": "Abrir painel de ajuste de cor"
+      }
+    },
+    "l0923": {
+      "124": {
+        "特效": "Efeitos"
+      },
+      "125": {
+        "打开特效面板": "Abrir painel de efeitos"
+      }
+    },
+    "l0930": {
+      "126": {
+        "历史": "Histórico"
+      }
+    },
+    "l0933": {
+      "127": {
+        "撤销": "Desfazer"
+      },
+      "128": {
+        "撤销_Ctrl_Z": "Desfazer Ctrl+Z"
+      }
+    },
+    "l0937": {
+      "129": {
+        "重置": "Redefinir"
+      },
+      "130": {
+        "重置特效": "Redefinir efeitos"
+      }
+    },
+    "l0963": {
+      "131": {
+        "已应用_effect_特效": "✓ Efeito {effect} aplicado"
+      }
+    },
+    "l0965": {
+      "132": {
+        "特效应用失败_str_e": "✗ Falha ao aplicar efeito: {str(e)}"
+      }
+    },
+    "l0972": {
+      "133": {
+        "粘贴的图像": "Imagem colada"
+      }
+    },
+    "l0973": {
+      "134": {
+        "已粘贴图像": "✓ Imagem colada"
+      }
+    },
+    "l0975": {
+      "135": {
+        "剪贴板中没有图像": "Não há imagem na área de transferência"
+      }
+    },
+    "l0998": {
+      "136": {
+        "返回": "Voltar"
+      },
+      "137": {
+        "新建": "Novo"
+      },
+      "138": {
+        "打开": "Abrir"
+      },
+      "139": {
+        "保存存": "Salvar"
+      },
+      "140": {
+        "另存为": "Salvar como"
+      }
+    },
+    "l0999": {
+      "141": {
+        "分享": "Compartilhar"
+      },
+      "142": {
+        "导出": "Exportar"
+      },
+      "143": {
+        "打印": "Imprimir"
+      }
+    },
+    "l1001": {
+      "144": {
+        "撤销": "Desfazer"
+      },
+      "145": {
+        "重置": "Redefinir"
+      },
+      "146": {
+        "复制": "Copiar"
+      },
+      "147": {
+        "粘贴": "Colar"
+      },
+      "148": {
+        "裁剪": "Recortar"
+      }
+    },
+    "l1003": {
+      "149": {
+        "左旋": "Rodar para a esquerda"
+      },
+      "150": {
+        "右旋": "Rodar para a direita"
+      },
+      "151": {
+        "水平翻": "Inverter horizontalmente"
+      },
+      "152": {
+        "垂直翻": "Inverter verticalmente"
+      }
+    },
+    "l1005": {
+      "153": {
+        "移动": "Mover"
+      },
+      "154": {
+        "画笔": "Pincel"
+      },
+      "155": {
+        "荧光笔": "Marca-texto"
+      },
+      "156": {
+        "橡皮擦": "Borracha"
+      },
+      "157": {
+        "文字": "Texto"
+      }
+    },
+    "l1006": {
+      "158": {
+        "箭头": "Seta"
+      },
+      "159": {
+        "直线": "Linha"
+      },
+      "160": {
+        "矩形": "Retângulo"
+      },
+      "161": {
+        "实心矩形": "Retângulo sólido"
+      }
+    },
+    "l1007": {
+      "162": {
+        "椭圆": "Elipse"
+      },
+      "163": {
+        "实心椭圆": "Elipse sólida"
+      },
+      "164": {
+        "清除": "Limpar"
+      }
+    },
+    "l1009": {
+      "165": {
+        "模糊": "Desfoque"
+      },
+      "166": {
+        "锐化": "Nitidez"
+      },
+      "167": {
+        "像素化": "Pixelizar"
+      },
+      "168": {
+        "浮雕": "Relevo"
+      },
+      "169": {
+        "噪点": "Ruído"
+      }
+    },
+    "l1010": {
+      "170": {
+        "模糊笔刷": "Pincel de desfoque"
+      },
+      "171": {
+        "马赛克": "Mosaico"
+      },
+      "172": {
+        "色彩": "Cor"
+      },
+      "173": {
+        "特效": "Efeitos"
+      }
+    },
+    "l1129": {
+      "174": {
+        "坐标_0_0": "Coordenadas: 0, 0"
+      }
+    },
+    "l1145": {
+      "175": {
+        "尺寸_s_width_s_hei": "Tamanho: {s.width()} × {s.height()}"
+      }
+    },
+    "l1146": {
+      "176": {
+        "就绪": "Pronto"
+      }
+    },
+    "l1148": {
+      "177": {
+        "尺寸": "Tamanho: - × -"
+      }
+    },
+    "l1149": {
+      "178": {
+        "就绪": "Pronto"
+      }
+    },
+    "l1183": {
+      "179": {
+        "特效": "Efeitos"
+      }
+    },
+    "l1197": {
+      "180": {
+        "调整": "Ajustar"
+      }
+    },
+    "l1228": {
+      "181": {
+        "调色板": "Paleta"
+      }
+    },
+    "l1256": {
+      "182": {
+        "已清除标注": "Anotações limpas"
+      }
+    },
+    "l1261": {
+      "183": {
+        "已复制到剪贴板": "✓ Copiado para a área de transferência"
+      }
+    },
+    "l1266": {
+      "184": {
+        "错误": "Erro"
+      },
+      "185": {
+        "没有可保存的图像": "Nenhuma imagem para salvar"
+      }
+    },
+    "l1277": {
+      "186": {
+        "已保存_os_path_basename": "✓ Salvo: {os.path.basename(self.current_file_path)}"
+      }
+    },
+    "l1297": {
+      "187": {
+        "已保存_os_path_basename": "✓ Salvo: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1310": {
+      "188": {
+        "错误": "Erro"
+      },
+      "189": {
+        "没有可保存的图像": "Nenhuma imagem para salvar"
+      }
+    },
+    "l1329": {
+      "190": {
+        "已保存_os_path_basename": "✓ Salvo: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1334": {
+      "191": {
+        "提示": "Aviso"
+      },
+      "192": {
+        "没有可导出的图像": "Nenhuma imagem para exportar."
+      }
+    },
+    "l1345": {
+      "193": {
+        "提示": "Aviso"
+      },
+      "194": {
+        "没有可导出的图像": "Nenhuma imagem para exportar."
+      }
+    },
+    "l1361": {
+      "195": {
+        "历史记录": "Histórico"
+      }
+    },
+    "l1381": {
+      "196": {
+        "文件不存在": "O arquivo não existe"
+      },
+      "197": {
+        "该文件已被移动或删除": "Este arquivo foi movido ou excluído."
+      }
+    },
+    "l1463": {
+      "198": {
+        "保存失败": "Falha ao salvar"
+      }
+    },
+    "l1464": {
+      "199": {
+        "无法保存文件_error_n_n文件路径": "Não foi possível salvar o arquivo: {error}\\n\\nCaminho do arquivo: {file_path}\\n\\nVerifique o espaço em disco e as permissões de gravação."
+      }
+    },
+    "l1465": {
+      "200": {
+        "重试": "Tentar novamente"
+      },
+      "201": {
+        "取消": "Cancelar"
+      }
+    },
+    "l1473": {
+      "202": {
+        "错误": "Erro"
+      },
+      "203": {
+        "没有可打印的图像": "Nenhuma imagem para imprimir"
+      }
+    },
+    "l1483": {
+      "204": {
+        "错误": "Erro"
+      },
+      "205": {
+        "没有可分享的图像": "Nenhuma imagem para compartilhar"
+      }
+    },
+    "l1490": {
+      "206": {
+        "分享": "Compartilhar"
+      }
+    },
+    "l1624": {
+      "207": {
+        "宽度": "Largura:"
+      }
+    },
+    "l1633": {
+      "208": {
+        "高度": "Altura:"
+      }
+    },
+    "l1649": {
+      "209": {
+        "应用裁剪": "✓ Aplicar recorte"
+      }
+    },
+    "l1655": {
+      "210": {
+        "取消": "✗ Cancelar"
+      }
+    },
+    "l1706": {
+      "211": {
+        "已应用裁剪": "✓ Recorte aplicado"
+      }
+    },
+    "l1714": {
+      "212": {
+        "已取消裁剪": "Recorte cancelado"
+      }
+    },
+    "l1721": {
+      "213": {
+        "请框选要识别的文字区域": "Selecione a área de texto a ser reconhecida..."
+      }
+    },
+    "l1729": {
+      "214": {
+        "OCR_错误": "Erro de OCR"
+      },
+      "215": {
+        "本地_OCR_引擎未就绪_请检查依赖": "O mecanismo OCR local não está pronto, verifique as dependências."
+      }
+    },
+    "l1733": {
+      "216": {
+        "正在识别文字_请稍候": "Reconhecendo texto, aguarde..."
+      }
+    },
+    "l1741": {
+      "217": {
+        "识别完成": "Reconhecimento concluído"
+      }
+    },
+    "l1744": {
+      "218": {
+        "识别结果": "Resultado do reconhecimento"
+      },
+      "219": {
+        "未识别到文字": "Nenhum texto reconhecido."
+      }
+    },
+    "l1755": {
+      "220": {
+        "识别失败": "Falha no reconhecimento"
+      }
+    },
+    "l1756": {
+      "221": {
+        "OCR_错误": "Erro de OCR"
+      },
+      "222": {
+        "识别失败_err_msg": "Falha no reconhecimento: {err_msg}"
+      }
+    },
+    "l1779": {
+      "223": {
+        "已应用_effect_特效": "✓ Efeito {effect} aplicado"
+      }
+    },
+    "l1781": {
+      "224": {
+        "特效应用失败_str_e": "✗ Falha ao aplicar efeito: {str(e)}"
+      }
+    },
+    "l1817": {
+      "225": {
+        "已撤销": "↩ Desfeito"
+      }
+    },
+    "l1819": {
+      "226": {
+        "没有可撤销的操作": "Nenhuma ação para desfazer"
+      }
+    },
+    "l1830": {
+      "227": {
+        "已重置到原图": "🔄 Redefinido para a imagem original"
+      }
+    },
+    "l1832": {
+      "228": {
+        "重置失败": "Falha ao redefinir"
+      }
+    },
+    "l1856": {
+      "229": {
+        "缩放_percent": "Zoom: {percent}%"
+      }
+    },
+    "l1864": {
+      "230": {
+        "已应用调整": "✓ Ajustes aplicados"
+      }
+    },
+    "l1866": {
+      "231": {
+        "应用调整失败_str_e": "✗ Falha ao aplicar ajustes: {str(e)}"
+      }
+    },
+    "l1873": {
+      "232": {
+        "已重置调整": "✓ Ajustes redefinidos"
+      }
+    },
+    "l1875": {
+      "233": {
+        "重置调整失败_str_e": "✗ Falha ao redefinir ajustes: {str(e)}"
+      }
+    },
+    "l2022": {
+      "234": {
+        "新建图像": "Nova imagem"
+      }
+    }
+  },
+  "ui_freeform_capture": {
+    "l0102": {
+      "01": {
+        "按住鼠标绘制任意形状_松开完成_ESC": "Mantenha o mouse pressionado para desenhar qualquer forma | Solte para concluir | ESC para cancelar"
+      }
+    },
+    "l0460": {
+      "02": {
+        "保存": "Salvar"
+      }
+    },
+    "l0549": {
+      "03": {
+        "输入文字": "Inserir texto"
+      },
+      "04": {
+        "请输入要添加的文字": "Digite o texto a ser adicionado:"
+      }
+    }
+  },
+  "ui_history_panel": {
+    "l0086": {
+      "01": {
+        "未知": "Desconhecido"
+      }
+    },
+    "l0101": {
+      "02": {
+        "未知时间": "Hora desconhecida"
+      }
+    },
+    "l0117": {
+      "03": {
+        "未知大小": "Tamanho desconhecido"
+      }
+    },
+    "l0142": {
+      "04": {
+        "打开": "Abrir"
+      }
+    },
+    "l0147": {
+      "05": {
+        "编辑": "Editar"
+      }
+    },
+    "l0152": {
+      "06": {
+        "删除": "Excluir"
+      }
+    },
+    "l0182": {
+      "07": {
+        "打开文件位置": "📂 Abrir localização do arquivo"
+      }
+    },
+    "l0186": {
+      "08": {
+        "编辑": "✏️ Editar"
+      }
+    },
+    "l0190": {
+      "09": {
+        "复制到剪贴板": "📋 Copiar para a área de transferência"
+      }
+    },
+    "l0196": {
+      "10": {
+        "删除记录": "🗑️ Excluir registro"
+      }
+    },
+    "l0238": {
+      "11": {
+        "截图历史": "📷 Histórico de capturas de tela"
+      }
+    },
+    "l0247": {
+      "12": {
+        "刷新": "Atualizar"
+      }
+    },
+    "l0262": {
+      "13": {
+        "清空历史": "Limpar histórico"
+      }
+    },
+    "l0277": {
+      "14": {
+        "共_0_条记录": "Total de 0 registros"
+      }
+    },
+    "l0322": {
+      "15": {
+        "共_len_records_条记录": "Total de {len(records)} registros"
+      }
+    },
+    "l0325": {
+      "16": {
+        "暂无历史记录": "Sem registros no histórico"
+      }
+    },
+    "l0345": {
+      "17": {
+        "文件不存在": "O arquivo não existe"
+      },
+      "18": {
+        "该文件已被移动或删除": "Este arquivo foi movido ou excluído."
+      }
+    },
+    "l0353": {
+      "19": {
+        "文件不存在": "O arquivo não existe"
+      },
+      "20": {
+        "该文件已被移动或删除": "Este arquivo foi movido ou excluído."
+      }
+    },
+    "l0358": {
+      "21": {
+        "确认删除": "Confirmar exclusão"
+      }
+    },
+    "l0359": {
+      "22": {
+        "确定要删除这条历史记录吗_不会删除原文件": "Tem certeza de que deseja excluir este registro do histórico?\n(O arquivo original não será excluído)"
+      }
+    },
+    "l0360": {
+      "23": {
+        "确定": "OK"
+      },
+      "24": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0369": {
+      "25": {
+        "确认清空": "Confirmar limpeza"
+      }
+    },
+    "l0370": {
+      "26": {
+        "确定要清空所有历史记录吗_不会删除原文件": "Tem certeza de que deseja limpar todos os registros do histórico?\n(Os arquivos originais não serão excluídos)"
+      }
+    },
+    "l0371": {
+      "27": {
+        "确定": "OK"
+      },
+      "28": {
+        "取消": "Cancelar"
+      }
+    }
+  },
+  "ui_layer_manager": {
+    "l0026": {
+      "01": {
+        "图层": "Camadas"
+      }
+    },
+    "l0061": {
+      "02": {
+        "self_name_副本": "Cópia de {self.name}"
+      }
+    },
+    "l0097": {
+      "03": {
+        "图层_len_self_layers_1": "Camada {len(self.layers) + 1}"
+      }
+    }
+  },
+  "ui_layer_panel": {
+    "l0050": {
+      "01": {
+        "显示_隐藏图层": "Mostrar/Ocultar Camada"
+      }
+    },
+    "l0121": {
+      "02": {
+        "透明度_self_layer_opacity": "Opacidade: {self.layer.opacity}%"
+      }
+    },
+    "l0133": {
+      "03": {
+        "锁定_解锁图层": "Bloquear/Desbloquear Camada"
+      }
+    },
+    "l0341": {
+      "04": {
+        "左对齐": "Alinhar à Esquerda"
+      }
+    },
+    "l0342": {
+      "05": {
+        "水平居中": "Alinhar ao Centro Horizontalmente"
+      }
+    },
+    "l0343": {
+      "06": {
+        "右对齐": "Alinhar à Direita"
+      }
+    },
+    "l0362": {
+      "07": {
+        "顶部对齐": "Alinhar ao Topo"
+      }
+    },
+    "l0363": {
+      "08": {
+        "垂直居中": "Alinhar ao Centro Verticalmente"
+      }
+    },
+    "l0364": {
+      "09": {
+        "底部对齐": "Alinhar à Base"
+      }
+    },
+    "l0383": {
+      "10": {
+        "水平等距分布": "Distribuir Horizontalmente"
+      }
+    },
+    "l0384": {
+      "11": {
+        "垂直等距分布": "Distribuir Verticalmente"
+      }
+    },
+    "l0428": {
+      "12": {
+        "图层管理": "Gerenciamento de Camadas"
+      }
+    },
+    "l0436": {
+      "13": {
+        "添加图层": "Adicionar Camada"
+      }
+    },
+    "l0468": {
+      "14": {
+        "对齐与分布": "Alinhar e Distribuir"
+      }
+    },
+    "l0507": {
+      "15": {
+        "添加图层": "Adicionar Camada"
+      }
+    },
+    "l0508": {
+      "16": {
+        "删除图层": "Excluir Camada"
+      }
+    },
+    "l0509": {
+      "17": {
+        "复制图层": "Duplicar Camada"
+      }
+    },
+    "l0510": {
+      "18": {
+        "上移": "Mover para Cima"
+      }
+    },
+    "l0511": {
+      "19": {
+        "下移": "Mover para Baixo"
+      }
+    },
+    "l0512": {
+      "20": {
+        "置顶": "Trazer para Frente"
+      }
+    },
+    "l0513": {
+      "21": {
+        "置底": "Enviar para Trás"
+      }
+    },
+    "l0514": {
+      "22": {
+        "合并": "Mesclar"
+      }
+    },
+    "l0532": {
+      "23": {
+        "撤销_Undo": "Desfazer (Undo)"
+      }
+    },
+    "l0538": {
+      "24": {
+        "重置图层_Reset": "Redefinir Camada (Reset)"
+      }
+    },
+    "l0561": {
+      "25": {
+        "不透明度": "Opacidade"
+      }
+    },
+    "l0669": {
+      "26": {
+        "选择图片添加为新图层": "Selecione uma imagem para adicionar como nova camada"
+      }
+    },
+    "l0670": {
+      "27": {
+        "图像文件_png_jpg_jpeg": "Arquivos de Imagem (*.png *.jpg *.jpeg *.bmp *.gif);;Todos os Arquivos (*.*)"
+      }
+    },
+    "l0680": {
+      "28": {
+        "错误": "Erro"
+      },
+      "29": {
+        "无法打开该图像文件": "Não foi possível abrir este arquivo de imagem"
+      }
+    }
+  },
+  "ui_main_window": {
+    "l0275": {
+      "02": {
+        "登录": "Entrar"
+      }
+    },
+    "l0398": {
+      "03": {
+        "截图贴图工具": "Ferramenta de Fixar Captura de Tela"
+      }
+    },
+    "l0453": {
+      "04": {
+        "截图贴图工具": "Ferramenta de Fixar Captura de Tela"
+      }
+    },
+    "l0464": {
+      "05": {
+        "返回预览": "↩️ Voltar para a Pré-visualização"
+      }
+    },
+    "l0465": {
+      "06": {
+        "返回上次的预览状态": "Retornar ao estado de pré-visualização anterior"
+      }
+    },
+    "l0477": {
+      "07": {
+        "主页": "🏠 Início"
+      }
+    },
+    "l0478": {
+      "08": {
+        "新建": "📄 Novo"
+      }
+    },
+    "l0479": {
+      "09": {
+        "打开": "📂 Abrir"
+      }
+    },
+    "l0480": {
+      "10": {
+        "保存": "💾 Salvar"
+      }
+    },
+    "l0481": {
+      "11": {
+        "另存为": "📋 Salvar Como"
+      }
+    },
+    "l0482": {
+      "12": {
+        "打印": "🖨️ Imprimir"
+      }
+    },
+    "l0483": {
+      "13": {
+        "分享": "📤 Compartilhar"
+      }
+    },
+    "l0484": {
+      "14": {
+        "选项": "⚙️ Opções"
+      }
+    },
+    "l0506": {
+      "15": {
+        "登录": "👤 Entrar"
+      }
+    },
+    "l0511": {
+      "16": {
+        "退出": "🚪 Sair"
+      }
+    },
+    "l0533": {
+      "17": {
+        "选择操作": "Escolha uma ação"
+      }
+    },
+    "l0562": {
+      "18": {
+        "我要软件定制": "Quero desenvolvimento de software personalizado"
+      }
+    },
+    "l0598": {
+      "20": {
+        "就绪_按_F8_重复上次截图": "Pronto | Pressione F8 para repetir a última captura de tela"
+      }
+    },
+    "l0603": {
+      "21": {
+        "取消登录": "Cancelar Login"
+      }
+    },
+    "l0621": {
+      "22": {
+        "启动时不显示此窗口": "Não mostrar esta janela na inicialização"
+      }
+    },
+    "l0626": {
+      "23": {
+        "鲲穹AI旗下产品": "Produtos da Kunqiong AI"
+      }
+    },
+    "l0641": {
+      "24": {
+        "新任务": "📁 Nova Tarefa"
+      }
+    },
+    "l0651": {
+      "25": {
+        "新建": "Novo"
+      },
+      "26": {
+        "新建图像": "Nova Imagem"
+      }
+    },
+    "l0655": {
+      "27": {
+        "打开": "Abrir"
+      },
+      "28": {
+        "打开已有文件": "Abrir um arquivo existente"
+      }
+    },
+    "l0661": {
+      "29": {
+        "截取屏幕": "📷 Capturar Tela"
+      }
+    },
+    "l0671": {
+      "30": {
+        "全屏": "Tela Cheia"
+      }
+    },
+    "l0675": {
+      "31": {
+        "窗口": "Janela"
+      }
+    },
+    "l0680": {
+      "32": {
+        "矩形区域": "Região Retangular"
+      }
+    },
+    "l0681": {
+      "33": {
+        "窗口控件": "Controles de Janela"
+      }
+    },
+    "l0682": {
+      "34": {
+        "滚动截图": "Captura com Rolagem"
+      }
+    },
+    "l0683": {
+      "35": {
+        "任意形状": "Forma Livre"
+      }
+    },
+    "l0693": {
+      "36": {
+        "重复截取": "Repetir Captura"
+      },
+      "37": {
+        "F8_重复上次操作": "F8 Repetir Última Ação"
+      }
+    },
+    "l0707": {
+      "38": {
+        "实用工具": "🛠 Utilitários"
+      }
+    },
+    "l0718": {
+      "39": {
+        "屏幕录制器": "Gravador de Tela"
+      },
+      "40": {
+        "录制桌面视频": "Gravar vídeo da área de trabalho"
+      }
+    },
+    "l0719": {
+      "41": {
+        "取色器": "Seletor de Cores"
+      },
+      "42": {
+        "在屏幕上拾取颜色": "Capturar cores da tela"
+      }
+    },
+    "l0720": {
+      "43": {
+        "调色板": "Paleta"
+      },
+      "44": {
+        "在调色板上按需调色": "Misturar cores na paleta conforme necessário"
+      }
+    },
+    "l0721": {
+      "45": {
+        "放大镜": "Lupa"
+      },
+      "46": {
+        "对屏幕像素放大细看": "Ampliar para inspecionar pixels da tela"
+      }
+    },
+    "l0722": {
+      "47": {
+        "标尺": "Régua"
+      },
+      "48": {
+        "测量桌面对象的尺寸": "Medir o tamanho de objetos da área de trabalho"
+      }
+    },
+    "l0723": {
+      "49": {
+        "坐标轴": "Eixo de Coordenadas"
+      },
+      "50": {
+        "查测相对坐标": "Verificar coordenadas relativas"
+      }
+    },
+    "l0724": {
+      "51": {
+        "量角器": "Transferidor"
+      },
+      "52": {
+        "在屏幕上测量角度": "Medir ângulos na tela"
+      }
+    },
+    "l0725": {
+      "53": {
+        "白板": "Quadro Branco"
+      },
+      "54": {
+        "用于演示或绘画": "Para apresentações ou desenho"
+      }
+    },
+    "l0783": {
+      "55": {
+        "已登录": "Conectado"
+      }
+    },
+    "l0785": {
+      "56": {
+        "点击查看用户信息或退出登录": "Clique para ver as informações do usuário ou sair da conta"
+      }
+    },
+    "l0792": {
+      "57": {
+        "登录": "👤 Entrar"
+      }
+    },
+    "l0793": {
+      "58": {
+        "点击登录鲲穹AI账号": "Clique para entrar na sua conta Kunqiong AI"
+      }
+    },
+    "l0829": {
+      "60": {
+        "登录确认": "Confirmação de Login"
+      }
+    },
+    "l0830": {
+      "61": {
+        "即将打开浏览器进行登录_是否继续_登录完成后请": "O navegador será aberto para login. Continuar?\n\nApós entrar, retorne a este aplicativo."
+      }
+    },
+    "l0833": {
+      "62": {
+        "正在等待网页登录完成": "Aguardando a conclusão do login na web..."
+      }
+    },
+    "l0841": {
+      "63": {
+        "登录已取消": "Login cancelado"
+      }
+    },
+    "l0904": {
+      "64": {
+        "未知": "Desconhecido"
+      }
+    },
+    "l0913": {
+      "65": {
+        "退出登录": "🚪 Sair da Conta"
+      }
+    },
+    "l0925": {
+      "66": {
+        "已退出登录": "Desconectado"
+      }
+    },
+    "l0926": {
+      "67": {
+        "提示": "Aviso"
+      },
+      "68": {
+        "已成功退出登录": "Sessão encerrada com sucesso"
+      }
+    },
+    "l0934": {
+      "69": {
+        "登录成功": "Login bem-sucedido"
+      }
+    },
+    "l0935": {
+      "70": {
+        "登录成功": "Login bem-sucedido"
+      },
+      "71": {
+        "欢迎回来_账号已同步": "Bem-vindo de volta! Sua conta foi sincronizada."
+      }
+    },
+    "l0940": {
+      "72": {
+        "登录失败": "Falha no login"
+      }
+    },
+    "l0941": {
+      "73": {
+        "登录失败": "Falha no login"
+      },
+      "74": {
+        "登录过程中出现错误_error_msg": "Ocorreu um erro durante o login:\n{error_msg}"
+      }
+    },
+    "l1020": {
+      "75": {
+        "没有可重复的截图操作": "Não há operação de captura de tela para repetir"
+      }
+    },
+    "l1041": {
+      "76": {
+        "未知的截图模式": "Modo de captura de tela desconhecido"
+      }
+    },
+    "l1080": {
+      "77": {
+        "提示": "Aviso"
+      },
+      "78": {
+        "没有可恢复的预览状态": "Nenhum estado de pré-visualização disponível para restaurar"
+      }
+    },
+    "l1095": {
+      "79": {
+        "错误": "Erro"
+      },
+      "80": {
+        "预览缓存已过期或不存在": "O cache de pré-visualização expirou ou não existe"
+      }
+    },
+    "l1103": {
+      "81": {
+        "正在恢复_len_session_caches": "Restaurando {len(session_caches)} abas..."
+      }
+    },
+    "l1119": {
+      "82": {
+        "未命名": "Sem título"
+      }
+    },
+    "l1130": {
+      "83": {
+        "已恢复_len_session_cache": "✓ {len(session_caches)} abas restauradas"
+      }
+    },
+    "l1135": {
+      "84": {
+        "错误": "Erro"
+      },
+      "85": {
+        "无法加载预览图像": "Não foi possível carregar a imagem de pré-visualização"
+      }
+    },
+    "l1163": {
+      "86": {
+        "打开图像": "Abrir Imagem"
+      }
+    },
+    "l1164": {
+      "87": {
+        "图像文件_png_jpg_jpeg": "Arquivos de Imagem (*.png *.jpg *.jpeg *.bmp *.gif);;Todos os Arquivos (*.*)"
+      }
+    },
+    "l1176": {
+      "88": {
+        "提示": "Aviso"
+      }
+    },
+    "l1177": {
+      "89": {
+        "请先打开或截取一张图像_然后在编辑器中进行保存": "Abra ou capture uma imagem primeiro e depois salve-a no editor."
+      }
+    },
+    "l1185": {
+      "90": {
+        "提示": "Aviso"
+      }
+    },
+    "l1186": {
+      "91": {
+        "请先打开或截取一张图像_然后在编辑器中进行另存为": "Abra ou capture uma imagem primeiro e depois use Salvar Como no editor."
+      }
+    },
+    "l1194": {
+      "92": {
+        "提示": "Aviso"
+      }
+    },
+    "l1195": {
+      "93": {
+        "请先打开或截取一张图像_然后在编辑器中进行打印": "Abra ou capture uma imagem primeiro e depois imprima-a no editor."
+      }
+    },
+    "l1283": {
+      "94": {
+        "提示": "Aviso"
+      },
+      "95": {
+        "剪贴板中没有可粘贴的图像": "Não há imagem na área de transferência para colar"
+      }
+    },
+    "l1315": {
+      "96": {
+        "提示": "Aviso"
+      }
+    },
+    "l1316": {
+      "97": {
+        "没有可分享的图像_请先截取或打开一张图像": "Não há imagem para compartilhar.\nCapture ou abra uma imagem primeiro."
+      }
+    },
+    "l1325": {
+      "98": {
+        "提示": "Aviso"
+      },
+      "99": {
+        "没有可分享的图像": "Não há imagem para compartilhar"
+      }
+    },
+    "l1329": {
+      "100": {
+        "分享": "Compartilhar"
+      }
+    },
+    "l1361": {
+      "101": {
+        "提示": "Aviso"
+      },
+      "102": {
+        "预览缓存已过期_请重新截图": "O cache de pré-visualização expirou, faça uma captura de tela novamente"
+      }
+    },
+    "l1379": {
+      "103": {
+        "未命名": "Sem título"
+      }
+    }
+  },
+  "ui_modern_dialog": {
+    "l0011": {
+      "01": {
+        "确定": "OK"
+      },
+      "02": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0207": {
+      "03": {
+        "知道了": "Entendi"
+      }
+    },
+    "l0238": {
+      "04": {
+        "确定": "OK"
+      }
+    },
+    "l0243": {
+      "05": {
+        "确定": "OK"
+      }
+    },
+    "l0248": {
+      "06": {
+        "确定": "OK"
+      }
+    },
+    "l0253": {
+      "07": {
+        "确定": "OK"
+      }
+    },
+    "l0258": {
+      "08": {
+        "确定": "OK"
+      },
+      "09": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0268": {
+      "10": {
+        "识别文本": "Reconhecer Texto"
+      }
+    },
+    "l0304": {
+      "11": {
+        "识别文本": "Reconhecer Texto"
+      }
+    },
+    "l0366": {
+      "12": {
+        "复制": "Copiar"
+      }
+    }
+  },
+  "ui_new_image_dialog": {
+    "l0015": {
+      "01": {
+        "上次使用": "Último Uso"
+      }
+    },
+    "l0016": {
+      "02": {
+        "剪贴板": "Área de Transferência"
+      }
+    },
+    "l0017": {
+      "03": {
+        "自定义": "Personalizado"
+      }
+    },
+    "l0029": {
+      "04": {
+        "白色": "Branco"
+      }
+    },
+    "l0030": {
+      "05": {
+        "黑色": "Preto"
+      }
+    },
+    "l0031": {
+      "06": {
+        "透明": "Transparente"
+      }
+    },
+    "l0032": {
+      "07": {
+        "灰色": "Cinza"
+      }
+    },
+    "l0033": {
+      "08": {
+        "红色": "Vermelho"
+      }
+    },
+    "l0034": {
+      "09": {
+        "蓝色": "Azul"
+      }
+    },
+    "l0129": {
+      "10": {
+        "新建图像": "Nova Imagem"
+      }
+    },
+    "l0185": {
+      "11": {
+        "新建图像": "Nova Imagem"
+      }
+    },
+    "l0190": {
+      "12": {
+        "画布大小_self_last_width": "Tamanho da Tela: {self.last_width} × {self.last_height}"
+      }
+    },
+    "l0198": {
+      "13": {
+        "预设": "Predefinição:"
+      }
+    },
+    "l0213": {
+      "14": {
+        "宽度": "Largura:"
+      }
+    },
+    "l0228": {
+      "15": {
+        "高度": "Altura:"
+      }
+    },
+    "l0243": {
+      "16": {
+        "背景色": "Cor de Fundo:"
+      }
+    },
+    "l0263": {
+      "17": {
+        "自定义颜色": "Cor Personalizada"
+      }
+    },
+    "l0275": {
+      "18": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0280": {
+      "19": {
+        "确定": "OK"
+      }
+    },
+    "l0298": {
+      "20": {
+        "画布大小_width_height": "Tamanho da Tela: {width} × {height}"
+      }
+    },
+    "l0341": {
+      "21": {
+        "剪贴板": "Área de Transferência"
+      }
+    },
+    "l0350": {
+      "22": {
+        "上次使用": "Último Uso"
+      }
+    }
+  },
+  "ui_pin_window": {
+    "l0065": {
+      "01": {
+        "复制": "Copiar"
+      }
+    },
+    "l0069": {
+      "02": {
+        "保存": "Salvar"
+      }
+    },
+    "l0075": {
+      "03": {
+        "关闭": "Fechar"
+      }
+    },
+    "l0089": {
+      "04": {
+        "保存": "Salvar"
+      }
+    }
+  },
+  "ui_print_dialog": {
+    "l0139": {
+      "01": {
+        "打印": "Imprimir"
+      }
+    },
+    "l0193": {
+      "02": {
+        "打印": "Imprimir"
+      }
+    },
+    "l0199": {
+      "03": {
+        "打印": "🖨️ Imprimir"
+      }
+    },
+    "l0207": {
+      "04": {
+        "打印机": "Impressora"
+      }
+    },
+    "l0222": {
+      "06": {
+        "设置": "Configurações"
+      }
+    },
+    "l0228": {
+      "07": {
+        "缩放": "Escala:"
+      }
+    },
+    "l0230": {
+      "08": {
+        "调整到_100": "Escalar para 100%"
+      },
+      "09": {
+        "适合页面": "Ajustar à Página"
+      },
+      "10": {
+        "自定义": "Personalizado"
+      }
+    },
+    "l0238": {
+      "11": {
+        "方向": "Orientação:"
+      }
+    },
+    "l0240": {
+      "12": {
+        "纵向": "Retrato"
+      },
+      "13": {
+        "横向": "Paisagem"
+      }
+    },
+    "l0247": {
+      "14": {
+        "纸张尺寸": "Tamanho do Papel:"
+      }
+    },
+    "l0262": {
+      "15": {
+        "页边距": "Margens:"
+      }
+    },
+    "l0265": {
+      "16": {
+        "正常_左_10mm_上_10mm": "Normal (Esquerda: 10mm, Superior: 10mm)"
+      }
+    },
+    "l0266": {
+      "17": {
+        "窄_左_5mm_上_5mm": "Estreita (Esquerda: 5mm, Superior: 5mm)"
+      }
+    },
+    "l0267": {
+      "18": {
+        "宽_左_20mm_上_20mm": "Larga (Esquerda: 20mm, Superior: 20mm)"
+      }
+    },
+    "l0268": {
+      "19": {
+        "自定义": "Personalizado..."
+      }
+    },
+    "l0276": {
+      "20": {
+        "打印颜色": "Cor de Impressão:"
+      }
+    },
+    "l0278": {
+      "21": {
+        "彩色": "Colorido"
+      },
+      "22": {
+        "灰度": "Escala de Cinza"
+      },
+      "23": {
+        "黑白": "Preto e Branco"
+      }
+    },
+    "l0291": {
+      "25": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0305": {
+      "26": {
+        "边距": "Margens"
+      }
+    },
+    "l0306": {
+      "27": {
+        "左": "Esquerda"
+      }
+    },
+    "l0314": {
+      "28": {
+        "上": "Superior"
+      }
+    },
+    "l0322": {
+      "29": {
+        "右": "Direita"
+      }
+    },
+    "l0330": {
+      "30": {
+        "下": "Inferior"
+      }
+    },
+    "l0348": {
+      "31": {
+        "页面_1_1": "Páginas: 1 - 1"
+      }
+    },
+    "l0351": {
+      "32": {
+        "纸张尺寸_210_mm_297_mm": "Tamanho do Papel: 210 mm × 297 mm"
+      }
+    },
+    "l0403": {
+      "33": {
+        "纸张尺寸_w_mm_h_mm": "Tamanho do Papel: {w} mm × {h} mm"
+      }
+    }
+  },
+  "ui_region_capture": {
+    "l0071": {
+      "01": {
+        "移动选区": "Mover Seleção"
+      }
+    },
+    "l0083": {
+      "02": {
+        "取消_ESC": "Cancelar (ESC)"
+      }
+    },
+    "l0091": {
+      "03": {
+        "固定到桌面": "Fixar na Área de Trabalho"
+      }
+    },
+    "l0099": {
+      "04": {
+        "保存_Ctrl_S": "Salvar (Ctrl+S)"
+      }
+    },
+    "l0109": {
+      "05": {
+        "编辑_进入编辑器": "Editar (Abrir Editor)"
+      }
+    },
+    "l0117": {
+      "06": {
+        "复制并分享_Ctrl_C": "Copiar e Compartilhar (Ctrl+C)"
+      }
+    },
+    "l0125": {
+      "07": {
+        "识别文字": "Reconhecer Texto"
+      }
+    },
+    "l0244": {
+      "08": {
+        "拖动选择区域_ESC取消": "Arraste para selecionar uma área | ESC para cancelar"
+      }
+    },
+    "l0668": {
+      "09": {
+        "保存": "Salvar"
+      }
+    },
+    "l0716": {
+      "10": {
+        "输入文字": "Inserir Texto"
+      },
+      "11": {
+        "请输入要添加的文字": "Digite o texto a ser adicionado:"
+      }
+    },
+    "l0771": {
+      "12": {
+        "OCR_错误": "Erro de OCR"
+      },
+      "13": {
+        "本地_OCR_引擎未就绪_请检查依赖": "O mecanismo OCR local não está pronto. Verifique as dependências."
+      }
+    },
+    "l0787": {
+      "14": {
+        "识别结果": "Resultado do Reconhecimento"
+      },
+      "15": {
+        "未识别到文字": "Nenhum texto reconhecido."
+      }
+    },
+    "l0800": {
+      "16": {
+        "OCR_错误": "Erro de OCR"
+      },
+      "17": {
+        "识别失败_err_msg": "Falha no reconhecimento: {err_msg}"
+      }
+    }
+  },
+  "ui_save_dialog": {
+    "l0032": {
+      "01": {
+        "保存图像": "Salvar Imagem"
+      }
+    },
+    "l0074": {
+      "02": {
+        "保存图像": "Salvar Imagem"
+      }
+    },
+    "l0080": {
+      "03": {
+        "文件名": "Nome do Arquivo:"
+      }
+    },
+    "l0087": {
+      "04": {
+        "保存位置": "Local de Salvamento"
+      }
+    },
+    "l0096": {
+      "05": {
+        "浏览": "Procurar..."
+      }
+    },
+    "l0103": {
+      "06": {
+        "快速切换": "Alternância rápida:"
+      }
+    },
+    "l0120": {
+      "07": {
+        "暂无最近文件夹": "Sem pastas recentes"
+      }
+    },
+    "l0128": {
+      "08": {
+        "设为默认保存位置": "Definir como local de salvamento padrão"
+      }
+    },
+    "l0135": {
+      "09": {
+        "格式": "Formato:"
+      }
+    },
+    "l0152": {
+      "10": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0157": {
+      "11": {
+        "保存": "Salvar"
+      }
+    },
+    "l0165": {
+      "12": {
+        "选择保存位置": "Selecionar local de salvamento"
+      }
+    },
+    "l0192": {
+      "13": {
+        "文件已存在": "O arquivo já existe"
+      }
+    },
+    "l0193": {
+      "14": {
+        "文件_filename_已存在_是否覆盖": "O arquivo {filename} já existe. Substituir?"
+      }
+    },
+    "l0194": {
+      "15": {
+        "覆盖": "Substituir"
+      },
+      "16": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0216": {
+      "17": {
+        "保存失败": "Falha ao salvar"
+      }
+    },
+    "l0218": {
+      "18": {
+        "保存失败": "Falha ao salvar"
+      },
+      "19": {
+        "无法保存文件_str_e": "Não foi possível salvar o arquivo: {str(e)}"
+      }
+    },
+    "l0240": {
+      "20": {
+        "批量导出": "Exportação em lote"
+      }
+    },
+    "l0283": {
+      "21": {
+        "批量导出_len_self_images": "Exportação em lote ({len(self.images)} imagens)"
+      }
+    },
+    "l0288": {
+      "22": {
+        "待导出图像": "Imagens para exportar:"
+      }
+    },
+    "l0302": {
+      "23": {
+        "保存位置": "Local de salvamento:"
+      }
+    },
+    "l0307": {
+      "24": {
+        "浏览": "Procurar"
+      }
+    },
+    "l0314": {
+      "25": {
+        "导出格式": "Formato de exportação:"
+      }
+    },
+    "l0320": {
+      "26": {
+        "命名规则": "Regra de nomeação:"
+      }
+    },
+    "l0323": {
+      "27": {
+        "保持原名": "Manter nome original"
+      }
+    },
+    "l0324": {
+      "28": {
+        "添加前缀": "Adicionar prefixo"
+      }
+    },
+    "l0325": {
+      "29": {
+        "添加后缀": "Adicionar sufixo"
+      }
+    },
+    "l0326": {
+      "30": {
+        "序号命名": "Nomeação numerada"
+      }
+    },
+    "l0332": {
+      "31": {
+        "前缀": "Prefixo:"
+      }
+    },
+    "l0336": {
+      "32": {
+        "例如_export": "Exemplo: export_"
+      }
+    },
+    "l0358": {
+      "33": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0363": {
+      "34": {
+        "开始导出": "Iniciar exportação"
+      }
+    },
+    "l0371": {
+      "35": {
+        "选择导出位置": "Selecionar local de exportação"
+      }
+    },
+    "l0380": {
+      "36": {
+        "前缀": "Prefixo:"
+      },
+      "37": {
+        "后缀": "Sufixo:"
+      }
+    },
+    "l0424": {
+      "38": {
+        "已导出_os_path_basename_f": "Exportado: {os.path.basename(file_path)}"
+      }
+    },
+    "l0426": {
+      "39": {
+        "导出失败_name_str_e": "Falha na exportação: {name} - {str(e)}"
+      }
+    },
+    "l0434": {
+      "40": {
+        "导出完成_成功_len_saved_path": "Exportação concluída! Sucesso {len(saved_paths)}/{len(self.images)}"
+      }
+    },
+    "l0439": {
+      "41": {
+        "导出完成": "Exportação concluída"
+      }
+    },
+    "l0440": {
+      "42": {
+        "成功导出_len_saved_paths": "Exportadas com sucesso {len(saved_paths)} imagens para:\n{folder}"
+      }
+    }
+  },
+  "ui_scroll_capture": {
+    "l0144": {
+      "01": {
+        "长截图预览": "Pré-visualização de captura longa"
+      }
+    },
+    "l0154": {
+      "02": {
+        "已捕获_self_frame_count_帧": "Capturados {self.frame_count} quadros"
+      }
+    },
+    "l0158": {
+      "03": {
+        "等待捕获": "Aguardando captura..."
+      }
+    },
+    "l0220": {
+      "04": {
+        "滚动页面开始捕获": "Role a página para iniciar a captura"
+      }
+    },
+    "l0255": {
+      "05": {
+        "手动滚动预览_ESC_取消": "Pré-visualização de rolagem manual · ESC para cancelar"
+      }
+    },
+    "l0275": {
+      "06": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0290": {
+      "07": {
+        "完成截图": "Finalizar captura de tela"
+      }
+    },
+    "l0456": {
+      "08": {
+        "开始捕获": "Iniciar captura"
+      }
+    },
+    "l0463": {
+      "09": {
+        "点击开始后滚动页面": "Clique em Iniciar e role a página"
+      }
+    },
+    "l0557": {
+      "10": {
+        "拖动选择滚动区域_ESC_取消": "Arraste para selecionar a área de rolagem | ESC para cancelar"
+      }
+    },
+    "l0589": {
+      "11": {
+        "捕获中_len_self_captures": "Capturando: {len(self.captures)}"
+      }
+    }
+  },
+  "ui_settings_dialog": {
+    "l0024": {
+      "01": {
+        "点击后按下快捷键": "Clique e depois pressione a tecla de atalho..."
+      }
+    },
+    "l0086": {
+      "02": {
+        "程序设置": "Configurações do Programa"
+      }
+    },
+    "l0182": {
+      "03": {
+        "常规": "Geral"
+      }
+    },
+    "l0183": {
+      "04": {
+        "截图": "Captura de tela"
+      }
+    },
+    "l0184": {
+      "05": {
+        "快捷键": "Atalhos"
+      }
+    },
+    "l0185": {
+      "06": {
+        "命名规则": "Regras de nomeação"
+      }
+    },
+    "l0191": {
+      "07": {
+        "鲲穹AI旗下产品": "Um produto da Kunqiong AI"
+      }
+    },
+    "l0197": {
+      "08": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0202": {
+      "09": {
+        "保存设置": "Salvar configurações"
+      }
+    },
+    "l0215": {
+      "10": {
+        "保存设置": "Salvar configurações"
+      }
+    },
+    "l0219": {
+      "11": {
+        "默认保存路径": "Caminho de salvamento padrão:"
+      }
+    },
+    "l0224": {
+      "12": {
+        "选择截图保存目录": "Selecionar diretório para salvar capturas de tela..."
+      }
+    },
+    "l0227": {
+      "13": {
+        "浏览": "Procurar"
+      }
+    },
+    "l0235": {
+      "14": {
+        "默认格式": "Formato padrão:"
+      }
+    },
+    "l0243": {
+      "15": {
+        "截图后自动保存到默认目录": "Salvar automaticamente no diretório padrão após a captura"
+      }
+    },
+    "l0246": {
+      "16": {
+        "截图后自动复制到剪贴板": "Copiar automaticamente para a área de transferência após a captura"
+      }
+    },
+    "l0249": {
+      "17": {
+        "操作完成后显示通知": "Exibir notificação após a conclusão da operação"
+      }
+    },
+    "l0255": {
+      "18": {
+        "编辑器设置": "Configurações do Editor"
+      }
+    },
+    "l0258": {
+      "19": {
+        "编辑器默认全屏显示": "O editor abre em tela cheia por padrão"
+      }
+    },
+    "l0261": {
+      "20": {
+        "记住编辑器窗口大小": "Lembrar o tamanho da janela do editor"
+      }
+    },
+    "l0267": {
+      "21": {
+        "版本与更新": "Versão e Atualizações"
+      }
+    },
+    "l0273": {
+      "22": {
+        "当前版本_current_version": "Versão atual: {current_version}"
+      }
+    },
+    "l0279": {
+      "23": {
+        "检查更新": "Verificar atualizações"
+      }
+    },
+    "l0285": {
+      "24": {
+        "反馈问题": "Relatar um problema"
+      }
+    },
+    "l0328": {
+      "25": {
+        "滚动截图": "Captura de tela com rolagem"
+      }
+    },
+    "l0333": {
+      "26": {
+        "0_1秒": "× 0.1s"
+      }
+    },
+    "l0334": {
+      "27": {
+        "滚动延迟": "Atraso de rolagem:"
+      }
+    },
+    "l0337": {
+      "28": {
+        "慢速": "Lento"
+      },
+      "29": {
+        "中速": "Médio"
+      },
+      "30": {
+        "快速": "Rápido"
+      }
+    },
+    "l0338": {
+      "31": {
+        "滚动速度": "Velocidade de rolagem:"
+      }
+    },
+    "l0343": {
+      "32": {
+        "重复截取": "Repetir captura"
+      }
+    },
+    "l0346": {
+      "33": {
+        "按_F8_可重复上次截图操作": "Pressione F8 para repetir a última ação de captura de tela"
+      }
+    },
+    "l0359": {
+      "34": {
+        "快捷键设置": "Configurações de Atalho"
+      }
+    },
+    "l0368": {
+      "35": {
+        "全屏截图": "Captura de tela inteira:"
+      },
+      "36": {
+        "例如_Ctrl_Shift_F": "Exemplo: Ctrl+Shift+F"
+      }
+    },
+    "l0369": {
+      "37": {
+        "矩形截图": "Captura retangular:"
+      },
+      "38": {
+        "例如_Ctrl_Shift_A": "Exemplo: Ctrl+Shift+A"
+      }
+    },
+    "l0370": {
+      "39": {
+        "窗口控件截图": "Captura de janela/controle:"
+      },
+      "40": {
+        "例如_Ctrl_Shift_W": "Exemplo: Ctrl+Shift+W"
+      }
+    },
+    "l0371": {
+      "41": {
+        "取色器": "Seletor de cores:"
+      },
+      "42": {
+        "例如_Ctrl_Shift_C": "Exemplo: Ctrl+Shift+C"
+      }
+    },
+    "l0372": {
+      "43": {
+        "重复截取": "Repetir captura:"
+      },
+      "44": {
+        "例如_F8": "Exemplo: F8"
+      }
+    },
+    "l0373": {
+      "45": {
+        "白板": "Quadro branco:"
+      },
+      "46": {
+        "例如_Win_Shift_W": "Exemplo: Win+Shift+W"
+      }
+    },
+    "l0374": {
+      "47": {
+        "开始_停止录屏": "Iniciar/parar gravação:"
+      },
+      "48": {
+        "例如_Ctrl_Shift_R": "Exemplo: Ctrl+Shift+R"
+      }
+    },
+    "l0416": {
+      "49": {
+        "预设方案": "Predefinições"
+      }
+    },
+    "l0419": {
+      "50": {
+        "默认": "Padrão"
+      },
+      "51": {
+        "HyperSnap风格": "Estilo HyperSnap"
+      },
+      "52": {
+        "Snagit风格": "Estilo Snagit"
+      }
+    },
+    "l0428": {
+      "53": {
+        "快捷键修改后保存即可生效_无需重启程序": "💡 As alterações de atalhos entram em vigor após salvar, sem necessidade de reiniciar"
+      }
+    },
+    "l0449": {
+      "54": {
+        "与_self__get_hotkey_disp": "Conflita com {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0450": {
+      "55": {
+        "快捷键冲突_text_已被_sel": "⚠️ Conflito de atalho: {text} já está sendo usado por {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0453": {
+      "56": {
+        "有效": "Válido"
+      }
+    },
+    "l0462": {
+      "57": {
+        "全屏截图": "Captura de tela inteira"
+      }
+    },
+    "l0463": {
+      "58": {
+        "矩形截图": "Captura retangular"
+      }
+    },
+    "l0464": {
+      "59": {
+        "窗口控件截图": "Captura de janela/controle"
+      }
+    },
+    "l0465": {
+      "60": {
+        "取色器": "Seletor de cores"
+      }
+    },
+    "l0466": {
+      "61": {
+        "重复截取": "Repetir captura"
+      }
+    },
+    "l0467": {
+      "62": {
+        "白板": "Quadro branco"
+      }
+    },
+    "l0468": {
+      "63": {
+        "屏幕录制": "Gravação de tela"
+      }
+    },
+    "l0478": {
+      "64": {
+        "文件命名规则": "Regras de Nomeação de Arquivos"
+      }
+    },
+    "l0481": {
+      "65": {
+        "自定义前缀": "Prefixo personalizado:"
+      }
+    },
+    "l0486": {
+      "66": {
+        "命名模板": "Modelo de nomeação:"
+      }
+    },
+    "l0492": {
+      "67": {
+        "可用变量_YYYY_年份_2024": "Variáveis disponíveis:\n  ${YYYY} - Ano (2024)\n  ${MM} - Mês (01-12)\n  ${DD} - Dia (01-31)\n  ${HH} - Hora (00-23)\n  ${YYYYMMDD} - Data (20241201)\n  ${HHMMSS} - Hora (143052)\n  ${MODE} - Modo de captura\n  ${PREFIX} - Prefixo personalizado\n  ${SEQ} - Número sequencial (001, 002...)"
+      }
+    },
+    "l0510": {
+      "68": {
+        "预览": "Pré-visualização"
+      }
+    },
+    "l0561": {
+      "69": {
+        "选择保存目录": "Selecionar diretório de salvamento"
+      }
+    },
+    "l0567": {
+      "70": {
+        "默认": "Padrão"
+      }
+    },
+    "l0573": {
+      "71": {
+        "HyperSnap风格": "Estilo HyperSnap"
+      }
+    },
+    "l0579": {
+      "72": {
+        "Snagit风格": "Estilo Snagit"
+      }
+    },
+    "l0601": {
+      "73": {
+        "快捷键冲突": "Conflito de atalho"
+      }
+    },
+    "l0602": {
+      "74": {
+        "快捷键_text_被多个功能使用_请修改后再": "O atalho {text} é usado por várias funções. Modifique-o antes de salvar."
+      }
+    }
+  },
+  "ui_share_panel": {
+    "l0109": {
+      "01": {
+        "FTP服务器配置": "Configuração do Servidor FTP"
+      },
+      "02": {
+        "编辑FTP服务器": "Editar Servidor FTP"
+      }
+    },
+    "l0125": {
+      "03": {
+        "例如_我的服务器": "Exemplo: Meu servidor"
+      }
+    },
+    "l0126": {
+      "04": {
+        "名称": "Nome:"
+      }
+    },
+    "l0129": {
+      "05": {
+        "例如_ftp_example_com": "Exemplo: ftp.example.com"
+      }
+    },
+    "l0130": {
+      "06": {
+        "主机": "Host:"
+      }
+    },
+    "l0135": {
+      "07": {
+        "端口": "Porta:"
+      }
+    },
+    "l0138": {
+      "08": {
+        "用户名": "Nome de usuário:"
+      }
+    },
+    "l0142": {
+      "09": {
+        "密码": "Senha:"
+      }
+    },
+    "l0146": {
+      "10": {
+        "远程目录路径": "Caminho do diretório remoto"
+      }
+    },
+    "l0147": {
+      "11": {
+        "路径": "Caminho:"
+      }
+    },
+    "l0151": {
+      "12": {
+        "协议": "Protocolo:"
+      }
+    },
+    "l0156": {
+      "13": {
+        "测试连接": "Testar conexão"
+      }
+    },
+    "l0165": {
+      "14": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0170": {
+      "15": {
+        "保存": "Salvar"
+      }
+    },
+    "l0221": {
+      "16": {
+        "成功": "Sucesso"
+      },
+      "17": {
+        "连接测试成功": "Teste de conexão bem-sucedido!"
+      }
+    },
+    "l0223": {
+      "18": {
+        "失败": "Falhou"
+      },
+      "19": {
+        "连接失败_message": "Falha na conexão: {message}"
+      }
+    },
+    "l0227": {
+      "20": {
+        "错误": "Erro"
+      },
+      "21": {
+        "请填写名称和主机地址": "Preencha um nome e endereço de host"
+      }
+    },
+    "l0248": {
+      "22": {
+        "云存储账号管理": "Gerenciamento de Contas de Armazenamento em Nuvem"
+      }
+    },
+    "l0257": {
+      "23": {
+        "百度网盘": "Baidu Netdisk"
+      }
+    },
+    "l0262": {
+      "24": {
+        "未授权": "Não autorizado"
+      }
+    },
+    "l0275": {
+      "25": {
+        "授权后可将截图直接上传到百度网盘_方便跨设备访问": "Após a autorização, as capturas de tela podem ser enviadas diretamente para o Baidu Netdisk para acesso e compartilhamento convenientes entre dispositivos."
+      }
+    },
+    "l0281": {
+      "26": {
+        "授权百度网盘": "🔐 Autorizar Baidu Netdisk"
+      }
+    },
+    "l0299": {
+      "27": {
+        "关闭": "Fechar"
+      }
+    },
+    "l0324": {
+      "28": {
+        "提示": "Aviso"
+      },
+      "29": {
+        "百度网盘功能暂不可用": "O Baidu Netdisk está temporariamente indisponível"
+      }
+    },
+    "l0326": {
+      "30": {
+        "错误": "Erro"
+      },
+      "31": {
+        "授权失败_str_e": "Falha na autorização: {str(e)}"
+      }
+    },
+    "l0330": {
+      "32": {
+        "已授权": "✓ Autorizado"
+      }
+    },
+    "l0340": {
+      "33": {
+        "成功": "Sucesso"
+      }
+    },
+    "l0342": {
+      "34": {
+        "失败": "Falhou"
+      }
+    },
+    "l0350": {
+      "35": {
+        "分享进度": "Progresso do compartilhamento"
+      }
+    },
+    "l0357": {
+      "36": {
+        "准备中": "Preparando..."
+      }
+    },
+    "l0365": {
+      "37": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0397": {
+      "38": {
+        "关闭": "Fechar"
+      }
+    },
+    "l0425": {
+      "39": {
+        "分享": "Compartilhar"
+      }
+    },
+    "l0429": {
+      "40": {
+        "选择分享方式": "Escolher método de compartilhamento"
+      }
+    },
+    "l0476": {
+      "41": {
+        "社交分享": "Compartilhamento Social"
+      }
+    },
+    "l0483": {
+      "42": {
+        "微信": "WeChat"
+      }
+    },
+    "l0484": {
+      "43": {
+        "已安装_分享到微信": "Instalado - Compartilhar no WeChat"
+      },
+      "44": {
+        "未检测到微信客户端": "Cliente WeChat não detectado"
+      }
+    },
+    "l0491": {
+      "45": {
+        "已安装_分享到QQ": "Instalado - Compartilhar no QQ"
+      },
+      "46": {
+        "未检测到QQ客户端": "Cliente QQ não detectado"
+      }
+    },
+    "l0497": {
+      "47": {
+        "钉钉": "DingTalk"
+      }
+    },
+    "l0498": {
+      "48": {
+        "已安装_分享到钉钉": "Instalado - Compartilhar no DingTalk"
+      },
+      "49": {
+        "未检测到钉钉客户端": "Cliente DingTalk não detectado"
+      }
+    },
+    "l0504": {
+      "50": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0505": {
+      "51": {
+        "已安装_分享到企业微信": "Instalado - Compartilhar no WeCom"
+      },
+      "52": {
+        "未检测到企业微信客户端": "Cliente WeCom não detectado"
+      }
+    },
+    "l0513": {
+      "53": {
+        "云存储": "Armazenamento em Nuvem"
+      }
+    },
+    "l0517": {
+      "54": {
+        "百度网盘": "Baidu Netdisk"
+      },
+      "55": {
+        "上传并分享图像到百度网盘": "Fazer upload e compartilhar imagens no Baidu Netdisk"
+      }
+    },
+    "l0524": {
+      "56": {
+        "邮件": "Email"
+      }
+    },
+    "l0527": {
+      "57": {
+        "电子邮件": "Email"
+      },
+      "58": {
+        "添加图像的副本到电子邮件": "Adicionar uma cópia da imagem ao email"
+      }
+    },
+    "l0534": {
+      "59": {
+        "Office_应用": "Aplicativos Office"
+      }
+    },
+    "l0537": {
+      "60": {
+        "插入图像的副本到_Word": "Inserir uma cópia da imagem no Word"
+      }
+    },
+    "l0541": {
+      "61": {
+        "插入图像的副本到_Excel": "Inserir uma cópia da imagem no Excel"
+      }
+    },
+    "l0545": {
+      "62": {
+        "插入图像的副本到_PowerPoint": "Inserir uma cópia da imagem no PowerPoint"
+      }
+    },
+    "l0549": {
+      "63": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "64": {
+        "发送图像的副本到_Paint": "Enviar uma cópia da imagem para o Paint"
+      }
+    },
+    "l0564": {
+      "65": {
+        "发送到外部程序": "Enviar para programa externo"
+      }
+    },
+    "l0568": {
+      "66": {
+        "外部程序": "Programa Externo"
+      },
+      "67": {
+        "发送图像到_Photoshop_GIMP_等外部": "Enviar imagem para programas externos como Photoshop e GIMP"
+      }
+    },
+    "l0573": {
+      "68": {
+        "直接发送图像到_FTP_服务器": "Enviar imagem diretamente para o servidor FTP"
+      }
+    },
+    "l0580": {
+      "69": {
+        "快捷操作": "Ações rápidas"
+      }
+    },
+    "l0584": {
+      "70": {
+        "复制到剪贴板": "Copiar para a área de transferência"
+      },
+      "71": {
+        "Ctrl_C_快速复制": "Cópia rápida Ctrl+C"
+      }
+    },
+    "l0591": {
+      "72": {
+        "应用检测状态": "Status de detecção dos aplicativos"
+      }
+    },
+    "l0610": {
+      "73": {
+        "微信": "WeChat"
+      }
+    },
+    "l0611": {
+      "74": {
+        "钉钉": "DingTalk"
+      },
+      "75": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0625": {
+      "76": {
+        "重新检测": "🔄 Detectar novamente"
+      }
+    },
+    "l0649": {
+      "77": {
+        "提示": "Aviso"
+      },
+      "78": {
+        "请重新打开分享面板以刷新检测结果": "Reabra o painel de compartilhamento para atualizar os resultados da detecção"
+      }
+    },
+    "l0673": {
+      "79": {
+        "图像尺寸_w_h_像素": "Tamanho da imagem: {w} × {h} pixels"
+      }
+    },
+    "l0676": {
+      "80": {
+        "没有可分享的图像": "Nenhuma imagem disponível para compartilhar"
+      }
+    },
+    "l0681": {
+      "81": {
+        "提示": "Aviso"
+      },
+      "82": {
+        "请先截取或打开一张图像": "Capture ou abra uma imagem primeiro"
+      }
+    },
+    "l0713": {
+      "83": {
+        "提示": "Aviso"
+      },
+      "84": {
+        "功能开发中_share_type_value": "Recurso em desenvolvimento: {share_type.value}"
+      }
+    },
+    "l0721": {
+      "85": {
+        "正在处理": "Processando..."
+      }
+    },
+    "l0740": {
+      "86": {
+        "选择外部程序": "Selecionar programa externo"
+      }
+    },
+    "l0746": {
+      "87": {
+        "发送到Photoshop": "Enviar para o Photoshop"
+      }
+    },
+    "l0751": {
+      "88": {
+        "发送到GIMP": "Enviar para o GIMP"
+      }
+    },
+    "l0756": {
+      "89": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "90": {
+        "发送到画图": "Enviar para o Paint"
+      }
+    },
+    "l0762": {
+      "91": {
+        "关闭": "Fechar"
+      }
+    },
+    "l0784": {
+      "92": {
+        "提示": "Aviso"
+      },
+      "93": {
+        "请先截取或打开一张图像": "Capture ou abra uma imagem primeiro"
+      }
+    },
+    "l0797": {
+      "94": {
+        "FTP服务器": "Servidor FTP"
+      }
+    },
+    "l0803": {
+      "95": {
+        "已配置的服务器": "Servidores configurados:"
+      }
+    },
+    "l0813": {
+      "96": {
+        "添加": "Adicionar"
+      }
+    },
+    "l0817": {
+      "97": {
+        "编辑": "Editar"
+      }
+    },
+    "l0821": {
+      "98": {
+        "删除": "Excluir"
+      }
+    },
+    "l0828": {
+      "99": {
+        "上传到选中的服务器": "Carregar para o servidor selecionado"
+      }
+    },
+    "l0832": {
+      "100": {
+        "关闭": "Fechar"
+      }
+    },
+    "l0884": {
+      "101": {
+        "提示": "Aviso"
+      },
+      "102": {
+        "请先选择一个服务器": "Selecione primeiro um servidor"
+      }
+    },
+    "l0906": {
+      "103": {
+        "提示": "Aviso"
+      },
+      "104": {
+        "请先选择一个服务器": "Selecione primeiro um servidor"
+      }
+    },
+    "l0912": {
+      "105": {
+        "确认删除": "Confirmar exclusão"
+      }
+    },
+    "l0913": {
+      "106": {
+        "确定要删除服务器_name_吗": "Tem certeza de que deseja excluir o servidor '{name}'?"
+      }
+    },
+    "l0914": {
+      "107": {
+        "确定": "Confirmar"
+      },
+      "108": {
+        "取消": "Cancelar"
+      }
+    },
+    "l0925": {
+      "109": {
+        "提示": "Aviso"
+      },
+      "110": {
+        "请先选择一个服务器": "Selecione primeiro um servidor"
+      }
+    },
+    "l0929": {
+      "111": {
+        "提示": "Aviso"
+      },
+      "112": {
+        "请先截取或打开一张图像": "Capture ou abra uma imagem primeiro"
+      }
+    }
+  },
+  "ui_tab_manager": {
+    "l0160": {
+      "01": {
+        "关闭": "Fechar"
+      }
+    },
+    "l0164": {
+      "02": {
+        "关闭其他": "Fechar outros"
+      }
+    },
+    "l0235": {
+      "03": {
+        "新建": "Novo"
+      }
+    },
+    "l0353": {
+      "04": {
+        "未保存的更改": "Alterações não salvas"
+      }
+    },
+    "l0354": {
+      "05": {
+        "tab_data_title_有未保存的": "'{tab_data.title}' tem alterações não salvas. Tem certeza de que deseja fechá-lo?"
+      }
+    },
+    "l0355": {
+      "06": {
+        "保存": "Salvar"
+      },
+      "07": {
+        "不保存": "Não salvar"
+      },
+      "08": {
+        "取消": "Cancelar"
+      }
+    }
+  },
+  "ui_text_box": {
+    "l0363": {
+      "01": {
+        "确认文本": "✓ Confirmar texto"
+      }
+    },
+    "l0370": {
+      "02": {
+        "删除文本框": "🗑 Excluir caixa de texto"
+      }
+    },
+    "l0375": {
+      "03": {
+        "取消": "✗ Cancelar"
+      }
+    }
+  },
+  "ui_unified_preview_window": {
+    "l0117": {
+      "01": {
+        "截图导航": "📷 Navegação de capturas de tela"
+      }
+    },
+    "l0205": {
+      "02": {
+        "批量编辑": "⚙️ Edição em lote"
+      }
+    },
+    "l0211": {
+      "03": {
+        "旋转_90": "Girar 90°"
+      }
+    },
+    "l0212": {
+      "04": {
+        "旋转_90": "Girar -90°"
+      }
+    },
+    "l0213": {
+      "05": {
+        "水平翻转": "Inverter horizontalmente"
+      }
+    },
+    "l0214": {
+      "06": {
+        "垂直翻转": "Inverter verticalmente"
+      }
+    },
+    "l0215": {
+      "07": {
+        "全部模糊": "Desfocar tudo"
+      }
+    },
+    "l0216": {
+      "08": {
+        "全部锐化": "Nitidez em tudo"
+      }
+    },
+    "l0259": {
+      "09": {
+        "筛选和排序": "🔍 Filtrar e ordenar"
+      }
+    },
+    "l0264": {
+      "10": {
+        "排序方式": "Ordenar por:"
+      }
+    },
+    "l0266": {
+      "11": {
+        "最新优先": "Mais recentes primeiro"
+      },
+      "12": {
+        "最旧优先": "Mais antigos primeiro"
+      },
+      "13": {
+        "按名称": "Por nome"
+      },
+      "14": {
+        "按大小": "Por tamanho"
+      }
+    },
+    "l0271": {
+      "15": {
+        "搜索": "Pesquisar:"
+      }
+    },
+    "l0273": {
+      "16": {
+        "输入文件名": "Digite o nome do arquivo..."
+      }
+    },
+    "l0278": {
+      "17": {
+        "最小宽度": "Largura mínima:"
+      }
+    },
+    "l0289": {
+      "18": {
+        "最新优先": "Mais recentes primeiro"
+      }
+    },
+    "l0290": {
+      "19": {
+        "最旧优先": "Mais antigos primeiro"
+      }
+    },
+    "l0291": {
+      "20": {
+        "按名称": "Por nome"
+      }
+    },
+    "l0292": {
+      "21": {
+        "按大小": "Por tamanho"
+      }
+    },
+    "l0323": {
+      "22": {
+        "加载中": "Carregando..."
+      }
+    },
+    "l0349": {
+      "23": {
+        "处理中_current_total": "Processando... {current}/{total}"
+      }
+    },
+    "l0369": {
+      "24": {
+        "统一预览窗口_PyScreenshot": "Janela de visualização unificada - PyScreenshot"
+      }
+    },
+    "l0463": {
+      "25": {
+        "就绪": "Pronto"
+      }
+    },
+    "l0479": {
+      "26": {
+        "0_张截图": "0 capturas de tela"
+      }
+    },
+    "l0486": {
+      "27": {
+        "批量导出": "📦 Exportação em lote"
+      }
+    },
+    "l0501": {
+      "28": {
+        "关闭": "✕ Fechar"
+      }
+    },
+    "l0521": {
+      "29": {
+        "截图_len_self_screenshots": "Captura de tela {len(self.screenshots) + 1}"
+      }
+    },
+    "l0574": {
+      "30": {
+        "已打开编辑器_title": "✓ Editor aberto: {title}"
+      }
+    },
+    "l0579": {
+      "31": {
+        "提示": "Aviso"
+      },
+      "32": {
+        "没有可操作的截图": "Não há capturas de tela disponíveis para operar"
+      }
+    },
+    "l0582": {
+      "33": {
+        "执行_operation": "Executar {operation}"
+      }
+    },
+    "l0589": {
+      "34": {
+        "已完成_operation": "✓ {operation} concluído"
+      }
+    },
+    "l0594": {
+      "35": {
+        "提示": "Aviso"
+      },
+      "36": {
+        "没有可导出的截图": "Não há capturas de tela para exportar"
+      }
+    },
+    "l0597": {
+      "37": {
+        "已导出_len_self_screensh": "✓ {len(self.screenshots)} capturas de tela exportadas"
+      }
+    },
+    "l0610": {
+      "38": {
+        "count_张截图": "{count} capturas de tela"
+      }
+    }
+  },
+  "updater": {
+    "l0106": {
+      "01": {
+        "正在升级系统": "Atualizando o sistema"
+      }
+    },
+    "l0118": {
+      "02": {
+        "准备就绪": "Preparando..."
+      }
+    },
+    "l0194": {
+      "03": {
+        "正在关闭主程序": "Fechando o programa principal..."
+      }
+    },
+    "l0211": {
+      "04": {
+        "正在下载更新包": "Baixando o pacote de atualização..."
+      }
+    },
+    "l0237": {
+      "05": {
+        "校验失败_下载文件损坏": "Falha na verificação: o arquivo baixado está corrompido"
+      }
+    },
+    "l0244": {
+      "06": {
+        "下载失败_str_e": "Falha no download: {str(e)}"
+      }
+    },
+    "l0249": {
+      "07": {
+        "正在安装更新": "Instalando atualização..."
+      }
+    },
+    "l0271": {
+      "08": {
+        "正在重试_i_1_max_retri": "Tentando novamente ({i + 1}/{max_retries})..."
+      }
+    },
+    "l0278": {
+      "09": {
+        "安装失败_文件被占用": "Falha na instalação: o arquivo está em uso"
+      }
+    },
+    "l0283": {
+      "10": {
+        "清理并重启": "Limpando e reiniciando..."
+      }
+    },
+    "l0304": {
+      "11": {
+        "启动失败_请手动打开程序": "Falha ao iniciar, abra o programa manualmente"
+      }
+    },
+    "l0308": {
+      "12": {
+        "未找到主程序": "Programa principal não encontrado"
+      }
+    },
+    "l0313": {
+      "13": {
+        "更新出错_请联系支持": "Erro na atualização, entre em contato com o suporte"
+      }
+    }
+  },
+  "默认保存路径:": "Caminho de gravação padrão:",
+  "默认格式:": "Formato padrão:",
+  "界面语言:": "Idioma da interface:",
+  "当前版本: {current_version}": "Versão atual: {current_version}",
+  "按 F8 可重复上次截图操作": "Prima F8 para repetir a última captura de ecrã",
+  "💡 快捷键修改后保存即可生效，无需重启程序": "💡 As alterações dos atalhos entram em vigor após guardar, sem necessidade de reiniciar o programa",
+  "HyperSnap风格": "Estilo HyperSnap",
+  "Snagit风格": "Estilo Snagit",
+  "\n可用变量:\n   - 年份 (2024)\n   - 月份 (01-12)\n   - 日期 (01-31)\n   - 小时 (00-23)\n   - 日期 (20241201)\n   - 时间 (143052)\n   - 截图模式\n   - 自定义前缀\n   - 序号 (001, 002...)\n        ": "\nVariáveis disponíveis:\n   - Ano (2024)\n   - Mês (01-12)\n   - Dia (01-31)\n   - Hora (00-23)\n   - Data (20241201)\n   - Hora (143052)\n   - Modo de captura\n   - Prefixo personalizado\n   - Número sequencial (001, 002...)\n        ",
+  "全屏截图:": "Captura de ecrã inteira:",
+  "矩形截图:": "Captura retangular:",
+  "窗口控件截图:": "Captura de controlo da janela:",
+  "取色器:": "Seletor de cores:",
+  "重复截取:": "Repetir captura:",
+  "白板:": "Quadro branco:",
+  "开始/停止录屏:": "Iniciar/Parar gravação do ecrã:"
+}

@@ -1,0 +1,108 @@
+from pathlib import Path
+
+# settings_dialog second pass
+p = Path(r"C:\Users\admin\Desktop\ff\截图贴图工具\screenshot_tool\ui\settings_dialog.py")
+text = p.read_text(encoding='utf-8')
+repls = {
+    'self.setPlaceholderText("点击后按下快捷键...")':'self.setPlaceholderText(tr("点击后按下快捷键..."))',
+    '("fullscreen", "全屏截图:", "例如: Ctrl+Shift+F"),':'("fullscreen", tr("全屏截图:"), tr("例如: Ctrl+Shift+F")),',
+    '("region", "矩形截图:", "例如: Ctrl+Shift+A"),':'("region", tr("矩形截图:"), tr("例如: Ctrl+Shift+A")),',
+    '("control", "窗口控件截图:", "例如: Ctrl+Shift+W"),':'("control", tr("窗口控件截图:"), tr("例如: Ctrl+Shift+W")),',
+    '("color_picker", "取色器:", "例如: Ctrl+Shift+C"),':'("color_picker", tr("取色器:"), tr("例如: Ctrl+Shift+C")),',
+    '("repeat_capture", "重复截取:", "例如: F8"),':'("repeat_capture", tr("重复截取:"), tr("例如: F8")),',
+    '("whiteboard", "白板:", "例如: Win+Shift+W"),':'("whiteboard", tr("白板:"), tr("例如: Win+Shift+W")),',
+    '("screen_record", "开始/停止录屏:", "例如: Ctrl+Shift+R"),':'("screen_record", tr("开始/停止录屏:"), tr("例如: Ctrl+Shift+R")),',
+    '"fullscreen": "全屏截图",':'"fullscreen": tr("全屏截图"),',
+    '"region": "矩形截图",':'"region": tr("矩形截图"),',
+    '"control": "窗口控件截图",':'"control": tr("窗口控件截图"),',
+    '"color_picker": "取色器",':'"color_picker": tr("取色器"),',
+    '"repeat_capture": "重复截取",':'"repeat_capture": tr("重复截取"),',
+    '"whiteboard": "白板",':'"whiteboard": tr("白板"),',
+    '"screen_record": "屏幕录制",':'"screen_record": tr("屏幕录制"),',
+    'path = QFileDialog.getExistingDirectory(self, "选择保存目录", self.path_edit.text())':'path = QFileDialog.getExistingDirectory(self, tr("选择保存目录"), self.path_edit.text())',
+    '"默认": {':'tr("默认"): {',
+    '"HyperSnap风格": {':'tr("HyperSnap风格"): {',
+    '"Snagit风格": {':'tr("Snagit风格"): {',
+    'ModernMessageBox.warning(self, "快捷键冲突",':'ModernMessageBox.warning(self, tr("快捷键冲突"),',
+    'f"快捷键 {text} 与其他快捷键重复，请修改后再保存。")':'tr("快捷键 {text} 与其他快捷键重复，请修改后再保存。").format(text=text))',
+}
+for old, new in repls.items():
+    text = text.replace(old, new)
+p.write_text(text, encoding='utf-8')
+
+# main_window second pass
+p = Path(r"C:\Users\admin\Desktop\ff\截图贴图工具\screenshot_tool\ui\main_window.py")
+text = p.read_text(encoding='utf-8')
+repls = {
+    '("💾 保存", self._save_current),':'(tr("💾 保存"), self._save_current),',
+    '("📑 另存为", self._save_as),':'(tr("📑 另存为"), self._save_as),',
+    '("🖨️ 打印", self._print),':'(tr("🖨️ 打印"), self._print),',
+    '("📤 分享", self.show_share),':'(tr("📤 分享"), self.show_share),',
+    '("⚙️ 设置", self.open_settings),':'(tr("⚙️ 设置"), self.open_settings),',
+    'self.login_btn = SidebarButton("👤 登录")':'self.login_btn = SidebarButton(tr("👤 登录"))',
+    'exit_btn = SidebarButton("🚪 退出")':'exit_btn = SidebarButton(tr("🚪 退出"))',
+    'title = QLabel("选择功能")':'title = QLabel(tr("选择功能"))',
+    'self.customize_btn = QPushButton(" + 需要更多功能")':'self.customize_btn = QPushButton(tr(" + 需要更多功能"))',
+    'self.status_label = QLabel("就绪 | 按 F8 重复上次截图")':'self.status_label = QLabel(tr("就绪 | 按 F8 重复上次截图"))',
+    'self.cancel_login_btn = QPushButton("取消登录")':'self.cancel_login_btn = QPushButton(tr("取消登录"))',
+    'checkbox = QCheckBox("启动时不再显示此窗口")':'checkbox = QCheckBox(tr("启动时不再显示此窗口"))',
+    'self.brand_label = QLabel("鲲穹AI旗下产品")':'self.brand_label = QLabel(tr("鲲穹AI旗下产品"))',
+    'task_title = QLabel("🚀 快速开始")':'task_title = QLabel(tr("🚀 快速开始"))',
+    'new_btn = IconButton("#0078D7", "新建", "新建图像", "📄")':'new_btn = IconButton("#0078D7", tr("新建"), tr("新建图像"), "📄")',
+    'open_btn = IconButton("#4CAF50", "打开", "打开已有文件", "📂")':'open_btn = IconButton("#4CAF50", tr("打开"), tr("打开已有文件"), "📂")',
+    'capture_title = QLabel("📸 截取屏幕")':'capture_title = QLabel(tr("📸 截取屏幕"))',
+    'fullscreen_btn = IconButton("#2196F3", "全屏", "", "🖥️")':'fullscreen_btn = IconButton("#2196F3", tr("全屏"), "", "🖥️")',
+    'self.window_btn = WindowMenuButton("#2196F3", "窗口", self.screen_capture)':'self.window_btn = WindowMenuButton("#2196F3", tr("窗口"), self.screen_capture)',
+    '("#FF9800", "矩形截图", self.capture_region, "⬚"),':'("#FF9800", tr("矩形截图"), self.capture_region, "⬚"),',
+    '("#9C27B0", "窗口控件", self.capture_control, "🧩"),':'("#9C27B0", tr("窗口控件"), self.capture_control, "🧩"),',
+    '("#3F51B5", "滚动截图", self.capture_scroll_window, "📜"),':'("#3F51B5", tr("滚动截图"), self.capture_scroll_window, "📜"),',
+    '("#009688", "任意形状", self.capture_freeform, "✏️"),':'("#009688", tr("任意形状"), self.capture_freeform, "✏️"),',
+    'repeat_btn = IconButton("#78909C", "重复截取", "F8 重复上次操作", "🔁")':'repeat_btn = IconButton("#78909C", tr("重复截取"), tr("F8 重复上次操作"), "🔁")',
+    'tools_title = QLabel("🧰 实用工具")':'tools_title = QLabel(tr("🧰 实用工具"))',
+    '("#F44336", "屏幕录制", "录制屏幕视频", self.open_screen_recorder, "🎥"),':'("#F44336", tr("屏幕录制"), tr("录制屏幕视频"), self.open_screen_recorder, "🎥"),',
+    '("#9C27B0", "取色器", "从屏幕上拾取颜色", self.open_color_picker, "🎯"),':'("#9C27B0", tr("取色器"), tr("从屏幕上拾取颜色"), self.open_color_picker, "🎯"),',
+    '("#E91E63", "调色板", "在调色板上混合颜色", self.open_palette, "🎨"),':'("#E91E63", tr("调色板"), tr("在调色板上混合颜色"), self.open_palette, "🎨"),',
+    '("#2196F3", "放大镜", "将屏幕局部放大细览", self.open_magnifier, "🔍"),':'("#2196F3", tr("放大镜"), tr("将屏幕局部放大细览"), self.open_magnifier, "🔍"),',
+    '("#FF9800", "尺子", "测量屏幕对象的尺寸", self.open_ruler, "📏"),':'("#FF9800", tr("尺子"), tr("测量屏幕对象的尺寸"), self.open_ruler, "📏"),',
+    '("#4CAF50", "十字线", "辅助精准定位", self.open_crosshair, "十"),':'("#4CAF50", tr("十字线"), tr("辅助精准定位"), self.open_crosshair, "十"),',
+    '("#00BCD4", "量角器", "测量屏幕上夹角角度", self.open_protractor, "📐"),':'("#00BCD4", tr("量角器"), tr("测量屏幕上夹角角度"), self.open_protractor, "📐"),',
+    '("#795548", "白板", "用于演示涂鸦", self.open_whiteboard, "📝"),':'("#795548", tr("白板"), tr("用于演示涂鸦"), self.open_whiteboard, "📝"),',
+    'nickname = user_info.get("nickname", "已登录")':'nickname = user_info.get("nickname", tr("已登录"))',
+    'self.login_btn.setToolTip("点击查看用户信息或退出登录")':'self.login_btn.setToolTip(tr("点击查看用户信息或退出登录"))',
+    'self.login_btn.setText("👤 登录")':'self.login_btn.setText(tr("👤 登录"))',
+    'self.login_btn.setToolTip("点击登录鲲穹AI账号")':'self.login_btn.setToolTip(tr("点击登录鲲穹AI账号"))',
+    'self, "登录确认",':'self, tr("登录确认"),',
+    '"请在浏览器页面中登录后再关闭此窗口\n\n登录完成后请返回本程序。",':'tr("请在浏览器页面中登录后再关闭此窗口\n\n登录完成后请返回本程序。"),',
+    'self.status_label.setText("正在等待网页登录完成...")':'self.status_label.setText(tr("正在等待网页登录完成..."))',
+    'self.status_label.setText("登录已取消")':'self.status_label.setText(tr("登录已取消"))',
+    'logout_action = QAction("🚪 退出登录", menu)':'logout_action = QAction(tr("🚪 退出登录"), menu)',
+    'self.status_label.setText("已退出登录")':'self.status_label.setText(tr("已退出登录"))',
+    'ModernMessageBox.success(self, "提示", "已成功退出登录")':'ModernMessageBox.success(self, tr("提示"), tr("已成功退出登录"))',
+    'self.status_label.setText("登录成功")':'self.status_label.setText(tr("登录成功"))',
+    'ModernMessageBox.success(self, "登录成功", "欢迎回来，账号已同步完成")':'ModernMessageBox.success(self, tr("登录成功"), tr("欢迎回来，账号已同步完成"))',
+    'self.status_label.setText("登录失败")':'self.status_label.setText(tr("登录失败"))',
+    'ModernMessageBox.warning(self, "登录失败", f"登录流程出现错误\n{error_msg}")':'ModernMessageBox.warning(self, tr("登录失败"), tr("登录流程出现错误\n{error_msg}").format(error_msg=error_msg))',
+    'self.status_label.setText("没有可重复的截图任务")':'self.status_label.setText(tr("没有可重复的截图任务"))',
+    'self.status_label.setText("未知的截图模式")':'self.status_label.setText(tr("未知的截图模式"))',
+    'ModernMessageBox.information(self, "提示", "没有可恢复的预览状态")':'ModernMessageBox.information(self, tr("提示"), tr("没有可恢复的预览状态"))',
+    'ModernMessageBox.warning(self, "错误", "预览缓存已过期或不存在")':'ModernMessageBox.warning(self, tr("错误"), tr("预览缓存已过期或不存在"))',
+    'self.statusBar().showMessage(f"正在恢复 {len(session_caches)} 个标签页...")':'self.statusBar().showMessage(tr("正在恢复 {count} 个标签页...").format(count=len(session_caches)))',
+    'title = cache_item.metadata.get("title", "未命名")':'title = cache_item.metadata.get("title", tr("未命名"))',
+    'f"✓ 已恢复 {len(session_caches)} 个标签页", 3000':'tr("✓ 已恢复 {count} 个标签页").format(count=len(session_caches)), 3000',
+    'ModernMessageBox.warning(self, "错误", "无法加载预览图像")':'ModernMessageBox.warning(self, tr("错误"), tr("无法加载预览图像"))',
+    'self, "打开图像", "",':'self, tr("打开图像"), "",',
+    '"图像文件 (*.png *.jpg *.jpeg *.bmp *.gif);;所有文件 (*.*)"':'tr("图像文件 (*.png *.jpg *.jpeg *.bmp *.gif);;所有文件 (*.*)")',
+    'self, "提示",':'self, tr("提示"),',
+    '"请先打开或截取一张图像然后在编辑器中进行保存。"':'tr("请先打开或截取一张图像然后在编辑器中进行保存。")',
+    '"请先打开或截取一张图像然后在编辑器中进行另存为。"':'tr("请先打开或截取一张图像然后在编辑器中进行另存为。")',
+    '"请先打开或截取一张图像然后在编辑器中进行打印。"':'tr("请先打开或截取一张图像然后在编辑器中进行打印。")',
+    'ModernMessageBox.information(self, "提示", "剪贴板中没有可粘贴图像")':'ModernMessageBox.information(self, tr("提示"), tr("剪贴板中没有可粘贴图像"))',
+    '"没有可分享的图像\n请先截取或打开一张图像"':'tr("没有可分享的图像\n请先截取或打开一张图像")',
+    'ModernMessageBox.information(self, "提示", "没有可分享的图像")':'ModernMessageBox.information(self, tr("提示"), tr("没有可分享的图像"))',
+    'dialog.setWindowTitle("分享")':'dialog.setWindowTitle(tr("分享"))',
+    'ModernMessageBox.information(self, "提示", "预览缓存已过期，请重新截图")':'ModernMessageBox.information(self, tr("提示"), tr("预览缓存已过期，请重新截图"))',
+}
+for old, new in repls.items():
+    text = text.replace(old, new)
+p.write_text(text, encoding='utf-8')
+print('patched')

@@ -1,0 +1,5586 @@
+{
+  "core_cloud_storage": {
+    "l0174": {
+      "02": {
+        "授权成功": "Uthibitishaji umefaulu"
+      }
+    },
+    "l0179": {
+      "04": {
+        "授权失败_str_e": "Uthibitishaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0215": {
+      "05": {
+        "未授权": "Hujaidhinishwa"
+      }
+    },
+    "l0244": {
+      "07": {
+        "上传失败_str_e": "Upakiaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0262": {
+      "08": {
+        "创建上传会话失败": "Imeshindwa kuunda kipindi cha upakiaji"
+      }
+    },
+    "l0290": {
+      "10": {
+        "上传成功": "Upakiaji umefaulu"
+      }
+    },
+    "l0383": {
+      "11": {
+        "授权成功": "Uthibitishaji umefaulu"
+      }
+    },
+    "l0385": {
+      "12": {
+        "授权失败": "Uthibitishaji umeshindwa"
+      }
+    },
+    "l0390": {
+      "14": {
+        "授权失败_str_e": "Uthibitishaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0400": {
+      "15": {
+        "未授权": "Hujaidhinishwa"
+      }
+    },
+    "l0428": {
+      "16": {
+        "预上传失败_result": "Maandalizi ya upakiaji yameshindwa: {result}"
+      }
+    },
+    "l0466": {
+      "17": {
+        "上传成功_remote_path_fil": "Upakiaji umefaulu: {remote_path}/{filename}"
+      }
+    },
+    "l0468": {
+      "18": {
+        "创建文件失败_result": "Imeshindwa kuunda faili: {result}"
+      }
+    },
+    "l0471": {
+      "19": {
+        "上传失败_str_e": "Upakiaji umeshindwa: {str(e)}"
+      }
+    }
+  },
+  "core_ftp_manager": {
+    "l0067": {
+      "01": {
+        "正在连接服务器": "Inaunganisha kwenye seva..."
+      }
+    },
+    "l0071": {
+      "02": {
+        "上传已取消": "Upakiaji umeghairiwa"
+      }
+    },
+    "l0074": {
+      "03": {
+        "正在上传文件": "Inapakia faili..."
+      }
+    },
+    "l0078": {
+      "04": {
+        "上传成功": "Upakiaji umefaulu"
+      }
+    },
+    "l0081": {
+      "05": {
+        "权限错误_e": "Hitilafu ya ruhusa: {e}"
+      }
+    },
+    "l0083": {
+      "06": {
+        "临时错误_e": "Hitilafu ya muda: {e}"
+      }
+    },
+    "l0085": {
+      "07": {
+        "连接被拒绝_请检查服务器地址和端口": "Muunganisho umekataliwa, tafadhali angalia anwani ya seva na bandari"
+      }
+    },
+    "l0087": {
+      "08": {
+        "连接超时": "Muunganisho umeishiwa muda"
+      }
+    },
+    "l0089": {
+      "09": {
+        "上传失败_str_e": "Upakiaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0154": {
+      "10": {
+        "断点续传_从_rest_position_字": "Inaendelea na upakiaji, inaanza kutoka baiti {rest_position}..."
+      }
+    },
+    "l0160": {
+      "11": {
+        "上传已取消": "Upakiaji umeghairiwa"
+      }
+    },
+    "l0214": {
+      "12": {
+        "连接成功": "Imeunganishwa kwa mafanikio"
+      }
+    },
+    "l0216": {
+      "13": {
+        "认证失败_e": "Uthibitishaji umeshindwa: {e}"
+      }
+    },
+    "l0218": {
+      "14": {
+        "连接被拒绝": "Muunganisho umekataliwa"
+      }
+    },
+    "l0220": {
+      "15": {
+        "连接超时": "Muunganisho umeishiwa muda"
+      }
+    },
+    "l0222": {
+      "16": {
+        "连接失败_str_e": "Muunganisho umeshindwa: {str(e)}"
+      }
+    }
+  },
+  "core_hotkey_manager": {
+    "l0111": {
+      "03": {
+        "无效的快捷键": "Kitufe mkato si halali"
+      }
+    },
+    "l0123": {
+      "05": {
+        "注册成功": "Imesajiliwa kwa mafanikio"
+      }
+    },
+    "l0126": {
+      "06": {
+        "快捷键可能被其他程序占用": "Kitufe mkato huenda kinatumiwa na programu nyingine"
+      },
+      "07": {
+        "错误代码_error_code": "Msimbo wa hitilafu: {error_code}"
+      }
+    },
+    "l0176": {
+      "11": {
+        "全屏截图": "Picha ya skrini nzima"
+      }
+    },
+    "l0177": {
+      "12": {
+        "矩形截图": "Picha ya skrini ya mstatili"
+      }
+    },
+    "l0178": {
+      "13": {
+        "窗口控件截图": "Picha ya skrini ya dirisha/kidhibiti"
+      }
+    },
+    "l0179": {
+      "14": {
+        "取色器": "Kichagua rangi"
+      }
+    },
+    "l0180": {
+      "15": {
+        "重复截取": "Rudia kunasa"
+      }
+    },
+    "l0181": {
+      "16": {
+        "白板": "Ubao mweupe"
+      }
+    },
+    "l0182": {
+      "17": {
+        "智能粘贴": "Bandika mahiri"
+      }
+    },
+    "l0183": {
+      "18": {
+        "屏幕录制": "Kurekodi skrini"
+      }
+    },
+    "l0288": {
+      "19": {
+        "准备注册快捷键_name_hotke": "Inajiandaa kusajili kitufe mkato: {name} = {hotkeys_config[name]}"
+      }
+    },
+    "l0300": {
+      "20": {
+        "快捷键监听线程已启动": "Nyuzi ya kusikiliza vitufe mkato imeanza"
+      }
+    },
+    "l0308": {
+      "21": {
+        "快捷键_display_name_注册成": "Kitufe mkato [{display_name}] kimesajiliwa kwa mafanikio"
+      }
+    },
+    "l0310": {
+      "22": {
+        "快捷键_display_name_注册失": "Usajili wa kitufe mkato [{display_name}] umeshindwa: {message}"
+      }
+    },
+    "l0322": {
+      "23": {
+        "快捷键与_conflict_冲突": "Kitufe mkato kinakinzana na [{conflict}]"
+      }
+    },
+    "l0332": {
+      "24": {
+        "已禁用": "Imezimwa"
+      }
+    },
+    "l0335": {
+      "25": {
+        "无效的快捷键格式": "Muundo wa kitufe mkato si halali"
+      }
+    },
+    "l0345": {
+      "26": {
+        "未知的快捷键名称": "Jina la kitufe mkato halijulikani"
+      }
+    },
+    "l0354": {
+      "27": {
+        "快捷键_name_已更新为_hotke": "Kitufe mkato [{name}] kimesasishwa kuwa {hotkey_str}"
+      }
+    },
+    "l0355": {
+      "28": {
+        "更新成功": "Imesasishwa kwa mafanikio"
+      }
+    },
+    "l0357": {
+      "29": {
+        "快捷键服务未运行": "Huduma ya vitufe mkato haifanyi kazi"
+      }
+    },
+    "l0370": {
+      "30": {
+        "快捷键_name_已移除": "Kitufe mkato [{name}] kimeondolewa"
+      }
+    },
+    "l0375": {
+      "31": {
+        "快捷键触发_name": "Kitufe mkato kimeanzishwa: {name}"
+      }
+    },
+    "l0397": {
+      "32": {
+        "正在注销所有快捷键": "Inaondoa usajili wa vitufe mkato vyote..."
+      }
+    },
+    "l0401": {
+      "33": {
+        "所有快捷键已注销": "Vitufe mkato vyote vimeondolewa usajili"
+      }
+    },
+    "l0405": {
+      "34": {
+        "重新加载快捷键配置": "Inapakia upya usanidi wa vitufe mkato..."
+      }
+    }
+  },
+  "core_kunqiong_login": {
+    "l0177": {
+      "04": {
+        "无法连接到登录服务器": "Haiwezi kuunganisha kwenye seva ya kuingia"
+      }
+    },
+    "l0189": {
+      "05": {
+        "无法打开系统浏览器": "Haiwezi kufungua kivinjari cha mfumo"
+      }
+    },
+    "l0192": {
+      "06": {
+        "启动浏览器失败_e": "Imeshindwa kuanzisha kivinjari: {e}"
+      }
+    },
+    "l0199": {
+      "07": {
+        "登录超时": "Kuingia kumeishiwa muda"
+      }
+    },
+    "l0224": {
+      "08": {
+        "获取用户信息失败": "Imeshindwa kupata taarifa za mtumiaji"
+      }
+    }
+  },
+  "core_ocr_engine": {
+    "l0035": {
+      "01": {
+        "rapidocr_onnxruntime_未安装": "rapidocr_onnxruntime haijasakinishwa, vipengele vya OCR vya ndani havipatikani"
+      }
+    }
+  },
+  "core_office_export": {
+    "l0106": {
+      "01": {
+        "截图内容": "Maudhui ya picha ya skrini"
+      }
+    },
+    "l0134": {
+      "02": {
+        "需要安装_python_docx_库_pip": "Maktaba ya python-docx inahitajika: pip install python-docx"
+      }
+    },
+    "l0136": {
+      "03": {
+        "导出失败_str_e": "Usafirishaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0149": {
+      "04": {
+        "截图": "Picha ya skrini"
+      }
+    },
+    "l0179": {
+      "05": {
+        "需要安装_openpyxl_库_pip_ins": "Maktaba ya openpyxl inahitajika: pip install openpyxl"
+      }
+    },
+    "l0181": {
+      "06": {
+        "导出失败_str_e": "Usafirishaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0238": {
+      "07": {
+        "需要安装_python_pptx_库_pip": "Maktaba ya python-pptx inahitajika: pip install python-pptx"
+      }
+    },
+    "l0240": {
+      "08": {
+        "导出失败_str_e": "Usafirishaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0256": {
+      "09": {
+        "发送失败_str_e": "Kutuma kumeshindwa: {str(e)}"
+      }
+    },
+    "l0298": {
+      "10": {
+        "发送失败_str_e": "Kutuma kumeshindwa: {str(e)}"
+      }
+    },
+    "l0327": {
+      "11": {
+        "未找到GIMP程序": "Programu ya GIMP haikupatikana"
+      }
+    },
+    "l0330": {
+      "12": {
+        "发送失败_str_e": "Kutuma kumeshindwa: {str(e)}"
+      }
+    }
+  },
+  "core_share_manager": {
+    "l0147": {
+      "01": {
+        "准备中": "Inajiandaa..."
+      }
+    },
+    "l0180": {
+      "02": {
+        "分享任务_task_share_type_va": "Shiriki kazi {task.share_type.value}"
+      }
+    },
+    "l0192": {
+      "03": {
+        "正在导出到Word": "Inasafirisha kwenda Word..."
+      }
+    },
+    "l0198": {
+      "04": {
+        "已导出到Word": "Imesafirishwa kwenda Word"
+      }
+    },
+    "l0209": {
+      "05": {
+        "正在导出到Excel": "Inasafirisha kwenda Excel..."
+      }
+    },
+    "l0215": {
+      "06": {
+        "已导出到Excel": "Imesafirishwa kwenda Excel"
+      }
+    },
+    "l0226": {
+      "07": {
+        "正在导出到PowerPoint": "Inasafirisha kwenda PowerPoint..."
+      }
+    },
+    "l0232": {
+      "08": {
+        "已导出到PowerPoint": "Imesafirishwa kwenda PowerPoint"
+      }
+    },
+    "l0247": {
+      "09": {
+        "已发送到画图": "Imetumwa kwenda Paint"
+      }
+    },
+    "l0262": {
+      "10": {
+        "已发送到Photoshop": "Imetumwa kwenda Photoshop"
+      }
+    },
+    "l0277": {
+      "11": {
+        "已发送到GIMP": "Imetumwa kwenda GIMP"
+      }
+    },
+    "l0295": {
+      "12": {
+        "未找到服务器配置_server_name": "Usanidi wa seva haukupatikana: {server_name}"
+      }
+    },
+    "l0321": {
+      "13": {
+        "正在上传": "Inapakia..."
+      }
+    },
+    "l0331": {
+      "14": {
+        "上传中_uploaded_total": "Inapakia... {uploaded}/{total} baiti"
+      }
+    },
+    "l0339": {
+      "15": {
+        "上传成功": "Upakiaji umefaulu"
+      }
+    },
+    "l0434": {
+      "16": {
+        "请先授权OneDrive账号": "Tafadhali idhinisha akaunti yako ya OneDrive kwanza"
+      }
+    },
+    "l0454": {
+      "17": {
+        "正在上传": "Inapakia..."
+      }
+    },
+    "l0469": {
+      "18": {
+        "请先授权百度网盘账号": "Tafadhali idhinisha akaunti yako ya Baidu Netdisk kwanza"
+      }
+    },
+    "l0484": {
+      "19": {
+        "正在上传": "Inapakia..."
+      }
+    }
+  },
+  "core_social_share": {
+    "l0099": {
+      "01": {
+        "Applications_企业微信_app": "/Applications/WeCom.app"
+      }
+    },
+    "l0116": {
+      "02": {
+        "分享内容_date_str": "Maudhui yaliyoshirikiwa-{date_str}"
+      }
+    },
+    "l0125": {
+      "03": {
+        "请查看附件中的截图内容": "Tafadhali angalia maudhui ya picha ya skrini kwenye kiambatisho."
+      }
+    },
+    "l0128": {
+      "04": {
+        "已打开邮件客户端": "Mteja wa barua pepe umefunguliwa"
+      }
+    },
+    "l0134": {
+      "05": {
+        "已打开邮件客户端_请手动添加附件_temp": "Mteja wa barua pepe umefunguliwa, tafadhali ongeza kiambatisho mwenyewe: {temp_file}"
+      }
+    },
+    "l0138": {
+      "06": {
+        "tell_application_Mail": "tell application \"Mail\"\n                    set newMessage to make new outgoing message with properties {subject:\"{subject}\", content:\"Please check the screenshot content in the attachment.\"}\n                    tell newMessage\n                        make new attachment with properties {file name:POSIX file \"{temp_file}\"}\n                    end tell\n                    activate\n                end tell"
+      }
+    },
+    "l0148": {
+      "07": {
+        "已打开邮件客户端": "Mteja wa barua pepe umefunguliwa"
+      }
+    },
+    "l0153": {
+      "08": {
+        "已打开邮件客户端": "Mteja wa barua pepe umefunguliwa"
+      }
+    },
+    "l0156": {
+      "09": {
+        "打开邮件客户端失败_str_e": "Imeshindwa kufungua mteja wa barua pepe: {str(e)}"
+      }
+    },
+    "l0177": {
+      "10": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Imenakiliwa kwenye ubao wa kunakili na WeChat imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo (Ctrl+V)"
+      }
+    },
+    "l0181": {
+      "11": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Imenakiliwa kwenye ubao wa kunakili na WeChat imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo (Cmd+V)"
+      }
+    },
+    "l0183": {
+      "12": {
+        "已复制到剪贴板_请手动打开微信并粘贴": "Imenakiliwa kwenye ubao wa kunakili, tafadhali fungua WeChat mwenyewe na ubandike"
+      }
+    },
+    "l0186": {
+      "13": {
+        "分享失败_str_e": "Kushiriki kumeshindwa: {str(e)}"
+      }
+    },
+    "l0206": {
+      "14": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Imenakiliwa kwenye ubao wa kunakili na QQ imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo (Ctrl+V)"
+      }
+    },
+    "l0210": {
+      "15": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Imenakiliwa kwenye ubao wa kunakili na QQ imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo (Cmd+V)"
+      }
+    },
+    "l0212": {
+      "16": {
+        "已复制到剪贴板_请手动打开QQ并粘贴": "Imenakiliwa kwenye ubao wa kunakili, tafadhali fungua QQ mwenyewe na ubandike"
+      }
+    },
+    "l0215": {
+      "17": {
+        "分享失败_str_e": "Kushiriki kumeshindwa: {str(e)}"
+      }
+    },
+    "l0233": {
+      "18": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Imenakiliwa kwenye ubao wa kunakili na DingTalk imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo"
+      }
+    },
+    "l0237": {
+      "19": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Imenakiliwa kwenye ubao wa kunakili na DingTalk imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo"
+      }
+    },
+    "l0239": {
+      "20": {
+        "已复制到剪贴板_请手动打开钉钉并粘贴": "Imenakiliwa kwenye ubao wa kunakili, tafadhali fungua DingTalk mwenyewe na ubandike"
+      }
+    },
+    "l0242": {
+      "21": {
+        "分享失败_str_e": "Kushiriki kumeshindwa: {str(e)}"
+      }
+    },
+    "l0260": {
+      "22": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Imenakiliwa kwenye ubao wa kunakili na WeCom imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo"
+      }
+    },
+    "l0263": {
+      "23": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0264": {
+      "24": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Imenakiliwa kwenye ubao wa kunakili na WeCom imefunguliwa, tafadhali bandika kwenye dirisha la mazungumzo"
+      }
+    },
+    "l0266": {
+      "25": {
+        "已复制到剪贴板_请手动打开企业微信并粘贴": "Imenakiliwa kwenye ubao wa kunakili, tafadhali fungua WeCom mwenyewe na ubandike"
+      }
+    },
+    "l0269": {
+      "26": {
+        "分享失败_str_e": "Kushiriki kumeshindwa: {str(e)}"
+      }
+    },
+    "l0282": {
+      "27": {
+        "已复制到剪贴板": "Imenakiliwa kwenye ubao wa kunakili"
+      }
+    },
+    "l0284": {
+      "28": {
+        "复制失败_str_e": "Kunakili kumeshindwa: {str(e)}"
+      }
+    },
+    "l0340": {
+      "29": {
+        "上传失败_response_status_c": "Upakiaji umeshindwa: {response.status_code}"
+      }
+    },
+    "l0343": {
+      "30": {
+        "上传失败_str_e": "Upakiaji umeshindwa: {str(e)}"
+      }
+    }
+  },
+  "core_tray_manager": {
+    "l0019": {
+      "01": {
+        "截图贴图工具": "Zana ya Kubandika Picha ya Skrini"
+      }
+    },
+    "l0069": {
+      "05": {
+        "全屏截图": "Picha ya skrini nzima"
+      }
+    },
+    "l0070": {
+      "06": {
+        "区域截图": "Picha ya skrini ya eneo"
+      }
+    },
+    "l0071": {
+      "07": {
+        "窗口截图": "Picha ya skrini ya dirisha"
+      }
+    },
+    "l0075": {
+      "08": {
+        "取色器": "Kichagua rangi"
+      }
+    },
+    "l0076": {
+      "09": {
+        "屏幕录制": "Kurekodi skrini"
+      }
+    },
+    "l0080": {
+      "10": {
+        "显示主窗口": "Onyesha dirisha kuu"
+      }
+    },
+    "l0081": {
+      "11": {
+        "设置": "Mipangilio"
+      }
+    },
+    "l0083": {
+      "12": {
+        "退出": "Toka"
+      }
+    }
+  },
+  "core_update_manager": {
+    "l0040": {
+      "01": {
+        "服务器返回数据格式错误": "Muundo wa data uliorudishwa na seva si sahihi"
+      }
+    },
+    "l0042": {
+      "02": {
+        "服务器响应错误_response_statu": "Hitilafu ya jibu la seva: {response.status_code}"
+      }
+    },
+    "l0044": {
+      "03": {
+        "网络连接失败_str_e": "Muunganisho wa mtandao umeshindwa: {str(e)}"
+      }
+    },
+    "l0068": {
+      "04": {
+        "检查更新": "Angalia masasisho"
+      },
+      "05": {
+        "当前已是最新版本": "Tayari unatumia toleo la hivi karibuni"
+      }
+    },
+    "l0074": {
+      "06": {
+        "检查失败": "Ukaguzi umeshindwa"
+      },
+      "07": {
+        "获取版本信息失败": "Imeshindwa kupata taarifa ya toleo"
+      }
+    },
+    "l0083": {
+      "08": {
+        "发现新版本_remote_version": "Toleo jipya limepatikana: {remote_version}\n\n{data.get('update_log', 'No update log')}"
+      },
+      "09": {
+        "无更新日志": "Hakuna kumbukumbu ya masasisho"
+      }
+    },
+    "l0086": {
+      "10": {
+        "强制更新_msg": "[Sasisho la Lazima]\n{msg}"
+      }
+    },
+    "l0087": {
+      "11": {
+        "必须更新": "Sasisho linahitajika"
+      },
+      "12": {
+        "立即更新": "Sasisha sasa"
+      }
+    },
+    "l0092": {
+      "13": {
+        "发现新版本": "Toleo jipya limepatikana"
+      }
+    },
+    "l0094": {
+      "14": {
+        "立即更新": "Sasisha sasa"
+      }
+    },
+    "l0095": {
+      "15": {
+        "稍后": "Baadaye"
+      }
+    },
+    "l0104": {
+      "16": {
+        "检查失败": "Ukaguzi umeshindwa"
+      },
+      "17": {
+        "检查更新出错_error_msg": "Hitilafu wakati wa kuangalia masasisho:\n{error_msg}"
+      }
+    },
+    "l0125": {
+      "18": {
+        "未找到更新程序_updater_exe": "Kisasaishaji hakikupatikana: {updater_exe}"
+      }
+    },
+    "l0152": {
+      "19": {
+        "更新失败": "Usasishaji umeshindwa"
+      },
+      "20": {
+        "无法启动更新程序_str_e": "Haiwezi kuanzisha kisasaishaji:\n{str(e)}"
+      }
+    }
+  },
+  "main": {
+    "l0057": {
+      "01": {
+        "错误": "Hitilafu"
+      },
+      "02": {
+        "程序发生错误_str_value": "Hitilafu ya programu imetokea:\n{str(value)}"
+      }
+    },
+    "l0069": {
+      "03": {
+        "提示": "Taarifa"
+      },
+      "04": {
+        "程序已在运行中_请勿重复启动": "Programu tayari inaendelea. Tafadhali usiiwashe tena."
+      }
+    },
+    "l0084": {
+      "05": {
+        "截图贴图工具": "Zana ya Kubandika Picha ya Skrini"
+      }
+    },
+    "l0086": {
+      "06": {
+        "鲲穹AI": "Kunqiong AI"
+      }
+    },
+    "l0138": {
+      "07": {
+        "启动错误": "Hitilafu ya kuanza"
+      },
+      "08": {
+        "程序启动失败_str_e": "Kuanzisha programu kumeshindwa:\n{str(e)}"
+      }
+    }
+  },
+  "tools_crosshair": {
+    "l0081": {
+      "01": {
+        "当前_X_self_cursor_pos_x": "Sasa: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0084": {
+      "02": {
+        "锁定_X_self_cursor_pos": "🔒 Imefungwa: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0092": {
+      "03": {
+        "点_i_1_ΔX_sign_x_dx": "Point{i + 1}: ΔX={sign_x}{dx}  ΔY={sign_y}{dy}"
+      }
+    },
+    "l0095": {
+      "04": {
+        "Space_锁定_L_添加对比点_C_清": "Space=Funga | L=Ongeza pointi ya kulinganisha | C=Futa | ESC=Toka"
+      }
+    },
+    "l0266": {
+      "05": {
+        "解除锁定": "Fungua"
+      },
+      "06": {
+        "锁定当前坐标": "Funga viwianishi vya sasa"
+      }
+    },
+    "l0270": {
+      "07": {
+        "添加对比点": "Ongeza pointi ya kulinganisha"
+      }
+    },
+    "l0274": {
+      "08": {
+        "清除所有对比点": "Futa pointi zote za kulinganisha"
+      }
+    },
+    "l0280": {
+      "09": {
+        "关闭": "Funga"
+      }
+    }
+  },
+  "tools_magnifier": {
+    "l0024": {
+      "01": {
+        "放大镜": "Kikuza"
+      }
+    },
+    "l0085": {
+      "02": {
+        "放大镜": "Kikuza"
+      }
+    },
+    "l0158": {
+      "03": {
+        "按下_Esc_键退出": "Bonyeza Esc kutoka"
+      }
+    }
+  },
+  "tools_palette": {
+    "l0167": {
+      "01": {
+        "调色板": "Paleti"
+      }
+    },
+    "l0261": {
+      "02": {
+        "主题颜色": "Rangi za mandhari"
+      }
+    },
+    "l0273": {
+      "03": {
+        "标准颜色": "Rangi za kawaida"
+      }
+    },
+    "l0286": {
+      "04": {
+        "自定义颜色": "Rangi maalum"
+      }
+    },
+    "l0316": {
+      "05": {
+        "取色器_P": "🔍 Kichagua Rangi (P)"
+      }
+    },
+    "l0416": {
+      "06": {
+        "添加到自定义颜色": "✨ Ongeza kwenye rangi maalum"
+      }
+    },
+    "l0442": {
+      "07": {
+        "复制": "📋 Nakili"
+      }
+    },
+    "l0457": {
+      "08": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0463": {
+      "09": {
+        "确定": "Sawa"
+      }
+    },
+    "l0611": {
+      "10": {
+        "已复制_text": "Imenakiliwa: {text}"
+      }
+    },
+    "l0681": {
+      "11": {
+        "选择颜色": "Chagua rangi"
+      }
+    },
+    "l0716": {
+      "12": {
+        "已复制_color_name_upper": "Imenakiliwa: {color.name().upper()}"
+      }
+    }
+  },
+  "tools_protractor": {
+    "l0048": {
+      "01": {
+        "量角器": "Kipima pembe"
+      }
+    },
+    "l0216": {
+      "02": {
+        "锁定_self_angle_lock": "Imefungwa: {self.angle_lock}°"
+      }
+    },
+    "l0240": {
+      "03": {
+        "拖动绿点移动中心": "Buruta nukta ya kijani kusogeza kitovu"
+      }
+    },
+    "l0241": {
+      "04": {
+        "拖动红_蓝点调整角度": "Buruta nukta nyekundu/bluu kurekebisha pembe"
+      }
+    },
+    "l0242": {
+      "05": {
+        "L键切换角度锁定": "Bonyeza L kubadilisha kufunga pembe"
+      }
+    },
+    "l0243": {
+      "06": {
+        "S键保存测量": "Bonyeza S kuhifadhi kipimo"
+      }
+    },
+    "l0244": {
+      "07": {
+        "E键导出CSV": "Bonyeza E kuhamisha CSV"
+      }
+    },
+    "l0245": {
+      "08": {
+        "右键菜单_ESC退出": "Menyu ya kubofya kulia | ESC kutoka"
+      }
+    },
+    "l0335": {
+      "09": {
+        "保存当前测量": "Hifadhi kipimo cha sasa"
+      }
+    },
+    "l0339": {
+      "10": {
+        "导出测量记录_CSV": "Hamisha rekodi za vipimo (CSV)"
+      }
+    },
+    "l0345": {
+      "11": {
+        "禁用_if_self_lock_enabl": "{'Disable' if self.lock_enabled else 'Enable'} kufunga pembe ({self.angle_lock}°)"
+      },
+      "12": {
+        "禁用": "Zima"
+      },
+      "13": {
+        "启用": "Washa"
+      }
+    },
+    "l0351": {
+      "14": {
+        "关闭": "Funga"
+      }
+    },
+    "l0383": {
+      "15": {
+        "导出测量记录": "Hamisha rekodi za vipimo"
+      }
+    },
+    "l0385": {
+      "16": {
+        "CSV文件_csv": "Faili za CSV (*.csv)"
+      }
+    },
+    "l0391": {
+      "17": {
+        "时间": "Muda"
+      },
+      "18": {
+        "测量角度": "Pembe iliyopimwa"
+      },
+      "19": {
+        "起始角度": "Pembe ya kuanzia"
+      },
+      "20": {
+        "终止角度": "Pembe ya mwisho"
+      },
+      "21": {
+        "中心点X": "Kitovu X"
+      },
+      "22": {
+        "中心点Y": "Kitovu Y"
+      }
+    }
+  },
+  "tools_ruler": {
+    "l0019": {
+      "01": {
+        "默认_黄色": "Chaguomsingi (Njano)"
+      }
+    },
+    "l0026": {
+      "02": {
+        "蓝色": "Bluu"
+      }
+    },
+    "l0033": {
+      "03": {
+        "白色": "Nyeupe"
+      }
+    },
+    "l0040": {
+      "04": {
+        "黑色": "Nyeusi"
+      }
+    },
+    "l0065": {
+      "05": {
+        "像素_px": "Pikseli (px)"
+      }
+    },
+    "l0066": {
+      "06": {
+        "英寸_in": "Inchi (in)"
+      }
+    },
+    "l0067": {
+      "07": {
+        "厘米_cm": "Sentimita (cm)"
+      }
+    },
+    "l0280": {
+      "08": {
+        "像素尺": "Rula ya Pikseli"
+      }
+    },
+    "l0352": {
+      "09": {
+        "DPI_self_dpi_单位_R": "DPI: {self.dpi} | Kipimo: {RulerUnit.UNITS[self.unit]['name']} | Uwazi: {int(self.opacity * 100)}%"
+      }
+    },
+    "l0359": {
+      "10": {
+        "右键菜单_滚轮调透明度_双击关闭": "Menyu ya kubofya kulia | Gurudumu la kipanya kurekebisha uwazi | Bonyeza mara mbili kufunga"
+      }
+    },
+    "l0585": {
+      "11": {
+        "单位": "📏 Vipimo"
+      }
+    },
+    "l0605": {
+      "12": {
+        "配色": "🎨 Mpangilio wa rangi"
+      }
+    },
+    "l0621": {
+      "13": {
+        "透明度": "Uwazi:"
+      }
+    },
+    "l0641": {
+      "14": {
+        "重置大小": "↺ Weka Upya Ukubwa"
+      }
+    },
+    "l0646": {
+      "15": {
+        "关闭": "✕ Funga"
+      }
+    }
+  },
+  "tools_screen_recorder": {
+    "l0142": {
+      "01": {
+        "屏幕录制器": "Kinasa Skrini"
+      }
+    },
+    "l0196": {
+      "02": {
+        "屏幕录制": "Urekodi wa Skrini"
+      }
+    },
+    "l0223": {
+      "03": {
+        "已录制时间": "Muda Uliorekodiwa"
+      }
+    },
+    "l0253": {
+      "04": {
+        "开始录制": "Anza Kurekodi"
+      }
+    },
+    "l0260": {
+      "05": {
+        "暂停": "Sitisha"
+      }
+    },
+    "l0278": {
+      "06": {
+        "更改路径": "Badilisha Njia"
+      }
+    },
+    "l0336": {
+      "07": {
+        "停止录制": "⏹ Simamisha Kurekodi"
+      }
+    },
+    "l0356": {
+      "08": {
+        "开始录制": "⏺ Anza Kurekodi"
+      }
+    },
+    "l0361": {
+      "09": {
+        "暂停": "⏸ Sitisha"
+      }
+    },
+    "l0370": {
+      "10": {
+        "继续": "▶ Endelea"
+      }
+    },
+    "l0376": {
+      "11": {
+        "暂停": "⏸ Sitisha"
+      }
+    },
+    "l0407": {
+      "12": {
+        "选择保存目录": "Chagua Folda ya Kuhifadhi"
+      }
+    }
+  },
+  "tools_whiteboard": {
+    "l0841": {
+      "01": {
+        "白板": "Ubao Mweupe"
+      }
+    },
+    "l0935": {
+      "02": {
+        "画笔": "Brashi"
+      }
+    },
+    "l0936": {
+      "03": {
+        "荧光笔": "Kalamu ya Kuangazia"
+      }
+    },
+    "l0937": {
+      "04": {
+        "直线": "Mstari"
+      }
+    },
+    "l0938": {
+      "05": {
+        "矩形": "Mstatili"
+      }
+    },
+    "l0939": {
+      "06": {
+        "填充矩形": "Mstatili Uliojazwa"
+      }
+    },
+    "l0940": {
+      "07": {
+        "椭圆": "Duaradufu"
+      }
+    },
+    "l0941": {
+      "08": {
+        "箭头": "Mshale"
+      }
+    },
+    "l0942": {
+      "09": {
+        "文字": "Maandishi"
+      }
+    },
+    "l0957": {
+      "10": {
+        "橡皮擦": "Kifutio"
+      }
+    },
+    "l1001": {
+      "11": {
+        "更多颜色": "Rangi Zaidi..."
+      }
+    },
+    "l1040": {
+      "12": {
+        "透明": "Wazi"
+      }
+    },
+    "l1041": {
+      "13": {
+        "白色": "Nyeupe"
+      }
+    },
+    "l1042": {
+      "14": {
+        "黑色": "Nyeusi"
+      }
+    },
+    "l1047": {
+      "15": {
+        "tooltip_背景": "{tooltip}Mandharinyuma"
+      }
+    },
+    "l1061": {
+      "16": {
+        "撤销": "Tendua"
+      }
+    },
+    "l1067": {
+      "17": {
+        "清空": "Futa Yote"
+      }
+    },
+    "l1080": {
+      "18": {
+        "缩小工具栏": "Kunja Upau wa Zana"
+      }
+    },
+    "l1086": {
+      "19": {
+        "保存": "Hifadhi"
+      }
+    },
+    "l1102": {
+      "20": {
+        "退出": "Toka"
+      }
+    },
+    "l1145": {
+      "21": {
+        "对象擦除": "Futa Kitu"
+      }
+    },
+    "l1151": {
+      "22": {
+        "局部擦除": "Futa Sehemu"
+      }
+    },
+    "l1163": {
+      "23": {
+        "大小": "Ukubwa:"
+      }
+    },
+    "l1214": {
+      "24": {
+        "调色板": "Paleti"
+      }
+    },
+    "l1228": {
+      "25": {
+        "缩小工具栏": "Kunja Upau wa Zana"
+      }
+    },
+    "l1243": {
+      "26": {
+        "展开白板": "Panua Ubao Mweupe"
+      }
+    },
+    "l1250": {
+      "27": {
+        "保存白板": "Hifadhi Ubao Mweupe"
+      }
+    },
+    "l1252": {
+      "28": {
+        "PNG图像_png_PDF文件": "Picha ya PNG (*.png);;Faili ya PDF (*.pdf)"
+      }
+    },
+    "l1259": {
+      "29": {
+        "已保存_os_path_basename_f": "Imehifadhiwa: {os.path.basename(file_path)}"
+      }
+    },
+    "l1272": {
+      "30": {
+        "保存失败": "Imeshindikana Kuhifadhi"
+      },
+      "31": {
+        "无法保存PDF_str_e": "Haiwezi kuhifadhi PDF: {str(e)}"
+      }
+    }
+  },
+  "ui_ad_widget": {
+    "l0080": {
+      "02": {
+        "点击查看详情": "Bofya kuona maelezo"
+      }
+    }
+  },
+  "ui_clipboard_history": {
+    "l0081": {
+      "01": {
+        "剪贴板历史": "Historia ya Ubao wa Nakili"
+      }
+    },
+    "l0087": {
+      "02": {
+        "清空": "Futa Yote"
+      }
+    },
+    "l0118": {
+      "03": {
+        "暂无历史记录_复制图像后会自动记录": "Bado hakuna historia\nPicha zilizonakiliwa zitaandikwa kiotomatiki"
+      }
+    },
+    "l0161": {
+      "04": {
+        "确认清空": "Thibitisha Kufuta"
+      }
+    },
+    "l0162": {
+      "05": {
+        "确定要清空所有剪贴板历史记录吗": "Una uhakika unataka kufuta historia yote ya ubao wa nakili?"
+      }
+    },
+    "l0163": {
+      "06": {
+        "确定": "Thibitisha"
+      },
+      "07": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0178": {
+      "08": {
+        "剪贴板历史": "Historia ya Ubao wa Nakili"
+      }
+    }
+  },
+  "ui_control_capture": {
+    "l0148": {
+      "01": {
+        "按钮": "Kitufe"
+      },
+      "02": {
+        "复选框": "Kisanduku cha Tiki"
+      },
+      "03": {
+        "下拉框": "Menyu Kunjuzi"
+      }
+    },
+    "l0149": {
+      "04": {
+        "编辑框": "Kisanduku cha Kuhariri"
+      },
+      "05": {
+        "列表": "Orodha"
+      },
+      "06": {
+        "文本": "Maandishi"
+      }
+    },
+    "l0150": {
+      "07": {
+        "窗口": "Dirisha"
+      },
+      "08": {
+        "窗格": "Kidirisha"
+      }
+    },
+    "l0152": {
+      "09": {
+        "控件": "Kidhibiti"
+      }
+    },
+    "l0224": {
+      "10": {
+        "按钮": "Kitufe"
+      }
+    },
+    "l0225": {
+      "11": {
+        "日历": "Kalenda"
+      }
+    },
+    "l0226": {
+      "12": {
+        "复选框": "Kisanduku cha Tiki"
+      }
+    },
+    "l0227": {
+      "13": {
+        "下拉框": "Menyu Kunjuzi"
+      }
+    },
+    "l0228": {
+      "14": {
+        "编辑框": "Kisanduku cha Kuhariri"
+      }
+    },
+    "l0229": {
+      "15": {
+        "超链接": "Kiungo"
+      }
+    },
+    "l0230": {
+      "16": {
+        "图像": "Picha"
+      }
+    },
+    "l0231": {
+      "17": {
+        "列表项": "Kipengee cha Orodha"
+      }
+    },
+    "l0232": {
+      "18": {
+        "列表": "Orodha"
+      }
+    },
+    "l0233": {
+      "19": {
+        "菜单": "Menyu"
+      }
+    },
+    "l0234": {
+      "20": {
+        "菜单栏": "Upau wa Menyu"
+      }
+    },
+    "l0235": {
+      "21": {
+        "菜单项": "Kipengee cha Menyu"
+      }
+    },
+    "l0236": {
+      "22": {
+        "进度条": "Upau wa Maendeleo"
+      }
+    },
+    "l0237": {
+      "23": {
+        "单选按钮": "Kitufe cha Chaguo"
+      }
+    },
+    "l0238": {
+      "24": {
+        "滚动条": "Upau wa Kusogeza"
+      }
+    },
+    "l0239": {
+      "25": {
+        "滑块": "Kitelezi"
+      }
+    },
+    "l0240": {
+      "26": {
+        "微调框": "Kisanduku cha Mzunguko"
+      }
+    },
+    "l0241": {
+      "27": {
+        "状态栏": "Upau wa Hali"
+      }
+    },
+    "l0242": {
+      "28": {
+        "标签页": "Kichupo"
+      }
+    },
+    "l0243": {
+      "29": {
+        "标签项": "Kipengee cha Kichupo"
+      }
+    },
+    "l0244": {
+      "30": {
+        "文本": "Maandishi"
+      }
+    },
+    "l0245": {
+      "31": {
+        "工具栏": "Upau wa Zana"
+      }
+    },
+    "l0246": {
+      "32": {
+        "工具提示": "Dokezo"
+      }
+    },
+    "l0247": {
+      "33": {
+        "树形视图": "Mwonekano wa Mti"
+      }
+    },
+    "l0248": {
+      "34": {
+        "树形项": "Kipengee cha Mti"
+      }
+    },
+    "l0249": {
+      "35": {
+        "自定义": "Maalum"
+      }
+    },
+    "l0250": {
+      "36": {
+        "组": "Kikundi"
+      }
+    },
+    "l0251": {
+      "37": {
+        "缩略图": "Kijipicha"
+      }
+    },
+    "l0252": {
+      "38": {
+        "数据网格": "Gridi ya Data"
+      }
+    },
+    "l0253": {
+      "39": {
+        "数据项": "Kipengee cha Data"
+      }
+    },
+    "l0254": {
+      "40": {
+        "文档": "Hati"
+      }
+    },
+    "l0255": {
+      "41": {
+        "分隔条": "Kitenganishi"
+      }
+    },
+    "l0256": {
+      "42": {
+        "窗口": "Dirisha"
+      }
+    },
+    "l0257": {
+      "43": {
+        "窗格": "Kid irisha"
+      }
+    },
+    "l0258": {
+      "44": {
+        "表头": "Kichwa"
+      }
+    },
+    "l0259": {
+      "45": {
+        "表头项": "Kipengee cha Kichwa"
+      }
+    },
+    "l0260": {
+      "46": {
+        "表格": "Jedwali"
+      }
+    },
+    "l0261": {
+      "47": {
+        "标题栏": "Upau wa Kichwa"
+      }
+    },
+    "l0262": {
+      "48": {
+        "语义缩放": "Kuza Kisemantiki"
+      }
+    },
+    "l0264": {
+      "49": {
+        "控件_control_type": "Kidhibiti ({control_type})"
+      }
+    },
+    "l0391": {
+      "50": {
+        "控件": "Kidhibiti"
+      }
+    },
+    "l0398": {
+      "51": {
+        "移动鼠标选择目标": "Sogeza kipanya kuchagua lengo"
+      }
+    },
+    "l0399": {
+      "52": {
+        "点击截取": "Bofya kunasa"
+      }
+    },
+    "l0400": {
+      "53": {
+        "Ctrl_点击滚动截取": "Ctrl+Bofya kunasa kwa kusogeza"
+      }
+    },
+    "l0401": {
+      "54": {
+        "滚轮_切换层级": "Gurudumu la kipanya ↑↓ kubadili ngazi"
+      }
+    },
+    "l0402": {
+      "55": {
+        "ESC取消": "ESC kughairi"
+      }
+    },
+    "l0521": {
+      "56": {
+        "未找到窗口": "Dirisha halikupatikana"
+      }
+    },
+    "l0841": {
+      "57": {
+        "未识别到控件": "Hakuna kidhibiti kilichotambuliwa"
+      }
+    },
+    "l0896": {
+      "58": {
+        "未识别": "Haijatambuliwa"
+      }
+    },
+    "l0908": {
+      "59": {
+        "窗口_层级_1_total": "🪟 Dirisha (Ngazi 1/{total})"
+      }
+    },
+    "l0923": {
+      "60": {
+        "type_name_层级_level": "🎯 {type_name} (Ngazi {level}/{total})"
+      }
+    },
+    "l0925": {
+      "61": {
+        "控件_层级_level_total": "🎯 Kidhibiti (Ngazi {level}/{total})"
+      }
+    },
+    "l0969": {
+      "62": {
+        "未识别到控件": "Hakuna kidhibiti kilichotambuliwa"
+      }
+    },
+    "l0977": {
+      "63": {
+        "窗口无效": "Dirisha si halali"
+      }
+    },
+    "l0985": {
+      "64": {
+        "无法获取位置": "Haiwezi kupata nafasi"
+      }
+    },
+    "l1000": {
+      "65": {
+        "尺寸无效": "Ukubwa si halali"
+      }
+    },
+    "l1021": {
+      "66": {
+        "窗口_title_滚轮_进入子控件": "Dirisha: {title} | Gurudumu la kipanya↓ kuingia vidhibiti vya ndani | Bofya kunasa | Ctrl+Bofya kunasa kwa kusogeza"
+      }
+    },
+    "l1023": {
+      "67": {
+        "窗口_滚轮_进入子控件_点击截取_C": "Dirisha | Gurudumu la kipanya↓ kuingia vidhibiti vya ndani | Bofya kunasa | Ctrl+Bofya kunasa kwa kusogeza"
+      }
+    },
+    "l1025": {
+      "68": {
+        "控件": "Kidhibiti"
+      }
+    },
+    "l1028": {
+      "69": {
+        "type_info_滚轮_切换层级": "{type_info} | Gurudumu la kipanya↑↓ kubadili ngazi | Bofya kunasa | Ctrl+Bofya kunasa kwa kusogeza"
+      }
+    },
+    "l1057": {
+      "70": {
+        "按钮": "Kitufe"
+      }
+    },
+    "l1058": {
+      "71": {
+        "输入框": "Kisanduku cha Ingizo"
+      }
+    },
+    "l1059": {
+      "72": {
+        "富文本框": "Kisanduku cha Maandishi Tajiri"
+      }
+    },
+    "l1060": {
+      "73": {
+        "下拉框": "Menyu Kunjuzi"
+      }
+    },
+    "l1061": {
+      "74": {
+        "列表框": "Kisanduku cha Orodha"
+      }
+    },
+    "l1062": {
+      "75": {
+        "列表视图": "Mwonekano wa Orodha"
+      }
+    },
+    "l1063": {
+      "76": {
+        "列表视图": "Mwonekano wa Orodha"
+      }
+    },
+    "l1064": {
+      "77": {
+        "树形视图": "Mwonekano wa Mti"
+      }
+    },
+    "l1065": {
+      "78": {
+        "树形视图": "Mwonekano wa Mti"
+      }
+    },
+    "l1066": {
+      "79": {
+        "数据表格": "Jedwali la Data"
+      }
+    },
+    "l1067": {
+      "80": {
+        "滚动条": "Upau wa Kusogeza"
+      }
+    },
+    "l1068": {
+      "81": {
+        "静态文本": "Maandishi Tuli"
+      }
+    },
+    "l1069": {
+      "82": {
+        "标签页": "Kichupo"
+      }
+    },
+    "l1070": {
+      "83": {
+        "标签页": "Kichupo"
+      }
+    },
+    "l1071": {
+      "84": {
+        "工具栏": "Upau wa Zana"
+      }
+    },
+    "l1072": {
+      "85": {
+        "状态栏": "Upau wa Hali"
+      }
+    },
+    "l1073": {
+      "86": {
+        "状态栏": "Upau wa Hali"
+      }
+    },
+    "l1074": {
+      "87": {
+        "菜单": "Menyu"
+      }
+    },
+    "l1075": {
+      "88": {
+        "提示框": "Dokezo"
+      }
+    },
+    "l1076": {
+      "89": {
+        "进度条": "Upau wa Maendeleo"
+      }
+    },
+    "l1077": {
+      "90": {
+        "进度条": "Upau wa Maendeleo"
+      }
+    },
+    "l1078": {
+      "91": {
+        "滑块": "Kitelezi"
+      }
+    },
+    "l1079": {
+      "92": {
+        "滑块": "Kitelezi"
+      }
+    },
+    "l1080": {
+      "93": {
+        "微调按钮": "Kitufe cha Mzunguko"
+      }
+    },
+    "l1081": {
+      "94": {
+        "微调按钮": "Kitufe cha Mzunguko"
+      }
+    },
+    "l1082": {
+      "95": {
+        "表头": "Kichwa"
+      }
+    },
+    "l1083": {
+      "96": {
+        "表头": "Kichwa"
+      }
+    },
+    "l1084": {
+      "97": {
+        "工具条": "Upau wa Zana"
+      }
+    },
+    "l1085": {
+      "98": {
+        "工具条": "Upau wa Zana"
+      }
+    },
+    "l1086": {
+      "99": {
+        "文件视图": "Mwonekano wa Faili"
+      }
+    },
+    "l1088": {
+      "100": {
+        "浏览器": "Kivinjari"
+      }
+    },
+    "l1089": {
+      "101": {
+        "浏览器": "Kivinjari"
+      }
+    }
+  },
+  "ui_editor_panels": {
+    "l0060": {
+      "01": {
+        "画质特效": "🎨 Athari za Picha"
+      }
+    },
+    "l0071": {
+      "02": {
+        "模糊": "🌫 Ukungu"
+      }
+    },
+    "l0072": {
+      "03": {
+        "锐化": "🔍 Kunoa"
+      }
+    },
+    "l0073": {
+      "04": {
+        "像素化": "▦ U-pikseli"
+      }
+    },
+    "l0074": {
+      "05": {
+        "浮雕": "🗻 Emboss"
+      }
+    },
+    "l0075": {
+      "06": {
+        "噪点": "✨ Kelele"
+      }
+    },
+    "l0086": {
+      "07": {
+        "特效强度": "Nguvu ya Athari:"
+      }
+    },
+    "l0106": {
+      "08": {
+        "撤销": "↩ Tendua"
+      }
+    },
+    "l0110": {
+      "09": {
+        "重置": "↺ Weka Upya"
+      }
+    },
+    "l0184": {
+      "10": {
+        "色彩调整": "🔆 Marekebisho ya Rangi"
+      }
+    },
+    "l0196": {
+      "11": {
+        "亮度": "☀ Mwangaza:"
+      }
+    },
+    "l0217": {
+      "12": {
+        "对比度": "◐ Tofauti:"
+      }
+    },
+    "l0238": {
+      "13": {
+        "饱和度": "🎨 Ujazo wa Rangi:"
+      }
+    },
+    "l0260": {
+      "14": {
+        "重置": "↺ Weka Upya"
+      }
+    },
+    "l0264": {
+      "15": {
+        "应用": "✓ Tumia"
+      }
+    }
+  },
+  "ui_editor_window": {
+    "l0077": {
+      "01": {
+        "图像编辑器_PyScreenshot": "Kihariri cha Picha - PyScreenshot"
+      }
+    },
+    "l0098": {
+      "02": {
+        "QLabel_font_size_13px": "QLabel {\n                font-size: 13px;\n            }\n            QScrollBar:vertical {\n                background: transparent;\n                width: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:vertical {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-height: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:vertical:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar:horizontal {\n                background: transparent;\n                height: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:horizontal {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-width: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:horizontal:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar::add-line, QScrollBar::sub-line {\n                background: none;\n                border: none;\n            }\n            \n            /* Sidebar dock widget styling */\n            QDockWidget {\n                border: none;\n                background: #ffffff;\n            }\n            QDockWidget::title {\n                background: #f8f9fa;\n                padding: 10px 15px;\n                border-bottom: 1px solid #eaeaea;\n                font-weight: 600;\n                color: #333;\n            }"
+      }
+    },
+    "l0202": {
+      "03": {
+        "新建图像": "Picha Mpya"
+      }
+    },
+    "l0246": {
+      "04": {
+        "尺寸_s_width_s_heigh": "Ukubwa: {s.width()}×{s.height()} | {tab_data.title}"
+      }
+    },
+    "l0360": {
+      "05": {
+        "文件": "Faili"
+      },
+      "06": {
+        "编辑": "Hariri"
+      },
+      "07": {
+        "绘图": "Chora"
+      },
+      "08": {
+        "特效": "Athari"
+      }
+    },
+    "l0361": {
+      "09": {
+        "文件": "Faili"
+      },
+      "10": {
+        "编辑": "Hariri"
+      },
+      "11": {
+        "绘图": "Chora"
+      },
+      "12": {
+        "特效": "Athari"
+      }
+    },
+    "l0413": {
+      "13": {
+        "编辑": "Hariri"
+      }
+    },
+    "l0421": {
+      "14": {
+        "文件": "Faili"
+      },
+      "15": {
+        "编辑": "Hariri"
+      },
+      "16": {
+        "绘图": "Chora"
+      },
+      "17": {
+        "特效": "Athari"
+      }
+    },
+    "l0458": {
+      "18": {
+        "返回": "Rudi"
+      }
+    },
+    "l0461": {
+      "19": {
+        "返回": "Rudi"
+      },
+      "20": {
+        "返回主页面": "Rudi kwenye Ukurasa Mkuu"
+      }
+    },
+    "l0468": {
+      "21": {
+        "文件": "Faili"
+      }
+    },
+    "l0471": {
+      "22": {
+        "新建": "Mpya"
+      },
+      "23": {
+        "新建图像": "Picha Mpya"
+      }
+    },
+    "l0475": {
+      "24": {
+        "打开": "Fungua"
+      },
+      "25": {
+        "打开文件": "Fungua Faili"
+      }
+    },
+    "l0479": {
+      "26": {
+        "保存": "Hifadhi"
+      },
+      "27": {
+        "保存_Ctrl_S": "Hifadhi Ctrl+S"
+      }
+    },
+    "l0483": {
+      "28": {
+        "另存为": "Hifadhi Kama"
+      }
+    },
+    "l0490": {
+      "29": {
+        "分享": "Shiriki"
+      }
+    },
+    "l0493": {
+      "30": {
+        "分享": "Shiriki"
+      },
+      "31": {
+        "分享到": "Shiriki kwa..."
+      }
+    },
+    "l0497": {
+      "32": {
+        "导出": "Hamisha"
+      },
+      "33": {
+        "批量导出所有标签页": "Hamisha kwa pamoja vichupo vyote"
+      }
+    },
+    "l0504": {
+      "34": {
+        "打印": "Chapisha"
+      }
+    },
+    "l0507": {
+      "35": {
+        "打印": "Chapisha"
+      },
+      "36": {
+        "打印_Ctrl_P": "Chapisha Ctrl+P"
+      }
+    },
+    "l0514": {
+      "37": {
+        "操作": "Vitendo"
+      }
+    },
+    "l0517": {
+      "38": {
+        "撤销": "Tendua"
+      },
+      "39": {
+        "撤销上一步操作": "Tendua kitendo cha awali"
+      }
+    },
+    "l0521": {
+      "40": {
+        "重置": "Weka Upya"
+      },
+      "41": {
+        "重置为原始图像": "Weka upya hadi picha asili"
+      }
+    },
+    "l0533": {
+      "42": {
+        "打开图像": "Fungua Picha"
+      }
+    },
+    "l0534": {
+      "43": {
+        "图像文件_png_jpg_jpeg": "Faili za Picha (*.png *.jpg *.jpeg *.bmp *.gif);;Faili Zote (*.*)"
+      }
+    },
+    "l0541": {
+      "44": {
+        "错误": "Hitilafu"
+      },
+      "45": {
+        "无法打开该图像文件": "Haiwezi kufungua faili hii ya picha"
+      }
+    },
+    "l0553": {
+      "46": {
+        "历史": "Historia"
+      }
+    },
+    "l0556": {
+      "47": {
+        "撤销": "Tendua"
+      },
+      "48": {
+        "撤销_Ctrl_Z": "Tendua Ctrl+Z"
+      }
+    },
+    "l0560": {
+      "49": {
+        "重置": "Weka Upya"
+      },
+      "50": {
+        "重置到原图_移除所有编辑": "Weka upya kwa picha asili (ondoa uhariri wote)"
+      }
+    },
+    "l0567": {
+      "51": {
+        "剪贴板": "Ubao wa kunakili"
+      }
+    },
+    "l0570": {
+      "52": {
+        "复制": "Nakili"
+      },
+      "53": {
+        "复制_Ctrl_C": "Nakili Ctrl+C"
+      }
+    },
+    "l0574": {
+      "54": {
+        "粘贴": "Bandika"
+      },
+      "55": {
+        "粘贴_Ctrl_V": "Bandika Ctrl+V"
+      }
+    },
+    "l0581": {
+      "56": {
+        "变换": "Badilisha"
+      }
+    },
+    "l0584": {
+      "57": {
+        "左旋": "Zungusha Kushoto"
+      },
+      "58": {
+        "左旋90度": "Zungusha Kushoto 90°"
+      }
+    },
+    "l0588": {
+      "59": {
+        "右旋": "Zungusha Kulia"
+      },
+      "60": {
+        "右旋90度": "Zungusha Kulia 90°"
+      }
+    },
+    "l0592": {
+      "61": {
+        "水平翻": "Geuza Mlalo"
+      },
+      "62": {
+        "水平翻转": "Geuza Mlalo"
+      }
+    },
+    "l0596": {
+      "63": {
+        "垂直翻": "Geuza Wima"
+      },
+      "64": {
+        "垂直翻转": "Geuza Wima"
+      }
+    },
+    "l0603": {
+      "65": {
+        "裁剪": "Punguza"
+      }
+    },
+    "l0606": {
+      "66": {
+        "裁剪": "Punguza"
+      },
+      "67": {
+        "裁剪图像": "Punguza Picha"
+      }
+    },
+    "l0613": {
+      "68": {
+        "文字识别": "Utambuzi wa Maandishi"
+      }
+    },
+    "l0616": {
+      "69": {
+        "识别文字": "Tambua Maandishi"
+      },
+      "70": {
+        "识别裁剪区域文字并复制": "Tambua maandishi katika eneo lililopunguzwa na unakili"
+      }
+    },
+    "l0635": {
+      "71": {
+        "选择": "Chagua"
+      }
+    },
+    "l0640": {
+      "72": {
+        "移动": "Sogeza"
+      },
+      "73": {
+        "移动工具": "Zana ya Kusogeza"
+      }
+    },
+    "l0648": {
+      "74": {
+        "画笔": "Brashi"
+      }
+    },
+    "l0652": {
+      "75": {
+        "画笔": "Brashi"
+      }
+    },
+    "l0653": {
+      "76": {
+        "荧光笔": "Kalamu ya Kuangazia"
+      }
+    },
+    "l0663": {
+      "77": {
+        "橡皮擦": "Kifutio"
+      }
+    },
+    "l0677": {
+      "78": {
+        "形状": "Maumbo"
+      }
+    },
+    "l0681": {
+      "79": {
+        "箭头": "Mshale"
+      }
+    },
+    "l0682": {
+      "80": {
+        "直线": "Mstari"
+      }
+    },
+    "l0683": {
+      "81": {
+        "矩形": "Mstatili"
+      },
+      "82": {
+        "空心矩形": "Mstatili Usiojazwa"
+      }
+    },
+    "l0684": {
+      "83": {
+        "实心矩形": "Mstatili Imara"
+      },
+      "84": {
+        "填充矩形": "Mstatili Uliojazwa"
+      }
+    },
+    "l0685": {
+      "85": {
+        "椭圆": "Duaradufu"
+      },
+      "86": {
+        "空心椭圆": "Duaradufu Isiyojazwa"
+      }
+    },
+    "l0686": {
+      "87": {
+        "实心椭圆": "Duaradufu Imara"
+      },
+      "88": {
+        "填充椭圆": "Duaradufu Iliyojazwa"
+      }
+    },
+    "l0698": {
+      "89": {
+        "文字": "Maandishi"
+      }
+    },
+    "l0701": {
+      "90": {
+        "文字": "Maandishi"
+      },
+      "91": {
+        "添加文字": "Ongeza Maandishi"
+      }
+    },
+    "l0709": {
+      "92": {
+        "大小": "Ukubwa"
+      }
+    },
+    "l0714": {
+      "93": {
+        "宽度": "Upana:"
+      }
+    },
+    "l0723": {
+      "94": {
+        "字号": "Ukubwa wa Herufi:"
+      }
+    },
+    "l0735": {
+      "95": {
+        "颜色": "Rangi"
+      }
+    },
+    "l0742": {
+      "96": {
+        "当前颜色_点击选择": "Rangi ya sasa - bofya kuchagua"
+      }
+    },
+    "l0759": {
+      "97": {
+        "历史": "Historia"
+      }
+    },
+    "l0762": {
+      "98": {
+        "撤销": "Tengua"
+      },
+      "99": {
+        "撤销_Ctrl_Z": "Tengua Ctrl+Z"
+      }
+    },
+    "l0766": {
+      "100": {
+        "重置": "Weka upya"
+      },
+      "101": {
+        "重置绘图_移除所有编辑": "Weka upya mchoro (ondoa uhariri wote)"
+      }
+    },
+    "l0798": {
+      "102": {
+        "对象擦除": "Futa Kitu"
+      }
+    },
+    "l0804": {
+      "103": {
+        "局部擦除": "Ufutaji wa Sehemu"
+      }
+    },
+    "l0816": {
+      "104": {
+        "大小": "Ukubwa:"
+      }
+    },
+    "l0872": {
+      "105": {
+        "画质特效": "Athari za Picha"
+      }
+    },
+    "l0875": {
+      "106": {
+        "模糊": "Ukungu"
+      },
+      "107": {
+        "模糊效果": "Athari ya Ukungu"
+      }
+    },
+    "l0879": {
+      "108": {
+        "锐化": "Noa"
+      },
+      "109": {
+        "锐化效果": "Athari ya Kunoa"
+      }
+    },
+    "l0883": {
+      "110": {
+        "像素化": "Pikselisha"
+      },
+      "111": {
+        "像素化效果": "Athari ya Upikselishaji"
+      }
+    },
+    "l0887": {
+      "112": {
+        "浮雕": "Emboss"
+      },
+      "113": {
+        "浮雕效果": "Athari ya Emboss"
+      }
+    },
+    "l0891": {
+      "114": {
+        "噪点": "Kelele"
+      },
+      "115": {
+        "添加噪点": "Ongeza Kelele"
+      }
+    },
+    "l0898": {
+      "116": {
+        "局部特效": "Athari za Sehemu"
+      }
+    },
+    "l0901": {
+      "117": {
+        "模糊笔刷": "Brashi ya Ukungu"
+      },
+      "118": {
+        "局部模糊": "Ukungu wa Sehemu"
+      }
+    },
+    "l0907": {
+      "119": {
+        "马赛克": "Mosaiki"
+      },
+      "120": {
+        "局部马赛克": "Mosaiki ya Sehemu"
+      }
+    },
+    "l0916": {
+      "121": {
+        "面板": "Paneli"
+      }
+    },
+    "l0919": {
+      "122": {
+        "色彩": "Rangi"
+      },
+      "123": {
+        "打开色彩调整面板": "Fungua paneli ya kurekebisha rangi"
+      }
+    },
+    "l0923": {
+      "124": {
+        "特效": "Athari"
+      },
+      "125": {
+        "打开特效面板": "Fungua paneli ya athari"
+      }
+    },
+    "l0930": {
+      "126": {
+        "历史": "Historia"
+      }
+    },
+    "l0933": {
+      "127": {
+        "撤销": "Tengua"
+      },
+      "128": {
+        "撤销_Ctrl_Z": "Tengua Ctrl+Z"
+      }
+    },
+    "l0937": {
+      "129": {
+        "重置": "Weka upya"
+      },
+      "130": {
+        "重置特效": "Weka upya athari"
+      }
+    },
+    "l0963": {
+      "131": {
+        "已应用_effect_特效": "✓ Athari ya {effect} imetumika"
+      }
+    },
+    "l0965": {
+      "132": {
+        "特效应用失败_str_e": "✗ Imeshindikana kutumia athari: {str(e)}"
+      }
+    },
+    "l0972": {
+      "133": {
+        "粘贴的图像": "Picha iliyobandikwa"
+      }
+    },
+    "l0973": {
+      "134": {
+        "已粘贴图像": "✓ Picha imebandikwa"
+      }
+    },
+    "l0975": {
+      "135": {
+        "剪贴板中没有图像": "Hakuna picha kwenye ubao wa kunakili"
+      }
+    },
+    "l0998": {
+      "136": {
+        "返回": "Rudi"
+      },
+      "137": {
+        "新建": "Mpya"
+      },
+      "138": {
+        "打开": "Fungua"
+      },
+      "139": {
+        "保存存": "Hifadhi"
+      },
+      "140": {
+        "另存为": "Hifadhi Kama"
+      }
+    },
+    "l0999": {
+      "141": {
+        "分享": "Shiriki"
+      },
+      "142": {
+        "导出": "Hamisha"
+      },
+      "143": {
+        "打印": "Chapisha"
+      }
+    },
+    "l1001": {
+      "144": {
+        "撤销": "Tengua"
+      },
+      "145": {
+        "重置": "Weka upya"
+      },
+      "146": {
+        "复制": "Nakili"
+      },
+      "147": {
+        "粘贴": "Bandika"
+      },
+      "148": {
+        "裁剪": "Punguza"
+      }
+    },
+    "l1003": {
+      "149": {
+        "左旋": "Zungusha Kushoto"
+      },
+      "150": {
+        "右旋": "Zungusha Kulia"
+      },
+      "151": {
+        "水平翻": "Geuza Mlalo"
+      },
+      "152": {
+        "垂直翻": "Geuza Wima"
+      }
+    },
+    "l1005": {
+      "153": {
+        "移动": "Sogeza"
+      },
+      "154": {
+        "画笔": "Brashi"
+      },
+      "155": {
+        "荧光笔": "Kalamu ya Kuangazia"
+      },
+      "156": {
+        "橡皮擦": "Kifutio"
+      },
+      "157": {
+        "文字": "Maandishi"
+      }
+    },
+    "l1006": {
+      "158": {
+        "箭头": "Mshale"
+      },
+      "159": {
+        "直线": "Mstari"
+      },
+      "160": {
+        "矩形": "Mstatili"
+      },
+      "161": {
+        "实心矩形": "Mstatili Imara"
+      }
+    },
+    "l1007": {
+      "162": {
+        "椭圆": "Duaradufu"
+      },
+      "163": {
+        "实心椭圆": "Duaradufu Imara"
+      },
+      "164": {
+        "清除": "Futa"
+      }
+    },
+    "l1009": {
+      "165": {
+        "模糊": "Ukungu"
+      },
+      "166": {
+        "锐化": "Noa"
+      },
+      "167": {
+        "像素化": "Pikselisha"
+      },
+      "168": {
+        "浮雕": "Emboss"
+      },
+      "169": {
+        "噪点": "Kelele"
+      }
+    },
+    "l1010": {
+      "170": {
+        "模糊笔刷": "Brashi ya Ukungu"
+      },
+      "171": {
+        "马赛克": "Mosaiki"
+      },
+      "172": {
+        "色彩": "Rangi"
+      },
+      "173": {
+        "特效": "Athari"
+      }
+    },
+    "l1129": {
+      "174": {
+        "坐标_0_0": "Kooordinati: 0, 0"
+      }
+    },
+    "l1145": {
+      "175": {
+        "尺寸_s_width_s_hei": "Ukubwa: {s.width()} × {s.height()}"
+      }
+    },
+    "l1146": {
+      "176": {
+        "就绪": "Tayari"
+      }
+    },
+    "l1148": {
+      "177": {
+        "尺寸": "Ukubwa: - × -"
+      }
+    },
+    "l1149": {
+      "178": {
+        "就绪": "Tayari"
+      }
+    },
+    "l1183": {
+      "179": {
+        "特效": "Athari"
+      }
+    },
+    "l1197": {
+      "180": {
+        "调整": "Rekebisha"
+      }
+    },
+    "l1228": {
+      "181": {
+        "调色板": "Paleti"
+      }
+    },
+    "l1256": {
+      "182": {
+        "已清除标注": "Maelezo yamefutwa"
+      }
+    },
+    "l1261": {
+      "183": {
+        "已复制到剪贴板": "✓ Imenakiliwa kwenye ubao wa kunakili"
+      }
+    },
+    "l1266": {
+      "184": {
+        "错误": "Hitilafu"
+      },
+      "185": {
+        "没有可保存的图像": "Hakuna picha ya kuhifadhi"
+      }
+    },
+    "l1277": {
+      "186": {
+        "已保存_os_path_basename": "✓ Imehifadhiwa: {os.path.basename(self.current_file_path)}"
+      }
+    },
+    "l1297": {
+      "187": {
+        "已保存_os_path_basename": "✓ Imehifadhiwa: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1310": {
+      "188": {
+        "错误": "Hitilafu"
+      },
+      "189": {
+        "没有可保存的图像": "Hakuna picha ya kuhifadhi"
+      }
+    },
+    "l1329": {
+      "190": {
+        "已保存_os_path_basename": "✓ Imehifadhiwa: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1334": {
+      "191": {
+        "提示": "Taarifa"
+      },
+      "192": {
+        "没有可导出的图像": "Hakuna picha ya kuhamisha."
+      }
+    },
+    "l1345": {
+      "193": {
+        "提示": "Taarifa"
+      },
+      "194": {
+        "没有可导出的图像": "Hakuna picha ya kuhamisha."
+      }
+    },
+    "l1361": {
+      "195": {
+        "历史记录": "Historia"
+      }
+    },
+    "l1381": {
+      "196": {
+        "文件不存在": "Faili haipo"
+      },
+      "197": {
+        "该文件已被移动或删除": "Faili hii imehamishwa au kufutwa."
+      }
+    },
+    "l1463": {
+      "198": {
+        "保存失败": "Kuhifadhi kumeshindikana"
+      }
+    },
+    "l1464": {
+      "199": {
+        "无法保存文件_error_n_n文件路径": "Haiwezekani kuhifadhi faili: {error}\\n\\nNjia ya faili: {file_path}\\n\\nTafadhali angalia nafasi ya diski na ruhusa za uandishi."
+      }
+    },
+    "l1465": {
+      "200": {
+        "重试": "Jaribu tena"
+      },
+      "201": {
+        "取消": "Ghairi"
+      }
+    },
+    "l1473": {
+      "202": {
+        "错误": "Hitilafu"
+      },
+      "203": {
+        "没有可打印的图像": "Hakuna picha ya kuchapisha"
+      }
+    },
+    "l1483": {
+      "204": {
+        "错误": "Hitilafu"
+      },
+      "205": {
+        "没有可分享的图像": "Hakuna picha ya kushiriki"
+      }
+    },
+    "l1490": {
+      "206": {
+        "分享": "Shiriki"
+      }
+    },
+    "l1624": {
+      "207": {
+        "宽度": "Upana:"
+      }
+    },
+    "l1633": {
+      "208": {
+        "高度": "Urefu:"
+      }
+    },
+    "l1649": {
+      "209": {
+        "应用裁剪": "✓ Tumia upunguzaji"
+      }
+    },
+    "l1655": {
+      "210": {
+        "取消": "✗ Ghairi"
+      }
+    },
+    "l1706": {
+      "211": {
+        "已应用裁剪": "✓ Upunguzaji umetumika"
+      }
+    },
+    "l1714": {
+      "212": {
+        "已取消裁剪": "Upunguzaji umeghairiwa"
+      }
+    },
+    "l1721": {
+      "213": {
+        "请框选要识别的文字区域": "Tafadhali chagua eneo la maandishi la kutambua..."
+      }
+    },
+    "l1729": {
+      "214": {
+        "OCR_错误": "Hitilafu ya OCR"
+      },
+      "215": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Injini ya OCR ya ndani haiko tayari, tafadhali angalia vitegemezi."
+      }
+    },
+    "l1733": {
+      "216": {
+        "正在识别文字_请稍候": "Inatambua maandishi, tafadhali subiri..."
+      }
+    },
+    "l1741": {
+      "217": {
+        "识别完成": "Utambuzi umekamilika"
+      }
+    },
+    "l1744": {
+      "218": {
+        "识别结果": "Matokeo ya Utambuzi"
+      },
+      "219": {
+        "未识别到文字": "Hakuna maandishi yaliyotambuliwa."
+      }
+    },
+    "l1755": {
+      "220": {
+        "识别失败": "Utambuzi umeshindikana"
+      }
+    },
+    "l1756": {
+      "221": {
+        "OCR_错误": "Hitilafu ya OCR"
+      },
+      "222": {
+        "识别失败_err_msg": "Utambuzi umeshindikana: {err_msg}"
+      }
+    },
+    "l1779": {
+      "223": {
+        "已应用_effect_特效": "✓ Athari ya {effect} imetumika"
+      }
+    },
+    "l1781": {
+      "224": {
+        "特效应用失败_str_e": "✗ Imeshindikana kutumia athari: {str(e)}"
+      }
+    },
+    "l1817": {
+      "225": {
+        "已撤销": "↩ Imetenguliwa"
+      }
+    },
+    "l1819": {
+      "226": {
+        "没有可撤销的操作": "Hakuna vitendo vya kutengua"
+      }
+    },
+    "l1830": {
+      "227": {
+        "已重置到原图": "🔄 Imewekwa upya kwa picha asili"
+      }
+    },
+    "l1832": {
+      "228": {
+        "重置失败": "Kuweka upya kumeshindikana"
+      }
+    },
+    "l1856": {
+      "229": {
+        "缩放_percent": "Kuza: {percent}%"
+      }
+    },
+    "l1864": {
+      "230": {
+        "已应用调整": "✓ Marekebisho yametumika"
+      }
+    },
+    "l1866": {
+      "231": {
+        "应用调整失败_str_e": "✗ Imeshindikana kutumia marekebisho: {str(e)}"
+      }
+    },
+    "l1873": {
+      "232": {
+        "已重置调整": "✓ Marekebisho yamewekwa upya"
+      }
+    },
+    "l1875": {
+      "233": {
+        "重置调整失败_str_e": "✗ Imeshindikana kuweka upya marekebisho: {str(e)}"
+      }
+    },
+    "l2022": {
+      "234": {
+        "新建图像": "Picha Mpya"
+      }
+    }
+  },
+  "ui_freeform_capture": {
+    "l0102": {
+      "01": {
+        "按住鼠标绘制任意形状_松开完成_ESC": "Shikilia kipanya kuchora umbo lolote | Achia kumaliza | ESC kughairi"
+      }
+    },
+    "l0460": {
+      "02": {
+        "保存": "Hifadhi"
+      }
+    },
+    "l0549": {
+      "03": {
+        "输入文字": "Ingiza Maandishi"
+      },
+      "04": {
+        "请输入要添加的文字": "Tafadhali ingiza maandishi ya kuongeza:"
+      }
+    }
+  },
+  "ui_history_panel": {
+    "l0086": {
+      "01": {
+        "未知": "Haijulikani"
+      }
+    },
+    "l0101": {
+      "02": {
+        "未知时间": "Muda usiojulikana"
+      }
+    },
+    "l0117": {
+      "03": {
+        "未知大小": "Ukubwa usiojulikana"
+      }
+    },
+    "l0142": {
+      "04": {
+        "打开": "Fungua"
+      }
+    },
+    "l0147": {
+      "05": {
+        "编辑": "Hariri"
+      }
+    },
+    "l0152": {
+      "06": {
+        "删除": "Futa"
+      }
+    },
+    "l0182": {
+      "07": {
+        "打开文件位置": "📂 Fungua eneo la faili"
+      }
+    },
+    "l0186": {
+      "08": {
+        "编辑": "✏️ Hariri"
+      }
+    },
+    "l0190": {
+      "09": {
+        "复制到剪贴板": "📋 Nakili kwenye ubao wa kunakili"
+      }
+    },
+    "l0196": {
+      "10": {
+        "删除记录": "🗑️ Futa rekodi"
+      }
+    },
+    "l0238": {
+      "11": {
+        "截图历史": "📷 Historia ya Picha za Skrini"
+      }
+    },
+    "l0247": {
+      "12": {
+        "刷新": "Onyesha upya"
+      }
+    },
+    "l0262": {
+      "13": {
+        "清空历史": "Futa Historia"
+      }
+    },
+    "l0277": {
+      "14": {
+        "共_0_条记录": "Jumla ya rekodi 0"
+      }
+    },
+    "l0322": {
+      "15": {
+        "共_len_records_条记录": "Jumla ya rekodi {len(records)}"
+      }
+    },
+    "l0325": {
+      "16": {
+        "暂无历史记录": "Hakuna rekodi za historia"
+      }
+    },
+    "l0345": {
+      "17": {
+        "文件不存在": "Faili haipo"
+      },
+      "18": {
+        "该文件已被移动或删除": "Faili hii imehamishwa au kufutwa."
+      }
+    },
+    "l0353": {
+      "19": {
+        "文件不存在": "Faili haipo"
+      },
+      "20": {
+        "该文件已被移动或删除": "Faili hii imehamishwa au kufutwa."
+      }
+    },
+    "l0358": {
+      "21": {
+        "确认删除": "Thibitisha kufuta"
+      }
+    },
+    "l0359": {
+      "22": {
+        "确定要删除这条历史记录吗_不会删除原文件": "Una uhakika unataka kufuta rekodi hii ya historia?\n(Faili asili haitafutwa)"
+      }
+    },
+    "l0360": {
+      "23": {
+        "确定": "Sawa"
+      },
+      "24": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0369": {
+      "25": {
+        "确认清空": "Thibitisha kufuta yote"
+      }
+    },
+    "l0370": {
+      "26": {
+        "确定要清空所有历史记录吗_不会删除原文件": "Una uhakika unataka kufuta rekodi zote za historia?\n(Mafaili asili hayatafutwa)"
+      }
+    },
+    "l0371": {
+      "27": {
+        "确定": "Sawa"
+      },
+      "28": {
+        "取消": "Ghairi"
+      }
+    }
+  },
+  "ui_layer_manager": {
+    "l0026": {
+      "01": {
+        "图层": "Tabaka"
+      }
+    },
+    "l0061": {
+      "02": {
+        "self_name_副本": "Nakala ya {self.name}"
+      }
+    },
+    "l0097": {
+      "03": {
+        "图层_len_self_layers_1": "Tabaka {len(self.layers) + 1}"
+      }
+    }
+  },
+  "ui_layer_panel": {
+    "l0050": {
+      "01": {
+        "显示_隐藏图层": "Onyesha/Ficha Safu"
+      }
+    },
+    "l0121": {
+      "02": {
+        "透明度_self_layer_opacity": "Uwazi: {self.layer.opacity}%"
+      }
+    },
+    "l0133": {
+      "03": {
+        "锁定_解锁图层": "Funga/Fungua Safu"
+      }
+    },
+    "l0341": {
+      "04": {
+        "左对齐": "Panga Kushoto"
+      }
+    },
+    "l0342": {
+      "05": {
+        "水平居中": "Panga Katikati Mlalo"
+      }
+    },
+    "l0343": {
+      "06": {
+        "右对齐": "Panga Kulia"
+      }
+    },
+    "l0362": {
+      "07": {
+        "顶部对齐": "Panga Juu"
+      }
+    },
+    "l0363": {
+      "08": {
+        "垂直居中": "Panga Katikati Wima"
+      }
+    },
+    "l0364": {
+      "09": {
+        "底部对齐": "Panga Chini"
+      }
+    },
+    "l0383": {
+      "10": {
+        "水平等距分布": "Sambaza Mlalo"
+      }
+    },
+    "l0384": {
+      "11": {
+        "垂直等距分布": "Sambaza Wima"
+      }
+    },
+    "l0428": {
+      "12": {
+        "图层管理": "Usimamizi wa Safu"
+      }
+    },
+    "l0436": {
+      "13": {
+        "添加图层": "Ongeza Safu"
+      }
+    },
+    "l0468": {
+      "14": {
+        "对齐与分布": "Panga na Sambaza"
+      }
+    },
+    "l0507": {
+      "15": {
+        "添加图层": "Ongeza Safu"
+      }
+    },
+    "l0508": {
+      "16": {
+        "删除图层": "Futa Safu"
+      }
+    },
+    "l0509": {
+      "17": {
+        "复制图层": "Nakili Safu"
+      }
+    },
+    "l0510": {
+      "18": {
+        "上移": "Sogeza Juu"
+      }
+    },
+    "l0511": {
+      "19": {
+        "下移": "Sogeza Chini"
+      }
+    },
+    "l0512": {
+      "20": {
+        "置顶": "Leta Mbele"
+      }
+    },
+    "l0513": {
+      "21": {
+        "置底": "Tuma Nyuma"
+      }
+    },
+    "l0514": {
+      "22": {
+        "合并": "Unganisha"
+      }
+    },
+    "l0532": {
+      "23": {
+        "撤销_Undo": "Tendua (Undo)"
+      }
+    },
+    "l0538": {
+      "24": {
+        "重置图层_Reset": "Weka Upya Safu (Reset)"
+      }
+    },
+    "l0561": {
+      "25": {
+        "不透明度": "Uwazi"
+      }
+    },
+    "l0669": {
+      "26": {
+        "选择图片添加为新图层": "Chagua picha kuongeza kama safu mpya"
+      }
+    },
+    "l0670": {
+      "27": {
+        "图像文件_png_jpg_jpeg": "Faili za Picha (*.png *.jpg *.jpeg *.bmp *.gif);;Faili Zote (*.*)"
+      }
+    },
+    "l0680": {
+      "28": {
+        "错误": "Hitilafu"
+      },
+      "29": {
+        "无法打开该图像文件": "Haiwezi kufungua faili hii ya picha"
+      }
+    }
+  },
+  "ui_main_window": {
+    "l0275": {
+      "02": {
+        "登录": "Ingia"
+      }
+    },
+    "l0398": {
+      "03": {
+        "截图贴图工具": "Zana ya Kubandika Picha ya Skrini"
+      }
+    },
+    "l0453": {
+      "04": {
+        "截图贴图工具": "Zana ya Kubandika Picha ya Skrini"
+      }
+    },
+    "l0464": {
+      "05": {
+        "返回预览": "↩️ Rudi kwenye Muhtasari"
+      }
+    },
+    "l0465": {
+      "06": {
+        "返回上次的预览状态": "Rudi kwenye hali ya awali ya muhtasari"
+      }
+    },
+    "l0477": {
+      "07": {
+        "主页": "🏠 Nyumbani"
+      }
+    },
+    "l0478": {
+      "08": {
+        "新建": "📄 Mpya"
+      }
+    },
+    "l0479": {
+      "09": {
+        "打开": "📂 Fungua"
+      }
+    },
+    "l0480": {
+      "10": {
+        "保存": "💾 Hifadhi"
+      }
+    },
+    "l0481": {
+      "11": {
+        "另存为": "📋 Hifadhi Kama"
+      }
+    },
+    "l0482": {
+      "12": {
+        "打印": "🖨️ Chapisha"
+      }
+    },
+    "l0483": {
+      "13": {
+        "分享": "📤 Shiriki"
+      }
+    },
+    "l0484": {
+      "14": {
+        "选项": "⚙️ Chaguo"
+      }
+    },
+    "l0506": {
+      "15": {
+        "登录": "👤 Ingia"
+      }
+    },
+    "l0511": {
+      "16": {
+        "退出": "🚪 Toka"
+      }
+    },
+    "l0533": {
+      "17": {
+        "选择操作": "Chagua kitendo"
+      }
+    },
+    "l0562": {
+      "18": {
+        "我要软件定制": "Ninataka utengenezaji wa programu maalum"
+      }
+    },
+    "l0598": {
+      "20": {
+        "就绪_按_F8_重复上次截图": "Tayari | Bonyeza F8 kurudia picha ya skrini ya mwisho"
+      }
+    },
+    "l0603": {
+      "21": {
+        "取消登录": "Ghairi Kuingia"
+      }
+    },
+    "l0621": {
+      "22": {
+        "启动时不显示此窗口": "Usionyeshe dirisha hili wakati wa kuanza"
+      }
+    },
+    "l0626": {
+      "23": {
+        "鲲穹AI旗下产品": "Bidhaa za Kunqiong AI"
+      }
+    },
+    "l0641": {
+      "24": {
+        "新任务": "📁 Kazi Mpya"
+      }
+    },
+    "l0651": {
+      "25": {
+        "新建": "Mpya"
+      },
+      "26": {
+        "新建图像": "Picha Mpya"
+      }
+    },
+    "l0655": {
+      "27": {
+        "打开": "Fungua"
+      },
+      "28": {
+        "打开已有文件": "Fungua faili iliyopo"
+      }
+    },
+    "l0661": {
+      "29": {
+        "截取屏幕": "📷 Nasa Skrini"
+      }
+    },
+    "l0671": {
+      "30": {
+        "全屏": "Skrini Nzima"
+      }
+    },
+    "l0675": {
+      "31": {
+        "窗口": "Dirisha"
+      }
+    },
+    "l0680": {
+      "32": {
+        "矩形区域": "Eneo la Mstatili"
+      }
+    },
+    "l0681": {
+      "33": {
+        "窗口控件": "Vidhibiti vya Dirisha"
+      }
+    },
+    "l0682": {
+      "34": {
+        "滚动截图": "Picha ya Skrini Inayosogea"
+      }
+    },
+    "l0683": {
+      "35": {
+        "任意形状": "Umbo Huru"
+      }
+    },
+    "l0693": {
+      "36": {
+        "重复截取": "Rudia Kunasa"
+      },
+      "37": {
+        "F8_重复上次操作": "F8 Rudia Kitendo cha Mwisho"
+      }
+    },
+    "l0707": {
+      "38": {
+        "实用工具": "🛠 Zana"
+      }
+    },
+    "l0718": {
+      "39": {
+        "屏幕录制器": "Kinasa Skrini"
+      },
+      "40": {
+        "录制桌面视频": "Rekodi video ya eneo-kazi"
+      }
+    },
+    "l0719": {
+      "41": {
+        "取色器": "Kichukua Rangi"
+      },
+      "42": {
+        "在屏幕上拾取颜色": "Chagua rangi kutoka kwenye skrini"
+      }
+    },
+    "l0720": {
+      "43": {
+        "调色板": "Paleti"
+      },
+      "44": {
+        "在调色板上按需调色": "Changanya rangi kwenye paleti kulingana na hitaji"
+      }
+    },
+    "l0721": {
+      "45": {
+        "放大镜": "Kikuza"
+      },
+      "46": {
+        "对屏幕像素放大细看": "Kuza ili kukagua pikseli za skrini"
+      }
+    },
+    "l0722": {
+      "47": {
+        "标尺": "Rula"
+      },
+      "48": {
+        "测量桌面对象的尺寸": "Pima ukubwa wa vitu vya eneo-kazi"
+      }
+    },
+    "l0723": {
+      "49": {
+        "坐标轴": "Mhimili wa Kuratibu"
+      },
+      "50": {
+        "查测相对坐标": "Kagua viwianishi vya uhusiano"
+      }
+    },
+    "l0724": {
+      "51": {
+        "量角器": "Kipimio Pembe"
+      },
+      "52": {
+        "在屏幕上测量角度": "Pima pembe kwenye skrini"
+      }
+    },
+    "l0725": {
+      "53": {
+        "白板": "Ubao Mweupe"
+      },
+      "54": {
+        "用于演示或绘画": "Kwa mawasilisho au kuchora"
+      }
+    },
+    "l0783": {
+      "55": {
+        "已登录": "Umeingia"
+      }
+    },
+    "l0785": {
+      "56": {
+        "点击查看用户信息或退出登录": "Bofya kuona taarifa za mtumiaji au kutoka"
+      }
+    },
+    "l0792": {
+      "57": {
+        "登录": "👤 Ingia"
+      }
+    },
+    "l0793": {
+      "58": {
+        "点击登录鲲穹AI账号": "Bofya kuingia kwenye akaunti yako ya Kunqiong AI"
+      }
+    },
+    "l0829": {
+      "60": {
+        "登录确认": "Uthibitisho wa Kuingia"
+      }
+    },
+    "l0830": {
+      "61": {
+        "即将打开浏览器进行登录_是否继续_登录完成后请": "Kivinjari kitafunguliwa kwa kuingia. Endelea?\n\nBaada ya kuingia, tafadhali rudi kwenye programu hii."
+      }
+    },
+    "l0833": {
+      "62": {
+        "正在等待网页登录完成": "Inasubiri kuingia kwa wavuti kukamilike..."
+      }
+    },
+    "l0841": {
+      "63": {
+        "登录已取消": "Kuingia kumeghairiwa"
+      }
+    },
+    "l0904": {
+      "64": {
+        "未知": "Haijulikani"
+      }
+    },
+    "l0913": {
+      "65": {
+        "退出登录": "🚪 Toka kwenye Akaunti"
+      }
+    },
+    "l0925": {
+      "66": {
+        "已退出登录": "Umetoka"
+      }
+    },
+    "l0926": {
+      "67": {
+        "提示": "Taarifa"
+      },
+      "68": {
+        "已成功退出登录": "Umetoka kwenye akaunti kwa mafanikio"
+      }
+    },
+    "l0934": {
+      "69": {
+        "登录成功": "Kuingia Kumefaulu"
+      }
+    },
+    "l0935": {
+      "70": {
+        "登录成功": "Kuingia Kumefaulu"
+      },
+      "71": {
+        "欢迎回来_账号已同步": "Karibu tena! Akaunti yako imesawazishwa."
+      }
+    },
+    "l0940": {
+      "72": {
+        "登录失败": "Kuingia Kumeshindikana"
+      }
+    },
+    "l0941": {
+      "73": {
+        "登录失败": "Kuingia Kumeshindikana"
+      },
+      "74": {
+        "登录过程中出现错误_error_msg": "Hitilafu imetokea wakati wa kuingia:\n{error_msg}"
+      }
+    },
+    "l1020": {
+      "75": {
+        "没有可重复的截图操作": "Hakuna kitendo cha kunasa skrini cha kurudia"
+      }
+    },
+    "l1041": {
+      "76": {
+        "未知的截图模式": "Hali ya kunasa skrini isiyojulikana"
+      }
+    },
+    "l1080": {
+      "77": {
+        "提示": "Taarifa"
+      },
+      "78": {
+        "没有可恢复的预览状态": "Hakuna hali ya muhtasari ya kurejesha"
+      }
+    },
+    "l1095": {
+      "79": {
+        "错误": "Hitilafu"
+      },
+      "80": {
+        "预览缓存已过期或不存在": "Akiba ya muhtasari imekwisha muda au haipo"
+      }
+    },
+    "l1103": {
+      "81": {
+        "正在恢复_len_session_caches": "Inarejesha vichupo {len(session_caches)}..."
+      }
+    },
+    "l1119": {
+      "82": {
+        "未命名": "Bila Jina"
+      }
+    },
+    "l1130": {
+      "83": {
+        "已恢复_len_session_cache": "✓ Vichupo {len(session_caches)} vimerejeshwa"
+      }
+    },
+    "l1135": {
+      "84": {
+        "错误": "Hitilafu"
+      },
+      "85": {
+        "无法加载预览图像": "Haiwezi kupakia picha ya muhtasari"
+      }
+    },
+    "l1163": {
+      "86": {
+        "打开图像": "Fungua Picha"
+      }
+    },
+    "l1164": {
+      "87": {
+        "图像文件_png_jpg_jpeg": "Faili za Picha (*.png *.jpg *.jpeg *.bmp *.gif);;Faili Zote (*.*)"
+      }
+    },
+    "l1176": {
+      "88": {
+        "提示": "Taarifa"
+      }
+    },
+    "l1177": {
+      "89": {
+        "请先打开或截取一张图像_然后在编辑器中进行保存": "Tafadhali fungua au nasa picha kwanza, kisha ihifadhi kwenye kihariri."
+      }
+    },
+    "l1185": {
+      "90": {
+        "提示": "Taarifa"
+      }
+    },
+    "l1186": {
+      "91": {
+        "请先打开或截取一张图像_然后在编辑器中进行另存为": "Tafadhali fungua au nasa picha kwanza, kisha tumia Hifadhi Kama kwenye kihariri."
+      }
+    },
+    "l1194": {
+      "92": {
+        "提示": "Taarifa"
+      }
+    },
+    "l1195": {
+      "93": {
+        "请先打开或截取一张图像_然后在编辑器中进行打印": "Tafadhali fungua au nasa picha kwanza, kisha ichapishe kwenye kihariri."
+      }
+    },
+    "l1283": {
+      "94": {
+        "提示": "Taarifa"
+      },
+      "95": {
+        "剪贴板中没有可粘贴的图像": "Hakuna picha kwenye ubao wa kunakili ya kubandika"
+      }
+    },
+    "l1315": {
+      "96": {
+        "提示": "Taarifa"
+      }
+    },
+    "l1316": {
+      "97": {
+        "没有可分享的图像_请先截取或打开一张图像": "Hakuna picha ya kushiriki.\nTafadhali nasa au fungua picha kwanza."
+      }
+    },
+    "l1325": {
+      "98": {
+        "提示": "Taarifa"
+      },
+      "99": {
+        "没有可分享的图像": "Hakuna picha ya kushiriki"
+      }
+    },
+    "l1329": {
+      "100": {
+        "分享": "Shiriki"
+      }
+    },
+    "l1361": {
+      "101": {
+        "提示": "Taarifa"
+      },
+      "102": {
+        "预览缓存已过期_请重新截图": "Akiba ya muhtasari imekwisha muda, tafadhali piga picha ya skrini tena"
+      }
+    },
+    "l1379": {
+      "103": {
+        "未命名": "Bila Jina"
+      }
+    }
+  },
+  "ui_modern_dialog": {
+    "l0011": {
+      "01": {
+        "确定": "Sawa"
+      },
+      "02": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0207": {
+      "03": {
+        "知道了": "Nimeelewa"
+      }
+    },
+    "l0238": {
+      "04": {
+        "确定": "Sawa"
+      }
+    },
+    "l0243": {
+      "05": {
+        "确定": "Sawa"
+      }
+    },
+    "l0248": {
+      "06": {
+        "确定": "Sawa"
+      }
+    },
+    "l0253": {
+      "07": {
+        "确定": "Sawa"
+      }
+    },
+    "l0258": {
+      "08": {
+        "确定": "Sawa"
+      },
+      "09": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0268": {
+      "10": {
+        "识别文本": "Tambua Maandishi"
+      }
+    },
+    "l0304": {
+      "11": {
+        "识别文本": "Tambua Maandishi"
+      }
+    },
+    "l0366": {
+      "12": {
+        "复制": "Nakili"
+      }
+    }
+  },
+  "ui_new_image_dialog": {
+    "l0015": {
+      "01": {
+        "上次使用": "Iliyotumika Mara ya Mwisho"
+      }
+    },
+    "l0016": {
+      "02": {
+        "剪贴板": "Ubao wa Kunakili"
+      }
+    },
+    "l0017": {
+      "03": {
+        "自定义": "Binafsi"
+      }
+    },
+    "l0029": {
+      "04": {
+        "白色": "Nyeupe"
+      }
+    },
+    "l0030": {
+      "05": {
+        "黑色": "Nyeusi"
+      }
+    },
+    "l0031": {
+      "06": {
+        "透明": "Wazi"
+      }
+    },
+    "l0032": {
+      "07": {
+        "灰色": "Kijivu"
+      }
+    },
+    "l0033": {
+      "08": {
+        "红色": "Nyekundu"
+      }
+    },
+    "l0034": {
+      "09": {
+        "蓝色": "Bluu"
+      }
+    },
+    "l0129": {
+      "10": {
+        "新建图像": "Picha Mpya"
+      }
+    },
+    "l0185": {
+      "11": {
+        "新建图像": "Picha Mpya"
+      }
+    },
+    "l0190": {
+      "12": {
+        "画布大小_self_last_width": "Ukubwa wa Turubai: {self.last_width} × {self.last_height}"
+      }
+    },
+    "l0198": {
+      "13": {
+        "预设": "Mipangilio ya awali:"
+      }
+    },
+    "l0213": {
+      "14": {
+        "宽度": "Upana:"
+      }
+    },
+    "l0228": {
+      "15": {
+        "高度": "Urefu:"
+      }
+    },
+    "l0243": {
+      "16": {
+        "背景色": "Rangi ya Mandharinyuma:"
+      }
+    },
+    "l0263": {
+      "17": {
+        "自定义颜色": "Rangi Binafsi"
+      }
+    },
+    "l0275": {
+      "18": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0280": {
+      "19": {
+        "确定": "Sawa"
+      }
+    },
+    "l0298": {
+      "20": {
+        "画布大小_width_height": "Ukubwa wa Turubai: {width} × {height}"
+      }
+    },
+    "l0341": {
+      "21": {
+        "剪贴板": "Ubao wa Kunakili"
+      }
+    },
+    "l0350": {
+      "22": {
+        "上次使用": "Iliyotumika Mara ya Mwisho"
+      }
+    }
+  },
+  "ui_pin_window": {
+    "l0065": {
+      "01": {
+        "复制": "Nakili"
+      }
+    },
+    "l0069": {
+      "02": {
+        "保存": "Hifadhi"
+      }
+    },
+    "l0075": {
+      "03": {
+        "关闭": "Funga"
+      }
+    },
+    "l0089": {
+      "04": {
+        "保存": "Hifadhi"
+      }
+    }
+  },
+  "ui_print_dialog": {
+    "l0139": {
+      "01": {
+        "打印": "Chapisha"
+      }
+    },
+    "l0193": {
+      "02": {
+        "打印": "Chapisha"
+      }
+    },
+    "l0199": {
+      "03": {
+        "打印": "🖨️ Chapisha"
+      }
+    },
+    "l0207": {
+      "04": {
+        "打印机": "Printa"
+      }
+    },
+    "l0222": {
+      "06": {
+        "设置": "Mipangilio"
+      }
+    },
+    "l0228": {
+      "07": {
+        "缩放": "Skeli:"
+      }
+    },
+    "l0230": {
+      "08": {
+        "调整到_100": "Skeli hadi 100%"
+      },
+      "09": {
+        "适合页面": "Toshea Ukurasa"
+      },
+      "10": {
+        "自定义": "Binafsi"
+      }
+    },
+    "l0238": {
+      "11": {
+        "方向": "Mwelekeo:"
+      }
+    },
+    "l0240": {
+      "12": {
+        "纵向": "Wima"
+      },
+      "13": {
+        "横向": "Mlalo"
+      }
+    },
+    "l0247": {
+      "14": {
+        "纸张尺寸": "Ukubwa wa Karatasi:"
+      }
+    },
+    "l0262": {
+      "15": {
+        "页边距": "Pambizo:"
+      }
+    },
+    "l0265": {
+      "16": {
+        "正常_左_10mm_上_10mm": "Kawaida (Kushoto: 10mm, Juu: 10mm)"
+      }
+    },
+    "l0266": {
+      "17": {
+        "窄_左_5mm_上_5mm": "Nyembamba (Kushoto: 5mm, Juu: 5mm)"
+      }
+    },
+    "l0267": {
+      "18": {
+        "宽_左_20mm_上_20mm": "Pana (Kushoto: 20mm, Juu: 20mm)"
+      }
+    },
+    "l0268": {
+      "19": {
+        "自定义": "Binafsi..."
+      }
+    },
+    "l0276": {
+      "20": {
+        "打印颜色": "Rangi ya Uchapishaji:"
+      }
+    },
+    "l0278": {
+      "21": {
+        "彩色": "Rangi"
+      },
+      "22": {
+        "灰度": "Kijivu"
+      },
+      "23": {
+        "黑白": "Nyeusi na Nyeupe"
+      }
+    },
+    "l0291": {
+      "25": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0305": {
+      "26": {
+        "边距": "Pambizo"
+      }
+    },
+    "l0306": {
+      "27": {
+        "左": "Kushoto"
+      }
+    },
+    "l0314": {
+      "28": {
+        "上": "Juu"
+      }
+    },
+    "l0322": {
+      "29": {
+        "右": "Kulia"
+      }
+    },
+    "l0330": {
+      "30": {
+        "下": "Chini"
+      }
+    },
+    "l0348": {
+      "31": {
+        "页面_1_1": "Kurasa: 1 - 1"
+      }
+    },
+    "l0351": {
+      "32": {
+        "纸张尺寸_210_mm_297_mm": "Ukubwa wa Karatasi: 210 mm × 297 mm"
+      }
+    },
+    "l0403": {
+      "33": {
+        "纸张尺寸_w_mm_h_mm": "Ukubwa wa Karatasi: {w} mm × {h} mm"
+      }
+    }
+  },
+  "ui_region_capture": {
+    "l0071": {
+      "01": {
+        "移动选区": "Sogeza Eneo Teule"
+      }
+    },
+    "l0083": {
+      "02": {
+        "取消_ESC": "Ghairi (ESC)"
+      }
+    },
+    "l0091": {
+      "03": {
+        "固定到桌面": "Bandika kwenye Eneo-kazi"
+      }
+    },
+    "l0099": {
+      "04": {
+        "保存_Ctrl_S": "Hifadhi (Ctrl+S)"
+      }
+    },
+    "l0109": {
+      "05": {
+        "编辑_进入编辑器": "Hariri (Fungua Kihariri)"
+      }
+    },
+    "l0117": {
+      "06": {
+        "复制并分享_Ctrl_C": "Nakili na Shiriki (Ctrl+C)"
+      }
+    },
+    "l0125": {
+      "07": {
+        "识别文字": "Tambua Maandishi"
+      }
+    },
+    "l0244": {
+      "08": {
+        "拖动选择区域_ESC取消": "Buruta kuchagua eneo | ESC kughairi"
+      }
+    },
+    "l0668": {
+      "09": {
+        "保存": "Hifadhi"
+      }
+    },
+    "l0716": {
+      "10": {
+        "输入文字": "Weka Maandishi"
+      },
+      "11": {
+        "请输入要添加的文字": "Tafadhali weka maandishi ya kuongeza:"
+      }
+    },
+    "l0771": {
+      "12": {
+        "OCR_错误": "Hitilafu ya OCR"
+      },
+      "13": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Injini ya OCR ya ndani haijawa tayari. Tafadhali kagua vitegemezi."
+      }
+    },
+    "l0787": {
+      "14": {
+        "识别结果": "Matokeo ya Utambuzi"
+      },
+      "15": {
+        "未识别到文字": "Hakuna maandishi yaliyotambuliwa."
+      }
+    },
+    "l0800": {
+      "16": {
+        "OCR_错误": "Hitilafu ya OCR"
+      },
+      "17": {
+        "识别失败_err_msg": "Utambuzi umeshindwa: {err_msg}"
+      }
+    }
+  },
+  "ui_save_dialog": {
+    "l0032": {
+      "01": {
+        "保存图像": "Hifadhi Picha"
+      }
+    },
+    "l0074": {
+      "02": {
+        "保存图像": "Hifadhi Picha"
+      }
+    },
+    "l0080": {
+      "03": {
+        "文件名": "Jina la Faili:"
+      }
+    },
+    "l0087": {
+      "04": {
+        "保存位置": "Eneo la Kuhifadhi"
+      }
+    },
+    "l0096": {
+      "05": {
+        "浏览": "Vinjari..."
+      }
+    },
+    "l0103": {
+      "06": {
+        "快速切换": "Badilisha haraka:"
+      }
+    },
+    "l0120": {
+      "07": {
+        "暂无最近文件夹": "Hakuna folda za hivi karibuni"
+      }
+    },
+    "l0128": {
+      "08": {
+        "设为默认保存位置": "Weka kama eneo chaguomsingi la kuhifadhi"
+      }
+    },
+    "l0135": {
+      "09": {
+        "格式": "Umbizo:"
+      }
+    },
+    "l0152": {
+      "10": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0157": {
+      "11": {
+        "保存": "Hifadhi"
+      }
+    },
+    "l0165": {
+      "12": {
+        "选择保存位置": "Chagua eneo la kuhifadhi"
+      }
+    },
+    "l0192": {
+      "13": {
+        "文件已存在": "Faili tayari ipo"
+      }
+    },
+    "l0193": {
+      "14": {
+        "文件_filename_已存在_是否覆盖": "Faili {filename} tayari ipo. Unataka kuandika juu yake?"
+      }
+    },
+    "l0194": {
+      "15": {
+        "覆盖": "Andika juu"
+      },
+      "16": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0216": {
+      "17": {
+        "保存失败": "Kuhifadhi kumeshindikana"
+      }
+    },
+    "l0218": {
+      "18": {
+        "保存失败": "Kuhifadhi kumeshindikana"
+      },
+      "19": {
+        "无法保存文件_str_e": "Imeshindikana kuhifadhi faili: {str(e)}"
+      }
+    },
+    "l0240": {
+      "20": {
+        "批量导出": "Hamisha kwa kundi"
+      }
+    },
+    "l0283": {
+      "21": {
+        "批量导出_len_self_images": "Hamisha kwa kundi (picha {len(self.images)})"
+      }
+    },
+    "l0288": {
+      "22": {
+        "待导出图像": "Picha za kuhamisha:"
+      }
+    },
+    "l0302": {
+      "23": {
+        "保存位置": "Eneo la kuhifadhi:"
+      }
+    },
+    "l0307": {
+      "24": {
+        "浏览": "Vinjari"
+      }
+    },
+    "l0314": {
+      "25": {
+        "导出格式": "Umbizo la kuhamisha:"
+      }
+    },
+    "l0320": {
+      "26": {
+        "命名规则": "Kanuni ya kutaja majina:"
+      }
+    },
+    "l0323": {
+      "27": {
+        "保持原名": "Hifadhi jina asili"
+      }
+    },
+    "l0324": {
+      "28": {
+        "添加前缀": "Ongeza kiambishi awali"
+      }
+    },
+    "l0325": {
+      "29": {
+        "添加后缀": "Ongeza kiambishi tamati"
+      }
+    },
+    "l0326": {
+      "30": {
+        "序号命名": "Kutaja kwa nambari mfululizo"
+      }
+    },
+    "l0332": {
+      "31": {
+        "前缀": "Kiambishi awali:"
+      }
+    },
+    "l0336": {
+      "32": {
+        "例如_export": "Mfano: export_"
+      }
+    },
+    "l0358": {
+      "33": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0363": {
+      "34": {
+        "开始导出": "Anza kuhamisha"
+      }
+    },
+    "l0371": {
+      "35": {
+        "选择导出位置": "Chagua eneo la kuhamisha"
+      }
+    },
+    "l0380": {
+      "36": {
+        "前缀": "Kiambishi awali:"
+      },
+      "37": {
+        "后缀": "Kiambishi tamati:"
+      }
+    },
+    "l0424": {
+      "38": {
+        "已导出_os_path_basename_f": "Imehamishwa: {os.path.basename(file_path)}"
+      }
+    },
+    "l0426": {
+      "39": {
+        "导出失败_name_str_e": "Uhamishaji umeshindikana: {name} - {str(e)}"
+      }
+    },
+    "l0434": {
+      "40": {
+        "导出完成_成功_len_saved_path": "Uhamishaji umekamilika! Imefanikiwa {len(saved_paths)}/{len(self.images)}"
+      }
+    },
+    "l0439": {
+      "41": {
+        "导出完成": "Uhamishaji umekamilika"
+      }
+    },
+    "l0440": {
+      "42": {
+        "成功导出_len_saved_paths": "Picha {len(saved_paths)} zimehamishwa kwa mafanikio kwenda:\n{folder}"
+      }
+    }
+  },
+  "ui_scroll_capture": {
+    "l0144": {
+      "01": {
+        "长截图预览": "Hakikisho la picha ndefu ya skrini"
+      }
+    },
+    "l0154": {
+      "02": {
+        "已捕获_self_frame_count_帧": "Imechukuliwa fremu {self.frame_count}"
+      }
+    },
+    "l0158": {
+      "03": {
+        "等待捕获": "Inasubiri kunasa..."
+      }
+    },
+    "l0220": {
+      "04": {
+        "滚动页面开始捕获": "Sogeza ukurasa kuanza kunasa"
+      }
+    },
+    "l0255": {
+      "05": {
+        "手动滚动预览_ESC_取消": "Hakikisho la kusogeza kwa mkono · ESC kughairi"
+      }
+    },
+    "l0275": {
+      "06": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0290": {
+      "07": {
+        "完成截图": "Maliza picha ya skrini"
+      }
+    },
+    "l0456": {
+      "08": {
+        "开始捕获": "Anza kunasa"
+      }
+    },
+    "l0463": {
+      "09": {
+        "点击开始后滚动页面": "Bofya Anza, kisha sogeza ukurasa"
+      }
+    },
+    "l0557": {
+      "10": {
+        "拖动选择滚动区域_ESC_取消": "Buruta kuchagua eneo la kusogeza | ESC kughairi"
+      }
+    },
+    "l0589": {
+      "11": {
+        "捕获中_len_self_captures": "Inanasa: {len(self.captures)}"
+      }
+    }
+  },
+  "ui_settings_dialog": {
+    "l0024": {
+      "01": {
+        "点击后按下快捷键": "Bofya kisha bonyeza kitufe cha mkato..."
+      }
+    },
+    "l0086": {
+      "02": {
+        "程序设置": "Mipangilio ya Programu"
+      }
+    },
+    "l0182": {
+      "03": {
+        "常规": "Jumla"
+      }
+    },
+    "l0183": {
+      "04": {
+        "截图": "Picha ya skrini"
+      }
+    },
+    "l0184": {
+      "05": {
+        "快捷键": "Vitufe vya mkato"
+      }
+    },
+    "l0185": {
+      "06": {
+        "命名规则": "Kanuni za kutaja majina"
+      }
+    },
+    "l0191": {
+      "07": {
+        "鲲穹AI旗下产品": "Bidhaa ya Kunqiong AI"
+      }
+    },
+    "l0197": {
+      "08": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0202": {
+      "09": {
+        "保存设置": "Hifadhi Mipangilio"
+      }
+    },
+    "l0215": {
+      "10": {
+        "保存设置": "Hifadhi Mipangilio"
+      }
+    },
+    "l0219": {
+      "11": {
+        "默认保存路径": "Njia chaguomsingi ya kuhifadhi:"
+      }
+    },
+    "l0224": {
+      "12": {
+        "选择截图保存目录": "Chagua folda ya kuhifadhi picha za skrini..."
+      }
+    },
+    "l0227": {
+      "13": {
+        "浏览": "Vinjari"
+      }
+    },
+    "l0235": {
+      "14": {
+        "默认格式": "Umbizo chaguomsingi:"
+      }
+    },
+    "l0243": {
+      "15": {
+        "截图后自动保存到默认目录": "Hifadhi kiotomatiki kwenye folda chaguomsingi baada ya picha ya skrini"
+      }
+    },
+    "l0246": {
+      "16": {
+        "截图后自动复制到剪贴板": "Nakili kiotomatiki kwenye clipboard baada ya picha ya skrini"
+      }
+    },
+    "l0249": {
+      "17": {
+        "操作完成后显示通知": "Onyesha arifa baada ya operesheni kukamilika"
+      }
+    },
+    "l0255": {
+      "18": {
+        "编辑器设置": "Mipangilio ya Kihariri"
+      }
+    },
+    "l0258": {
+      "19": {
+        "编辑器默认全屏显示": "Kihariri hufunguka kwenye skrini nzima kwa chaguomsingi"
+      }
+    },
+    "l0261": {
+      "20": {
+        "记住编辑器窗口大小": "Kumbuka ukubwa wa dirisha la kihariri"
+      }
+    },
+    "l0267": {
+      "21": {
+        "版本与更新": "Toleo na Masasisho"
+      }
+    },
+    "l0273": {
+      "22": {
+        "当前版本_current_version": "Toleo la sasa: {current_version}"
+      }
+    },
+    "l0279": {
+      "23": {
+        "检查更新": "Angalia masasisho"
+      }
+    },
+    "l0285": {
+      "24": {
+        "反馈问题": "Ripoti tatizo"
+      }
+    },
+    "l0328": {
+      "25": {
+        "滚动截图": "Picha ya Skrini ya Kusogeza"
+      }
+    },
+    "l0333": {
+      "26": {
+        "0_1秒": "× 0.1s"
+      }
+    },
+    "l0334": {
+      "27": {
+        "滚动延迟": "Ucheleweshaji wa kusogeza:"
+      }
+    },
+    "l0337": {
+      "28": {
+        "慢速": "Polepole"
+      },
+      "29": {
+        "中速": "Wastani"
+      },
+      "30": {
+        "快速": "Haraka"
+      }
+    },
+    "l0338": {
+      "31": {
+        "滚动速度": "Kasi ya kusogeza:"
+      }
+    },
+    "l0343": {
+      "32": {
+        "重复截取": "Rudia kunasa"
+      }
+    },
+    "l0346": {
+      "33": {
+        "按_F8_可重复上次截图操作": "Bonyeza F8 kurudia kitendo cha mwisho cha picha ya skrini"
+      }
+    },
+    "l0359": {
+      "34": {
+        "快捷键设置": "Mipangilio ya Vitufe vya Mkato"
+      }
+    },
+    "l0368": {
+      "35": {
+        "全屏截图": "Picha ya skrini nzima:"
+      },
+      "36": {
+        "例如_Ctrl_Shift_F": "Mfano: Ctrl+Shift+F"
+      }
+    },
+    "l0369": {
+      "37": {
+        "矩形截图": "Picha ya skrini ya mstatili:"
+      },
+      "38": {
+        "例如_Ctrl_Shift_A": "Mfano: Ctrl+Shift+A"
+      }
+    },
+    "l0370": {
+      "39": {
+        "窗口控件截图": "Picha ya skrini ya dirisha/kidhibiti:"
+      },
+      "40": {
+        "例如_Ctrl_Shift_W": "Mfano: Ctrl+Shift+W"
+      }
+    },
+    "l0371": {
+      "41": {
+        "取色器": "Kichagua rangi:"
+      },
+      "42": {
+        "例如_Ctrl_Shift_C": "Mfano: Ctrl+Shift+C"
+      }
+    },
+    "l0372": {
+      "43": {
+        "重复截取": "Rudia kunasa:"
+      },
+      "44": {
+        "例如_F8": "Mfano: F8"
+      }
+    },
+    "l0373": {
+      "45": {
+        "白板": "Ubao mweupe:"
+      },
+      "46": {
+        "例如_Win_Shift_W": "Mfano: Win+Shift+W"
+      }
+    },
+    "l0374": {
+      "47": {
+        "开始_停止录屏": "Anza/simamisha kurekodi:"
+      },
+      "48": {
+        "例如_Ctrl_Shift_R": "Mfano: Ctrl+Shift+R"
+      }
+    },
+    "l0416": {
+      "49": {
+        "预设方案": "Mipangilio tayari"
+      }
+    },
+    "l0419": {
+      "50": {
+        "默认": "Chaguomsingi"
+      },
+      "51": {
+        "HyperSnap风格": "Mtindo wa HyperSnap"
+      },
+      "52": {
+        "Snagit风格": "Mtindo wa Snagit"
+      }
+    },
+    "l0428": {
+      "53": {
+        "快捷键修改后保存即可生效_无需重启程序": "💡 Mabadiliko ya vitufe vya mkato huanza kufanya kazi baada ya kuhifadhi, hakuna haja ya kuwasha upya programu"
+      }
+    },
+    "l0449": {
+      "54": {
+        "与_self__get_hotkey_disp": "Inakinzana na {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0450": {
+      "55": {
+        "快捷键冲突_text_已被_sel": "⚠️ Mgongano wa kitufe cha mkato: {text} tayari kinatumiwa na {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0453": {
+      "56": {
+        "有效": "Halali"
+      }
+    },
+    "l0462": {
+      "57": {
+        "全屏截图": "Picha ya skrini nzima"
+      }
+    },
+    "l0463": {
+      "58": {
+        "矩形截图": "Picha ya skrini ya mstatili"
+      }
+    },
+    "l0464": {
+      "59": {
+        "窗口控件截图": "Picha ya skrini ya dirisha/kidhibiti"
+      }
+    },
+    "l0465": {
+      "60": {
+        "取色器": "Kichagua rangi"
+      }
+    },
+    "l0466": {
+      "61": {
+        "重复截取": "Rudia kunasa"
+      }
+    },
+    "l0467": {
+      "62": {
+        "白板": "Ubao mweupe"
+      }
+    },
+    "l0468": {
+      "63": {
+        "屏幕录制": "Kurekodi skrini"
+      }
+    },
+    "l0478": {
+      "64": {
+        "文件命名规则": "Kanuni za Kutaja Majina ya Faili"
+      }
+    },
+    "l0481": {
+      "65": {
+        "自定义前缀": "Kiambishi awali maalum:"
+      }
+    },
+    "l0486": {
+      "66": {
+        "命名模板": "Kiolezo cha jina:"
+      }
+    },
+    "l0492": {
+      "67": {
+        "可用变量_YYYY_年份_2024": "Vigezo vinavyopatikana:\n  ${YYYY} - Mwaka (2024)\n  ${MM} - Mwezi (01-12)\n  ${DD} - Siku (01-31)\n  ${HH} - Saa (00-23)\n  ${YYYYMMDD} - Tarehe (20241201)\n  ${HHMMSS} - Muda (143052)\n  ${MODE} - Hali ya picha ya skrini\n  ${PREFIX} - Kiambishi awali maalum\n  ${SEQ} - Nambari ya mfululizo (001, 002...)"
+      }
+    },
+    "l0510": {
+      "68": {
+        "预览": "Hakikisho"
+      }
+    },
+    "l0561": {
+      "69": {
+        "选择保存目录": "Chagua folda ya kuhifadhi"
+      }
+    },
+    "l0567": {
+      "70": {
+        "默认": "Chaguomsingi"
+      }
+    },
+    "l0573": {
+      "71": {
+        "HyperSnap风格": "Mtindo wa HyperSnap"
+      }
+    },
+    "l0579": {
+      "72": {
+        "Snagit风格": "Mtindo wa Snagit"
+      }
+    },
+    "l0601": {
+      "73": {
+        "快捷键冲突": "Mgongano wa kitufe cha mkato"
+      }
+    },
+    "l0602": {
+      "74": {
+        "快捷键_text_被多个功能使用_请修改后再": "Kitufe cha mkato {text} kinatumiwa na vipengele vingi. Tafadhali kibadilishe kabla ya kuhifadhi."
+      }
+    }
+  },
+  "ui_share_panel": {
+    "l0109": {
+      "01": {
+        "FTP服务器配置": "Usanidi wa Seva ya FTP"
+      },
+      "02": {
+        "编辑FTP服务器": "Hariri Seva ya FTP"
+      }
+    },
+    "l0125": {
+      "03": {
+        "例如_我的服务器": "Mfano: Seva yangu"
+      }
+    },
+    "l0126": {
+      "04": {
+        "名称": "Jina:"
+      }
+    },
+    "l0129": {
+      "05": {
+        "例如_ftp_example_com": "Mfano: ftp.example.com"
+      }
+    },
+    "l0130": {
+      "06": {
+        "主机": "Mwenyeji:"
+      }
+    },
+    "l0135": {
+      "07": {
+        "端口": "Bandari:"
+      }
+    },
+    "l0138": {
+      "08": {
+        "用户名": "Jina la mtumiaji:"
+      }
+    },
+    "l0142": {
+      "09": {
+        "密码": "Nenosiri:"
+      }
+    },
+    "l0146": {
+      "10": {
+        "远程目录路径": "Njia ya folda ya mbali"
+      }
+    },
+    "l0147": {
+      "11": {
+        "路径": "Njia:"
+      }
+    },
+    "l0151": {
+      "12": {
+        "协议": "Itifaki:"
+      }
+    },
+    "l0156": {
+      "13": {
+        "测试连接": "Jaribu Muunganisho"
+      }
+    },
+    "l0165": {
+      "14": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0170": {
+      "15": {
+        "保存": "Hifadhi"
+      }
+    },
+    "l0221": {
+      "16": {
+        "成功": "Imefanikiwa"
+      },
+      "17": {
+        "连接测试成功": "Jaribio la muunganisho limefanikiwa!"
+      }
+    },
+    "l0223": {
+      "18": {
+        "失败": "Imeshindikana"
+      },
+      "19": {
+        "连接失败_message": "Muunganisho umeshindikana: {message}"
+      }
+    },
+    "l0227": {
+      "20": {
+        "错误": "Hitilafu"
+      },
+      "21": {
+        "请填写名称和主机地址": "Tafadhali weka jina na anwani ya mwenyeji"
+      }
+    },
+    "l0248": {
+      "22": {
+        "云存储账号管理": "Usimamizi wa Akaunti za Hifadhi ya Wingu"
+      }
+    },
+    "l0257": {
+      "23": {
+        "百度网盘": "Baidu Netdisk"
+      }
+    },
+    "l0262": {
+      "24": {
+        "未授权": "Haijaidhinishwa"
+      }
+    },
+    "l0275": {
+      "25": {
+        "授权后可将截图直接上传到百度网盘_方便跨设备访问": "Baada ya kuidhinisha, picha za skrini zinaweza kupakiwa moja kwa moja kwenye Baidu Netdisk kwa ufikiaji na ushiriki rahisi kati ya vifaa."
+      }
+    },
+    "l0281": {
+      "26": {
+        "授权百度网盘": "🔐 Idhinisha Baidu Netdisk"
+      }
+    },
+    "l0299": {
+      "27": {
+        "关闭": "Funga"
+      }
+    },
+    "l0324": {
+      "28": {
+        "提示": "Taarifa"
+      },
+      "29": {
+        "百度网盘功能暂不可用": "Baidu Netdisk haipatikani kwa muda"
+      }
+    },
+    "l0326": {
+      "30": {
+        "错误": "Hitilafu"
+      },
+      "31": {
+        "授权失败_str_e": "Uidhinishaji umeshindikana: {str(e)}"
+      }
+    },
+    "l0330": {
+      "32": {
+        "已授权": "✓ Imeidhinishwa"
+      }
+    },
+    "l0340": {
+      "33": {
+        "成功": "Imefanikiwa"
+      }
+    },
+    "l0342": {
+      "34": {
+        "失败": "Imeshindikana"
+      }
+    },
+    "l0350": {
+      "35": {
+        "分享进度": "Maendeleo ya Kushiriki"
+      }
+    },
+    "l0357": {
+      "36": {
+        "准备中": "Inaandaa..."
+      }
+    },
+    "l0365": {
+      "37": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0397": {
+      "38": {
+        "关闭": "Funga"
+      }
+    },
+    "l0425": {
+      "39": {
+        "分享": "Shiriki"
+      }
+    },
+    "l0429": {
+      "40": {
+        "选择分享方式": "Chagua njia ya kushiriki"
+      }
+    },
+    "l0476": {
+      "41": {
+        "社交分享": "Ushiriki wa Kijamii"
+      }
+    },
+    "l0483": {
+      "42": {
+        "微信": "WeChat"
+      }
+    },
+    "l0484": {
+      "43": {
+        "已安装_分享到微信": "Imesakinishwa - Shiriki kwa WeChat"
+      },
+      "44": {
+        "未检测到微信客户端": "Mteja wa WeChat haujagunduliwa"
+      }
+    },
+    "l0491": {
+      "45": {
+        "已安装_分享到QQ": "Imesakinishwa - Shiriki kwa QQ"
+      },
+      "46": {
+        "未检测到QQ客户端": "Mteja wa QQ haujagunduliwa"
+      }
+    },
+    "l0497": {
+      "47": {
+        "钉钉": "DingTalk"
+      }
+    },
+    "l0498": {
+      "48": {
+        "已安装_分享到钉钉": "Imesakinishwa - Shiriki kwa DingTalk"
+      },
+      "49": {
+        "未检测到钉钉客户端": "Mteja wa DingTalk haujagunduliwa"
+      }
+    },
+    "l0504": {
+      "50": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0505": {
+      "51": {
+        "已安装_分享到企业微信": "Imesakinishwa - Shiriki kwa WeCom"
+      },
+      "52": {
+        "未检测到企业微信客户端": "Mteja wa WeCom haujagunduliwa"
+      }
+    },
+    "l0513": {
+      "53": {
+        "云存储": "Hifadhi ya Wingu"
+      }
+    },
+    "l0517": {
+      "54": {
+        "百度网盘": "Baidu Netdisk"
+      },
+      "55": {
+        "上传并分享图像到百度网盘": "Pakia na shiriki picha kwenye Baidu Netdisk"
+      }
+    },
+    "l0524": {
+      "56": {
+        "邮件": "Barua pepe"
+      }
+    },
+    "l0527": {
+      "57": {
+        "电子邮件": "Barua pepe"
+      },
+      "58": {
+        "添加图像的副本到电子邮件": "Ongeza nakala ya picha kwenye barua pepe"
+      }
+    },
+    "l0534": {
+      "59": {
+        "Office_应用": "Programu za Office"
+      }
+    },
+    "l0537": {
+      "60": {
+        "插入图像的副本到_Word": "Ingiza nakala ya picha kwenye Word"
+      }
+    },
+    "l0541": {
+      "61": {
+        "插入图像的副本到_Excel": "Ingiza nakala ya picha kwenye Excel"
+      }
+    },
+    "l0545": {
+      "62": {
+        "插入图像的副本到_PowerPoint": "Ingiza nakala ya picha kwenye PowerPoint"
+      }
+    },
+    "l0549": {
+      "63": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "64": {
+        "发送图像的副本到_Paint": "Tuma nakala ya picha kwa Paint"
+      }
+    },
+    "l0564": {
+      "65": {
+        "发送到外部程序": "Tuma kwa programu ya nje"
+      }
+    },
+    "l0568": {
+      "66": {
+        "外部程序": "Programu ya Nje"
+      },
+      "67": {
+        "发送图像到_Photoshop_GIMP_等外部": "Tuma picha kwa programu za nje kama Photoshop na GIMP"
+      }
+    },
+    "l0573": {
+      "68": {
+        "直接发送图像到_FTP_服务器": "Tuma picha moja kwa moja kwenye seva ya FTP"
+      }
+    },
+    "l0580": {
+      "69": {
+        "快捷操作": "Vitendo vya Haraka"
+      }
+    },
+    "l0584": {
+      "70": {
+        "复制到剪贴板": "Nakili kwenye clipboard"
+      },
+      "71": {
+        "Ctrl_C_快速复制": "Nakili haraka Ctrl+C"
+      }
+    },
+    "l0591": {
+      "72": {
+        "应用检测状态": "Hali ya ugunduzi wa programu"
+      }
+    },
+    "l0610": {
+      "73": {
+        "微信": "WeChat"
+      }
+    },
+    "l0611": {
+      "74": {
+        "钉钉": "DingTalk"
+      },
+      "75": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0625": {
+      "76": {
+        "重新检测": "🔄 Gundua tena"
+      }
+    },
+    "l0649": {
+      "77": {
+        "提示": "Taarifa"
+      },
+      "78": {
+        "请重新打开分享面板以刷新检测结果": "Tafadhali fungua tena paneli ya kushiriki ili kusasisha matokeo ya ugunduzi"
+      }
+    },
+    "l0673": {
+      "79": {
+        "图像尺寸_w_h_像素": "Ukubwa wa picha: {w} × {h} pikseli"
+      }
+    },
+    "l0676": {
+      "80": {
+        "没有可分享的图像": "Hakuna picha ya kushiriki"
+      }
+    },
+    "l0681": {
+      "81": {
+        "提示": "Taarifa"
+      },
+      "82": {
+        "请先截取或打开一张图像": "Tafadhali kwanza nasa au fungua picha"
+      }
+    },
+    "l0713": {
+      "83": {
+        "提示": "Taarifa"
+      },
+      "84": {
+        "功能开发中_share_type_value": "Kipengele kinaendelezwa: {share_type.value}"
+      }
+    },
+    "l0721": {
+      "85": {
+        "正在处理": "Inachakata..."
+      }
+    },
+    "l0740": {
+      "86": {
+        "选择外部程序": "Chagua programu ya nje"
+      }
+    },
+    "l0746": {
+      "87": {
+        "发送到Photoshop": "Tuma kwa Photoshop"
+      }
+    },
+    "l0751": {
+      "88": {
+        "发送到GIMP": "Tuma kwa GIMP"
+      }
+    },
+    "l0756": {
+      "89": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "90": {
+        "发送到画图": "Tuma kwa Paint"
+      }
+    },
+    "l0762": {
+      "91": {
+        "关闭": "Funga"
+      }
+    },
+    "l0784": {
+      "92": {
+        "提示": "Taarifa"
+      },
+      "93": {
+        "请先截取或打开一张图像": "Tafadhali kwanza nasa au fungua picha"
+      }
+    },
+    "l0797": {
+      "94": {
+        "FTP服务器": "Seva ya FTP"
+      }
+    },
+    "l0803": {
+      "95": {
+        "已配置的服务器": "Seva zilizosanidiwa:"
+      }
+    },
+    "l0813": {
+      "96": {
+        "添加": "Ongeza"
+      }
+    },
+    "l0817": {
+      "97": {
+        "编辑": "Hariri"
+      }
+    },
+    "l0821": {
+      "98": {
+        "删除": "Futa"
+      }
+    },
+    "l0828": {
+      "99": {
+        "上传到选中的服务器": "Pakia kwenye seva iliyochaguliwa"
+      }
+    },
+    "l0832": {
+      "100": {
+        "关闭": "Funga"
+      }
+    },
+    "l0884": {
+      "101": {
+        "提示": "Taarifa"
+      },
+      "102": {
+        "请先选择一个服务器": "Tafadhali chagua seva kwanza"
+      }
+    },
+    "l0906": {
+      "103": {
+        "提示": "Taarifa"
+      },
+      "104": {
+        "请先选择一个服务器": "Tafadhali chagua seva kwanza"
+      }
+    },
+    "l0912": {
+      "105": {
+        "确认删除": "Thibitisha Kufuta"
+      }
+    },
+    "l0913": {
+      "106": {
+        "确定要删除服务器_name_吗": "Una uhakika unataka kufuta seva '{name}'?"
+      }
+    },
+    "l0914": {
+      "107": {
+        "确定": "Thibitisha"
+      },
+      "108": {
+        "取消": "Ghairi"
+      }
+    },
+    "l0925": {
+      "109": {
+        "提示": "Taarifa"
+      },
+      "110": {
+        "请先选择一个服务器": "Tafadhali chagua seva kwanza"
+      }
+    },
+    "l0929": {
+      "111": {
+        "提示": "Taarifa"
+      },
+      "112": {
+        "请先截取或打开一张图像": "Tafadhali piga picha ya skrini au fungua picha kwanza"
+      }
+    }
+  },
+  "ui_tab_manager": {
+    "l0160": {
+      "01": {
+        "关闭": "Funga"
+      }
+    },
+    "l0164": {
+      "02": {
+        "关闭其他": "Funga Nyingine"
+      }
+    },
+    "l0235": {
+      "03": {
+        "新建": "Mpya"
+      }
+    },
+    "l0353": {
+      "04": {
+        "未保存的更改": "Mabadiliko Yasiyohifadhiwa"
+      }
+    },
+    "l0354": {
+      "05": {
+        "tab_data_title_有未保存的": "'{tab_data.title}' ina mabadiliko yasiyohifadhiwa. Una uhakika unataka kuifunga?"
+      }
+    },
+    "l0355": {
+      "06": {
+        "保存": "Hifadhi"
+      },
+      "07": {
+        "不保存": "Usihifadhi"
+      },
+      "08": {
+        "取消": "Ghairi"
+      }
+    }
+  },
+  "ui_text_box": {
+    "l0363": {
+      "01": {
+        "确认文本": "✓ Thibitisha Maandishi"
+      }
+    },
+    "l0370": {
+      "02": {
+        "删除文本框": "🗑 Futa Kisanduku cha Maandishi"
+      }
+    },
+    "l0375": {
+      "03": {
+        "取消": "✗ Ghairi"
+      }
+    }
+  },
+  "ui_unified_preview_window": {
+    "l0117": {
+      "01": {
+        "截图导航": "📷 Urambazaji wa Picha za Skrini"
+      }
+    },
+    "l0205": {
+      "02": {
+        "批量编辑": "⚙️ Uhariri wa Kundi"
+      }
+    },
+    "l0211": {
+      "03": {
+        "旋转_90": "Zungusha 90°"
+      }
+    },
+    "l0212": {
+      "04": {
+        "旋转_90": "Zungusha -90°"
+      }
+    },
+    "l0213": {
+      "05": {
+        "水平翻转": "Geuza Kwa Mlalo"
+      }
+    },
+    "l0214": {
+      "06": {
+        "垂直翻转": "Geuza Kwa Wima"
+      }
+    },
+    "l0215": {
+      "07": {
+        "全部模糊": "Fifisha Zote"
+      }
+    },
+    "l0216": {
+      "08": {
+        "全部锐化": "Noa Zote"
+      }
+    },
+    "l0259": {
+      "09": {
+        "筛选和排序": "🔍 Chuja na Panga"
+      }
+    },
+    "l0264": {
+      "10": {
+        "排序方式": "Panga kwa:"
+      }
+    },
+    "l0266": {
+      "11": {
+        "最新优先": "Mpya Kwanza"
+      },
+      "12": {
+        "最旧优先": "Za Zamani Kwanza"
+      },
+      "13": {
+        "按名称": "Kwa Jina"
+      },
+      "14": {
+        "按大小": "Kwa Ukubwa"
+      }
+    },
+    "l0271": {
+      "15": {
+        "搜索": "Tafuta:"
+      }
+    },
+    "l0273": {
+      "16": {
+        "输入文件名": "Ingiza jina la faili..."
+      }
+    },
+    "l0278": {
+      "17": {
+        "最小宽度": "Upana wa Chini:"
+      }
+    },
+    "l0289": {
+      "18": {
+        "最新优先": "Mpya Kwanza"
+      }
+    },
+    "l0290": {
+      "19": {
+        "最旧优先": "Za Zamani Kwanza"
+      }
+    },
+    "l0291": {
+      "20": {
+        "按名称": "Kwa Jina"
+      }
+    },
+    "l0292": {
+      "21": {
+        "按大小": "Kwa Ukubwa"
+      }
+    },
+    "l0323": {
+      "22": {
+        "加载中": "Inapakia..."
+      }
+    },
+    "l0349": {
+      "23": {
+        "处理中_current_total": "Inachakata... {current}/{total}"
+      }
+    },
+    "l0369": {
+      "24": {
+        "统一预览窗口_PyScreenshot": "Dirisha la Onyesho la Pamoja - PyScreenshot"
+      }
+    },
+    "l0463": {
+      "25": {
+        "就绪": "Tayari"
+      }
+    },
+    "l0479": {
+      "26": {
+        "0_张截图": "Picha za skrini 0"
+      }
+    },
+    "l0486": {
+      "27": {
+        "批量导出": "📦 Hamisha kwa Kundi"
+      }
+    },
+    "l0501": {
+      "28": {
+        "关闭": "✕ Funga"
+      }
+    },
+    "l0521": {
+      "29": {
+        "截图_len_self_screenshots": "Picha ya skrini {len(self.screenshots) + 1}"
+      }
+    },
+    "l0574": {
+      "30": {
+        "已打开编辑器_title": "✓ Kihariri kimefunguliwa: {title}"
+      }
+    },
+    "l0579": {
+      "31": {
+        "提示": "Taarifa"
+      },
+      "32": {
+        "没有可操作的截图": "Hakuna picha za skrini za kufanyia kazi"
+      }
+    },
+    "l0582": {
+      "33": {
+        "执行_operation": "Tekeleza {operation}"
+      }
+    },
+    "l0589": {
+      "34": {
+        "已完成_operation": "✓ Imekamilika {operation}"
+      }
+    },
+    "l0594": {
+      "35": {
+        "提示": "Taarifa"
+      },
+      "36": {
+        "没有可导出的截图": "Hakuna picha za skrini za kuhamisha"
+      }
+    },
+    "l0597": {
+      "37": {
+        "已导出_len_self_screensh": "✓ Zimehamishwa picha za skrini {len(self.screenshots)}"
+      }
+    },
+    "l0610": {
+      "38": {
+        "count_张截图": "Picha za skrini {count}"
+      }
+    }
+  },
+  "updater": {
+    "l0106": {
+      "01": {
+        "正在升级系统": "Inasasisha mfumo"
+      }
+    },
+    "l0118": {
+      "02": {
+        "准备就绪": "Inajiandaa..."
+      }
+    },
+    "l0194": {
+      "03": {
+        "正在关闭主程序": "Inafunga programu kuu..."
+      }
+    },
+    "l0211": {
+      "04": {
+        "正在下载更新包": "Inapakua kifurushi cha masasisho..."
+      }
+    },
+    "l0237": {
+      "05": {
+        "校验失败_下载文件损坏": "Uthibitishaji umeshindwa: faili iliyopakuliwa imeharibika"
+      }
+    },
+    "l0244": {
+      "06": {
+        "下载失败_str_e": "Upakuaji umeshindwa: {str(e)}"
+      }
+    },
+    "l0249": {
+      "07": {
+        "正在安装更新": "Inasakinisha masasisho..."
+      }
+    },
+    "l0271": {
+      "08": {
+        "正在重试_i_1_max_retri": "Inajaribu tena ({i + 1}/{max_retries})..."
+      }
+    },
+    "l0278": {
+      "09": {
+        "安装失败_文件被占用": "Usakinishaji umeshindwa: faili inatumika"
+      }
+    },
+    "l0283": {
+      "10": {
+        "清理并重启": "Inasafisha na kuwasha upya..."
+      }
+    },
+    "l0304": {
+      "11": {
+        "启动失败_请手动打开程序": "Uzinduzi umeshindwa, tafadhali fungua programu mwenyewe"
+      }
+    },
+    "l0308": {
+      "12": {
+        "未找到主程序": "Programu kuu haijapatikana"
+      }
+    },
+    "l0313": {
+      "13": {
+        "更新出错_请联系支持": "Hitilafu ya usasishaji, tafadhali wasiliana na usaidizi"
+      }
+    }
+  },
+  "默认保存路径:": "Njia chaguomsingi ya kuhifadhi:",
+  "默认格式:": "Umbizo chaguomsingi:",
+  "界面语言:": "Lugha ya kiolesura:",
+  "当前版本: {current_version}": "Toleo la sasa: {current_version}",
+  "按 F8 可重复上次截图操作": "Bonyeza F8 kurudia picha ya skrini ya mwisho",
+  "💡 快捷键修改后保存即可生效，无需重启程序": "💡 Mabadiliko ya mikato yataanza kufanya kazi baada ya kuhifadhi, bila kuhitaji kuanzisha upya programu",
+  "HyperSnap风格": "Mtindo wa HyperSnap",
+  "Snagit风格": "Mtindo wa Snagit",
+  "\n可用变量:\n   - 年份 (2024)\n   - 月份 (01-12)\n   - 日期 (01-31)\n   - 小时 (00-23)\n   - 日期 (20241201)\n   - 时间 (143052)\n   - 截图模式\n   - 自定义前缀\n   - 序号 (001, 002...)\n        ": "\nVigezo vinavyopatikana:\n   - Mwaka (2024)\n   - Mwezi (01-12)\n   - Siku (01-31)\n   - Saa (00-23)\n   - Tarehe (20241201)\n   - Muda (143052)\n   - Hali ya picha ya skrini\n   - Kiambishi maalum\n   - Nambari ya mfuatano (001, 002...)\n        ",
+  "全屏截图:": "Picha ya skrini nzima:",
+  "矩形截图:": "Picha ya skrini ya mstatili:",
+  "窗口控件截图:": "Picha ya kidhibiti cha dirisha:",
+  "取色器:": "Kichagua rangi:",
+  "重复截取:": "Rudia picha ya skrini:",
+  "白板:": "Ubao mweupe:",
+  "开始/停止录屏:": "Anza/Simamisha kurekodi skrini:"
+}

@@ -1,0 +1,5586 @@
+{
+  "core_cloud_storage": {
+    "l0174": {
+      "02": {
+        "授权成功": "Otorisasi kasil"
+      }
+    },
+    "l0179": {
+      "04": {
+        "授权失败_str_e": "Otorisasi gagal: {str(e)}"
+      }
+    },
+    "l0215": {
+      "05": {
+        "未授权": "Ora diotorisasi"
+      }
+    },
+    "l0244": {
+      "07": {
+        "上传失败_str_e": "Unggahan gagal: {str(e)}"
+      }
+    },
+    "l0262": {
+      "08": {
+        "创建上传会话失败": "Gagal nggawe sesi unggahan"
+      }
+    },
+    "l0290": {
+      "10": {
+        "上传成功": "Unggahan kasil"
+      }
+    },
+    "l0383": {
+      "11": {
+        "授权成功": "Otorisasi kasil"
+      }
+    },
+    "l0385": {
+      "12": {
+        "授权失败": "Otorisasi gagal"
+      }
+    },
+    "l0390": {
+      "14": {
+        "授权失败_str_e": "Otorisasi gagal: {str(e)}"
+      }
+    },
+    "l0400": {
+      "15": {
+        "未授权": "Ora diotorisasi"
+      }
+    },
+    "l0428": {
+      "16": {
+        "预上传失败_result": "Pra-unggahan gagal: {result}"
+      }
+    },
+    "l0466": {
+      "17": {
+        "上传成功_remote_path_fil": "Unggahan kasil: {remote_path}/{filename}"
+      }
+    },
+    "l0468": {
+      "18": {
+        "创建文件失败_result": "Gagal nggawe file: {result}"
+      }
+    },
+    "l0471": {
+      "19": {
+        "上传失败_str_e": "Unggahan gagal: {str(e)}"
+      }
+    }
+  },
+  "core_ftp_manager": {
+    "l0067": {
+      "01": {
+        "正在连接服务器": "Lagi nyambung menyang server..."
+      }
+    },
+    "l0071": {
+      "02": {
+        "上传已取消": "Unggahan dibatalake"
+      }
+    },
+    "l0074": {
+      "03": {
+        "正在上传文件": "Lagi ngunggah file..."
+      }
+    },
+    "l0078": {
+      "04": {
+        "上传成功": "Unggahan kasil"
+      }
+    },
+    "l0081": {
+      "05": {
+        "权限错误_e": "Kesalahan ijin: {e}"
+      }
+    },
+    "l0083": {
+      "06": {
+        "临时错误_e": "Kesalahan sementara: {e}"
+      }
+    },
+    "l0085": {
+      "07": {
+        "连接被拒绝_请检查服务器地址和端口": "Sambungan ditolak, tulung priksa alamat server lan port"
+      }
+    },
+    "l0087": {
+      "08": {
+        "连接超时": "Wektu sambungan entek"
+      }
+    },
+    "l0089": {
+      "09": {
+        "上传失败_str_e": "Unggahan gagal: {str(e)}"
+      }
+    },
+    "l0154": {
+      "10": {
+        "断点续传_从_rest_position_字": "Nerusake unggahan, miwiti saka {rest_position} byte..."
+      }
+    },
+    "l0160": {
+      "11": {
+        "上传已取消": "Unggahan dibatalake"
+      }
+    },
+    "l0214": {
+      "12": {
+        "连接成功": "Kasambung kasil"
+      }
+    },
+    "l0216": {
+      "13": {
+        "认证失败_e": "Autentikasi gagal: {e}"
+      }
+    },
+    "l0218": {
+      "14": {
+        "连接被拒绝": "Sambungan ditolak"
+      }
+    },
+    "l0220": {
+      "15": {
+        "连接超时": "Wektu sambungan entek"
+      }
+    },
+    "l0222": {
+      "16": {
+        "连接失败_str_e": "Sambungan gagal: {str(e)}"
+      }
+    }
+  },
+  "core_hotkey_manager": {
+    "l0111": {
+      "03": {
+        "无效的快捷键": "Hotkey ora valid"
+      }
+    },
+    "l0123": {
+      "05": {
+        "注册成功": "Registrasi kasil"
+      }
+    },
+    "l0126": {
+      "06": {
+        "快捷键可能被其他程序占用": "Hotkey bisa wae dienggo program liya"
+      },
+      "07": {
+        "错误代码_error_code": "Kode kesalahan: {error_code}"
+      }
+    },
+    "l0176": {
+      "11": {
+        "全屏截图": "Tangkepan layar sak layar"
+      }
+    },
+    "l0177": {
+      "12": {
+        "矩形截图": "Tangkepan layar persegi"
+      }
+    },
+    "l0178": {
+      "13": {
+        "窗口控件截图": "Tangkepan layar jendhela/kontrol"
+      }
+    },
+    "l0179": {
+      "14": {
+        "取色器": "Pemilih warna"
+      }
+    },
+    "l0180": {
+      "15": {
+        "重复截取": "Tangkep bola-bali"
+      }
+    },
+    "l0181": {
+      "16": {
+        "白板": "Papan tulis"
+      }
+    },
+    "l0182": {
+      "17": {
+        "智能粘贴": "Tempel cerdas"
+      }
+    },
+    "l0183": {
+      "18": {
+        "屏幕录制": "Rekaman layar"
+      }
+    },
+    "l0288": {
+      "19": {
+        "准备注册快捷键_name_hotke": "Nyiapake registrasi hotkey: {name} = {hotkeys_config[name]}"
+      }
+    },
+    "l0300": {
+      "20": {
+        "快捷键监听线程已启动": "Thread pamantau hotkey wis diwiwiti"
+      }
+    },
+    "l0308": {
+      "21": {
+        "快捷键_display_name_注册成": "Hotkey [{display_name}] kasil didaftar"
+      }
+    },
+    "l0310": {
+      "22": {
+        "快捷键_display_name_注册失": "Registrasi hotkey [{display_name}] gagal: {message}"
+      }
+    },
+    "l0322": {
+      "23": {
+        "快捷键与_conflict_冲突": "Hotkey bentrok karo [{conflict}]"
+      }
+    },
+    "l0332": {
+      "24": {
+        "已禁用": "Dipatèni"
+      }
+    },
+    "l0335": {
+      "25": {
+        "无效的快捷键格式": "Format hotkey ora valid"
+      }
+    },
+    "l0345": {
+      "26": {
+        "未知的快捷键名称": "Jeneng hotkey ora dingerteni"
+      }
+    },
+    "l0354": {
+      "27": {
+        "快捷键_name_已更新为_hotke": "Hotkey [{name}] wis dianyari dadi {hotkey_str}"
+      }
+    },
+    "l0355": {
+      "28": {
+        "更新成功": "Pembaruan kasil"
+      }
+    },
+    "l0357": {
+      "29": {
+        "快捷键服务未运行": "Layanan hotkey ora mlaku"
+      }
+    },
+    "l0370": {
+      "30": {
+        "快捷键_name_已移除": "Hotkey [{name}] wis dibusak"
+      }
+    },
+    "l0375": {
+      "31": {
+        "快捷键触发_name": "Hotkey kepicu: {name}"
+      }
+    },
+    "l0397": {
+      "32": {
+        "正在注销所有快捷键": "Lagi mbatalake kabeh hotkey..."
+      }
+    },
+    "l0401": {
+      "33": {
+        "所有快捷键已注销": "Kabeh hotkey wis dibatalake"
+      }
+    },
+    "l0405": {
+      "34": {
+        "重新加载快捷键配置": "Lagi muat ulang konfigurasi hotkey..."
+      }
+    }
+  },
+  "core_kunqiong_login": {
+    "l0177": {
+      "04": {
+        "无法连接到登录服务器": "Ora bisa nyambung menyang server login"
+      }
+    },
+    "l0189": {
+      "05": {
+        "无法打开系统浏览器": "Ora bisa mbukak browser sistem"
+      }
+    },
+    "l0192": {
+      "06": {
+        "启动浏览器失败_e": "Gagal miwiti browser: {e}"
+      }
+    },
+    "l0199": {
+      "07": {
+        "登录超时": "Login kelewatan wektu"
+      }
+    },
+    "l0224": {
+      "08": {
+        "获取用户信息失败": "Gagal njupuk informasi pangguna"
+      }
+    }
+  },
+  "core_ocr_engine": {
+    "l0035": {
+      "01": {
+        "rapidocr_onnxruntime_未安装": "rapidocr_onnxruntime durung dipasang, fitur OCR lokal ora kasedhiya"
+      }
+    }
+  },
+  "core_office_export": {
+    "l0106": {
+      "01": {
+        "截图内容": "Isi tangkepan layar"
+      }
+    },
+    "l0134": {
+      "02": {
+        "需要安装_python_docx_库_pip": "Pustaka python-docx dibutuhake: pip install python-docx"
+      }
+    },
+    "l0136": {
+      "03": {
+        "导出失败_str_e": "Ekspor gagal: {str(e)}"
+      }
+    },
+    "l0149": {
+      "04": {
+        "截图": "Tangkepan layar"
+      }
+    },
+    "l0179": {
+      "05": {
+        "需要安装_openpyxl_库_pip_ins": "Pustaka openpyxl dibutuhake: pip install openpyxl"
+      }
+    },
+    "l0181": {
+      "06": {
+        "导出失败_str_e": "Ekspor gagal: {str(e)}"
+      }
+    },
+    "l0238": {
+      "07": {
+        "需要安装_python_pptx_库_pip": "Pustaka python-pptx dibutuhake: pip install python-pptx"
+      }
+    },
+    "l0240": {
+      "08": {
+        "导出失败_str_e": "Ekspor gagal: {str(e)}"
+      }
+    },
+    "l0256": {
+      "09": {
+        "发送失败_str_e": "Ngirim gagal: {str(e)}"
+      }
+    },
+    "l0298": {
+      "10": {
+        "发送失败_str_e": "Ngirim gagal: {str(e)}"
+      }
+    },
+    "l0327": {
+      "11": {
+        "未找到GIMP程序": "Aplikasi GIMP ora ditemokake"
+      }
+    },
+    "l0330": {
+      "12": {
+        "发送失败_str_e": "Ngirim gagal: {str(e)}"
+      }
+    }
+  },
+  "core_share_manager": {
+    "l0147": {
+      "01": {
+        "准备中": "Lagi nyiapake..."
+      }
+    },
+    "l0180": {
+      "02": {
+        "分享任务_task_share_type_va": "Tugas berbagi {task.share_type.value}"
+      }
+    },
+    "l0192": {
+      "03": {
+        "正在导出到Word": "Lagi ngekspor menyang Word..."
+      }
+    },
+    "l0198": {
+      "04": {
+        "已导出到Word": "Wis diekspor menyang Word"
+      }
+    },
+    "l0209": {
+      "05": {
+        "正在导出到Excel": "Lagi ngekspor menyang Excel..."
+      }
+    },
+    "l0215": {
+      "06": {
+        "已导出到Excel": "Wis diekspor menyang Excel"
+      }
+    },
+    "l0226": {
+      "07": {
+        "正在导出到PowerPoint": "Lagi ngekspor menyang PowerPoint..."
+      }
+    },
+    "l0232": {
+      "08": {
+        "已导出到PowerPoint": "Wis diekspor menyang PowerPoint"
+      }
+    },
+    "l0247": {
+      "09": {
+        "已发送到画图": "Wis dikirim menyang Paint"
+      }
+    },
+    "l0262": {
+      "10": {
+        "已发送到Photoshop": "Wis dikirim menyang Photoshop"
+      }
+    },
+    "l0277": {
+      "11": {
+        "已发送到GIMP": "Wis dikirim menyang GIMP"
+      }
+    },
+    "l0295": {
+      "12": {
+        "未找到服务器配置_server_name": "Konfigurasi server ora ditemokake: {server_name}"
+      }
+    },
+    "l0321": {
+      "13": {
+        "正在上传": "Lagi ngunggah..."
+      }
+    },
+    "l0331": {
+      "14": {
+        "上传中_uploaded_total": "Lagi ngunggah... {uploaded}/{total} byte"
+      }
+    },
+    "l0339": {
+      "15": {
+        "上传成功": "Unggahan kasil"
+      }
+    },
+    "l0434": {
+      "16": {
+        "请先授权OneDrive账号": "Mangga otorisasi akun OneDrive dhisik"
+      }
+    },
+    "l0454": {
+      "17": {
+        "正在上传": "Lagi ngunggah..."
+      }
+    },
+    "l0469": {
+      "18": {
+        "请先授权百度网盘账号": "Mangga otorisasi akun Baidu Netdisk dhisik"
+      }
+    },
+    "l0484": {
+      "19": {
+        "正在上传": "Lagi ngunggah..."
+      }
+    }
+  },
+  "core_social_share": {
+    "l0099": {
+      "01": {
+        "Applications_企业微信_app": "/Applications/WeCom.app"
+      }
+    },
+    "l0116": {
+      "02": {
+        "分享内容_date_str": "Konten dibagi-{date_str}"
+      }
+    },
+    "l0125": {
+      "03": {
+        "请查看附件中的截图内容": "Mangga priksa isi tangkepan layar ing lampiran."
+      }
+    },
+    "l0128": {
+      "04": {
+        "已打开邮件客户端": "Klien email wis kabukak"
+      }
+    },
+    "l0134": {
+      "05": {
+        "已打开邮件客户端_请手动添加附件_temp": "Klien email wis kabukak, mangga tambahake lampiran kanthi manual: {temp_file}"
+      }
+    },
+    "l0138": {
+      "06": {
+        "tell_application_Mail": "tell application \"Mail\"\n                    set newMessage to make new outgoing message with properties {subject:\"{subject}\", content:\"Mangga priksa isi tangkepan layar ing lampiran.\"}\n                    tell newMessage\n                        make new attachment with properties {file name:POSIX file \"{temp_file}\"}\n                    end tell\n                    activate\n                end tell"
+      }
+    },
+    "l0148": {
+      "07": {
+        "已打开邮件客户端": "Klien email wis kabukak"
+      }
+    },
+    "l0153": {
+      "08": {
+        "已打开邮件客户端": "Klien email wis kabukak"
+      }
+    },
+    "l0156": {
+      "09": {
+        "打开邮件客户端失败_str_e": "Gagal mbukak klien email: {str(e)}"
+      }
+    },
+    "l0177": {
+      "10": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Wis disalin menyang clipboard lan mbukak WeChat, mangga tempel ing jendhela chat (Ctrl+V)"
+      }
+    },
+    "l0181": {
+      "11": {
+        "已复制到剪贴板并打开微信_请在聊天窗口中粘贴_C": "Wis disalin menyang clipboard lan mbukak WeChat, mangga tempel ing jendhela chat (Cmd+V)"
+      }
+    },
+    "l0183": {
+      "12": {
+        "已复制到剪贴板_请手动打开微信并粘贴": "Wis disalin menyang clipboard, mangga bukak WeChat kanthi manual lan tempel"
+      }
+    },
+    "l0186": {
+      "13": {
+        "分享失败_str_e": "Berbagi gagal: {str(e)}"
+      }
+    },
+    "l0206": {
+      "14": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Wis disalin menyang clipboard lan mbukak QQ, mangga tempel ing jendhela chat (Ctrl+V)"
+      }
+    },
+    "l0210": {
+      "15": {
+        "已复制到剪贴板并打开QQ_请在聊天窗口中粘贴_C": "Wis disalin menyang clipboard lan mbukak QQ, mangga tempel ing jendhela chat (Cmd+V)"
+      }
+    },
+    "l0212": {
+      "16": {
+        "已复制到剪贴板_请手动打开QQ并粘贴": "Wis disalin menyang clipboard, mangga bukak QQ kanthi manual lan tempel"
+      }
+    },
+    "l0215": {
+      "17": {
+        "分享失败_str_e": "Berbagi gagal: {str(e)}"
+      }
+    },
+    "l0233": {
+      "18": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Wis disalin menyang clipboard lan mbukak DingTalk, mangga tempel ing jendhela chat"
+      }
+    },
+    "l0237": {
+      "19": {
+        "已复制到剪贴板并打开钉钉_请在聊天窗口中粘贴": "Wis disalin menyang clipboard lan mbukak DingTalk, mangga tempel ing jendhela chat"
+      }
+    },
+    "l0239": {
+      "20": {
+        "已复制到剪贴板_请手动打开钉钉并粘贴": "Wis disalin menyang clipboard, mangga bukak DingTalk kanthi manual lan tempel"
+      }
+    },
+    "l0242": {
+      "21": {
+        "分享失败_str_e": "Berbagi gagal: {str(e)}"
+      }
+    },
+    "l0260": {
+      "22": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Wis disalin menyang clipboard lan mbukak WeCom, mangga tempel ing jendhela chat"
+      }
+    },
+    "l0263": {
+      "23": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0264": {
+      "24": {
+        "已复制到剪贴板并打开企业微信_请在聊天窗口中粘贴": "Wis disalin menyang clipboard lan mbukak WeCom, mangga tempel ing jendhela chat"
+      }
+    },
+    "l0266": {
+      "25": {
+        "已复制到剪贴板_请手动打开企业微信并粘贴": "Wis disalin menyang clipboard, mangga bukak WeCom kanthi manual lan tempel"
+      }
+    },
+    "l0269": {
+      "26": {
+        "分享失败_str_e": "Berbagi gagal: {str(e)}"
+      }
+    },
+    "l0282": {
+      "27": {
+        "已复制到剪贴板": "Wis disalin menyang clipboard"
+      }
+    },
+    "l0284": {
+      "28": {
+        "复制失败_str_e": "Nyalin gagal: {str(e)}"
+      }
+    },
+    "l0340": {
+      "29": {
+        "上传失败_response_status_c": "Unggahan gagal: {response.status_code}"
+      }
+    },
+    "l0343": {
+      "30": {
+        "上传失败_str_e": "Unggahan gagal: {str(e)}"
+      }
+    }
+  },
+  "core_tray_manager": {
+    "l0019": {
+      "01": {
+        "截图贴图工具": "Piranti Pin Tangkepan Layar"
+      }
+    },
+    "l0069": {
+      "05": {
+        "全屏截图": "Tangkepan layar sak layar"
+      }
+    },
+    "l0070": {
+      "06": {
+        "区域截图": "Tangkepan wilayah"
+      }
+    },
+    "l0071": {
+      "07": {
+        "窗口截图": "Tangkepan jendhela"
+      }
+    },
+    "l0075": {
+      "08": {
+        "取色器": "Pemilih warna"
+      }
+    },
+    "l0076": {
+      "09": {
+        "屏幕录制": "Rekaman layar"
+      }
+    },
+    "l0080": {
+      "10": {
+        "显示主窗口": "Tampilna jendhela utama"
+      }
+    },
+    "l0081": {
+      "11": {
+        "设置": "Setelan"
+      }
+    },
+    "l0083": {
+      "12": {
+        "退出": "Metu"
+      }
+    }
+  },
+  "core_update_manager": {
+    "l0040": {
+      "01": {
+        "服务器返回数据格式错误": "Format data bali saka server ora valid"
+      }
+    },
+    "l0042": {
+      "02": {
+        "服务器响应错误_response_statu": "Kesalahan respons server: {response.status_code}"
+      }
+    },
+    "l0044": {
+      "03": {
+        "网络连接失败_str_e": "Sambungan jaringan gagal: {str(e)}"
+      }
+    },
+    "l0068": {
+      "04": {
+        "检查更新": "Priksa pembaruan"
+      },
+      "05": {
+        "当前已是最新版本": "Sampeyan wis nggunakake versi paling anyar"
+      }
+    },
+    "l0074": {
+      "06": {
+        "检查失败": "Priksa gagal"
+      },
+      "07": {
+        "获取版本信息失败": "Gagal njupuk informasi versi"
+      }
+    },
+    "l0083": {
+      "08": {
+        "发现新版本_remote_version": "Versi anyar ditemokake: {remote_version}\n\n{data.get('update_log', 'No update log')}"
+      },
+      "09": {
+        "无更新日志": "Ora ana log pembaruan"
+      }
+    },
+    "l0086": {
+      "10": {
+        "强制更新_msg": "[Pembaruan Wajib]\n{msg}"
+      }
+    },
+    "l0087": {
+      "11": {
+        "必须更新": "Kudu nganyari"
+      },
+      "12": {
+        "立即更新": "Anyari saiki"
+      }
+    },
+    "l0092": {
+      "13": {
+        "发现新版本": "Versi anyar ditemokake"
+      }
+    },
+    "l0094": {
+      "14": {
+        "立即更新": "Anyari saiki"
+      }
+    },
+    "l0095": {
+      "15": {
+        "稍后": "Mengko"
+      }
+    },
+    "l0104": {
+      "16": {
+        "检查失败": "Priksa gagal"
+      },
+      "17": {
+        "检查更新出错_error_msg": "Ana kesalahan nalika mriksa pembaruan:\n{error_msg}"
+      }
+    },
+    "l0125": {
+      "18": {
+        "未找到更新程序_updater_exe": "Updater ora ditemokake: {updater_exe}"
+      }
+    },
+    "l0152": {
+      "19": {
+        "更新失败": "Pembaruan gagal"
+      },
+      "20": {
+        "无法启动更新程序_str_e": "Ora bisa miwiti updater:\n{str(e)}"
+      }
+    }
+  },
+  "main": {
+    "l0057": {
+      "01": {
+        "错误": "Kesalahan"
+      },
+      "02": {
+        "程序发生错误_str_value": "Program ngalami kesalahan:\n{str(value)}"
+      }
+    },
+    "l0069": {
+      "03": {
+        "提示": "Kabar"
+      },
+      "04": {
+        "程序已在运行中_请勿重复启动": "Program wis mlaku. Aja miwiti maneh."
+      }
+    },
+    "l0084": {
+      "05": {
+        "截图贴图工具": "Piranti Pin Tangkepan Layar"
+      }
+    },
+    "l0086": {
+      "06": {
+        "鲲穹AI": "Kunqiong AI"
+      }
+    },
+    "l0138": {
+      "07": {
+        "启动错误": "Kesalahan wiwitan"
+      },
+      "08": {
+        "程序启动失败_str_e": "Program gagal diwiwiti:\n{str(e)}"
+      }
+    }
+  },
+  "tools_crosshair": {
+    "l0081": {
+      "01": {
+        "当前_X_self_cursor_pos_x": "Saiki: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0084": {
+      "02": {
+        "锁定_X_self_cursor_pos": "🔒 Dikunci: X={self.cursor_pos.x()}  Y={self.cursor_pos.y()}"
+      }
+    },
+    "l0092": {
+      "03": {
+        "点_i_1_ΔX_sign_x_dx": "Titik{i + 1}: ΔX={sign_x}{dx}  ΔY={sign_y}{dy}"
+      }
+    },
+    "l0095": {
+      "04": {
+        "Space_锁定_L_添加对比点_C_清": "Space=Kunci | L=Tambah titik perbandingan | C=Resiki | ESC=Metu"
+      }
+    },
+    "l0266": {
+      "05": {
+        "解除锁定": "Bukak kunci"
+      },
+      "06": {
+        "锁定当前坐标": "Kunci koordinat saiki"
+      }
+    },
+    "l0270": {
+      "07": {
+        "添加对比点": "Tambah titik perbandingan"
+      }
+    },
+    "l0274": {
+      "08": {
+        "清除所有对比点": "Resiki kabeh titik perbandingan"
+      }
+    },
+    "l0280": {
+      "09": {
+        "关闭": "Tutup"
+      }
+    }
+  },
+  "tools_magnifier": {
+    "l0024": {
+      "01": {
+        "放大镜": "Kaca pembesar"
+      }
+    },
+    "l0085": {
+      "02": {
+        "放大镜": "Kaca pembesar"
+      }
+    },
+    "l0158": {
+      "03": {
+        "按下_Esc_键退出": "Pencet Esc kanggo metu"
+      }
+    }
+  },
+  "tools_palette": {
+    "l0167": {
+      "01": {
+        "调色板": "Palet"
+      }
+    },
+    "l0261": {
+      "02": {
+        "主题颜色": "Werna tema"
+      }
+    },
+    "l0273": {
+      "03": {
+        "标准颜色": "Werna standar"
+      }
+    },
+    "l0286": {
+      "04": {
+        "自定义颜色": "Werna kustom"
+      }
+    },
+    "l0316": {
+      "05": {
+        "取色器_P": "🔍 Pemilih Werna (P)"
+      }
+    },
+    "l0416": {
+      "06": {
+        "添加到自定义颜色": "✨ Tambah menyang werna kustom"
+      }
+    },
+    "l0442": {
+      "07": {
+        "复制": "📋 Salin"
+      }
+    },
+    "l0457": {
+      "08": {
+        "取消": "Batal"
+      }
+    },
+    "l0463": {
+      "09": {
+        "确定": "OK"
+      }
+    },
+    "l0611": {
+      "10": {
+        "已复制_text": "Wis disalin: {text}"
+      }
+    },
+    "l0681": {
+      "11": {
+        "选择颜色": "Pilih werna"
+      }
+    },
+    "l0716": {
+      "12": {
+        "已复制_color_name_upper": "Wis disalin: {color.name().upper()}"
+      }
+    }
+  },
+  "tools_protractor": {
+    "l0048": {
+      "01": {
+        "量角器": "Busur derajat"
+      }
+    },
+    "l0216": {
+      "02": {
+        "锁定_self_angle_lock": "Dikunci: {self.angle_lock}°"
+      }
+    },
+    "l0240": {
+      "03": {
+        "拖动绿点移动中心": "Seret titik ijo kanggo mindhah tengah"
+      }
+    },
+    "l0241": {
+      "04": {
+        "拖动红_蓝点调整角度": "Seret titik abang/biru kanggo nyetel sudut"
+      }
+    },
+    "l0242": {
+      "05": {
+        "L键切换角度锁定": "Pencet L kanggo ngalih kunci sudut"
+      }
+    },
+    "l0243": {
+      "06": {
+        "S键保存测量": "Pencet S kanggo nyimpen pangukuran"
+      }
+    },
+    "l0244": {
+      "07": {
+        "E键导出CSV": "Pencet E kanggo ngekspor CSV"
+      }
+    },
+    "l0245": {
+      "08": {
+        "右键菜单_ESC退出": "Menu klik-tengen | ESC kanggo metu"
+      }
+    },
+    "l0335": {
+      "09": {
+        "保存当前测量": "Simpen pangukuran saiki"
+      }
+    },
+    "l0339": {
+      "10": {
+        "导出测量记录_CSV": "Ekspor cathetan pangukuran (CSV)"
+      }
+    },
+    "l0345": {
+      "11": {
+        "禁用_if_self_lock_enabl": "{'Disable' if self.lock_enabled else 'Enable'} angle lock ({self.angle_lock}°)"
+      },
+      "12": {
+        "禁用": "Pateni"
+      },
+      "13": {
+        "启用": "Uripna"
+      }
+    },
+    "l0351": {
+      "14": {
+        "关闭": "Tutup"
+      }
+    },
+    "l0383": {
+      "15": {
+        "导出测量记录": "Ekspor cathetan pangukuran"
+      }
+    },
+    "l0385": {
+      "16": {
+        "CSV文件_csv": "File CSV (*.csv)"
+      }
+    },
+    "l0391": {
+      "17": {
+        "时间": "Wektu"
+      },
+      "18": {
+        "测量角度": "Sudut kaukur"
+      },
+      "19": {
+        "起始角度": "Sudut awal"
+      },
+      "20": {
+        "终止角度": "Sudut pungkasan"
+      },
+      "21": {
+        "中心点X": "Titik tengah X"
+      },
+      "22": {
+        "中心点Y": "Titik tengah Y"
+      }
+    }
+  },
+  "tools_ruler": {
+    "l0019": {
+      "01": {
+        "默认_黄色": "Default (Kuning)"
+      }
+    },
+    "l0026": {
+      "02": {
+        "蓝色": "Biru"
+      }
+    },
+    "l0033": {
+      "03": {
+        "白色": "Putih"
+      }
+    },
+    "l0040": {
+      "04": {
+        "黑色": "Ireng"
+      }
+    },
+    "l0065": {
+      "05": {
+        "像素_px": "Piksel (px)"
+      }
+    },
+    "l0066": {
+      "06": {
+        "英寸_in": "Inci (in)"
+      }
+    },
+    "l0067": {
+      "07": {
+        "厘米_cm": "Sentimeter (cm)"
+      }
+    },
+    "l0280": {
+      "08": {
+        "像素尺": "Penggaris Piksel"
+      }
+    },
+    "l0352": {
+      "09": {
+        "DPI_self_dpi_单位_R": "DPI: {self.dpi} | Unit: {RulerUnit.UNITS[self.unit]['name']} | Opasitas: {int(self.opacity * 100)}%"
+      }
+    },
+    "l0359": {
+      "10": {
+        "右键菜单_滚轮调透明度_双击关闭": "Menu klik-tengen | Roda mouse kanggo nyetel opasitas | Klik kaping pindho kanggo nutup"
+      }
+    },
+    "l0585": {
+      "11": {
+        "单位": "📏 Unit"
+      }
+    },
+    "l0605": {
+      "12": {
+        "配色": "🎨 Skema werna"
+      }
+    },
+    "l0621": {
+      "13": {
+        "透明度": "Opasitas:"
+      }
+    },
+    "l0641": {
+      "14": {
+        "重置大小": "↺ Reset Ukuran"
+      }
+    },
+    "l0646": {
+      "15": {
+        "关闭": "✕ Tutup"
+      }
+    }
+  },
+  "tools_screen_recorder": {
+    "l0142": {
+      "01": {
+        "屏幕录制器": "Perekam Layar"
+      }
+    },
+    "l0196": {
+      "02": {
+        "屏幕录制": "Rekaman Layar"
+      }
+    },
+    "l0223": {
+      "03": {
+        "已录制时间": "Wektu Rekaman"
+      }
+    },
+    "l0253": {
+      "04": {
+        "开始录制": "Miwiti Rekaman"
+      }
+    },
+    "l0260": {
+      "05": {
+        "暂停": "Ngaso"
+      }
+    },
+    "l0278": {
+      "06": {
+        "更改路径": "Ganti Path"
+      }
+    },
+    "l0336": {
+      "07": {
+        "停止录制": "⏹ Mandheg Rekaman"
+      }
+    },
+    "l0356": {
+      "08": {
+        "开始录制": "⏺ Miwiti Rekaman"
+      }
+    },
+    "l0361": {
+      "09": {
+        "暂停": "⏸ Ngaso"
+      }
+    },
+    "l0370": {
+      "10": {
+        "继续": "▶ Terusna"
+      }
+    },
+    "l0376": {
+      "11": {
+        "暂停": "⏸ Ngaso"
+      }
+    },
+    "l0407": {
+      "12": {
+        "选择保存目录": "Pilih Direktori Simpen"
+      }
+    }
+  },
+  "tools_whiteboard": {
+    "l0841": {
+      "01": {
+        "白板": "Papan Tulis"
+      }
+    },
+    "l0935": {
+      "02": {
+        "画笔": "Kuas"
+      }
+    },
+    "l0936": {
+      "03": {
+        "荧光笔": "Highlighter"
+      }
+    },
+    "l0937": {
+      "04": {
+        "直线": "Garis"
+      }
+    },
+    "l0938": {
+      "05": {
+        "矩形": "Persegi Panjang"
+      }
+    },
+    "l0939": {
+      "06": {
+        "填充矩形": "Persegi Panjang Isi"
+      }
+    },
+    "l0940": {
+      "07": {
+        "椭圆": "Elips"
+      }
+    },
+    "l0941": {
+      "08": {
+        "箭头": "Panah"
+      }
+    },
+    "l0942": {
+      "09": {
+        "文字": "Teks"
+      }
+    },
+    "l0957": {
+      "10": {
+        "橡皮擦": "Penghapus"
+      }
+    },
+    "l1001": {
+      "11": {
+        "更多颜色": "Werna Liyane..."
+      }
+    },
+    "l1040": {
+      "12": {
+        "透明": "Transparan"
+      }
+    },
+    "l1041": {
+      "13": {
+        "白色": "Putih"
+      }
+    },
+    "l1042": {
+      "14": {
+        "黑色": "Ireng"
+      }
+    },
+    "l1047": {
+      "15": {
+        "tooltip_背景": "{tooltip}Latar Mburi"
+      }
+    },
+    "l1061": {
+      "16": {
+        "撤销": "Batal"
+      }
+    },
+    "l1067": {
+      "17": {
+        "清空": "Kosongna"
+      }
+    },
+    "l1080": {
+      "18": {
+        "缩小工具栏": "Cilikna Toolbar"
+      }
+    },
+    "l1086": {
+      "19": {
+        "保存": "Simpen"
+      }
+    },
+    "l1102": {
+      "20": {
+        "退出": "Metu"
+      }
+    },
+    "l1145": {
+      "21": {
+        "对象擦除": "Busak Objek"
+      }
+    },
+    "l1151": {
+      "22": {
+        "局部擦除": "Busak Sebagean"
+      }
+    },
+    "l1163": {
+      "23": {
+        "大小": "Ukuran:"
+      }
+    },
+    "l1214": {
+      "24": {
+        "调色板": "Palet"
+      }
+    },
+    "l1228": {
+      "25": {
+        "缩小工具栏": "Cilikna Toolbar"
+      }
+    },
+    "l1243": {
+      "26": {
+        "展开白板": "Jembarake Papan Tulis"
+      }
+    },
+    "l1250": {
+      "27": {
+        "保存白板": "Simpen Papan Tulis"
+      }
+    },
+    "l1252": {
+      "28": {
+        "PNG图像_png_PDF文件": "Gambar PNG (*.png);;Berkas PDF (*.pdf)"
+      }
+    },
+    "l1259": {
+      "29": {
+        "已保存_os_path_basename_f": "Kasimpen: {os.path.basename(file_path)}"
+      }
+    },
+    "l1272": {
+      "30": {
+        "保存失败": "Gagal Nyimpen"
+      },
+      "31": {
+        "无法保存PDF_str_e": "Ora bisa nyimpen PDF: {str(e)}"
+      }
+    }
+  },
+  "ui_ad_widget": {
+    "l0080": {
+      "02": {
+        "点击查看详情": "Klik kanggo ndeleng rincian"
+      }
+    }
+  },
+  "ui_clipboard_history": {
+    "l0081": {
+      "01": {
+        "剪贴板历史": "Riwayat Clipboard"
+      }
+    },
+    "l0087": {
+      "02": {
+        "清空": "Kosongna"
+      }
+    },
+    "l0118": {
+      "03": {
+        "暂无历史记录_复制图像后会自动记录": "Durung ana riwayat\nGambar sing disalin bakal kacathet otomatis"
+      }
+    },
+    "l0161": {
+      "04": {
+        "确认清空": "Konfirmasi Kosongna"
+      }
+    },
+    "l0162": {
+      "05": {
+        "确定要清空所有剪贴板历史记录吗": "Apa sampeyan yakin arep ngosongake kabeh riwayat clipboard?"
+      }
+    },
+    "l0163": {
+      "06": {
+        "确定": "Ya"
+      },
+      "07": {
+        "取消": "Batal"
+      }
+    },
+    "l0178": {
+      "08": {
+        "剪贴板历史": "Riwayat Clipboard"
+      }
+    }
+  },
+  "ui_control_capture": {
+    "l0148": {
+      "01": {
+        "按钮": "Tombol"
+      },
+      "02": {
+        "复选框": "Checkbox"
+      },
+      "03": {
+        "下拉框": "Dropdown"
+      }
+    },
+    "l0149": {
+      "04": {
+        "编辑框": "Kothak Edit"
+      },
+      "05": {
+        "列表": "Dhaptar"
+      },
+      "06": {
+        "文本": "Teks"
+      }
+    },
+    "l0150": {
+      "07": {
+        "窗口": "Jendhela"
+      },
+      "08": {
+        "窗格": "Pane"
+      }
+    },
+    "l0152": {
+      "09": {
+        "控件": "Kontrol"
+      }
+    },
+    "l0224": {
+      "10": {
+        "按钮": "Tombol"
+      }
+    },
+    "l0225": {
+      "11": {
+        "日历": "Kalender"
+      }
+    },
+    "l0226": {
+      "12": {
+        "复选框": "Checkbox"
+      }
+    },
+    "l0227": {
+      "13": {
+        "下拉框": "Dropdown"
+      }
+    },
+    "l0228": {
+      "14": {
+        "编辑框": "Kothak Edit"
+      }
+    },
+    "l0229": {
+      "15": {
+        "超链接": "Hyperlink"
+      }
+    },
+    "l0230": {
+      "16": {
+        "图像": "Gambar"
+      }
+    },
+    "l0231": {
+      "17": {
+        "列表项": "Item Dhaptar"
+      }
+    },
+    "l0232": {
+      "18": {
+        "列表": "Dhaptar"
+      }
+    },
+    "l0233": {
+      "19": {
+        "菜单": "Menu"
+      }
+    },
+    "l0234": {
+      "20": {
+        "菜单栏": "Bar Menu"
+      }
+    },
+    "l0235": {
+      "21": {
+        "菜单项": "Item Menu"
+      }
+    },
+    "l0236": {
+      "22": {
+        "进度条": "Bar Progres"
+      }
+    },
+    "l0237": {
+      "23": {
+        "单选按钮": "Tombol Radio"
+      }
+    },
+    "l0238": {
+      "24": {
+        "滚动条": "Bar Gulung"
+      }
+    },
+    "l0239": {
+      "25": {
+        "滑块": "Slider"
+      }
+    },
+    "l0240": {
+      "26": {
+        "微调框": "Spin Box"
+      }
+    },
+    "l0241": {
+      "27": {
+        "状态栏": "Bar Status"
+      }
+    },
+    "l0242": {
+      "28": {
+        "标签页": "Tab"
+      }
+    },
+    "l0243": {
+      "29": {
+        "标签项": "Item Tab"
+      }
+    },
+    "l0244": {
+      "30": {
+        "文本": "Teks"
+      }
+    },
+    "l0245": {
+      "31": {
+        "工具栏": "Toolbar"
+      }
+    },
+    "l0246": {
+      "32": {
+        "工具提示": "Tooltip"
+      }
+    },
+    "l0247": {
+      "33": {
+        "树形视图": "Tampilan Wit"
+      }
+    },
+    "l0248": {
+      "34": {
+        "树形项": "Item Wit"
+      }
+    },
+    "l0249": {
+      "35": {
+        "自定义": "Kustom"
+      }
+    },
+    "l0250": {
+      "36": {
+        "组": "Grup"
+      }
+    },
+    "l0251": {
+      "37": {
+        "缩略图": "Thumbnail"
+      }
+    },
+    "l0252": {
+      "38": {
+        "数据网格": "Grid Data"
+      }
+    },
+    "l0253": {
+      "39": {
+        "数据项": "Item Data"
+      }
+    },
+    "l0254": {
+      "40": {
+        "文档": "Dokumen"
+      }
+    },
+    "l0255": {
+      "41": {
+        "分隔条": "Pamisah"
+      }
+    },
+    "l0256": {
+      "42": {
+        "窗口": "Jendhela"
+      }
+    },
+    "l0257": {
+      "43": {
+        "窗格": "Pane"
+      }
+    },
+    "l0258": {
+      "44": {
+        "表头": "Header"
+      }
+    },
+    "l0259": {
+      "45": {
+        "表头项": "Item Header"
+      }
+    },
+    "l0260": {
+      "46": {
+        "表格": "Tabel"
+      }
+    },
+    "l0261": {
+      "47": {
+        "标题栏": "Bar Judhul"
+      }
+    },
+    "l0262": {
+      "48": {
+        "语义缩放": "Zoom Semantik"
+      }
+    },
+    "l0264": {
+      "49": {
+        "控件_control_type": "Kontrol ({control_type})"
+      }
+    },
+    "l0391": {
+      "50": {
+        "控件": "Kontrol"
+      }
+    },
+    "l0398": {
+      "51": {
+        "移动鼠标选择目标": "Obahna mouse kanggo milih target"
+      }
+    },
+    "l0399": {
+      "52": {
+        "点击截取": "Klik kanggo njupuk"
+      }
+    },
+    "l0400": {
+      "53": {
+        "Ctrl_点击滚动截取": "Ctrl+Klik kanggo njupuk gulung"
+      }
+    },
+    "l0401": {
+      "54": {
+        "滚轮_切换层级": "Roda mouse ↑↓ kanggo ngalih level"
+      }
+    },
+    "l0402": {
+      "55": {
+        "ESC取消": "ESC kanggo batal"
+      }
+    },
+    "l0521": {
+      "56": {
+        "未找到窗口": "Jendhela ora ditemokake"
+      }
+    },
+    "l0841": {
+      "57": {
+        "未识别到控件": "Ora ana kontrol sing dideteksi"
+      }
+    },
+    "l0896": {
+      "58": {
+        "未识别": "Ora dikenali"
+      }
+    },
+    "l0908": {
+      "59": {
+        "窗口_层级_1_total": "🪟 Jendhela (Level 1/{total})"
+      }
+    },
+    "l0923": {
+      "60": {
+        "type_name_层级_level": "🎯 {type_name} (Level {level}/{total})"
+      }
+    },
+    "l0925": {
+      "61": {
+        "控件_层级_level_total": "🎯 Kontrol (Level {level}/{total})"
+      }
+    },
+    "l0969": {
+      "62": {
+        "未识别到控件": "Ora ana kontrol sing dideteksi"
+      }
+    },
+    "l0977": {
+      "63": {
+        "窗口无效": "Jendhela ora valid"
+      }
+    },
+    "l0985": {
+      "64": {
+        "无法获取位置": "Ora bisa njupuk posisi"
+      }
+    },
+    "l1000": {
+      "65": {
+        "尺寸无效": "Ukuran ora valid"
+      }
+    },
+    "l1021": {
+      "66": {
+        "窗口_title_滚轮_进入子控件": "Jendhela: {title} | Roda mouse↓ kanggo mlebu kontrol anak | Klik kanggo njupuk | Ctrl+Klik kanggo njupuk gulung"
+      }
+    },
+    "l1023": {
+      "67": {
+        "窗口_滚轮_进入子控件_点击截取_C": "Jendhela | Roda mouse↓ kanggo mlebu kontrol anak | Klik kanggo njupuk | Ctrl+Klik kanggo njupuk gulung"
+      }
+    },
+    "l1025": {
+      "68": {
+        "控件": "Kontrol"
+      }
+    },
+    "l1028": {
+      "69": {
+        "type_info_滚轮_切换层级": "{type_info} | Roda mouse↑↓ kanggo ngalih level | Klik kanggo njupuk | Ctrl+Klik kanggo njupuk gulung"
+      }
+    },
+    "l1057": {
+      "70": {
+        "按钮": "Tombol"
+      }
+    },
+    "l1058": {
+      "71": {
+        "输入框": "Kothak Input"
+      }
+    },
+    "l1059": {
+      "72": {
+        "富文本框": "Kothak Teks Sugih"
+      }
+    },
+    "l1060": {
+      "73": {
+        "下拉框": "Dropdown"
+      }
+    },
+    "l1061": {
+      "74": {
+        "列表框": "Kothak Dhaptar"
+      }
+    },
+    "l1062": {
+      "75": {
+        "列表视图": "Tampilan Dhaptar"
+      }
+    },
+    "l1063": {
+      "76": {
+        "列表视图": "Tampilan Dhaptar"
+      }
+    },
+    "l1064": {
+      "77": {
+        "树形视图": "Tampilan Wit"
+      }
+    },
+    "l1065": {
+      "78": {
+        "树形视图": "Tampilan Wit"
+      }
+    },
+    "l1066": {
+      "79": {
+        "数据表格": "Tabel Data"
+      }
+    },
+    "l1067": {
+      "80": {
+        "滚动条": "Bar Gulung"
+      }
+    },
+    "l1068": {
+      "81": {
+        "静态文本": "Teks Statis"
+      }
+    },
+    "l1069": {
+      "82": {
+        "标签页": "Tab"
+      }
+    },
+    "l1070": {
+      "83": {
+        "标签页": "Tab"
+      }
+    },
+    "l1071": {
+      "84": {
+        "工具栏": "Toolbar"
+      }
+    },
+    "l1072": {
+      "85": {
+        "状态栏": "Bar Status"
+      }
+    },
+    "l1073": {
+      "86": {
+        "状态栏": "Bar Status"
+      }
+    },
+    "l1074": {
+      "87": {
+        "菜单": "Menu"
+      }
+    },
+    "l1075": {
+      "88": {
+        "提示框": "Tooltip"
+      }
+    },
+    "l1076": {
+      "89": {
+        "进度条": "Bar Progres"
+      }
+    },
+    "l1077": {
+      "90": {
+        "进度条": "Bar Progres"
+      }
+    },
+    "l1078": {
+      "91": {
+        "滑块": "Slider"
+      }
+    },
+    "l1079": {
+      "92": {
+        "滑块": "Slider"
+      }
+    },
+    "l1080": {
+      "93": {
+        "微调按钮": "Tombol Spin"
+      }
+    },
+    "l1081": {
+      "94": {
+        "微调按钮": "Tombol Spin"
+      }
+    },
+    "l1082": {
+      "95": {
+        "表头": "Header"
+      }
+    },
+    "l1083": {
+      "96": {
+        "表头": "Header"
+      }
+    },
+    "l1084": {
+      "97": {
+        "工具条": "Tool Strip"
+      }
+    },
+    "l1085": {
+      "98": {
+        "工具条": "Tool Strip"
+      }
+    },
+    "l1086": {
+      "99": {
+        "文件视图": "Tampilan Berkas"
+      }
+    },
+    "l1088": {
+      "100": {
+        "浏览器": "Browser"
+      }
+    },
+    "l1089": {
+      "101": {
+        "浏览器": "Browser"
+      }
+    }
+  },
+  "ui_editor_panels": {
+    "l0060": {
+      "01": {
+        "画质特效": "🎨 Efek Gambar"
+      }
+    },
+    "l0071": {
+      "02": {
+        "模糊": "🌫 Blur"
+      }
+    },
+    "l0072": {
+      "03": {
+        "锐化": "🔍 Penajaman"
+      }
+    },
+    "l0073": {
+      "04": {
+        "像素化": "▦ Pikselasi"
+      }
+    },
+    "l0074": {
+      "05": {
+        "浮雕": "🗻 Emboss"
+      }
+    },
+    "l0075": {
+      "06": {
+        "噪点": "✨ Noise"
+      }
+    },
+    "l0086": {
+      "07": {
+        "特效强度": "Kekuatan Efek:"
+      }
+    },
+    "l0106": {
+      "08": {
+        "撤销": "↩ Batal"
+      }
+    },
+    "l0110": {
+      "09": {
+        "重置": "↺ Reset"
+      }
+    },
+    "l0184": {
+      "10": {
+        "色彩调整": "🔆 Pangaturan Warna"
+      }
+    },
+    "l0196": {
+      "11": {
+        "亮度": "☀ Padhang:"
+      }
+    },
+    "l0217": {
+      "12": {
+        "对比度": "◐ Kontras:"
+      }
+    },
+    "l0238": {
+      "13": {
+        "饱和度": "🎨 Saturasi:"
+      }
+    },
+    "l0260": {
+      "14": {
+        "重置": "↺ Reset"
+      }
+    },
+    "l0264": {
+      "15": {
+        "应用": "✓ Terapna"
+      }
+    }
+  },
+  "ui_editor_window": {
+    "l0077": {
+      "01": {
+        "图像编辑器_PyScreenshot": "Editor Gambar - PyScreenshot"
+      }
+    },
+    "l0098": {
+      "02": {
+        "QLabel_font_size_13px": "QLabel {\n                font-size: 13px;\n            }\n            QScrollBar:vertical {\n                background: transparent;\n                width: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:vertical {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-height: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:vertical:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar:horizontal {\n                background: transparent;\n                height: 10px;\n                margin: 0px;\n            }\n            QScrollBar::handle:horizontal {\n                background: #d0d0d0;\n                border-radius: 5px;\n                min-width: 30px;\n                margin: 2px;\n            }\n            QScrollBar::handle:horizontal:hover {\n                background: #b0b0b0;\n            }\n            QScrollBar::add-line, QScrollBar::sub-line {\n                background: none;\n                border: none;\n            }\n            \n            /* Sidebar dock widget styling */\n            QDockWidget {\n                border: none;\n                background: #ffffff;\n            }\n            QDockWidget::title {\n                background: #f8f9fa;\n                padding: 10px 15px;\n                border-bottom: 1px solid #eaeaea;\n                font-weight: 600;\n                color: #333;\n            }"
+      }
+    },
+    "l0202": {
+      "03": {
+        "新建图像": "Gambar Anyar"
+      }
+    },
+    "l0246": {
+      "04": {
+        "尺寸_s_width_s_heigh": "Ukuran: {s.width()}×{s.height()} | {tab_data.title}"
+      }
+    },
+    "l0360": {
+      "05": {
+        "文件": "Berkas"
+      },
+      "06": {
+        "编辑": "Sunting"
+      },
+      "07": {
+        "绘图": "Gambar"
+      },
+      "08": {
+        "特效": "Efek"
+      }
+    },
+    "l0361": {
+      "09": {
+        "文件": "Berkas"
+      },
+      "10": {
+        "编辑": "Sunting"
+      },
+      "11": {
+        "绘图": "Gambar"
+      },
+      "12": {
+        "特效": "Efek"
+      }
+    },
+    "l0413": {
+      "13": {
+        "编辑": "Sunting"
+      }
+    },
+    "l0421": {
+      "14": {
+        "文件": "Berkas"
+      },
+      "15": {
+        "编辑": "Sunting"
+      },
+      "16": {
+        "绘图": "Gambar"
+      },
+      "17": {
+        "特效": "Efek"
+      }
+    },
+    "l0458": {
+      "18": {
+        "返回": "Bali"
+      }
+    },
+    "l0461": {
+      "19": {
+        "返回": "Bali"
+      },
+      "20": {
+        "返回主页面": "Bali menyang Kaca Utama"
+      }
+    },
+    "l0468": {
+      "21": {
+        "文件": "Berkas"
+      }
+    },
+    "l0471": {
+      "22": {
+        "新建": "Anyar"
+      },
+      "23": {
+        "新建图像": "Gambar Anyar"
+      }
+    },
+    "l0475": {
+      "24": {
+        "打开": "Bukak"
+      },
+      "25": {
+        "打开文件": "Bukak Berkas"
+      }
+    },
+    "l0479": {
+      "26": {
+        "保存": "Simpen"
+      },
+      "27": {
+        "保存_Ctrl_S": "Simpen Ctrl+S"
+      }
+    },
+    "l0483": {
+      "28": {
+        "另存为": "Simpen Minangka"
+      }
+    },
+    "l0490": {
+      "29": {
+        "分享": "Barengna"
+      }
+    },
+    "l0493": {
+      "30": {
+        "分享": "Barengna"
+      },
+      "31": {
+        "分享到": "Barengna menyang..."
+      }
+    },
+    "l0497": {
+      "32": {
+        "导出": "Ekspor"
+      },
+      "33": {
+        "批量导出所有标签页": "Ekspor massal kabeh tab"
+      }
+    },
+    "l0504": {
+      "34": {
+        "打印": "Cetak"
+      }
+    },
+    "l0507": {
+      "35": {
+        "打印": "Cetak"
+      },
+      "36": {
+        "打印_Ctrl_P": "Cetak Ctrl+P"
+      }
+    },
+    "l0514": {
+      "37": {
+        "操作": "Aksi"
+      }
+    },
+    "l0517": {
+      "38": {
+        "撤销": "Batal"
+      },
+      "39": {
+        "撤销上一步操作": "Batalake aksi sadurunge"
+      }
+    },
+    "l0521": {
+      "40": {
+        "重置": "Reset"
+      },
+      "41": {
+        "重置为原始图像": "Reset menyang gambar asli"
+      }
+    },
+    "l0533": {
+      "42": {
+        "打开图像": "Bukak Gambar"
+      }
+    },
+    "l0534": {
+      "43": {
+        "图像文件_png_jpg_jpeg": "Berkas Gambar (*.png *.jpg *.jpeg *.bmp *.gif);;Kabeh Berkas (*.*)"
+      }
+    },
+    "l0541": {
+      "44": {
+        "错误": "Kesalahan"
+      },
+      "45": {
+        "无法打开该图像文件": "Ora bisa mbukak berkas gambar iki"
+      }
+    },
+    "l0553": {
+      "46": {
+        "历史": "Riwayat"
+      }
+    },
+    "l0556": {
+      "47": {
+        "撤销": "Batal"
+      },
+      "48": {
+        "撤销_Ctrl_Z": "Batal Ctrl+Z"
+      }
+    },
+    "l0560": {
+      "49": {
+        "重置": "Reset"
+      },
+      "50": {
+        "重置到原图_移除所有编辑": "Reset menyang gambar asli (busak kabeh suntingan)"
+      }
+    },
+    "l0567": {
+      "51": {
+        "剪贴板": "Clipboard"
+      }
+    },
+    "l0570": {
+      "52": {
+        "复制": "Salin"
+      },
+      "53": {
+        "复制_Ctrl_C": "Salin Ctrl+C"
+      }
+    },
+    "l0574": {
+      "54": {
+        "粘贴": "Tempel"
+      },
+      "55": {
+        "粘贴_Ctrl_V": "Tempel Ctrl+V"
+      }
+    },
+    "l0581": {
+      "56": {
+        "变换": "Transformasi"
+      }
+    },
+    "l0584": {
+      "57": {
+        "左旋": "Puter Ngiwa"
+      },
+      "58": {
+        "左旋90度": "Puter Ngiwa 90°"
+      }
+    },
+    "l0588": {
+      "59": {
+        "右旋": "Puter Nengen"
+      },
+      "60": {
+        "右旋90度": "Puter Nengen 90°"
+      }
+    },
+    "l0592": {
+      "61": {
+        "水平翻": "Balik Horisontal"
+      },
+      "62": {
+        "水平翻转": "Balik Horisontal"
+      }
+    },
+    "l0596": {
+      "63": {
+        "垂直翻": "Balik Vertikal"
+      },
+      "64": {
+        "垂直翻转": "Balik Vertikal"
+      }
+    },
+    "l0603": {
+      "65": {
+        "裁剪": "Crop"
+      }
+    },
+    "l0606": {
+      "66": {
+        "裁剪": "Crop"
+      },
+      "67": {
+        "裁剪图像": "Crop Gambar"
+      }
+    },
+    "l0613": {
+      "68": {
+        "文字识别": "Pangenalan Teks"
+      }
+    },
+    "l0616": {
+      "69": {
+        "识别文字": "Kenali Teks"
+      },
+      "70": {
+        "识别裁剪区域文字并复制": "Kenali teks ing area sing dicrop lan salin"
+      }
+    },
+    "l0635": {
+      "71": {
+        "选择": "Pilih"
+      }
+    },
+    "l0640": {
+      "72": {
+        "移动": "Geser"
+      },
+      "73": {
+        "移动工具": "Piranti Geser"
+      }
+    },
+    "l0648": {
+      "74": {
+        "画笔": "Kuas"
+      }
+    },
+    "l0652": {
+      "75": {
+        "画笔": "Kuas"
+      }
+    },
+    "l0653": {
+      "76": {
+        "荧光笔": "Highlighter"
+      }
+    },
+    "l0663": {
+      "77": {
+        "橡皮擦": "Penghapus"
+      }
+    },
+    "l0677": {
+      "78": {
+        "形状": "Wangun"
+      }
+    },
+    "l0681": {
+      "79": {
+        "箭头": "Panah"
+      }
+    },
+    "l0682": {
+      "80": {
+        "直线": "Garis"
+      }
+    },
+    "l0683": {
+      "81": {
+        "矩形": "Persegi Panjang"
+      },
+      "82": {
+        "空心矩形": "Persegi Panjang Kothong"
+      }
+    },
+    "l0684": {
+      "83": {
+        "实心矩形": "Persegi Panjang Solid"
+      },
+      "84": {
+        "填充矩形": "Persegi Panjang Isi"
+      }
+    },
+    "l0685": {
+      "85": {
+        "椭圆": "Elips"
+      },
+      "86": {
+        "空心椭圆": "Elips Kothong"
+      }
+    },
+    "l0686": {
+      "87": {
+        "实心椭圆": "Elips Solid"
+      },
+      "88": {
+        "填充椭圆": "Elips Isi"
+      }
+    },
+    "l0698": {
+      "89": {
+        "文字": "Teks"
+      }
+    },
+    "l0701": {
+      "90": {
+        "文字": "Teks"
+      },
+      "91": {
+        "添加文字": "Tambah Teks"
+      }
+    },
+    "l0709": {
+      "92": {
+        "大小": "Ukuran"
+      }
+    },
+    "l0714": {
+      "93": {
+        "宽度": "Jembar:"
+      }
+    },
+    "l0723": {
+      "94": {
+        "字号": "Ukuran Font:"
+      }
+    },
+    "l0735": {
+      "95": {
+        "颜色": "Werna"
+      }
+    },
+    "l0742": {
+      "96": {
+        "当前颜色_点击选择": "Werna saiki - klik kanggo milih"
+      }
+    },
+    "l0759": {
+      "97": {
+        "历史": "Riwayat"
+      }
+    },
+    "l0762": {
+      "98": {
+        "撤销": "Batal"
+      },
+      "99": {
+        "撤销_Ctrl_Z": "Batal Ctrl+Z"
+      }
+    },
+    "l0766": {
+      "100": {
+        "重置": "Reset"
+      },
+      "101": {
+        "重置绘图_移除所有编辑": "Reset gambar (busak kabeh suntingan)"
+      }
+    },
+    "l0798": {
+      "102": {
+        "对象擦除": "Busak Objek"
+      }
+    },
+    "l0804": {
+      "103": {
+        "局部擦除": "Busak Sebagean"
+      }
+    },
+    "l0816": {
+      "104": {
+        "大小": "Ukuran:"
+      }
+    },
+    "l0872": {
+      "105": {
+        "画质特效": "Efek Gambar"
+      }
+    },
+    "l0875": {
+      "106": {
+        "模糊": "Blur"
+      },
+      "107": {
+        "模糊效果": "Efek Blur"
+      }
+    },
+    "l0879": {
+      "108": {
+        "锐化": "Sharpen"
+      },
+      "109": {
+        "锐化效果": "Efek Sharpen"
+      }
+    },
+    "l0883": {
+      "110": {
+        "像素化": "Pixelate"
+      },
+      "111": {
+        "像素化效果": "Efek Pixelate"
+      }
+    },
+    "l0887": {
+      "112": {
+        "浮雕": "Emboss"
+      },
+      "113": {
+        "浮雕效果": "Efek Emboss"
+      }
+    },
+    "l0891": {
+      "114": {
+        "噪点": "Noise"
+      },
+      "115": {
+        "添加噪点": "Tambah Noise"
+      }
+    },
+    "l0898": {
+      "116": {
+        "局部特效": "Efek Lokal"
+      }
+    },
+    "l0901": {
+      "117": {
+        "模糊笔刷": "Kuas Blur"
+      },
+      "118": {
+        "局部模糊": "Blur Lokal"
+      }
+    },
+    "l0907": {
+      "119": {
+        "马赛克": "Mozaik"
+      },
+      "120": {
+        "局部马赛克": "Mozaik Lokal"
+      }
+    },
+    "l0916": {
+      "121": {
+        "面板": "Panel"
+      }
+    },
+    "l0919": {
+      "122": {
+        "色彩": "Warna"
+      },
+      "123": {
+        "打开色彩调整面板": "Bukak panel pangaturan warna"
+      }
+    },
+    "l0923": {
+      "124": {
+        "特效": "Efek"
+      },
+      "125": {
+        "打开特效面板": "Bukak panel efek"
+      }
+    },
+    "l0930": {
+      "126": {
+        "历史": "Riwayat"
+      }
+    },
+    "l0933": {
+      "127": {
+        "撤销": "Batal"
+      },
+      "128": {
+        "撤销_Ctrl_Z": "Batal Ctrl+Z"
+      }
+    },
+    "l0937": {
+      "129": {
+        "重置": "Reset"
+      },
+      "130": {
+        "重置特效": "Reset efek"
+      }
+    },
+    "l0963": {
+      "131": {
+        "已应用_effect_特效": "✓ Efek {effect} wis ditrapake"
+      }
+    },
+    "l0965": {
+      "132": {
+        "特效应用失败_str_e": "✗ Gagal ngetrapake efek: {str(e)}"
+      }
+    },
+    "l0972": {
+      "133": {
+        "粘贴的图像": "Gambar ditempel"
+      }
+    },
+    "l0973": {
+      "134": {
+        "已粘贴图像": "✓ Gambar wis ditempel"
+      }
+    },
+    "l0975": {
+      "135": {
+        "剪贴板中没有图像": "Ora ana gambar ing clipboard"
+      }
+    },
+    "l0998": {
+      "136": {
+        "返回": "Mbalik"
+      },
+      "137": {
+        "新建": "Anyar"
+      },
+      "138": {
+        "打开": "Bukak"
+      },
+      "139": {
+        "保存存": "Simpen"
+      },
+      "140": {
+        "另存为": "Simpen Minangka"
+      }
+    },
+    "l0999": {
+      "141": {
+        "分享": "Bagikna"
+      },
+      "142": {
+        "导出": "Ekspor"
+      },
+      "143": {
+        "打印": "Cetak"
+      }
+    },
+    "l1001": {
+      "144": {
+        "撤销": "Batal"
+      },
+      "145": {
+        "重置": "Reset"
+      },
+      "146": {
+        "复制": "Salin"
+      },
+      "147": {
+        "粘贴": "Tempel"
+      },
+      "148": {
+        "裁剪": "Crop"
+      }
+    },
+    "l1003": {
+      "149": {
+        "左旋": "Puter Ngiwa"
+      },
+      "150": {
+        "右旋": "Puter Nengen"
+      },
+      "151": {
+        "水平翻": "Balik Horisontal"
+      },
+      "152": {
+        "垂直翻": "Balik Vertikal"
+      }
+    },
+    "l1005": {
+      "153": {
+        "移动": "Geser"
+      },
+      "154": {
+        "画笔": "Kuas"
+      },
+      "155": {
+        "荧光笔": "Highlighter"
+      },
+      "156": {
+        "橡皮擦": "Penghapus"
+      },
+      "157": {
+        "文字": "Teks"
+      }
+    },
+    "l1006": {
+      "158": {
+        "箭头": "Panah"
+      },
+      "159": {
+        "直线": "Garis"
+      },
+      "160": {
+        "矩形": "Persegi Panjang"
+      },
+      "161": {
+        "实心矩形": "Persegi Panjang Solid"
+      }
+    },
+    "l1007": {
+      "162": {
+        "椭圆": "Elips"
+      },
+      "163": {
+        "实心椭圆": "Elips Solid"
+      },
+      "164": {
+        "清除": "Resiki"
+      }
+    },
+    "l1009": {
+      "165": {
+        "模糊": "Blur"
+      },
+      "166": {
+        "锐化": "Sharpen"
+      },
+      "167": {
+        "像素化": "Pixelate"
+      },
+      "168": {
+        "浮雕": "Emboss"
+      },
+      "169": {
+        "噪点": "Noise"
+      }
+    },
+    "l1010": {
+      "170": {
+        "模糊笔刷": "Kuas Blur"
+      },
+      "171": {
+        "马赛克": "Mozaik"
+      },
+      "172": {
+        "色彩": "Warna"
+      },
+      "173": {
+        "特效": "Efek"
+      }
+    },
+    "l1129": {
+      "174": {
+        "坐标_0_0": "Koordinat: 0, 0"
+      }
+    },
+    "l1145": {
+      "175": {
+        "尺寸_s_width_s_hei": "Ukuran: {s.width()} × {s.height()}"
+      }
+    },
+    "l1146": {
+      "176": {
+        "就绪": "Siap"
+      }
+    },
+    "l1148": {
+      "177": {
+        "尺寸": "Ukuran: - × -"
+      }
+    },
+    "l1149": {
+      "178": {
+        "就绪": "Siap"
+      }
+    },
+    "l1183": {
+      "179": {
+        "特效": "Efek"
+      }
+    },
+    "l1197": {
+      "180": {
+        "调整": "Setel"
+      }
+    },
+    "l1228": {
+      "181": {
+        "调色板": "Palet"
+      }
+    },
+    "l1256": {
+      "182": {
+        "已清除标注": "Anotasi wis diresiki"
+      }
+    },
+    "l1261": {
+      "183": {
+        "已复制到剪贴板": "✓ Wis disalin menyang clipboard"
+      }
+    },
+    "l1266": {
+      "184": {
+        "错误": "Kesalahan"
+      },
+      "185": {
+        "没有可保存的图像": "Ora ana gambar kanggo disimpen"
+      }
+    },
+    "l1277": {
+      "186": {
+        "已保存_os_path_basename": "✓ Wis disimpen: {os.path.basename(self.current_file_path)}"
+      }
+    },
+    "l1297": {
+      "187": {
+        "已保存_os_path_basename": "✓ Wis disimpen: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1310": {
+      "188": {
+        "错误": "Kesalahan"
+      },
+      "189": {
+        "没有可保存的图像": "Ora ana gambar kanggo disimpen"
+      }
+    },
+    "l1329": {
+      "190": {
+        "已保存_os_path_basename": "✓ Wis disimpen: {os.path.basename(saved_path)}"
+      }
+    },
+    "l1334": {
+      "191": {
+        "提示": "Kabar"
+      },
+      "192": {
+        "没有可导出的图像": "Ora ana gambar kanggo diekspor."
+      }
+    },
+    "l1345": {
+      "193": {
+        "提示": "Kabar"
+      },
+      "194": {
+        "没有可导出的图像": "Ora ana gambar kanggo diekspor."
+      }
+    },
+    "l1361": {
+      "195": {
+        "历史记录": "Riwayat"
+      }
+    },
+    "l1381": {
+      "196": {
+        "文件不存在": "Berkas ora ana"
+      },
+      "197": {
+        "该文件已被移动或删除": "Berkas iki wis dipindhah utawa dibusak."
+      }
+    },
+    "l1463": {
+      "198": {
+        "保存失败": "Gagal nyimpen"
+      }
+    },
+    "l1464": {
+      "199": {
+        "无法保存文件_error_n_n文件路径": "Ora bisa nyimpen berkas: {error}\\n\\nPath berkas: {file_path}\\n\\nMangga priksa papan disk lan ijin nulis."
+      }
+    },
+    "l1465": {
+      "200": {
+        "重试": "Coba Meneh"
+      },
+      "201": {
+        "取消": "Batal"
+      }
+    },
+    "l1473": {
+      "202": {
+        "错误": "Kesalahan"
+      },
+      "203": {
+        "没有可打印的图像": "Ora ana gambar kanggo dicithak"
+      }
+    },
+    "l1483": {
+      "204": {
+        "错误": "Kesalahan"
+      },
+      "205": {
+        "没有可分享的图像": "Ora ana gambar kanggo dibagekake"
+      }
+    },
+    "l1490": {
+      "206": {
+        "分享": "Bagikna"
+      }
+    },
+    "l1624": {
+      "207": {
+        "宽度": "Jembar:"
+      }
+    },
+    "l1633": {
+      "208": {
+        "高度": "Dhuwur:"
+      }
+    },
+    "l1649": {
+      "209": {
+        "应用裁剪": "✓ Terapake crop"
+      }
+    },
+    "l1655": {
+      "210": {
+        "取消": "✗ Batal"
+      }
+    },
+    "l1706": {
+      "211": {
+        "已应用裁剪": "✓ Crop wis ditrapake"
+      }
+    },
+    "l1714": {
+      "212": {
+        "已取消裁剪": "Crop dibatalake"
+      }
+    },
+    "l1721": {
+      "213": {
+        "请框选要识别的文字区域": "Mangga pilih area teks sing arep dikenali..."
+      }
+    },
+    "l1729": {
+      "214": {
+        "OCR_错误": "Kesalahan OCR"
+      },
+      "215": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Mesin OCR lokal durung siyap, mangga priksa dependensi."
+      }
+    },
+    "l1733": {
+      "216": {
+        "正在识别文字_请稍候": "Lagi ngenali teks, mangga enteni..."
+      }
+    },
+    "l1741": {
+      "217": {
+        "识别完成": "Pangenalan rampung"
+      }
+    },
+    "l1744": {
+      "218": {
+        "识别结果": "Asil Pangenalan"
+      },
+      "219": {
+        "未识别到文字": "Ora ana teks sing dikenali."
+      }
+    },
+    "l1755": {
+      "220": {
+        "识别失败": "Pangenalan gagal"
+      }
+    },
+    "l1756": {
+      "221": {
+        "OCR_错误": "Kesalahan OCR"
+      },
+      "222": {
+        "识别失败_err_msg": "Pangenalan gagal: {err_msg}"
+      }
+    },
+    "l1779": {
+      "223": {
+        "已应用_effect_特效": "✓ Efek {effect} wis ditrapake"
+      }
+    },
+    "l1781": {
+      "224": {
+        "特效应用失败_str_e": "✗ Gagal ngetrapake efek: {str(e)}"
+      }
+    },
+    "l1817": {
+      "225": {
+        "已撤销": "↩ Wis dibatalake"
+      }
+    },
+    "l1819": {
+      "226": {
+        "没有可撤销的操作": "Ora ana tumindak kanggo dibatalake"
+      }
+    },
+    "l1830": {
+      "227": {
+        "已重置到原图": "🔄 Wis direset menyang gambar asli"
+      }
+    },
+    "l1832": {
+      "228": {
+        "重置失败": "Reset gagal"
+      }
+    },
+    "l1856": {
+      "229": {
+        "缩放_percent": "Zoom: {percent}%"
+      }
+    },
+    "l1864": {
+      "230": {
+        "已应用调整": "✓ Pangaturan wis ditrapake"
+      }
+    },
+    "l1866": {
+      "231": {
+        "应用调整失败_str_e": "✗ Gagal ngetrapake pangaturan: {str(e)}"
+      }
+    },
+    "l1873": {
+      "232": {
+        "已重置调整": "✓ Pangaturan wis direset"
+      }
+    },
+    "l1875": {
+      "233": {
+        "重置调整失败_str_e": "✗ Gagal ngreset pangaturan: {str(e)}"
+      }
+    },
+    "l2022": {
+      "234": {
+        "新建图像": "Gambar Anyar"
+      }
+    }
+  },
+  "ui_freeform_capture": {
+    "l0102": {
+      "01": {
+        "按住鼠标绘制任意形状_松开完成_ESC": "Tahan mouse kanggo nggambar wujud bebas | Culna kanggo rampung | ESC kanggo batal"
+      }
+    },
+    "l0460": {
+      "02": {
+        "保存": "Simpen"
+      }
+    },
+    "l0549": {
+      "03": {
+        "输入文字": "Lebokake Teks"
+      },
+      "04": {
+        "请输入要添加的文字": "Mangga lebokake teks sing arep ditambahake:"
+      }
+    }
+  },
+  "ui_history_panel": {
+    "l0086": {
+      "01": {
+        "未知": "Ora dingerteni"
+      }
+    },
+    "l0101": {
+      "02": {
+        "未知时间": "Wektu ora dingerteni"
+      }
+    },
+    "l0117": {
+      "03": {
+        "未知大小": "Ukuran ora dingerteni"
+      }
+    },
+    "l0142": {
+      "04": {
+        "打开": "Bukak"
+      }
+    },
+    "l0147": {
+      "05": {
+        "编辑": "Sunting"
+      }
+    },
+    "l0152": {
+      "06": {
+        "删除": "Busak"
+      }
+    },
+    "l0182": {
+      "07": {
+        "打开文件位置": "📂 Bukak lokasi berkas"
+      }
+    },
+    "l0186": {
+      "08": {
+        "编辑": "✏️ Sunting"
+      }
+    },
+    "l0190": {
+      "09": {
+        "复制到剪贴板": "📋 Salin menyang clipboard"
+      }
+    },
+    "l0196": {
+      "10": {
+        "删除记录": "🗑️ Busak cathetan"
+      }
+    },
+    "l0238": {
+      "11": {
+        "截图历史": "📷 Riwayat Screenshot"
+      }
+    },
+    "l0247": {
+      "12": {
+        "刷新": "Refresh"
+      }
+    },
+    "l0262": {
+      "13": {
+        "清空历史": "Resiki Riwayat"
+      }
+    },
+    "l0277": {
+      "14": {
+        "共_0_条记录": "Total 0 cathetan"
+      }
+    },
+    "l0322": {
+      "15": {
+        "共_len_records_条记录": "Total {len(records)} cathetan"
+      }
+    },
+    "l0325": {
+      "16": {
+        "暂无历史记录": "Durung ana cathetan riwayat"
+      }
+    },
+    "l0345": {
+      "17": {
+        "文件不存在": "Berkas ora ana"
+      },
+      "18": {
+        "该文件已被移动或删除": "Berkas iki wis dipindhah utawa dibusak."
+      }
+    },
+    "l0353": {
+      "19": {
+        "文件不存在": "Berkas ora ana"
+      },
+      "20": {
+        "该文件已被移动或删除": "Berkas iki wis dipindhah utawa dibusak."
+      }
+    },
+    "l0358": {
+      "21": {
+        "确认删除": "Konfirmasi pambusakan"
+      }
+    },
+    "l0359": {
+      "22": {
+        "确定要删除这条历史记录吗_不会删除原文件": "Apa sampeyan yakin arep mbusak cathetan riwayat iki?\n(Berkas asli ora bakal dibusak)"
+      }
+    },
+    "l0360": {
+      "23": {
+        "确定": "OK"
+      },
+      "24": {
+        "取消": "Batal"
+      }
+    },
+    "l0369": {
+      "25": {
+        "确认清空": "Konfirmasi resiki"
+      }
+    },
+    "l0370": {
+      "26": {
+        "确定要清空所有历史记录吗_不会删除原文件": "Apa sampeyan yakin arep ngresiki kabeh cathetan riwayat?\n(Berkas asli ora bakal dibusak)"
+      }
+    },
+    "l0371": {
+      "27": {
+        "确定": "OK"
+      },
+      "28": {
+        "取消": "Batal"
+      }
+    }
+  },
+  "ui_layer_manager": {
+    "l0026": {
+      "01": {
+        "图层": "Layer"
+      }
+    },
+    "l0061": {
+      "02": {
+        "self_name_副本": "Salinan {self.name}"
+      }
+    },
+    "l0097": {
+      "03": {
+        "图层_len_self_layers_1": "Layer {len(self.layers) + 1}"
+      }
+    }
+  },
+  "ui_layer_panel": {
+    "l0050": {
+      "01": {
+        "显示_隐藏图层": "Tampilna/Singidaké Layer"
+      }
+    },
+    "l0121": {
+      "02": {
+        "透明度_self_layer_opacity": "Opasitas: {self.layer.opacity}%"
+      }
+    },
+    "l0133": {
+      "03": {
+        "锁定_解锁图层": "Kunci/Bukak Kunci Layer"
+      }
+    },
+    "l0341": {
+      "04": {
+        "左对齐": "Ratakna Kiri"
+      }
+    },
+    "l0342": {
+      "05": {
+        "水平居中": "Ratakna Tengah Horisontal"
+      }
+    },
+    "l0343": {
+      "06": {
+        "右对齐": "Ratakna Tengen"
+      }
+    },
+    "l0362": {
+      "07": {
+        "顶部对齐": "Ratakna Ndhuwur"
+      }
+    },
+    "l0363": {
+      "08": {
+        "垂直居中": "Ratakna Tengah Vertikal"
+      }
+    },
+    "l0364": {
+      "09": {
+        "底部对齐": "Ratakna Ngisor"
+      }
+    },
+    "l0383": {
+      "10": {
+        "水平等距分布": "Distribusikna Horisontal"
+      }
+    },
+    "l0384": {
+      "11": {
+        "垂直等距分布": "Distribusikna Vertikal"
+      }
+    },
+    "l0428": {
+      "12": {
+        "图层管理": "Manajemen Layer"
+      }
+    },
+    "l0436": {
+      "13": {
+        "添加图层": "Tambah Layer"
+      }
+    },
+    "l0468": {
+      "14": {
+        "对齐与分布": "Rata & Distribusi"
+      }
+    },
+    "l0507": {
+      "15": {
+        "添加图层": "Tambah Layer"
+      }
+    },
+    "l0508": {
+      "16": {
+        "删除图层": "Busak Layer"
+      }
+    },
+    "l0509": {
+      "17": {
+        "复制图层": "Duplikat Layer"
+      }
+    },
+    "l0510": {
+      "18": {
+        "上移": "Geser Munggah"
+      }
+    },
+    "l0511": {
+      "19": {
+        "下移": "Geser Mudhun"
+      }
+    },
+    "l0512": {
+      "20": {
+        "置顶": "Gawa menyang Ndhuwur"
+      }
+    },
+    "l0513": {
+      "21": {
+        "置底": "Gawa menyang Ngisor"
+      }
+    },
+    "l0514": {
+      "22": {
+        "合并": "Gabung"
+      }
+    },
+    "l0532": {
+      "23": {
+        "撤销_Undo": "Urungna (Undo)"
+      }
+    },
+    "l0538": {
+      "24": {
+        "重置图层_Reset": "Reset Layer (Reset)"
+      }
+    },
+    "l0561": {
+      "25": {
+        "不透明度": "Opasitas"
+      }
+    },
+    "l0669": {
+      "26": {
+        "选择图片添加为新图层": "Pilih gambar kanggo ditambah dadi layer anyar"
+      }
+    },
+    "l0670": {
+      "27": {
+        "图像文件_png_jpg_jpeg": "Berkas Gambar (*.png *.jpg *.jpeg *.bmp *.gif);;Kabeh Berkas (*.*)"
+      }
+    },
+    "l0680": {
+      "28": {
+        "错误": "Kesalahan"
+      },
+      "29": {
+        "无法打开该图像文件": "Ora bisa mbukak berkas gambar iki"
+      }
+    }
+  },
+  "ui_main_window": {
+    "l0275": {
+      "02": {
+        "登录": "Mlebu"
+      }
+    },
+    "l0398": {
+      "03": {
+        "截图贴图工具": "Alat Pin Screenshot"
+      }
+    },
+    "l0453": {
+      "04": {
+        "截图贴图工具": "Alat Pin Screenshot"
+      }
+    },
+    "l0464": {
+      "05": {
+        "返回预览": "↩️ Bali menyang Pratinjau"
+      }
+    },
+    "l0465": {
+      "06": {
+        "返回上次的预览状态": "Bali menyang status pratinjau sadurunge"
+      }
+    },
+    "l0477": {
+      "07": {
+        "主页": "🏠 Ngarep"
+      }
+    },
+    "l0478": {
+      "08": {
+        "新建": "📄 Anyar"
+      }
+    },
+    "l0479": {
+      "09": {
+        "打开": "📂 Bukak"
+      }
+    },
+    "l0480": {
+      "10": {
+        "保存": "💾 Simpen"
+      }
+    },
+    "l0481": {
+      "11": {
+        "另存为": "📋 Simpen Minangka"
+      }
+    },
+    "l0482": {
+      "12": {
+        "打印": "🖨️ Cetak"
+      }
+    },
+    "l0483": {
+      "13": {
+        "分享": "📤 Nuduhake"
+      }
+    },
+    "l0484": {
+      "14": {
+        "选项": "⚙️ Opsi"
+      }
+    },
+    "l0506": {
+      "15": {
+        "登录": "👤 Mlebu"
+      }
+    },
+    "l0511": {
+      "16": {
+        "退出": "🚪 Metu"
+      }
+    },
+    "l0533": {
+      "17": {
+        "选择操作": "Pilih tumindak"
+      }
+    },
+    "l0562": {
+      "18": {
+        "我要软件定制": "Aku pengin pangembangan piranti lunak kustom"
+      }
+    },
+    "l0598": {
+      "20": {
+        "就绪_按_F8_重复上次截图": "Siap | Pencet F8 kanggo mbaleni screenshot pungkasan"
+      }
+    },
+    "l0603": {
+      "21": {
+        "取消登录": "Batal Mlebu"
+      }
+    },
+    "l0621": {
+      "22": {
+        "启动时不显示此窗口": "Aja tampilna jendhela iki nalika miwiti"
+      }
+    },
+    "l0626": {
+      "23": {
+        "鲲穹AI旗下产品": "Produk saka Kunqiong AI"
+      }
+    },
+    "l0641": {
+      "24": {
+        "新任务": "📁 Tugas Anyar"
+      }
+    },
+    "l0651": {
+      "25": {
+        "新建": "Anyar"
+      },
+      "26": {
+        "新建图像": "Gambar Anyar"
+      }
+    },
+    "l0655": {
+      "27": {
+        "打开": "Bukak"
+      },
+      "28": {
+        "打开已有文件": "Bukak berkas sing wis ana"
+      }
+    },
+    "l0661": {
+      "29": {
+        "截取屏幕": "📷 Jupuk Layar"
+      }
+    },
+    "l0671": {
+      "30": {
+        "全屏": "Layar Wutuh"
+      }
+    },
+    "l0675": {
+      "31": {
+        "窗口": "Jendhela"
+      }
+    },
+    "l0680": {
+      "32": {
+        "矩形区域": "Area Persegi Panjang"
+      }
+    },
+    "l0681": {
+      "33": {
+        "窗口控件": "Kontrol Jendhela"
+      }
+    },
+    "l0682": {
+      "34": {
+        "滚动截图": "Screenshot Nggulung"
+      }
+    },
+    "l0683": {
+      "35": {
+        "任意形状": "Bebas"
+      }
+    },
+    "l0693": {
+      "36": {
+        "重复截取": "Baleni Jupuk"
+      },
+      "37": {
+        "F8_重复上次操作": "F8 Baleni Tumindak Pungkasan"
+      }
+    },
+    "l0707": {
+      "38": {
+        "实用工具": "🛠 Piranti Guna"
+      }
+    },
+    "l0718": {
+      "39": {
+        "屏幕录制器": "Perekam Layar"
+      },
+      "40": {
+        "录制桌面视频": "Rekam video desktop"
+      }
+    },
+    "l0719": {
+      "41": {
+        "取色器": "Pamilih Warna"
+      },
+      "42": {
+        "在屏幕上拾取颜色": "Jupuk warna saka layar"
+      }
+    },
+    "l0720": {
+      "43": {
+        "调色板": "Palet"
+      },
+      "44": {
+        "在调色板上按需调色": "Campur warna ing palet miturut kabutuhan"
+      }
+    },
+    "l0721": {
+      "45": {
+        "放大镜": "Kaca Pembesar"
+      },
+      "46": {
+        "对屏幕像素放大细看": "Perbesar kanggo mriksa piksel layar"
+      }
+    },
+    "l0722": {
+      "47": {
+        "标尺": "Penggaris"
+      },
+      "48": {
+        "测量桌面对象的尺寸": "Ukur ukuran obyek desktop"
+      }
+    },
+    "l0723": {
+      "49": {
+        "坐标轴": "Sumbu Koordinat"
+      },
+      "50": {
+        "查测相对坐标": "Priksa koordinat relatif"
+      }
+    },
+    "l0724": {
+      "51": {
+        "量角器": "Busur Derajat"
+      },
+      "52": {
+        "在屏幕上测量角度": "Ukur sudut ing layar"
+      }
+    },
+    "l0725": {
+      "53": {
+        "白板": "Papan Tulis"
+      },
+      "54": {
+        "用于演示或绘画": "Kanggo presentasi utawa nggambar"
+      }
+    },
+    "l0783": {
+      "55": {
+        "已登录": "Wis mlebu"
+      }
+    },
+    "l0785": {
+      "56": {
+        "点击查看用户信息或退出登录": "Klik kanggo ndeleng informasi pangguna utawa metu saka akun"
+      }
+    },
+    "l0792": {
+      "57": {
+        "登录": "👤 Mlebu"
+      }
+    },
+    "l0793": {
+      "58": {
+        "点击登录鲲穹AI账号": "Klik kanggo mlebu akun Kunqiong AI"
+      }
+    },
+    "l0829": {
+      "60": {
+        "登录确认": "Konfirmasi Mlebu"
+      }
+    },
+    "l0830": {
+      "61": {
+        "即将打开浏览器进行登录_是否继续_登录完成后请": "Browser bakal dibukak kanggo mlebu. Terusake?\n\nSawise mlebu, mangga bali menyang aplikasi iki."
+      }
+    },
+    "l0833": {
+      "62": {
+        "正在等待网页登录完成": "Ngenteni proses mlebu web rampung..."
+      }
+    },
+    "l0841": {
+      "63": {
+        "登录已取消": "Mlebu dibatalake"
+      }
+    },
+    "l0904": {
+      "64": {
+        "未知": "Ora Dikenal"
+      }
+    },
+    "l0913": {
+      "65": {
+        "退出登录": "🚪 Metu Akun"
+      }
+    },
+    "l0925": {
+      "66": {
+        "已退出登录": "Wis metu akun"
+      }
+    },
+    "l0926": {
+      "67": {
+        "提示": "Kabar"
+      },
+      "68": {
+        "已成功退出登录": "Kasilsan metu akun"
+      }
+    },
+    "l0934": {
+      "69": {
+        "登录成功": "Mlebu Kasil"
+      }
+    },
+    "l0935": {
+      "70": {
+        "登录成功": "Mlebu Kasil"
+      },
+      "71": {
+        "欢迎回来_账号已同步": "Sugeng rawuh maneh! Akun panjenengan wis disinkronake."
+      }
+    },
+    "l0940": {
+      "72": {
+        "登录失败": "Mlebu Gagal"
+      }
+    },
+    "l0941": {
+      "73": {
+        "登录失败": "Mlebu Gagal"
+      },
+      "74": {
+        "登录过程中出现错误_error_msg": "Ana kesalahan nalika proses mlebu:\n{error_msg}"
+      }
+    },
+    "l1020": {
+      "75": {
+        "没有可重复的截图操作": "Ora ana operasi screenshot sing bisa dibaleni"
+      }
+    },
+    "l1041": {
+      "76": {
+        "未知的截图模式": "Mode screenshot ora dikenal"
+      }
+    },
+    "l1080": {
+      "77": {
+        "提示": "Kabar"
+      },
+      "78": {
+        "没有可恢复的预览状态": "Ora ana status pratinjau sing bisa dibalekake"
+      }
+    },
+    "l1095": {
+      "79": {
+        "错误": "Kesalahan"
+      },
+      "80": {
+        "预览缓存已过期或不存在": "Cache pratinjau wis kadaluwarsa utawa ora ana"
+      }
+    },
+    "l1103": {
+      "81": {
+        "正在恢复_len_session_caches": "Ngembalèkaké {len(session_caches)} tab..."
+      }
+    },
+    "l1119": {
+      "82": {
+        "未命名": "Tanpa Jeneng"
+      }
+    },
+    "l1130": {
+      "83": {
+        "已恢复_len_session_cache": "✓ Wis dibalekake {len(session_caches)} tab"
+      }
+    },
+    "l1135": {
+      "84": {
+        "错误": "Kesalahan"
+      },
+      "85": {
+        "无法加载预览图像": "Ora bisa ngemot gambar pratinjau"
+      }
+    },
+    "l1163": {
+      "86": {
+        "打开图像": "Bukak Gambar"
+      }
+    },
+    "l1164": {
+      "87": {
+        "图像文件_png_jpg_jpeg": "Berkas Gambar (*.png *.jpg *.jpeg *.bmp *.gif);;Kabeh Berkas (*.*)"
+      }
+    },
+    "l1176": {
+      "88": {
+        "提示": "Kabar"
+      }
+    },
+    "l1177": {
+      "89": {
+        "请先打开或截取一张图像_然后在编辑器中进行保存": "Mangga bukak utawa jupuk gambar dhisik, banjur simpen ing editor."
+      }
+    },
+    "l1185": {
+      "90": {
+        "提示": "Kabar"
+      }
+    },
+    "l1186": {
+      "91": {
+        "请先打开或截取一张图像_然后在编辑器中进行另存为": "Mangga bukak utawa jupuk gambar dhisik, banjur gunakna Simpen Minangka ing editor."
+      }
+    },
+    "l1194": {
+      "92": {
+        "提示": "Kabar"
+      }
+    },
+    "l1195": {
+      "93": {
+        "请先打开或截取一张图像_然后在编辑器中进行打印": "Mangga bukak utawa jupuk gambar dhisik, banjur cetak ing editor."
+      }
+    },
+    "l1283": {
+      "94": {
+        "提示": "Kabar"
+      },
+      "95": {
+        "剪贴板中没有可粘贴的图像": "Ora ana gambar ing clipboard kanggo ditempel"
+      }
+    },
+    "l1315": {
+      "96": {
+        "提示": "Kabar"
+      }
+    },
+    "l1316": {
+      "97": {
+        "没有可分享的图像_请先截取或打开一张图像": "Ora ana gambar kanggo dibagekna.\nMangga jupuk utawa bukak gambar dhisik."
+      }
+    },
+    "l1325": {
+      "98": {
+        "提示": "Kabar"
+      },
+      "99": {
+        "没有可分享的图像": "Ora ana gambar kanggo dibagekna"
+      }
+    },
+    "l1329": {
+      "100": {
+        "分享": "Nuduhake"
+      }
+    },
+    "l1361": {
+      "101": {
+        "提示": "Kabar"
+      },
+      "102": {
+        "预览缓存已过期_请重新截图": "Cache pratinjau wis kadaluwarsa, mangga screenshot maneh"
+      }
+    },
+    "l1379": {
+      "103": {
+        "未命名": "Tanpa Jeneng"
+      }
+    }
+  },
+  "ui_modern_dialog": {
+    "l0011": {
+      "01": {
+        "确定": "OK"
+      },
+      "02": {
+        "取消": "Batal"
+      }
+    },
+    "l0207": {
+      "03": {
+        "知道了": "Ngerti"
+      }
+    },
+    "l0238": {
+      "04": {
+        "确定": "OK"
+      }
+    },
+    "l0243": {
+      "05": {
+        "确定": "OK"
+      }
+    },
+    "l0248": {
+      "06": {
+        "确定": "OK"
+      }
+    },
+    "l0253": {
+      "07": {
+        "确定": "OK"
+      }
+    },
+    "l0258": {
+      "08": {
+        "确定": "OK"
+      },
+      "09": {
+        "取消": "Batal"
+      }
+    },
+    "l0268": {
+      "10": {
+        "识别文本": "Kenali Teks"
+      }
+    },
+    "l0304": {
+      "11": {
+        "识别文本": "Kenali Teks"
+      }
+    },
+    "l0366": {
+      "12": {
+        "复制": "Salin"
+      }
+    }
+  },
+  "ui_new_image_dialog": {
+    "l0015": {
+      "01": {
+        "上次使用": "Pungkasan Digunakna"
+      }
+    },
+    "l0016": {
+      "02": {
+        "剪贴板": "Clipboard"
+      }
+    },
+    "l0017": {
+      "03": {
+        "自定义": "Kustom"
+      }
+    },
+    "l0029": {
+      "04": {
+        "白色": "Putih"
+      }
+    },
+    "l0030": {
+      "05": {
+        "黑色": "Ireng"
+      }
+    },
+    "l0031": {
+      "06": {
+        "透明": "Transparan"
+      }
+    },
+    "l0032": {
+      "07": {
+        "灰色": "Abu-abu"
+      }
+    },
+    "l0033": {
+      "08": {
+        "红色": "Abang"
+      }
+    },
+    "l0034": {
+      "09": {
+        "蓝色": "Biru"
+      }
+    },
+    "l0129": {
+      "10": {
+        "新建图像": "Gambar Anyar"
+      }
+    },
+    "l0185": {
+      "11": {
+        "新建图像": "Gambar Anyar"
+      }
+    },
+    "l0190": {
+      "12": {
+        "画布大小_self_last_width": "Ukuran Kanvas: {self.last_width} × {self.last_height}"
+      }
+    },
+    "l0198": {
+      "13": {
+        "预设": "Preset:"
+      }
+    },
+    "l0213": {
+      "14": {
+        "宽度": "Jembar:"
+      }
+    },
+    "l0228": {
+      "15": {
+        "高度": "Dhuwur:"
+      }
+    },
+    "l0243": {
+      "16": {
+        "背景色": "Werna Latar:"
+      }
+    },
+    "l0263": {
+      "17": {
+        "自定义颜色": "Werna Kustom"
+      }
+    },
+    "l0275": {
+      "18": {
+        "取消": "Batal"
+      }
+    },
+    "l0280": {
+      "19": {
+        "确定": "OK"
+      }
+    },
+    "l0298": {
+      "20": {
+        "画布大小_width_height": "Ukuran Kanvas: {width} × {height}"
+      }
+    },
+    "l0341": {
+      "21": {
+        "剪贴板": "Clipboard"
+      }
+    },
+    "l0350": {
+      "22": {
+        "上次使用": "Pungkasan Digunakna"
+      }
+    }
+  },
+  "ui_pin_window": {
+    "l0065": {
+      "01": {
+        "复制": "Salin"
+      }
+    },
+    "l0069": {
+      "02": {
+        "保存": "Simpen"
+      }
+    },
+    "l0075": {
+      "03": {
+        "关闭": "Tutup"
+      }
+    },
+    "l0089": {
+      "04": {
+        "保存": "Simpen"
+      }
+    }
+  },
+  "ui_print_dialog": {
+    "l0139": {
+      "01": {
+        "打印": "Cetak"
+      }
+    },
+    "l0193": {
+      "02": {
+        "打印": "Cetak"
+      }
+    },
+    "l0199": {
+      "03": {
+        "打印": "🖨️ Cetak"
+      }
+    },
+    "l0207": {
+      "04": {
+        "打印机": "Printer"
+      }
+    },
+    "l0222": {
+      "06": {
+        "设置": "Setelan"
+      }
+    },
+    "l0228": {
+      "07": {
+        "缩放": "Skala:"
+      }
+    },
+    "l0230": {
+      "08": {
+        "调整到_100": "Skala menyang 100%"
+      },
+      "09": {
+        "适合页面": "Pas karo Kaca"
+      },
+      "10": {
+        "自定义": "Kustom"
+      }
+    },
+    "l0238": {
+      "11": {
+        "方向": "Orientasi:"
+      }
+    },
+    "l0240": {
+      "12": {
+        "纵向": "Potret"
+      },
+      "13": {
+        "横向": "Lanskap"
+      }
+    },
+    "l0247": {
+      "14": {
+        "纸张尺寸": "Ukuran Kertas:"
+      }
+    },
+    "l0262": {
+      "15": {
+        "页边距": "Margin:"
+      }
+    },
+    "l0265": {
+      "16": {
+        "正常_左_10mm_上_10mm": "Normal (Kiwa: 10mm, Ndhuwur: 10mm)"
+      }
+    },
+    "l0266": {
+      "17": {
+        "窄_左_5mm_上_5mm": "Sempit (Kiwa: 5mm, Ndhuwur: 5mm)"
+      }
+    },
+    "l0267": {
+      "18": {
+        "宽_左_20mm_上_20mm": "Amba (Kiwa: 20mm, Ndhuwur: 20mm)"
+      }
+    },
+    "l0268": {
+      "19": {
+        "自定义": "Kustom..."
+      }
+    },
+    "l0276": {
+      "20": {
+        "打印颜色": "Werna Cetak:"
+      }
+    },
+    "l0278": {
+      "21": {
+        "彩色": "Werna"
+      },
+      "22": {
+        "灰度": "Skala Abu-abu"
+      },
+      "23": {
+        "黑白": "Ireng & Putih"
+      }
+    },
+    "l0291": {
+      "25": {
+        "取消": "Batal"
+      }
+    },
+    "l0305": {
+      "26": {
+        "边距": "Margin"
+      }
+    },
+    "l0306": {
+      "27": {
+        "左": "Kiwa"
+      }
+    },
+    "l0314": {
+      "28": {
+        "上": "Ndhuwur"
+      }
+    },
+    "l0322": {
+      "29": {
+        "右": "Tengen"
+      }
+    },
+    "l0330": {
+      "30": {
+        "下": "Ngisor"
+      }
+    },
+    "l0348": {
+      "31": {
+        "页面_1_1": "Kaca: 1 - 1"
+      }
+    },
+    "l0351": {
+      "32": {
+        "纸张尺寸_210_mm_297_mm": "Ukuran Kertas: 210 mm × 297 mm"
+      }
+    },
+    "l0403": {
+      "33": {
+        "纸张尺寸_w_mm_h_mm": "Ukuran Kertas: {w} mm × {h} mm"
+      }
+    }
+  },
+  "ui_region_capture": {
+    "l0071": {
+      "01": {
+        "移动选区": "Geser Seleksi"
+      }
+    },
+    "l0083": {
+      "02": {
+        "取消_ESC": "Batal (ESC)"
+      }
+    },
+    "l0091": {
+      "03": {
+        "固定到桌面": "Pin menyang Desktop"
+      }
+    },
+    "l0099": {
+      "04": {
+        "保存_Ctrl_S": "Simpen (Ctrl+S)"
+      }
+    },
+    "l0109": {
+      "05": {
+        "编辑_进入编辑器": "Sunting (Bukak Editor)"
+      }
+    },
+    "l0117": {
+      "06": {
+        "复制并分享_Ctrl_C": "Salin lan Nuduhake (Ctrl+C)"
+      }
+    },
+    "l0125": {
+      "07": {
+        "识别文字": "Kenali Teks"
+      }
+    },
+    "l0244": {
+      "08": {
+        "拖动选择区域_ESC取消": "Seret kanggo milih area | ESC kanggo batal"
+      }
+    },
+    "l0668": {
+      "09": {
+        "保存": "Simpen"
+      }
+    },
+    "l0716": {
+      "10": {
+        "输入文字": "Lebokna Teks"
+      },
+      "11": {
+        "请输入要添加的文字": "Mangga lebokna teks sing arep ditambah:"
+      }
+    },
+    "l0771": {
+      "12": {
+        "OCR_错误": "Kesalahan OCR"
+      },
+      "13": {
+        "本地_OCR_引擎未就绪_请检查依赖": "Mesin OCR lokal durung siyap. Mangga priksa dependensi."
+      }
+    },
+    "l0787": {
+      "14": {
+        "识别结果": "Asil Pangenalan"
+      },
+      "15": {
+        "未识别到文字": "Ora ana teks sing dikenali."
+      }
+    },
+    "l0800": {
+      "16": {
+        "OCR_错误": "Kesalahan OCR"
+      },
+      "17": {
+        "识别失败_err_msg": "Pangenalan gagal: {err_msg}"
+      }
+    }
+  },
+  "ui_save_dialog": {
+    "l0032": {
+      "01": {
+        "保存图像": "Simpen Gambar"
+      }
+    },
+    "l0074": {
+      "02": {
+        "保存图像": "Simpen Gambar"
+      }
+    },
+    "l0080": {
+      "03": {
+        "文件名": "Jeneng Berkas:"
+      }
+    },
+    "l0087": {
+      "04": {
+        "保存位置": "Lokasi Simpen"
+      }
+    },
+    "l0096": {
+      "05": {
+        "浏览": "Jelajah..."
+      }
+    },
+    "l0103": {
+      "06": {
+        "快速切换": "Ganti cepet:"
+      }
+    },
+    "l0120": {
+      "07": {
+        "暂无最近文件夹": "Ora ana folder paling anyar"
+      }
+    },
+    "l0128": {
+      "08": {
+        "设为默认保存位置": "Setel dadi lokasi nyimpen gawan"
+      }
+    },
+    "l0135": {
+      "09": {
+        "格式": "Format:"
+      }
+    },
+    "l0152": {
+      "10": {
+        "取消": "Batal"
+      }
+    },
+    "l0157": {
+      "11": {
+        "保存": "Simpen"
+      }
+    },
+    "l0165": {
+      "12": {
+        "选择保存位置": "Pilih lokasi nyimpen"
+      }
+    },
+    "l0192": {
+      "13": {
+        "文件已存在": "File wis ana"
+      }
+    },
+    "l0193": {
+      "14": {
+        "文件_filename_已存在_是否覆盖": "File {filename} wis ana. Ditumpuk?"
+      }
+    },
+    "l0194": {
+      "15": {
+        "覆盖": "Tumpuk"
+      },
+      "16": {
+        "取消": "Batal"
+      }
+    },
+    "l0216": {
+      "17": {
+        "保存失败": "Gagal nyimpen"
+      }
+    },
+    "l0218": {
+      "18": {
+        "保存失败": "Gagal nyimpen"
+      },
+      "19": {
+        "无法保存文件_str_e": "Ora bisa nyimpen file: {str(e)}"
+      }
+    },
+    "l0240": {
+      "20": {
+        "批量导出": "Ekspor batch"
+      }
+    },
+    "l0283": {
+      "21": {
+        "批量导出_len_self_images": "Ekspor batch ({len(self.images)} gambar)"
+      }
+    },
+    "l0288": {
+      "22": {
+        "待导出图像": "Gambar sing arep diekspor:"
+      }
+    },
+    "l0302": {
+      "23": {
+        "保存位置": "Lokasi nyimpen:"
+      }
+    },
+    "l0307": {
+      "24": {
+        "浏览": "Telusuri"
+      }
+    },
+    "l0314": {
+      "25": {
+        "导出格式": "Format ekspor:"
+      }
+    },
+    "l0320": {
+      "26": {
+        "命名规则": "Aturan jeneng:"
+      }
+    },
+    "l0323": {
+      "27": {
+        "保持原名": "Tetepna jeneng asli"
+      }
+    },
+    "l0324": {
+      "28": {
+        "添加前缀": "Tambah prefiks"
+      }
+    },
+    "l0325": {
+      "29": {
+        "添加后缀": "Tambah sufiks"
+      }
+    },
+    "l0326": {
+      "30": {
+        "序号命名": "Penjenengan nomer"
+      }
+    },
+    "l0332": {
+      "31": {
+        "前缀": "Prefiks:"
+      }
+    },
+    "l0336": {
+      "32": {
+        "例如_export": "Tuladha: export_"
+      }
+    },
+    "l0358": {
+      "33": {
+        "取消": "Batal"
+      }
+    },
+    "l0363": {
+      "34": {
+        "开始导出": "Miwiti ekspor"
+      }
+    },
+    "l0371": {
+      "35": {
+        "选择导出位置": "Pilih lokasi ekspor"
+      }
+    },
+    "l0380": {
+      "36": {
+        "前缀": "Prefiks:"
+      },
+      "37": {
+        "后缀": "Sufiks:"
+      }
+    },
+    "l0424": {
+      "38": {
+        "已导出_os_path_basename_f": "Wis diekspor: {os.path.basename(file_path)}"
+      }
+    },
+    "l0426": {
+      "39": {
+        "导出失败_name_str_e": "Ekspor gagal: {name} - {str(e)}"
+      }
+    },
+    "l0434": {
+      "40": {
+        "导出完成_成功_len_saved_path": "Ekspor rampung! Sukses {len(saved_paths)}/{len(self.images)}"
+      }
+    },
+    "l0439": {
+      "41": {
+        "导出完成": "Ekspor rampung"
+      }
+    },
+    "l0440": {
+      "42": {
+        "成功导出_len_saved_paths": "Kasil ngekspor {len(saved_paths)} gambar menyang:\n{folder}"
+      }
+    }
+  },
+  "ui_scroll_capture": {
+    "l0144": {
+      "01": {
+        "长截图预览": "Pratinjau tangkapan layar dawa"
+      }
+    },
+    "l0154": {
+      "02": {
+        "已捕获_self_frame_count_帧": "Wis kacapture {self.frame_count} frame"
+      }
+    },
+    "l0158": {
+      "03": {
+        "等待捕获": "Ngenteni kanggo nyekel..."
+      }
+    },
+    "l0220": {
+      "04": {
+        "滚动页面开始捕获": "Gulung kaca kanggo miwiti nyekel"
+      }
+    },
+    "l0255": {
+      "05": {
+        "手动滚动预览_ESC_取消": "Pratinjau gulung manual · ESC kanggo batal"
+      }
+    },
+    "l0275": {
+      "06": {
+        "取消": "Batal"
+      }
+    },
+    "l0290": {
+      "07": {
+        "完成截图": "Rampungna screenshot"
+      }
+    },
+    "l0456": {
+      "08": {
+        "开始捕获": "Miwiti nyekel"
+      }
+    },
+    "l0463": {
+      "09": {
+        "点击开始后滚动页面": "Klik Miwiti, banjur gulung kaca"
+      }
+    },
+    "l0557": {
+      "10": {
+        "拖动选择滚动区域_ESC_取消": "Seret kanggo milih area gulung | ESC kanggo batal"
+      }
+    },
+    "l0589": {
+      "11": {
+        "捕获中_len_self_captures": "Lagi nyekel: {len(self.captures)}"
+      }
+    }
+  },
+  "ui_settings_dialog": {
+    "l0024": {
+      "01": {
+        "点击后按下快捷键": "Klik banjur pencet tombol trabasan..."
+      }
+    },
+    "l0086": {
+      "02": {
+        "程序设置": "Setelan Program"
+      }
+    },
+    "l0182": {
+      "03": {
+        "常规": "Umum"
+      }
+    },
+    "l0183": {
+      "04": {
+        "截图": "Screenshot"
+      }
+    },
+    "l0184": {
+      "05": {
+        "快捷键": "Tombol trabasan"
+      }
+    },
+    "l0185": {
+      "06": {
+        "命名规则": "Aturan Penjenengan"
+      }
+    },
+    "l0191": {
+      "07": {
+        "鲲穹AI旗下产品": "Produk saka Kunqiong AI"
+      }
+    },
+    "l0197": {
+      "08": {
+        "取消": "Batal"
+      }
+    },
+    "l0202": {
+      "09": {
+        "保存设置": "Simpen Setelan"
+      }
+    },
+    "l0215": {
+      "10": {
+        "保存设置": "Simpen Setelan"
+      }
+    },
+    "l0219": {
+      "11": {
+        "默认保存路径": "Path nyimpen gawan:"
+      }
+    },
+    "l0224": {
+      "12": {
+        "选择截图保存目录": "Pilih direktori nyimpen screenshot..."
+      }
+    },
+    "l0227": {
+      "13": {
+        "浏览": "Telusuri"
+      }
+    },
+    "l0235": {
+      "14": {
+        "默认格式": "Format gawan:"
+      }
+    },
+    "l0243": {
+      "15": {
+        "截图后自动保存到默认目录": "Otomatis nyimpen menyang direktori gawan sawise screenshot"
+      }
+    },
+    "l0246": {
+      "16": {
+        "截图后自动复制到剪贴板": "Otomatis nyalin menyang clipboard sawise screenshot"
+      }
+    },
+    "l0249": {
+      "17": {
+        "操作完成后显示通知": "Tampilna kabar sawise operasi rampung"
+      }
+    },
+    "l0255": {
+      "18": {
+        "编辑器设置": "Setelan Editor"
+      }
+    },
+    "l0258": {
+      "19": {
+        "编辑器默认全屏显示": "Editor mbukak layar kebak kanthi gawan"
+      }
+    },
+    "l0261": {
+      "20": {
+        "记住编辑器窗口大小": "Elingi ukuran jendhela editor"
+      }
+    },
+    "l0267": {
+      "21": {
+        "版本与更新": "Versi & Nganyari"
+      }
+    },
+    "l0273": {
+      "22": {
+        "当前版本_current_version": "Versi saiki: {current_version}"
+      }
+    },
+    "l0279": {
+      "23": {
+        "检查更新": "Priksa nganyari"
+      }
+    },
+    "l0285": {
+      "24": {
+        "反馈问题": "Laporke masalah"
+      }
+    },
+    "l0328": {
+      "25": {
+        "滚动截图": "Screenshot Gulung"
+      }
+    },
+    "l0333": {
+      "26": {
+        "0_1秒": "× 0.1d"
+      }
+    },
+    "l0334": {
+      "27": {
+        "滚动延迟": "Tundha gulung:"
+      }
+    },
+    "l0337": {
+      "28": {
+        "慢速": "Alon"
+      },
+      "29": {
+        "中速": "Sedheng"
+      },
+      "30": {
+        "快速": "Cepet"
+      }
+    },
+    "l0338": {
+      "31": {
+        "滚动速度": "Kecepatan gulung:"
+      }
+    },
+    "l0343": {
+      "32": {
+        "重复截取": "Baleni tangkapan"
+      }
+    },
+    "l0346": {
+      "33": {
+        "按_F8_可重复上次截图操作": "Pencet F8 kanggo mbaleni tumindak screenshot pungkasan"
+      }
+    },
+    "l0359": {
+      "34": {
+        "快捷键设置": "Setelan Tombol Trabasan"
+      }
+    },
+    "l0368": {
+      "35": {
+        "全屏截图": "Screenshot layar kebak:"
+      },
+      "36": {
+        "例如_Ctrl_Shift_F": "Tuladha: Ctrl+Shift+F"
+      }
+    },
+    "l0369": {
+      "37": {
+        "矩形截图": "Screenshot persegi:"
+      },
+      "38": {
+        "例如_Ctrl_Shift_A": "Tuladha: Ctrl+Shift+A"
+      }
+    },
+    "l0370": {
+      "39": {
+        "窗口控件截图": "Screenshot jendhela/kontrol:"
+      },
+      "40": {
+        "例如_Ctrl_Shift_W": "Tuladha: Ctrl+Shift+W"
+      }
+    },
+    "l0371": {
+      "41": {
+        "取色器": "Pemilih warna:"
+      },
+      "42": {
+        "例如_Ctrl_Shift_C": "Tuladha: Ctrl+Shift+C"
+      }
+    },
+    "l0372": {
+      "43": {
+        "重复截取": "Baleni tangkapan:"
+      },
+      "44": {
+        "例如_F8": "Tuladha: F8"
+      }
+    },
+    "l0373": {
+      "45": {
+        "白板": "Papan putih:"
+      },
+      "46": {
+        "例如_Win_Shift_W": "Tuladha: Win+Shift+W"
+      }
+    },
+    "l0374": {
+      "47": {
+        "开始_停止录屏": "Miwiti/mandheg rekam layar:"
+      },
+      "48": {
+        "例如_Ctrl_Shift_R": "Tuladha: Ctrl+Shift+R"
+      }
+    },
+    "l0416": {
+      "49": {
+        "预设方案": "Prasetel"
+      }
+    },
+    "l0419": {
+      "50": {
+        "默认": "Gawan"
+      },
+      "51": {
+        "HyperSnap风格": "Gaya HyperSnap"
+      },
+      "52": {
+        "Snagit风格": "Gaya Snagit"
+      }
+    },
+    "l0428": {
+      "53": {
+        "快捷键修改后保存即可生效_无需重启程序": "💡 Owah-owahan tombol trabasan bakal aktif sawise disimpen, ora perlu miwiti ulang program"
+      }
+    },
+    "l0449": {
+      "54": {
+        "与_self__get_hotkey_disp": "Bentrok karo {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0450": {
+      "55": {
+        "快捷键冲突_text_已被_sel": "⚠️ Bentrok tombol trabasan: {text} wis digunakake dening {self._get_hotkey_display_name(conflict_with)}"
+      }
+    },
+    "l0453": {
+      "56": {
+        "有效": "Valid"
+      }
+    },
+    "l0462": {
+      "57": {
+        "全屏截图": "Screenshot layar kebak"
+      }
+    },
+    "l0463": {
+      "58": {
+        "矩形截图": "Screenshot persegi"
+      }
+    },
+    "l0464": {
+      "59": {
+        "窗口控件截图": "Screenshot jendhela/kontrol"
+      }
+    },
+    "l0465": {
+      "60": {
+        "取色器": "Pemilih warna"
+      }
+    },
+    "l0466": {
+      "61": {
+        "重复截取": "Baleni tangkapan"
+      }
+    },
+    "l0467": {
+      "62": {
+        "白板": "Papan putih"
+      }
+    },
+    "l0468": {
+      "63": {
+        "屏幕录制": "Rekaman layar"
+      }
+    },
+    "l0478": {
+      "64": {
+        "文件命名规则": "Aturan Penjenengan File"
+      }
+    },
+    "l0481": {
+      "65": {
+        "自定义前缀": "Prefiks kustom:"
+      }
+    },
+    "l0486": {
+      "66": {
+        "命名模板": "Cithakan penjenengan:"
+      }
+    },
+    "l0492": {
+      "67": {
+        "可用变量_YYYY_年份_2024": "Variabel sing kasedhiya:\n  ${YYYY} - Taun (2024)\n  ${MM} - Wulan (01-12)\n  ${DD} - Dina (01-31)\n  ${HH} - Jam (00-23)\n  ${YYYYMMDD} - Tanggal (20241201)\n  ${HHMMSS} - Wektu (143052)\n  ${MODE} - Mode screenshot\n  ${PREFIX} - Prefiks kustom\n  ${SEQ} - Nomer urut (001, 002...)"
+      }
+    },
+    "l0510": {
+      "68": {
+        "预览": "Pratinjau"
+      }
+    },
+    "l0561": {
+      "69": {
+        "选择保存目录": "Pilih direktori nyimpen"
+      }
+    },
+    "l0567": {
+      "70": {
+        "默认": "Gawan"
+      }
+    },
+    "l0573": {
+      "71": {
+        "HyperSnap风格": "Gaya HyperSnap"
+      }
+    },
+    "l0579": {
+      "72": {
+        "Snagit风格": "Gaya Snagit"
+      }
+    },
+    "l0601": {
+      "73": {
+        "快捷键冲突": "Bentrok tombol trabasan"
+      }
+    },
+    "l0602": {
+      "74": {
+        "快捷键_text_被多个功能使用_请修改后再": "Tombol trabasan {text} digunakake dening akeh fungsi. Mangga diowahi dhisik sadurunge nyimpen."
+      }
+    }
+  },
+  "ui_share_panel": {
+    "l0109": {
+      "01": {
+        "FTP服务器配置": "Konfigurasi Server FTP"
+      },
+      "02": {
+        "编辑FTP服务器": "Sunting Server FTP"
+      }
+    },
+    "l0125": {
+      "03": {
+        "例如_我的服务器": "Tuladha: Serverku"
+      }
+    },
+    "l0126": {
+      "04": {
+        "名称": "Jeneng:"
+      }
+    },
+    "l0129": {
+      "05": {
+        "例如_ftp_example_com": "Tuladha: ftp.example.com"
+      }
+    },
+    "l0130": {
+      "06": {
+        "主机": "Host:"
+      }
+    },
+    "l0135": {
+      "07": {
+        "端口": "Port:"
+      }
+    },
+    "l0138": {
+      "08": {
+        "用户名": "Jeneng pangguna:"
+      }
+    },
+    "l0142": {
+      "09": {
+        "密码": "Sandi:"
+      }
+    },
+    "l0146": {
+      "10": {
+        "远程目录路径": "Path direktori remote"
+      }
+    },
+    "l0147": {
+      "11": {
+        "路径": "Path:"
+      }
+    },
+    "l0151": {
+      "12": {
+        "协议": "Protokol:"
+      }
+    },
+    "l0156": {
+      "13": {
+        "测试连接": "Tes Sambungan"
+      }
+    },
+    "l0165": {
+      "14": {
+        "取消": "Batal"
+      }
+    },
+    "l0170": {
+      "15": {
+        "保存": "Simpen"
+      }
+    },
+    "l0221": {
+      "16": {
+        "成功": "Sukses"
+      },
+      "17": {
+        "连接测试成功": "Tes sambungan sukses!"
+      }
+    },
+    "l0223": {
+      "18": {
+        "失败": "Gagal"
+      },
+      "19": {
+        "连接失败_message": "Sambungan gagal: {message}"
+      }
+    },
+    "l0227": {
+      "20": {
+        "错误": "Kasalahan"
+      },
+      "21": {
+        "请填写名称和主机地址": "Mangga isi jeneng lan alamat host"
+      }
+    },
+    "l0248": {
+      "22": {
+        "云存储账号管理": "Manajemen Akun Panyimpenan Awan"
+      }
+    },
+    "l0257": {
+      "23": {
+        "百度网盘": "Baidu Netdisk"
+      }
+    },
+    "l0262": {
+      "24": {
+        "未授权": "Durung diautorisasi"
+      }
+    },
+    "l0275": {
+      "25": {
+        "授权后可将截图直接上传到百度网盘_方便跨设备访问": "Sawise diautorisasi, screenshot bisa langsung diunggah menyang Baidu Netdisk supaya gampang diakses lan dienggo bareng antar piranti."
+      }
+    },
+    "l0281": {
+      "26": {
+        "授权百度网盘": "🔐 Autorisasi Baidu Netdisk"
+      }
+    },
+    "l0299": {
+      "27": {
+        "关闭": "Tutup"
+      }
+    },
+    "l0324": {
+      "28": {
+        "提示": "Kabari"
+      },
+      "29": {
+        "百度网盘功能暂不可用": "Baidu Netdisk sementara ora kasedhiya"
+      }
+    },
+    "l0326": {
+      "30": {
+        "错误": "Kasalahan"
+      },
+      "31": {
+        "授权失败_str_e": "Autorisasi gagal: {str(e)}"
+      }
+    },
+    "l0330": {
+      "32": {
+        "已授权": "✓ Wis diautorisasi"
+      }
+    },
+    "l0340": {
+      "33": {
+        "成功": "Sukses"
+      }
+    },
+    "l0342": {
+      "34": {
+        "失败": "Gagal"
+      }
+    },
+    "l0350": {
+      "35": {
+        "分享进度": "Progres Nuduhake"
+      }
+    },
+    "l0357": {
+      "36": {
+        "准备中": "Lagi nyiapake..."
+      }
+    },
+    "l0365": {
+      "37": {
+        "取消": "Batal"
+      }
+    },
+    "l0397": {
+      "38": {
+        "关闭": "Tutup"
+      }
+    },
+    "l0425": {
+      "39": {
+        "分享": "Nuduhake"
+      }
+    },
+    "l0429": {
+      "40": {
+        "选择分享方式": "Pilih cara nuduhake"
+      }
+    },
+    "l0476": {
+      "41": {
+        "社交分享": "Nuduhake Sosial"
+      }
+    },
+    "l0483": {
+      "42": {
+        "微信": "WeChat"
+      }
+    },
+    "l0484": {
+      "43": {
+        "已安装_分享到微信": "Wis kainstal - Nuduhake menyang WeChat"
+      },
+      "44": {
+        "未检测到微信客户端": "Klien WeChat ora ketemu"
+      }
+    },
+    "l0491": {
+      "45": {
+        "已安装_分享到QQ": "Wis kainstal - Nuduhake menyang QQ"
+      },
+      "46": {
+        "未检测到QQ客户端": "Klien QQ ora ketemu"
+      }
+    },
+    "l0497": {
+      "47": {
+        "钉钉": "DingTalk"
+      }
+    },
+    "l0498": {
+      "48": {
+        "已安装_分享到钉钉": "Wis kainstal - Nuduhake menyang DingTalk"
+      },
+      "49": {
+        "未检测到钉钉客户端": "Klien DingTalk ora ketemu"
+      }
+    },
+    "l0504": {
+      "50": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0505": {
+      "51": {
+        "已安装_分享到企业微信": "Wis kainstal - Nuduhake menyang WeCom"
+      },
+      "52": {
+        "未检测到企业微信客户端": "Klien WeCom ora ketemu"
+      }
+    },
+    "l0513": {
+      "53": {
+        "云存储": "Panyimpenan Awan"
+      }
+    },
+    "l0517": {
+      "54": {
+        "百度网盘": "Baidu Netdisk"
+      },
+      "55": {
+        "上传并分享图像到百度网盘": "Unggah lan nuduhake gambar menyang Baidu Netdisk"
+      }
+    },
+    "l0524": {
+      "56": {
+        "邮件": "Email"
+      }
+    },
+    "l0527": {
+      "57": {
+        "电子邮件": "Email"
+      },
+      "58": {
+        "添加图像的副本到电子邮件": "Tambah salinan gambar menyang email"
+      }
+    },
+    "l0534": {
+      "59": {
+        "Office_应用": "Aplikasi Office"
+      }
+    },
+    "l0537": {
+      "60": {
+        "插入图像的副本到_Word": "Lebokna salinan gambar menyang Word"
+      }
+    },
+    "l0541": {
+      "61": {
+        "插入图像的副本到_Excel": "Lebokna salinan gambar menyang Excel"
+      }
+    },
+    "l0545": {
+      "62": {
+        "插入图像的副本到_PowerPoint": "Lebokna salinan gambar menyang PowerPoint"
+      }
+    },
+    "l0549": {
+      "63": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "64": {
+        "发送图像的副本到_Paint": "Kirim salinan gambar menyang Paint"
+      }
+    },
+    "l0564": {
+      "65": {
+        "发送到外部程序": "Kirim menyang program eksternal"
+      }
+    },
+    "l0568": {
+      "66": {
+        "外部程序": "Program Eksternal"
+      },
+      "67": {
+        "发送图像到_Photoshop_GIMP_等外部": "Kirim gambar menyang program eksternal kaya Photoshop lan GIMP"
+      }
+    },
+    "l0573": {
+      "68": {
+        "直接发送图像到_FTP_服务器": "Kirim gambar langsung menyang server FTP"
+      }
+    },
+    "l0580": {
+      "69": {
+        "快捷操作": "Aksi Cepet"
+      }
+    },
+    "l0584": {
+      "70": {
+        "复制到剪贴板": "Salin menyang clipboard"
+      },
+      "71": {
+        "Ctrl_C_快速复制": "Ctrl+C salin cepet"
+      }
+    },
+    "l0591": {
+      "72": {
+        "应用检测状态": "Status deteksi aplikasi"
+      }
+    },
+    "l0610": {
+      "73": {
+        "微信": "WeChat"
+      }
+    },
+    "l0611": {
+      "74": {
+        "钉钉": "DingTalk"
+      },
+      "75": {
+        "企业微信": "WeCom"
+      }
+    },
+    "l0625": {
+      "76": {
+        "重新检测": "🔄 Deteksi maneh"
+      }
+    },
+    "l0649": {
+      "77": {
+        "提示": "Kabari"
+      },
+      "78": {
+        "请重新打开分享面板以刷新检测结果": "Mangga bukak maneh panel nuduhake kanggo nyegerake asil deteksi"
+      }
+    },
+    "l0673": {
+      "79": {
+        "图像尺寸_w_h_像素": "Ukuran gambar: {w} × {h} piksel"
+      }
+    },
+    "l0676": {
+      "80": {
+        "没有可分享的图像": "Ora ana gambar kanggo dienggo bareng"
+      }
+    },
+    "l0681": {
+      "81": {
+        "提示": "Kabari"
+      },
+      "82": {
+        "请先截取或打开一张图像": "Mangga njupuk utawa mbukak gambar dhisik"
+      }
+    },
+    "l0713": {
+      "83": {
+        "提示": "Kabari"
+      },
+      "84": {
+        "功能开发中_share_type_value": "Fitur lagi dikembangake: {share_type.value}"
+      }
+    },
+    "l0721": {
+      "85": {
+        "正在处理": "Lagi diproses..."
+      }
+    },
+    "l0740": {
+      "86": {
+        "选择外部程序": "Pilih program eksternal"
+      }
+    },
+    "l0746": {
+      "87": {
+        "发送到Photoshop": "Kirim menyang Photoshop"
+      }
+    },
+    "l0751": {
+      "88": {
+        "发送到GIMP": "Kirim menyang GIMP"
+      }
+    },
+    "l0756": {
+      "89": {
+        "Microsoft_画图": "Microsoft Paint"
+      },
+      "90": {
+        "发送到画图": "Kirim menyang Paint"
+      }
+    },
+    "l0762": {
+      "91": {
+        "关闭": "Tutup"
+      }
+    },
+    "l0784": {
+      "92": {
+        "提示": "Kabari"
+      },
+      "93": {
+        "请先截取或打开一张图像": "Mangga njupuk utawa mbukak gambar dhisik"
+      }
+    },
+    "l0797": {
+      "94": {
+        "FTP服务器": "Server FTP"
+      }
+    },
+    "l0803": {
+      "95": {
+        "已配置的服务器": "Server sing wis dikonfigurasi:"
+      }
+    },
+    "l0813": {
+      "96": {
+        "添加": "Tambah"
+      }
+    },
+    "l0817": {
+      "97": {
+        "编辑": "Sunting"
+      }
+    },
+    "l0821": {
+      "98": {
+        "删除": "Busak"
+      }
+    },
+    "l0828": {
+      "99": {
+        "上传到选中的服务器": "Unggah menyang server sing dipilih"
+      }
+    },
+    "l0832": {
+      "100": {
+        "关闭": "Tutup"
+      }
+    },
+    "l0884": {
+      "101": {
+        "提示": "Kabar"
+      },
+      "102": {
+        "请先选择一个服务器": "Mangga pilih server dhisik"
+      }
+    },
+    "l0906": {
+      "103": {
+        "提示": "Kabar"
+      },
+      "104": {
+        "请先选择一个服务器": "Mangga pilih server dhisik"
+      }
+    },
+    "l0912": {
+      "105": {
+        "确认删除": "Konfirmasi Penghapusan"
+      }
+    },
+    "l0913": {
+      "106": {
+        "确定要删除服务器_name_吗": "Apa sampeyan yakin arep mbusak server '{name}'?"
+      }
+    },
+    "l0914": {
+      "107": {
+        "确定": "Konfirmasi"
+      },
+      "108": {
+        "取消": "Batal"
+      }
+    },
+    "l0925": {
+      "109": {
+        "提示": "Kabar"
+      },
+      "110": {
+        "请先选择一个服务器": "Mangga pilih server dhisik"
+      }
+    },
+    "l0929": {
+      "111": {
+        "提示": "Kabar"
+      },
+      "112": {
+        "请先截取或打开一张图像": "Mangga njupuk utawa mbukak gambar dhisik"
+      }
+    }
+  },
+  "ui_tab_manager": {
+    "l0160": {
+      "01": {
+        "关闭": "Tutup"
+      }
+    },
+    "l0164": {
+      "02": {
+        "关闭其他": "Tutup Liyane"
+      }
+    },
+    "l0235": {
+      "03": {
+        "新建": "Anyar"
+      }
+    },
+    "l0353": {
+      "04": {
+        "未保存的更改": "Owah-owahan Durung Disimpen"
+      }
+    },
+    "l0354": {
+      "05": {
+        "tab_data_title_有未保存的": "'{tab_data.title}' duwe owah-owahan sing durung disimpen. Apa sampeyan yakin arep nutup?"
+      }
+    },
+    "l0355": {
+      "06": {
+        "保存": "Simpen"
+      },
+      "07": {
+        "不保存": "Aja disimpen"
+      },
+      "08": {
+        "取消": "Batal"
+      }
+    }
+  },
+  "ui_text_box": {
+    "l0363": {
+      "01": {
+        "确认文本": "✓ Konfirmasi Teks"
+      }
+    },
+    "l0370": {
+      "02": {
+        "删除文本框": "🗑 Busak Kothak Teks"
+      }
+    },
+    "l0375": {
+      "03": {
+        "取消": "✗ Batal"
+      }
+    }
+  },
+  "ui_unified_preview_window": {
+    "l0117": {
+      "01": {
+        "截图导航": "📷 Navigasi Screenshot"
+      }
+    },
+    "l0205": {
+      "02": {
+        "批量编辑": "⚙️ Sunting Batch"
+      }
+    },
+    "l0211": {
+      "03": {
+        "旋转_90": "Putar 90°"
+      }
+    },
+    "l0212": {
+      "04": {
+        "旋转_90": "Putar -90°"
+      }
+    },
+    "l0213": {
+      "05": {
+        "水平翻转": "Walika Horisontal"
+      }
+    },
+    "l0214": {
+      "06": {
+        "垂直翻转": "Walika Vertikal"
+      }
+    },
+    "l0215": {
+      "07": {
+        "全部模糊": "Kaburke Kabeh"
+      }
+    },
+    "l0216": {
+      "08": {
+        "全部锐化": "Tajemake Kabeh"
+      }
+    },
+    "l0259": {
+      "09": {
+        "筛选和排序": "🔍 Saring lan Urut"
+      }
+    },
+    "l0264": {
+      "10": {
+        "排序方式": "Urut miturut:"
+      }
+    },
+    "l0266": {
+      "11": {
+        "最新优先": "Sing Paling Anyar Dhisik"
+      },
+      "12": {
+        "最旧优先": "Sing Paling Lawas Dhisik"
+      },
+      "13": {
+        "按名称": "Miturut Jeneng"
+      },
+      "14": {
+        "按大小": "Miturut Ukuran"
+      }
+    },
+    "l0271": {
+      "15": {
+        "搜索": "Telusuri:"
+      }
+    },
+    "l0273": {
+      "16": {
+        "输入文件名": "Lebokna jeneng berkas..."
+      }
+    },
+    "l0278": {
+      "17": {
+        "最小宽度": "Ambane Minimal:"
+      }
+    },
+    "l0289": {
+      "18": {
+        "最新优先": "Sing Paling Anyar Dhisik"
+      }
+    },
+    "l0290": {
+      "19": {
+        "最旧优先": "Sing Paling Lawas Dhisik"
+      }
+    },
+    "l0291": {
+      "20": {
+        "按名称": "Miturut Jeneng"
+      }
+    },
+    "l0292": {
+      "21": {
+        "按大小": "Miturut Ukuran"
+      }
+    },
+    "l0323": {
+      "22": {
+        "加载中": "Lagi dimuat..."
+      }
+    },
+    "l0349": {
+      "23": {
+        "处理中_current_total": "Lagi diproses... {current}/{total}"
+      }
+    },
+    "l0369": {
+      "24": {
+        "统一预览窗口_PyScreenshot": "Jendhela Pratinjau Terpadu - PyScreenshot"
+      }
+    },
+    "l0463": {
+      "25": {
+        "就绪": "Siap"
+      }
+    },
+    "l0479": {
+      "26": {
+        "0_张截图": "0 screenshot"
+      }
+    },
+    "l0486": {
+      "27": {
+        "批量导出": "📦 Ekspor Batch"
+      }
+    },
+    "l0501": {
+      "28": {
+        "关闭": "✕ Tutup"
+      }
+    },
+    "l0521": {
+      "29": {
+        "截图_len_self_screenshots": "Screenshot {len(self.screenshots) + 1}"
+      }
+    },
+    "l0574": {
+      "30": {
+        "已打开编辑器_title": "✓ Editor kabuka: {title}"
+      }
+    },
+    "l0579": {
+      "31": {
+        "提示": "Kabar"
+      },
+      "32": {
+        "没有可操作的截图": "Ora ana screenshot sing bisa dioperasikake"
+      }
+    },
+    "l0582": {
+      "33": {
+        "执行_operation": "Nglakokaké {operation}"
+      }
+    },
+    "l0589": {
+      "34": {
+        "已完成_operation": "✓ Rampung {operation}"
+      }
+    },
+    "l0594": {
+      "35": {
+        "提示": "Kabar"
+      },
+      "36": {
+        "没有可导出的截图": "Ora ana screenshot kanggo diekspor"
+      }
+    },
+    "l0597": {
+      "37": {
+        "已导出_len_self_screensh": "✓ Wis diekspor {len(self.screenshots)} screenshot"
+      }
+    },
+    "l0610": {
+      "38": {
+        "count_张截图": "{count} screenshot"
+      }
+    }
+  },
+  "updater": {
+    "l0106": {
+      "01": {
+        "正在升级系统": "Lagi nganyarke sistem"
+      }
+    },
+    "l0118": {
+      "02": {
+        "准备就绪": "Nyiapake..."
+      }
+    },
+    "l0194": {
+      "03": {
+        "正在关闭主程序": "Nutup program utama..."
+      }
+    },
+    "l0211": {
+      "04": {
+        "正在下载更新包": "Ngundhuh paket nganyari..."
+      }
+    },
+    "l0237": {
+      "05": {
+        "校验失败_下载文件损坏": "Verifikasi gagal: berkas sing diundhuh rusak"
+      }
+    },
+    "l0244": {
+      "06": {
+        "下载失败_str_e": "Undhuhan gagal: {str(e)}"
+      }
+    },
+    "l0249": {
+      "07": {
+        "正在安装更新": "Masang nganyari..."
+      }
+    },
+    "l0271": {
+      "08": {
+        "正在重试_i_1_max_retri": "Nyoba maneh ({i + 1}/{max_retries})..."
+      }
+    },
+    "l0278": {
+      "09": {
+        "安装失败_文件被占用": "Pamasangan gagal: berkas lagi dienggo"
+      }
+    },
+    "l0283": {
+      "10": {
+        "清理并重启": "Resik-resik lan miwiti maneh..."
+      }
+    },
+    "l0304": {
+      "11": {
+        "启动失败_请手动打开程序": "Gagal miwiti, mangga bukak program kanthi manual"
+      }
+    },
+    "l0308": {
+      "12": {
+        "未找到主程序": "Program utama ora ketemu"
+      }
+    },
+    "l0313": {
+      "13": {
+        "更新出错_请联系支持": "Nganyari ana kesalahan, mangga hubungi dhukungan"
+      }
+    }
+  },
+  "默认保存路径:": "Path panyimpenan baku:",
+  "默认格式:": "Format baku:",
+  "界面语言:": "Basa antarmuka:",
+  "当前版本: {current_version}": "Versi saiki: {current_version}",
+  "按 F8 可重复上次截图操作": "Pencet F8 kanggo mbaleni operasi screenshot pungkasan",
+  "💡 快捷键修改后保存即可生效，无需重启程序": "💡 Owah-owahan trabasan bakal langsung aktif sawise disimpen, tanpa kudu miwiti ulang program",
+  "HyperSnap风格": "Gaya HyperSnap",
+  "Snagit风格": "Gaya Snagit",
+  "\n可用变量:\n   - 年份 (2024)\n   - 月份 (01-12)\n   - 日期 (01-31)\n   - 小时 (00-23)\n   - 日期 (20241201)\n   - 时间 (143052)\n   - 截图模式\n   - 自定义前缀\n   - 序号 (001, 002...)\n        ": "\nVariabel sing kasedhiya:\n   - Taun (2024)\n   - Wulan (01-12)\n   - Dina (01-31)\n   - Jam (00-23)\n   - Tanggal (20241201)\n   - Wektu (143052)\n   - Mode screenshot\n   - Ater-ater kustom\n   - Nomer urut (001, 002...)\n        ",
+  "全屏截图:": "Screenshot layar wutuh:",
+  "矩形截图:": "Screenshot persegi dowo:",
+  "窗口控件截图:": "Screenshot kontrol jendhela:",
+  "取色器:": "Pamilih warna:",
+  "重复截取:": "Baleni screenshot:",
+  "白板:": "Papan tulis:",
+  "开始/停止录屏:": "Miwiti/Mandheg rekaman layar:"
+}

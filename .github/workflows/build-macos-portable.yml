@@ -1,0 +1,61 @@
+﻿name: Build macOS Portable
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'screenshot_tool/**'
+      - '.github/workflows/build-macos-portable.yml'
+
+jobs:
+  build-macos-portable:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: macos-15-intel
+            arch: x86_64
+            arch_label: intel
+          - runner: macos-14
+            arch: arm64
+            arch_label: apple-silicon
+    runs-on: ${{ matrix.runner }}
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build App And Portable Zip
+        env:
+          PYI_TARGET_ARCH: ${{ matrix.arch }}
+        run: |
+          cd screenshot_tool
+          chmod +x build_macos.sh
+          ./build_macos.sh "${PYI_TARGET_ARCH}"
+
+      - name: Upload Workflow Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshot-tool-mac-portable-${{ matrix.arch_label }}
+          path: screenshot_tool/dist_portable/*.zip
+          if-no-files-found: error
+
+      - name: Set Release Tag
+        id: vars
+        run: echo "tag=mac-portable-${GITHUB_RUN_NUMBER}-${{ matrix.arch_label }}" >> "$GITHUB_OUTPUT"
+
+      - name: Publish Release Asset
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.vars.outputs.tag }}
+          name: Mac Portable Build ${{ github.run_number }} (${{ matrix.arch_label }})
+          prerelease: true
+          files: screenshot_tool/dist_portable/*.zip
